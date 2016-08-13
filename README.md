@@ -1,12 +1,25 @@
-# Demo Glossary
+# Demo glossary for software projects
 
 This repository contains demo glossary files for software projects.
 
-For example, we use this glossary with our software consulting clients. This helps us have a shared vocabulary for good communication, and also helps us point to sources for more information about topics.
+For example, we use this glossary with our software consulting clients. This helps us with sharing vocabulary for good communication.
 
-Suggestions, comments, and pull requests are all welcome.
+Suggestions, comments, and pull requests are welcome.
 
-See the file [software.md](software.md).
+Files:
+
+  * [Analytics](analytics.md)
+  * [Project management(project-management.md)
+  * [Software](software.md)
+  * [Software products/services](software-products-services.md)
+  * [Software design patterns](software-design-patterns.md)
+
+Useful lists:
+
+* [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of software development philosophies](https://wikipedia.org/wiki/List_of_software_development_philosophies)
+* [List of software engineering topics](https://wikipedia.org/wiki/List_of_software_engineering_topics)
+* [List of RFCs](https://en.wikipedia.org/wiki/List_of_RFCs)
 
 ## Tracking
 
