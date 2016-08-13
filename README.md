@@ -9,7 +9,7 @@ Suggestions, comments, and pull requests are welcome.
 Files:
 
   * [Analytics](analytics.md)
-  * [Project management(project-management.md)
+  * [Project management](project-management.md)
   * [Software](software.md)
   * [Software products/services](software-products-services.md)
   * [Software design patterns](software-design-patterns.md)
