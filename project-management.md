@@ -9,6 +9,7 @@
 * [DSDM: Dynamic Systems Development Method](https://wikipedia.org/wiki/Dynamic_systems_development_method) (cf. BPR, CBSE)
 * [Fishbone diagram](TODO)
 * [Functional Requirements, a.k.a. Functional Specification](TODO)
+* [Law of two feet](https://en.wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [OST: Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology): an approach to purpose-driven leadership.
 * [PRINCE2: Projects In Controlled Environments](https://wikipedia.org/wiki/PRINCE2)
 * [Stand-up meeting](https://wikipedia.org/wiki/Stand-up_meeting)
