@@ -7,7 +7,7 @@
 * [Component-Based Software Engineering](https://wikipedia.org/wiki/Component-based_software_engineering) (a.k.a. CBD; cf. BPR, DSDM)
 * [CCPM: Critical Chain Project Management](https://wikipedia.org/wiki/Critical_chain_project_management) (cf. TOC: Theory Of Constraints)
 * [DSDM: Dynamic Systems Development Method](https://wikipedia.org/wiki/Dynamic_systems_development_method) (cf. BPR, CBSE)
-* [Fishbone diagram](TODO)
+* [Ishikawa diagram a.ka. fishbone diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram): causal diagrams that show the causes of a specific event.
 * [Functional Requirements, a.k.a. Functional Specification](TODO)
 * [Law of two feet](https://en.wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [OST: Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology): an approach to purpose-driven leadership.
