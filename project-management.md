@@ -16,8 +16,7 @@
 * [SOS: Statement Of Scope](TODO) (cf. SOW: Statement Of Work)
 * [SOW: Statement Of Work](https://wikipedia.org/wiki/Statement_of_work) (cf. SOS: Statement Of Scope)
 * [RCA: Root Cause Analysis](https://wikipedia.org/wiki/Root_cause_analysis) (cf. 5 Whys)
-* [Retrospective](TODO)
-* [Timeboxing](https://wikipedia.org/wiki/Timeboxing)
+* [Retrospective](https://en.wikipedia.org/wiki/Retrospective): a look back at events that already have taken place.
+* [Timeboxing](https://wikipedia.org/wiki/Timeboxing): a project planning technique that allocates fixed time for a task.
 * [TOC: Theory Of Constraints](https://wikipedia.org/wiki/Theory_of_Constraints) (cf. CCPM: Critical Chain Project Management)
-* Use Case, a.k.a. User Story
-* User Story, a.k.a. Use Case
+* [Use Case, a.k.a. User Story](https://en.wikipedia.org/wiki/Use_case): a list of actions in a system to achieve a goal. 
