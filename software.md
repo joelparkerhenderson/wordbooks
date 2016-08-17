@@ -65,6 +65,7 @@ Contents:
 * [IBM](https://ibm.com)
 * [Netflix](https://netflix.com)
 * [Oracle](https://oracle.com)
+* [Pivotal](https://pivotal.com)
 * [ThoughtWorks](https://thoughtworks.com)
 
 <a name="programming-languages">Programming languages</a>:
