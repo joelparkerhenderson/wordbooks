@@ -165,6 +165,7 @@ Contents:
 * [DNSBL: DNS-based blackhole list](https://wikipedia.org/wiki/DNSBL) (a.k.a. RBL)
 * [FIFO: first in, first out](TODO) (a.k.a. queue, cf. FILO, LIFO, LILO)
 * [FILO: first in, last out](TODO) (a.k.a. stack, cf. FIFO, LIFO, LILO)
+* [firewall](https://en.wikipedia.org/wiki/Firewall_(computing))
 * [Git: distributed version control for source code](https://wikipedia.org/wiki/Git_(software))
 * [GPG: GNU Privacy Guard](https://wikipedia.org/wiki/GNU_Privacy_Guard) (cf. PGP)
 * [IAM: identity and access management](https://wikipedia.org/wiki/Identity_and_Access_Management)
