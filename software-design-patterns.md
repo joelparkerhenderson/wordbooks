@@ -17,6 +17,7 @@
 * [Bridge](https://wikipedia.org/wiki/Bridge_pattern): Decouple an abstraction from its implementation allowing the two to vary independently.
 * [Builder](https://wikipedia.org/wiki/Builder_pattern): Separate the construction of a complex object from its representation.
 * [Business delegate](https://wikipedia.org/wiki/Business_delegate_pattern)
+* [Cache access patterns](TODO)
 * [Chain of responsibility](https://wikipedia.org/wiki/Chain_of_responsibility_pattern): Chain event-receiving objects in order to pass a request along the chain until an object handles it.
 * [Circuit-breaker](TODO)
 * [Command](https://wikipedia.org/wiki/Command_pattern): Encapsulate a request as an object.
@@ -39,6 +40,7 @@
 * [Extension object](TODO): Add functionality to a hierarchy without changing the hierarchy.
 * [Facade](https://wikipedia.org/wiki/Facade_pattern): Provide a unified interface to a set of interfaces in a subsystem. 
 * [Factory method](https://wikipedia.org/wiki/Factory_method_pattern): Define an interface to create an object, but let subclasses decide which class to instantiate. 
+* [Fault tolerance access patterns](TODO)
 * [Flyweight](https://wikipedia.org/wiki/Flyweight_pattern): Use sharing to support large numbers of similar objects efficiently.
 * [Front controller](https://wikipedia.org/wiki/Front_controller): Provide a centralized entry point for handling requests.
 * [General Responsibility Assignment Software Patterns (GRASP)](https://wikipedia.org/wiki/GRASP_(object-oriented_design))
@@ -85,6 +87,7 @@
 * [Scheduler](https://wikipedia.org/wiki/Scheduler_pattern): Explicitly control when threads may execute single-threaded code.
 * [Servant](https://wikipedia.org/wiki/Servant_(design_pattern)): Define common functionality for a group of classes.
 * [Service locator](https://wikipedia.org/wiki/Service_locator_pattern)
+* [Service to service access patterns](TODO)
 * [Singleton](https://wikipedia.org/wiki/Singleton_pattern): Ensure a class has only one instance, and provide a global point of access to it.
 * [SOA: Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 * [Software design pattern](https://wikipedia.org/wiki/Software_design_pattern)
