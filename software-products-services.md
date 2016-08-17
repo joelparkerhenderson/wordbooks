@@ -1,8 +1,9 @@
 # Software products/services
 
 * [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra): Apache Cassandra distributed database
-* [Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS
+* [Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal
 * [EC2: Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
+* [Elastic Beanstalk](https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk): AWS PaaS
 * [falcor](https://github.com/Netflix/falcor)
 * [GoCD](TODO): continuous deployment server
 * [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)): continuous integration tool
