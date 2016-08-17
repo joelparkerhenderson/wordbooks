@@ -20,6 +20,7 @@
 * [Route 53](https://en.wikipedia.org/wiki/Amazon_Route_53): AWS managed DNS
 * [S3: Amazon Simple Storage Service](https://en.wikipedia.org/wiki/Amazon_S3)
 * [Simian Army](https://github.com/Netflix/SimianArmy)
+* [Spark](https://en.wikipedia.org/wiki/Apache_Spark): Apache Spark open source cluster computing framework
 * [ZeroMQ](https://en.wikipedia.org/wiki/ZeroMQ): distributed message queue (a.k.a. ØMQ, 0MQ or ZMQ)
 * [Accumulo](https://en.wikipedia.org/wiki/Apache_Accumulo): Apache Accumulo secure distributed database (cf. Hadoop)
 * [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database): database
