@@ -15,6 +15,7 @@
 * [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL): object-relational database management system (ORDBMS)
 * [Redis](https://en.wikipedia.org/wiki/Redis): data structure server
 * [Riak](https://en.wikipedia.org/wiki/Riak): database
+* [Route 53](https://en.wikipedia.org/wiki/Amazon_Route_53): AWS managed DNS
 * [S3: Amazon Simple Storage Service](https://en.wikipedia.org/wiki/Amazon_S3)
 * [Simian Army](https://github.com/Netflix/SimianArmy)
 * [ZeroMQ](https://en.wikipedia.org/wiki/ZeroMQ): distributed message queue (a.k.a. ØMQ, 0MQ or ZMQ)
