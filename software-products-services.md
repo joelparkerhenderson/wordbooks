@@ -12,6 +12,7 @@
 * [Memcached](https://en.wikipedia.org/wiki/Memcached): general-purpose distributed memory caching system
 * [MongoDB](https://en.wikipedia.org/wiki/MongoDB): free open-source cross-platform document-oriented database
 * [MySQL](https://en.wikipedia.org/wiki/MySQL): open-source relational database management system
+* [Nginx](https://en.wikipedia.org/wiki/Nginx): asynchronous event-driven web server
 * [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL): object-relational database management system (ORDBMS)
 * [Redis](https://en.wikipedia.org/wiki/Redis): data structure server
 * [Riak](https://en.wikipedia.org/wiki/Riak): database
