@@ -3,6 +3,7 @@
 * [5 Whys: questions to get to a root cause](https://wikipedia.org/wiki/5_Whys) (cf. RCA: Root Cause Analysis)
 * [ADR: Architectural Decision Record](TODO)
 * [BPR: Business Process Re-engineering](https://wikipedia.org/wiki/Business_Process_Re-engineering) (cf. CBD, CBSE, DSDM)
+* [BPMN: Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
 * [Component-Based Development](https://wikipedia.org/wiki/Component-based_development) (a.k.a. CBSE, cf. BPR, DSDM)
 * [Component-Based Software Engineering](https://wikipedia.org/wiki/Component-based_software_engineering) (a.k.a. CBD; cf. BPR, DSDM)
 * [CCPM: Critical Chain Project Management](https://wikipedia.org/wiki/Critical_chain_project_management) (cf. TOC: Theory Of Constraints)
