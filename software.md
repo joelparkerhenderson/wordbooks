@@ -173,6 +173,7 @@ Contents:
 * [ISO 9000](https://wikipedia.org/wiki/Iso_9000)A family of standards for quality management systems and requirements.
 * [LIFO: last in, first out](TODO) (a.k.a. stack, cf. FIFO, FILO, LILO)
 * [LILO: last inn, last out](TODO) (a.k.a. queue, cf. FIFO, FILO, LIFO)
+* [load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
 * [logical architecture](TODO) (cf. conceptual architecture)
 * [loose coupling](https://wikipedia.org/wiki/Loose_coupling)
 * [microservices](https://en.wikipedia.org/wiki/Microservices)
