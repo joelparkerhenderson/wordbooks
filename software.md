@@ -168,7 +168,9 @@ Contents:
 * [firewall](https://en.wikipedia.org/wiki/Firewall_(computing))
 * [Git: distributed version control for source code](https://wikipedia.org/wiki/Git_(software))
 * [GPG: GNU Privacy Guard](https://wikipedia.org/wiki/GNU_Privacy_Guard) (cf. PGP)
+* [HCI: human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
 * [IAM: identity and access management](https://wikipedia.org/wiki/Identity_and_Access_Management)
+* [invalidation](TODO)
 * [IP address](https://wikipedia.org/wiki/IP_address) (see CNAME, DNS)
 * [ISO 9000](https://wikipedia.org/wiki/Iso_9000)A family of standards for quality management systems and requirements.
 * [LIFO: last in, first out](TODO) (a.k.a. stack, cf. FIFO, FILO, LILO)
@@ -198,8 +200,11 @@ Contents:
 * [subclass](https://wikipedia.org/wiki/Subclass_(computer_science))
 * [thread pool](https://wikipedia.org/wiki/Thread_pool)
 * [TLS: transport layer security](https://wikipedia.org/wiki/Transport_Layer_Security)
+* [UI: user interface](https://en.wikipedia.org/wiki/User_interface) (cf. user interaction, HCI)
 * [URI: uniform resource identifier](https://wikipedia.org/wiki/Uniform_resource_identifier) (cf. URL)
 * [URL: uniform resource locator](https://wikipedia.org/wiki/Url) (cf. URI)
+* [UX: user experience](https://en.wikipedia.org/wiki/User_experience)
+* [validation](TODO)
 * [web framework](https://wikipedia.org/wiki/Web_framework)
 
 <a name="web-frameworks">Web frameworks</a>:
