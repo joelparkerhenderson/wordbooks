@@ -12,6 +12,7 @@
 * [Functional Requirements, a.k.a. Functional Specification](TODO)
 * [Law of two feet](https://en.wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [OST: Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology): an approach to purpose-driven leadership.
+* [PDCA: plan–do–check–act](https://en.wikipedia.org/wiki/PDCA): a management method for process/product control and continual improvement. (a.k.a. Deming cycle)
 * [PRINCE2: Projects In Controlled Environments](https://wikipedia.org/wiki/PRINCE2)
 * [Stakeholder](https://en.wikipedia.org/wiki/Project_stakeholder): an individual or group who may interact with a project's planning or ongoing use.
 * [Stand-up meeting](https://wikipedia.org/wiki/Stand-up_meeting)
