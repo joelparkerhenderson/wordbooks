@@ -147,7 +147,7 @@ Contents:
 * [API: application programming interface](https://wikipedia.org/wiki/Application_programming_interfaces)
 * [ABAC: Attribute-Based Access Control](https://wikipedia.org/wiki/Abac)
 * [AMI: asynchronous method invocation](https://wikipedia.org/wiki/Asynchronous_method_invocation)
-* [availability (A)]: every system request receives a meaningful response
+* [availability (A)](https://en.wikipedia.org/wiki/Availability): every system request receives a meaningful response
 * [Blockchain database](https://wikipedia.org/wiki/Blockchain_(database))
 * [Boolean algebra](https://wikipedia.org/wiki/Boolean_algebra)
 * [browser a.k.a. web browser](https://en.wikipedia.org/wiki/Web_browser)
@@ -158,7 +158,7 @@ Contents:
 * [CNAME: canonical name record](https://wikipedia.org/wiki/CNAME_record) (see DNS, IP address)
 * [conceptual architecture](TODO) (cf. logical architecture)
 * [connection pool](https://wikipedia.org/wiki/Connection_pool) 
-* [consistency (C)](TODO): all system nodes see the same data at the same time
+* [consistency (C)](https://en.wikipedia.org/wiki/Consistency_(database_systems)): all system nodes see the same data at the same time
 * [DB: database](https://en.wikipedia.org/wiki/Database)
 * [DBMS: database management system](https://en.wikipedia.org/w/index.php?title=Database_management_system)
 * [digital signature](https://wikipedia.org//wiki/Digital_signature)
@@ -183,10 +183,11 @@ Contents:
 * [loose coupling](https://wikipedia.org/wiki/Loose_coupling)
 * [microservices](https://en.wikipedia.org/wiki/Microservices)
 * [mutual exclusion](https://wikipedia.org/wiki/Mutual_exclusion)
+* [network partition](https://en.wikipedia.org/wiki/Network_partition): a failure of a network device that causes a network to be split.
 * [object pool](https://wikipedia.org/wiki/Object_pool) pattern.
 * [ODBC: Open Database Connectivity](https://en.wikipedia.org/wiki/Open_Database_Connectivity)
 * [ORDBMS: object-relational database management system](https://en.wikipedia.org/wiki/Object-relational_database_management_system)
-* [Partition-tolerance (P)](TODO): the system continues to operate despite arbitrary partitioning due to network failures
+* [Partition-tolerance (P)](https://en.wikipedia.org/wiki/Network_partition): the system continues to operate despite arbitrary partitioning due to network failures
 * [PGP: Pretty Good Privacy](https://wikipedia.org/wiki/Pretty_Good_Privacy) (</a>cf. GPG)
 * [RBAC: role-based access control](https://wikipedia.org/wiki/Rbac)
 * [RBL: Real-time Blackhole List](https://wikipedia.org/wiki/DNSBL) (a.k.a. DNSBL)
