@@ -98,7 +98,7 @@ Glossary:
 * [proxemics](TODO):  The nonverbal communication suggested by the space between two people. 
 * [pull policy](TODO):  A promotional policy aimed at building strong consumer demand for a product. 
 * [push policy](TODO):  A promotional policy aimed at getting retailers to stock a product, to build supply in the marketplace. 
-* [relationships]: how well you know your customers, vendors, partners, et al.
+* [relationships](TOD): how well you know your customers, vendors, partners, et al.
 * [reserve stock](TODO):  Merchandise that is kept somewhere other than the selling floor. 
 * [resident buying office](TODO):  An office located in a central merchandising area where buyers can receive information about products from a variety of manufacturers. 
 * [retailers](TODO):  Businesses that buy goods from wholesalers or manufacturers and resell them to customers. 
