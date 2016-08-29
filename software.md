@@ -152,7 +152,7 @@ Contents:
 * [Boolean algebra](https://wikipedia.org/wiki/Boolean_algebra)
 * [browser a.k.a. web browser](https://en.wikipedia.org/wiki/Web_browser)
 * [business logic](https://wikipedia.org/wiki/Business_logic)
-* [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem): a distributed system cannot simultaneously provide consistency, availability, and partition tolerance.
+* [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem): a distributed system cannot simultaneously provide consistency, availability, and partition tolerance. (cf. PACELC)
 * [CLI: command-line interface](https://en.wikipedia.org/wiki/Command-line_interface)
 * [CLI: call level interface](https://en.wikipedia.org/wiki/Call_Level_Interface)
 * [CNAME: canonical name record](https://wikipedia.org/wiki/CNAME_record) (see DNS, IP address)
@@ -187,6 +187,7 @@ Contents:
 * [object pool](https://wikipedia.org/wiki/Object_pool) pattern.
 * [ODBC: Open Database Connectivity](https://en.wikipedia.org/wiki/Open_Database_Connectivity)
 * [ORDBMS: object-relational database management system](https://en.wikipedia.org/wiki/Object-relational_database_management_system)
+* [PACELC](?) If data has a Partition, do Availability-Consistency trade-off; Else, i.e. in normal operation, do Latency-Consistency trade-off.
 * [Partition-tolerance (P)](https://en.wikipedia.org/wiki/Network_partition): the system continues to operate despite arbitrary partitioning due to network failures
 * [PGP: Pretty Good Privacy](https://wikipedia.org/wiki/Pretty_Good_Privacy) (</a>cf. GPG)
 * [RBAC: role-based access control](https://wikipedia.org/wiki/Rbac)
