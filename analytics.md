@@ -1,6 +1,11 @@
 # Glossary for software projects - analytics
 
-* <li>[List of Google Analyatics terms](http://www.epower.com/google-analytics-glossary)</i>
+Credit:
+
+* [List of Google Analyatics terms](http://www.epower.com/google-analytics-glossary)
+
+Glossary:
+
 * [alert](?): a notification of a change in your data
 * [AMPU: average margin per user (or unit)](https://wikipedia.org/wiki/Average_revenue_per_user) (cf. ARPU, ARPPU)
 * [APC: average purchase cost](TODO)
@@ -18,17 +23,17 @@
 * [conversion](?): when a visitor comes to a site and complets a goal
 * [cookie](?): a small amount of data used to remember information from page to page and visit to visit
 * [cost data](?): the information imported from a Google AdWords account into an Analytics account
-* [downloads and registrations](TODO)downloads and registrations serve as the top-of-funnel metric for user engagement.
+* [downloads and registrations](TODO) downloads and registrations serve as the top-of-funnel metric for user engagement.
 * [DNRs: downloads and registrations](TODO)
 * [CLV: customer lifetime value](https://en.wikipedia.org/wiki/Customer_lifetime_value)
 * [CLVT: customer lifetime value](https://en.wikipedia.org/wiki/Customer_lifetime_value)
 * [CP: customer profitability](https://en.wikipedia.org/wiki/Customer_profitability)
 * [custom reporting](?): options to create reports based on metrics and dimensions you choose
-* [customer lifetime value (CLV, CLTV)](https://en.wikipedia.org/wiki/Customer_lifetime_value) prediction of the net profit attributed to the entire future relationship with a customer. (a.k.a. lifetime customer value (LCV), life-time value (LTV))
+* [customer lifetime value (CLV, CLTV)](https://en.wikipedia.org/wiki/Customer_lifetime_value) prediction of net profit for to the entire relationship with a customer.
 * [customer profitability (CP)](https://en.wikipedia.org/wiki/Customer_profitability) the profit the firm makes from serving a customer or customer group over a specified period of time.
-* [daily active users (DAU)](https://wikipedia.org/wiki/Daily_Active_Users) (cf. MAU, WAU) DAUs help measure engagement, retention, stickiness, and the lifetime value (LTV) of your users.
+* [daily active users (DAU)](https://wikipedia.org/wiki/Daily_Active_Users) (cf. MAU, WAU) DAUs help measure engagement, retention, stickiness, and lifetime value of users.
 * [DAU: daily active users](https://wikipedia.org/wiki/Daily_Active_Users)
-* [direct traffic](?): visits to a site where the user enters your URL into their browser's address bar, not into a search engine.
+* [direct traffic](?): visits to a site where a user types your URL in their browser's address bar, not in a search engine.
 * [ecommerce](?): purchasing or selling of products or services using the internet
 * [exact match](?): a match on every character in a search string from beginning to end
 * [filter](?): a guideline that includes or excludes specific data from reports
@@ -55,7 +60,7 @@
 * [MAU: monthly active users](TODO) (cf. DAU, WAU)
 * [MMAP: marketing metric audit protocol](https://en.wikipedia.org/wiki/Marketing_metric_audit_protocol)
 * [new visitor](?): a user who visits your site for the first time (cf. returning visitor)
-* [offline conversion](TODO) some apps have offline conversions, such as redemption of offers that occur outside of the app.
+* [offline conversion](TODO) e.g. a redemption of an app-specific offer that occurs outside of the app.
 * [organic traffic](?): visitors who come to your site from unpaid organic or natural search engine results (cf. paid traffic)
 * [page view](?): when a visitor arrives on an individual page of your site
 * [paid traffic](?): visitors who come to your site from paid advertisements (cf. organic traffic)
@@ -65,7 +70,7 @@
 * [referring site](?): another site that sends a visitor to your site
 * [regular expression match](?): match text by using special characters, wildcards, and flexible rules
 * [request URI](?): the string at the end of a URL after a site's domain name
-* [retention    DAUs divided by downloads measures your retention.    If you see a high download rate compared to DAUs, you have a clear reason to experiment with retention features. 
+* [retention](?) measures ongoing users vs. download users.
 * [returning visitor](?): a user who is coming to a site more than once (cf. new visitor)
 * [review](?) e.g. when a user writes about an app in an app store, or a product on a web site
 * [search engine](?): a site that helps a user search online, such as Google
@@ -83,8 +88,3 @@
 * [visitor](?): a person who goes to a site
 * [visits](?): the amount of times a site is accessed
 * [WAU: weekly active users](TODO) (cf. DAU, MAU)
-
-
-
-
-
