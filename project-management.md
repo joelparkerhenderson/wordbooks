@@ -28,8 +28,8 @@ Glossary:
 * [functional requirements, a.k.a. functional specification](TODO)
 * [fuzzy front-end (FFE)](TODO): activities employed before a well-defined requirements specification is completed. (cf. FBE)
 * [law of two feet](https://en.wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
-* [MoSCoW: must have, should have, could have, would like but won't have](https://en.wikipedia.org/wiki/MoSCoW_method)): prioritization method
-* [must have, should have, could have, would like but won't have (MoSCoW)](https://en.wikipedia.org/wiki/MoSCoW_method)): prioritization method
+* [MoSCoW: must have, should have, could have, won't have](https://en.wikipedia.org/wiki/MoSCoW_method)): prioritization method
+* [must have, should have, could have, won't have (MoSCoW)](https://en.wikipedia.org/wiki/MoSCoW_method)): prioritization method
 * [new product development (NPD)](https://en.wikipedia.org/wiki/New_product_development)
 * [non-functional requirement](https://en.wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system.
 * [OST: open space technology](https://en.wikipedia.org/wiki/Open_Space_Technology): an approach to purpose-driven leadership.
