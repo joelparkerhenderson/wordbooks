@@ -1,4 +1,4 @@
-# PERT: 
+# PERT: program evaluation and review technique
 
 Thanks to https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique
 
