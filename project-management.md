@@ -10,7 +10,7 @@ Glossary:
 * [ADR: architectural decision record](TODO)
 * [architecturally significant requirement (ASR)](https://en.wikipedia.org/wiki/Architecturally_Significant_Requirements): requirements that have a measurable effect on a software system’s architecture.
 * [ASR: architecturally significant requirement](https://en.wikipedia.org/wiki/Architecturally_Significant_Requirements): requirements that have a measurable effect on a software system’s architecture.
-* [backlog](https://en.wikipedia.org/wiki/Backlog]
+* [backlog](https://en.wikipedia.org/wiki/Backlog)
 * [BPR: business process re-engineering](https://wikipedia.org/wiki/Business_Process_Re-engineering) (cf. CBD, CBSE, DSDM)
 * [BPMN: business process model and notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
 * [CCPM: critical chain project management](https://wikipedia.org/wiki/Critical_chain_project_management) (cf. TOC: Theory Of Constraints)
