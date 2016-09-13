@@ -37,6 +37,8 @@ Glossary:
 * [product backlog](https://en.wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
 * [propagation strategy](TODO)
 * [quality attributes a.k.a. non-functional requirements](https://en.wikipedia.org/wiki/Quality_attributes)
+* [RAID: Risks, Assumptions, Issues, Dependencies](TODO)
+* [risks, assumptions, issues, dependencies (RAID)](TODO)
 * [scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)): an iterative and incremental agile software development framework for managing product development
 * [software requirements specification (SRS)](https://en.wikipedia.org/wiki/Software_requirements_specification)
 * [software system](https://en.wikipedia.org/wiki/Software_system): a system of intercommunicating components based on software .
