@@ -26,7 +26,6 @@ Contents:
 * [Scrypt: secure password key derivation function](https://wikipedia.org/wiki/Scrypt) (cf. Bcrypt)
 * [Vector clock: for ordering events in a distributed systems](https://en.wikipedia.org/wiki/Vector_clock)
 
-
 <a name="data-structures">Data structures</a>:
 
 * [Array](https://wikipedia.org/wiki/array)
