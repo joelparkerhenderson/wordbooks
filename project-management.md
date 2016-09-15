@@ -13,6 +13,10 @@ Contents:
 
 * [Responsbility Assigment Matrix (RAM)](#responsbility-assignment-matrix-ram)
 
+* [Service Level Agreement Metrics](#service-level-agreement-metrics)
+
+* [TODO](#todo)
+
 
 <a name="overviews">Overviews</a>:
 
@@ -25,6 +29,10 @@ Contents:
 
 <a name="lifecycles">Lifecycles</a>:
 
+* [concept-to-cash](TODO): the lifecycle from a new product concept (e.g. feature idea) to cash earned (i.e. the feature is producing financial value).
+
+* [current state](TODO): what is happening right now with a system's people, processes, tools, etc. (cf. future state)
+
 * [end-of-life (EOL)](https://en.wikipedia.org/wiki/End-of-life_(product)): a product is in the end of its useful life, from the vendor's point of view.
 
 * [end-of-sale (EOS)](https://en.wikipedia.org/wiki/End-of-life_(product)): a product is in the end of its sales cycle, from the vendor's point of view.
@@ -32,6 +40,8 @@ Contents:
 * [EOL: end-of-life)](https://en.wikipedia.org/wiki/End-of-life_(product)): a product is in the end of its useful life, from the vendor's point of view.
 
 * [EOS: end-of-sale)](https://en.wikipedia.org/wiki/End-of-life_(product)): a product is in the end of its sales cycle, from the vendor's point of view.
+
+* [future state](TODO): what will be happening with a system's people, processes, tools, etc. (cf. current state)
 
 * [GA: general availability](https://en.wikipedia.org/wiki/Software_release_life_cycle#GA): a software release life cycle phase when software is publically available.
 
@@ -62,6 +72,8 @@ Contents:
 
 * [backlog](https://en.wikipedia.org/wiki/Backlog)
 
+* [BDUF: big-design-up-front](TODO)
+
 * [BPR: business process re-engineering](https://wikipedia.org/wiki/Business_Process_Re-engineering) (cf. CBD, CBSE, DSDM)
 
 * [BPMN: business process model and notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
@@ -86,6 +98,8 @@ Contents:
 
 * [cross-fucntional team](https://en.wikipedia.org/wiki/Cross-functional_team)
 
+* [data flow diagram (DFD)](https://en.wikipedia.org/wiki/Data_flow_diagram): a graphical representation of the flow of data through a system, modelling its process aspects.
+
 * [deliverable](https://en.wikipedia.org/wiki/Deliverable): a tangible or intangible product or service produced as a result of the project that is intended to be delivered to a customer (either internal or external).
 
 * [dependency](https://en.wikipedia.org/wiki/Dependency_(project_management))
@@ -95,6 +109,8 @@ Contents:
 * [dependency lead](TODO): the amount of time whereby a successor activity can be advanced with respect to a predecessor activity.
 
 * [design structure matrix (DSM)](https://en.wikipedia.org/wiki/Design_structure_matrix)
+
+* [DFD: data flow diagram](https://en.wikipedia.org/wiki/Data_flow_diagram): a graphical representation of the flow of data through a system, modelling its process aspects.
 
 * [DSDM: dynamic systems development Method](https://wikipedia.org/wiki/Dynamic_systems_development_method) (cf. BPR, CBSE)
 
@@ -140,7 +156,9 @@ Contents:
 
 * [new product development (NPD)](https://en.wikipedia.org/wiki/New_product_development)
 
-* [non-functional requirement](https://en.wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system.
+* [NFR: non-functional requirement](https://en.wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system. (cf. quality attributes)
+
+* [non-functional requirement (NFR)](https://en.wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system. (cf. quality attributes)
 
 * [OST: open space technology](https://en.wikipedia.org/wiki/Open_Space_Technology): an approach to purpose-driven leadership.
 
@@ -174,6 +192,8 @@ Contents:
 
 * [quality attributes a.k.a. non-functional requirements](https://en.wikipedia.org/wiki/Quality_attributes)
 
+* [QoS: Quality of Service](https://en.wikipedia.org/wiki/Quality_of_service): overall performance of a system.
+
 * [RACI: Responsible, Accountable, Consulted, Informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 
 * [RACI matrix a.k.a. responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix): list stakeholders and their responsibilities towards the project. 
@@ -202,6 +222,12 @@ Contents:
 
 * [scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)): an iterative and incremental agile software development framework for managing product development
 
+* [SDLC: systems development life cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle): a process for planning, creating, testing, and deploying an information system. (a.k.a. application development life-cycle)
+
+* [service-level agreement (SLA)](https://en.wikipedia.org/wiki/Service-level_agreement): a commitment between a service provider and customer, typically explaining scope, quality, availability, responsibilities, etc.
+
+* [SLA: service-level agreement](https://en.wikipedia.org/wiki/Service-level_agreement): a commitment between a service provider and customer, typically explaining scope, quality, availability, responsibilities, etc.
+
 * [software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle)
 
 * [software requirements specification (SRS)](https://en.wikipedia.org/wiki/Software_requirements_specification)
@@ -217,6 +243,8 @@ Contents:
 * [stakeholder](https://en.wikipedia.org/wiki/Project_stakeholder): an individual or group who may interact with a project's planning or ongoing use.
 
 * [stand-up meeting](https://wikipedia.org/wiki/Stand-up_meeting)
+
+* [systems development life cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle): a process for planning, creating, testing, and deploying an information system.
 
 * [task](https://en.wikipedia.org/wiki/Task_(project_management))
 
@@ -311,4 +339,30 @@ Contents:
 * [RAPID: recommend, agree, perform, input, decide](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 
 * [RATSI: responsibility, authority, task, support, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+
+<a href="service-level-agreement-metrics">Service Level Agreement Metrics</a>
+
+* Abandonment Rate: Percentage of calls abandoned while waiting to be answered.
+
+* ASA (Average Speed to Answer): Average time (usually in seconds) it takes for a call to be answered by the service desk.
+
+* TSF (Time Service Factor): Percentage of calls answered within a definite timeframe, e.g., 80% in 20 seconds.
+
+* FCR (First-Call Resolution): Percentage of incoming calls that can be resolved without the use of a callback or without having the caller call back the helpdesk to finish resolving the case.
+
+* TAT (Turn-Around Time): Time taken to complete a certain task.
+
+* MTTR (Mean Time To Recover): Time taken to recover after an outage of service.
+
+
+<a href="todo">TODO</a>
+
+* https://en.wikipedia.org/wiki/Product_lifecycle
+
+* https://en.wikipedia.org/wiki/Structured_systems_analysis_and_design_method
+
+* https://en.wikipedia.org/wiki/Systems_analysis
+
+* https://en.wikipedia.org/wiki/Systems_development_life_cycle
 
