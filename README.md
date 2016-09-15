@@ -13,6 +13,21 @@ Files:
   * [Software](software.md)
   * [Software products/services](software-products-services.md)
   * [Software design patterns](software-design-patterns.md)
+  * [Quality Attributes](quality-attributes.md)
+  * [TODO](todo.md)
+  * [Energy - WIP](energy.md)
+
+index.html
+organizations.md
+project-management.md
+quality-attributes.md
+quality-attributes.md.bak
+retail.md
+software-design-patterns.md
+software-products-services.md
+software.md
+todo.md
+travel.md
 
 Useful lists:
 
