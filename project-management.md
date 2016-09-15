@@ -230,6 +230,10 @@ Contents:
 
 * [TOC: theory of constraints](https://wikipedia.org/wiki/Theory_of_Constraints) (cf. CCPM: Critical Chain Project Management)
 
+* [total project control (TPC)](https://en.wikipedia.org/wiki/Total_project_control): a project management method that emphasizes continuous tracking and optimization of return on investment (ROI).
+
+* [TPC: total project control](https://en.wikipedia.org/wiki/Total_project_control): a project management method that emphasizes continuous tracking and optimization of return on investment (ROI).
+
 * [unified process a.k.a. unified software development process](https://en.wikipedia.org/wiki/Unified_Process)
 
 * [use case, a.k.a. user story](https://en.wikipedia.org/wiki/Use_case): a list of actions in a system to achieve a goal. 
