@@ -14,14 +14,14 @@ Files:
   * [Software products/services](software-products-services.md)
   * [Software design patterns](software-design-patterns.md)
   * [Quality Attributes](quality-attributes.md)
+
+Files with work in progress:
+
   * [TODO](todo.md)
   * [Energy - WIP](energy.md)
+  * [Organizations](organizations.md)
 
-index.html
-organizations.md
-project-management.md
-quality-attributes.md
-quality-attributes.md.bak
+
 retail.md
 software-design-patterns.md
 software-products-services.md
