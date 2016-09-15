@@ -1,8 +1,14 @@
 # Demo glossary for software projects
 
+Outlines:
+
+* [Outline of software development](https://en.wikipedia.org/wiki/Outline_of_software_development)
+* [Outline of software engineering](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+
 Contents:
 
 * [Algorithms](#algorithms)
+* [Challenges](#challenges)
 * [Data structures](#data-structures)
 * [Formats](#formats)
 * [Lists](#lists)
@@ -25,6 +31,10 @@ Contents:
 * [SHA: Secure Hash Algorithm](https://wikipedia.org/wiki/Secure_Hash_Algorithm) (cf. MD5) (related: SHA1, SHA2, SHA512, etc.)
 * [Scrypt: secure password key derivation function](https://wikipedia.org/wiki/Scrypt) (cf. Bcrypt)
 * [Vector clock: for ordering events in a distributed systems](https://en.wikipedia.org/wiki/Vector_clock)
+
+<a name="challenges">Challenges</a>:
+
+* [longest path problem](https://en.wikipedia.org/wiki/Longest_path_problem)
 
 <a name="data-structures">Data structures</a>:
 
@@ -212,6 +222,7 @@ Contents:
 * [validation](TODO)
 * [web framework](https://wikipedia.org/wiki/Web_framework)
 
+
 <a name="web-frameworks">Web frameworks</a>:
 
 * [Catalyst](https://wikipedia.org/wiki/Catalyst_(software)) for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
@@ -224,4 +235,3 @@ Contents:
 * [Iron](TODO) [Rust](https://wikipedia.org/wiki/Rust_(programming_language))
 * [Mojolicious](https://wikipedia.org/wiki/Mojolicious) for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
 * [Revel](https://wikipedia.org/wiki/?) for [Go](https://wikipedia.org/wiki/Go_(programming_language))
-
