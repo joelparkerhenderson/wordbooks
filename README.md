@@ -20,14 +20,8 @@ Files with work in progress:
   * [TODO](todo.md)
   * [Energy - WIP](energy.md)
   * [Organizations](organizations.md)
-
-
-retail.md
-software-design-patterns.md
-software-products-services.md
-software.md
-todo.md
-travel.md
+  * [Retail](retail.md)
+  * [Travel](travel.md)
 
 Useful lists:
 
@@ -39,8 +33,8 @@ Useful lists:
 ## Tracking
 
 * Package: demo_glossary
-* Version: 2.0.0
+* Version: 2.1.0
 * Created: 2014-01-01
-* Updated: 2016-08-12
+* Updated: 2016-09-12
 * License: BSD, MIT, GPL
 * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
