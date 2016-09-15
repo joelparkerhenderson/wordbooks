@@ -61,12 +61,13 @@ Glossary:
 * [project portfolio management (PPM)](https://en.wikipedia.org/wiki/Project_portfolio_management)
 * [propagation strategy](TODO)
 * [quality attributes a.k.a. non-functional requirements](https://en.wikipedia.org/wiki/Quality_attributes)
-* [RACI](TODO)
+* [RACI: Responsible, Accountable, Consulted, Informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 * [RACI matrix a.k.a. responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix): list stakeholders and their responsibilities towards the project. 
 * [RAID: Risks, Assumptions, Issues, Dependencies](TODO): 
 * [RAID log](TODO): a RAID log keeps track of a project's risks, assumptions, issues, and dependencies
 * [RAM: responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 * [responsibility assignment matrix (RAM)](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [responsible, accountable, consulted, informed (RACI)](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 * [risks, assumptions, issues, dependencies (RAID)](TODO)
 * [requirement analysis](https://en.wikipedia.org/wiki/Requirements_analysis): elicit, analyze, and record what a systems needs to do.
 * [retrospective](https://en.wikipedia.org/wiki/Retrospective): a look back at events that already have taken place.
