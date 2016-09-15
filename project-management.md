@@ -9,7 +9,9 @@ Contents:
 
 * [Miscellaneous](#misc)
 
-* [PERT: program evaluation and review technique](#pert)
+* [Program Evaluation and Review Technique (PERT)](#program-evalation-and-review-technique-pert)
+
+* [Responsbility Assigment Matrix (RAM)](#responsbility-assignment-matrix-ram)
 
 
 <a name="overviews">Overviews</a>:
@@ -104,7 +106,7 @@ Contents:
 
 * [FFE: fuzzy front-end](TODO): activities employed before a well-defined requirements specification is completed. 
 
-* [fisbone diagram a.k.a. Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram): causal diagrams that show the causes of a specific event.
+* [fishbone diagram a.k.a. Ishikawa diagram](https://en.wikipedia.org/wiki/Ishikawa_diagram): causal diagrams that show the causes of a specific event.
 
 * [float](https://en.wikipedia.org/wiki/Float_(project_management))
 
@@ -243,7 +245,7 @@ Contents:
 * [work breakdown structure (WBS)](https://en.wikipedia.org/wiki/Work_breakdown_structure): deliverable-oriented decomposition of a project into smaller components.
 
 
-<a name="pert">PERT: program evaluation and review technique</a>
+<a name="program-evaluation-and-review-technique-pert">PERT: program evaluation and review technique</a>
 
 * Thanks to https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique
 
@@ -288,4 +290,25 @@ Contents:
 * earliest finish time (EF) - This would be ES + activity duration.
 
 * latest finish time (LF) - The latest time an activity can finish without delaying the project.
+
+
+<a href="responsbility-assignment-matrix-ram">Responsbility Assigment Matrix (RAM)</a>
+
+* [PACSI: perform, accountable, control, suggest, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+* [RASCI: responsible, accountable, support, control, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+* [RASI: responsible, accountable, support, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+* [RACIQ: responsible, accountable, consulted, informed, quality review](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+* [RACI-VS: responsible, accountable, consulted, informed, verifier, signatory](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+* [RACIO a.k.a. CAIRO: responsible, accountable, consulted, informed, omitted](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+* [DACI: driver, approver, contributors, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+* [RAPID: recommend, agree, perform, input, decide](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
+* [RATSI: responsibility, authority, task, support, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 
