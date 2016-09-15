@@ -1,27 +1,41 @@
 # Demo glossary for software projects
 
-Outlines:
+Contents:
+
+* [Overviews](#overviews)
+
+* [Algorithms](#algorithms)
+
+* [Challenges](#challenges)
+
+* [Data structures](#data-structures)
+
+* [Formats](#formats)
+
+* [Lists](#lists)
+
+* [Organizations](#organizations)
+
+* [Programming languages](#programming-languages)
+
+* [Protocols](#protocols)
+
+* [RFCs](#rfcs)
+
+* [Software development philosophies](#software-development-philosophies)
+
+* [Standards](#standards)
+
+* [Terminology](#technology-terminology)
+
+* [Web frameworks](#web-frameworks)
+
+
+<a name="Overviews">Overviews</a>:
 
 * [Outline of software development](https://en.wikipedia.org/wiki/Outline_of_software_development)
 * [Outline of software engineering](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
 
-Contents:
-
-* [Algorithms](#algorithms)
-* [Challenges](#challenges)
-* [Data structures](#data-structures)
-* [Formats](#formats)
-* [Lists](#lists)
-* [Organizations](#organizations)
-* [Products and services](#products-and-services)
-* [Programming languages](#programming-languages)
-* [Project management](#project-management)
-* [Protocols](#protocols)
-* [RFCs](#rfcs)
-* [Software development philosophies](#software-development-philosophies)
-* [Standards](#standards)
-* [Terminology](#technology-terminology)
-* [Web frameworks](#web-frameworks)
 
 <a name="algorithms">Algorithms</a>:
 
@@ -35,6 +49,7 @@ Contents:
 <a name="challenges">Challenges</a>:
 
 * [longest path problem](https://en.wikipedia.org/wiki/Longest_path_problem)
+
 
 <a name="data-structures">Data structures</a>:
 
@@ -53,6 +68,7 @@ Contents:
 * [Queue](https://wikipedia.org/wiki/queue)
 * [Vector](https://wikipedia.org/wiki/vector)
 
+
 <a name="formats">Formats</a>:
 
 * [CSV: comma separated values](https://wikipedia.org/wiki/Comma-separated_values) (cf. TDF, TSV) 
@@ -62,6 +78,7 @@ Contents:
 * [TSV: tab separated values](https://wikipedia.org/wiki/Tab-separated_values)  (cf. CSV, TDF)
 * [XML: extensible markup language](https://wikipedia.org/wiki/Xml) (cf. JSON: JavaScript Object Notation)
 * [RDF: resource description framework](https://wikipedia.org/wiki/Resource_Description_Framework)
+
 
 <a name="organizations">Organizations</a>:
 
@@ -76,6 +93,7 @@ Contents:
 * [Oracle](https://oracle.com)
 * [Pivotal](https://pivotal.com)
 * [ThoughtWorks](https://thoughtworks.com)
+
 
 <a name="programming-languages">Programming languages</a>:
 
