@@ -199,6 +199,7 @@ Contents:
 * [Git: distributed version control for source code](https://wikipedia.org/wiki/Git_(software))
 * [GPG: GNU Privacy Guard](https://wikipedia.org/wiki/GNU_Privacy_Guard) (cf. PGP)
 * [HCI: human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
+* [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor]: software, firmware, or hardware that creates and runs virtual machines.
 * [IAM: identity and access management](https://wikipedia.org/wiki/Identity_and_Access_Management)
 * [invalidation](TODO)
 * [IP address](https://wikipedia.org/wiki/IP_address) (see CNAME, DNS)
@@ -238,18 +239,7 @@ Contents:
 * [URL: uniform resource locator](https://wikipedia.org/wiki/Url) (cf. URI)
 * [UX: user experience](https://en.wikipedia.org/wiki/User_experience)
 * [validation](TODO)
+* [virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
 * [web framework](https://wikipedia.org/wiki/Web_framework)
 
 
-<a name="web-frameworks">Web frameworks</a>:
-
-* [Catalyst](https://wikipedia.org/wiki/Catalyst_(software)) for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
-* [Django](https://wikipedia.org/wiki/Django_(web_framework)) for [Python](https://wikipedia.org/wiki/Python_(programming_language))
-* [Laravel](https://wikipedia.org/wiki/Laravel) for [PHP](https://wikipedia.org/wiki/Php)
-* [Lift](https://wikipedia.org/wiki/Lift_(web_framework)) for [Scala](https://wikipedia.org/wiki/Scala_(programming_language))
-* [Phoenix](https://www.phoenixframework.org/) for [Elixir](https://wikipedia.org/wiki/Elixir_(programming_language)) (cf. <a href="https://wikipedia.org/wiki/Apache_Phoenix">Apache Phoenix</a>)
-* [Ruby on Rails](https://wikipedia.org/wiki/Ruby_on_Rails) for [Ruby](https://wikipedia.org/wiki/Ruby_(programming_language))
-* [Spring](https://wikipedia.org/wiki/Spring_Framework) for [Java](https://wikipedia.org/wiki/Java_(programming_language))
-* [Iron](TODO) [Rust](https://wikipedia.org/wiki/Rust_(programming_language))
-* [Mojolicious](https://wikipedia.org/wiki/Mojolicious) for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
-* [Revel](https://wikipedia.org/wiki/?) for [Go](https://wikipedia.org/wiki/Go_(programming_language))
