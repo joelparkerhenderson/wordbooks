@@ -2,214 +2,136 @@
 
 * http://sijinjoseph.com/programmer-competency-matrix/
 
-* https://en.wikipedia.org/wiki/Agile_software_development
+* [Internet_Engineering_Task_Force](https://wikipedia.org/wiki/Internet_Engineering_Task_Force)
 
-* https://en.wikipedia.org/wiki/Outline_of_software_development
+* [Capability_Maturity_Model](https://wikipedia.org/wiki/Capability_Maturity_Model)
 
-* https://en.wikipedia.org/wiki/Outline_of_project_management
+* [Dynamic_systems_development_method](https://wikipedia.org/wiki/Dynamic_systems_development_method)
 
-* https://en.wikipedia.org/wiki/Unified_Process
+* [Organizational_architecture](https://wikipedia.org/wiki/Organizational_architecture)
 
-* https://en.wikipedia.org/wiki/OpenUP
+* [Organizational_structure](https://wikipedia.org/wiki/Organizational_structure)
 
-* https://en.wikipedia.org/wiki/Agile_Unified_Process
+* [Fuzzy_logic](https://wikipedia.org/wiki/Fuzzy_logic)
 
-* https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
+* [Software_development_process](https://wikipedia.org/wiki/Software_development_process)
 
-* https://en.wikipedia.org/wiki/Use_Case_Diagram
+* [Wirth%27s_law](https://wikipedia.org/wiki/Wirth%27s_law)
 
-* https://en.wikipedia.org/wiki/Class_diagram
+* [Waterfall_model](https://wikipedia.org/wiki/Waterfall_model)
 
-* https://en.wikipedia.org/wiki/Package_diagram
+* [Lean_startup](https://wikipedia.org/wiki/Lean_startup)
 
-* https://en.wikipedia.org/wiki/Persona
+* [Information_flow](https://wikipedia.org/wiki/Information_flow)
 
-* https://en.wikipedia.org/wiki/Rational_Unified_Process
+* [Iteration](https://wikipedia.org/wiki/Iteration)
 
-* https://en.wikipedia.org/wiki/Capability_Maturity_Model
+* [International_Organization_for_Standardization](https://wikipedia.org/wiki/International_Organization_for_Standardization)
 
-* https://en.wikipedia.org/wiki/Dynamic_systems_development_method
+* [Value_(economics)](https://wikipedia.org/wiki/Value_(economics))
 
-* https://en.wikipedia.org/wiki/RabbitMQ
+* [ISO_31000](https://wikipedia.org/wiki/ISO_31000)
 
-* https://en.wikipedia.org/wiki/Organizational_architecture
+* [Advanced_Message_Queuing_Protocol](https://wikipedia.org/wiki/Advanced_Message_Queuing_Protocol)
 
-* https://en.wikipedia.org/wiki/Organizational_structure
+* [Open_Telecom_Platform](https://wikipedia.org/wiki/Open_Telecom_Platform)
 
-* https://en.wikipedia.org/wiki/Total_quality_management
+* [Erlang_(programming_language)](https://wikipedia.org/wiki/Erlang_(programming_language))
 
-* https://en.wikipedia.org/wiki/Management_by_objectives
+* [Message_broker](https://wikipedia.org/wiki/Message_broker)
 
-* https://en.wikipedia.org/wiki/Fuzzy_logic
+* [Streaming_Text_Oriented_Messaging_Protocol](https://wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol)
 
-* https://en.wikipedia.org/wiki/Best_practice
+* [Hypertext_Transfer_Protocol](https://wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
-* https://en.wikipedia.org/wiki/Software_development_process
+* [Pivotal_Software](https://wikipedia.org/wiki/Pivotal_Software)
 
-* https://en.wikipedia.org/wiki/Wirth%27s_law
+* [Mozilla_Public_License](https://wikipedia.org/wiki/Mozilla_Public_License)
 
-* https://en.wikipedia.org/wiki/Waterfall_model
+* [ITIL](https://wikipedia.org/wiki/ITIL)
 
-* https://en.wikipedia.org/wiki/Lean_startup
+* [Demarcation](https://wikipedia.org/wiki/Demarcation)
 
-* https://en.wikipedia.org/wiki/Change_management
+* [Operational-level_agreement](https://wikipedia.org/wiki/Operational-level_agreement)
 
-* https://en.wikipedia.org/wiki/Project_management_office
+* [Service-level_agreement](https://wikipedia.org/wiki/Service-level_agreement)
 
-* https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge
+* [Architecturally_Significant_Requirements](https://wikipedia.org/wiki/Architecturally_Significant_Requirements)
 
-* https://en.wikipedia.org/wiki/PRINCE2
+* [Non-functional_requirement](https://wikipedia.org/wiki/Non-functional_requirement)
 
-* https://en.wikipedia.org/wiki/Project_management_triangle
+* [Total_cost_of_acquisition](https://wikipedia.org/wiki/Total_cost_of_acquisition)
 
-* https://en.wikipedia.org/wiki/Estimation_(project_management)
+* [Total_cost](https://wikipedia.org/wiki/Total_cost)
 
-* https://en.wikipedia.org/wiki/Executive_sponsor
+* [Total_benefits_of_ownership](https://wikipedia.org/wiki/Total_benefits_of_ownership)
 
-* https://en.wikipedia.org/wiki/Scope_(project_management)
+* [Whole-life_cost](https://wikipedia.org/wiki/Whole-life_cost)
 
-* https://en.wikipedia.org/wiki/Schedule_(project_management)
+* [Activity-based_costing](https://wikipedia.org/wiki/Activity-based_costing)
 
-* https://en.wikipedia.org/wiki/Dependency_(project_management)
+* [Operating_expense](https://wikipedia.org/wiki/Operating_expense)
 
-* https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique
+* [Capital_expenditure](https://wikipedia.org/wiki/Capital_expenditure)
 
-* https://en.wikipedia.org/wiki/Information_flow
+* [Cost_to_company](https://wikipedia.org/wiki/Cost_to_company)
 
-* https://en.wikipedia.org/wiki/Iteration
+* [Total_cost_of_ownership](https://wikipedia.org/wiki/Total_cost_of_ownership)
 
-* https://en.wikipedia.org/wiki/Outline_of_project_management
+* [Total_project_control](https://wikipedia.org/wiki/Total_project_control)
 
-* https://en.wikipedia.org/wiki/Project_network
+* [Threat](https://wikipedia.org/wiki/Threat)
 
-* https://en.wikipedia.org/wiki/Project_management_software
+* [Non-functional_requirement](https://wikipedia.org/wiki/Non-functional_requirement)
 
-* https://en.wikipedia.org/wiki/Workflow_management_system
+* [Architecturally_Significant_Requirements](https://wikipedia.org/wiki/Architecturally_Significant_Requirements)
 
-* https://en.wikipedia.org/wiki/Process_management
+* [Software_requirements_specification](https://wikipedia.org/wiki/Software_requirements_specification)
 
-* https://en.wikipedia.org/wiki/Project_planning
+* [Deliverable](https://wikipedia.org/wiki/Deliverable)
 
-* https://en.wikipedia.org/wiki/Project_management
+* [Project_Management_Body_of_Knowledge](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge)
 
-* https://en.wikipedia.org/wiki/Work_breakdown_structure
+* [ISO_10006](https://wikipedia.org/wiki/ISO_10006)
 
-* https://en.wikipedia.org/wiki/Earned_value_management
+* [Milestone_(project_management)](https://wikipedia.org/wiki/Milestone_(project_management))
 
-* https://en.wikipedia.org/wiki/Integrated_master_plan
+* [Technical_documentation](https://wikipedia.org/wiki/Technical_documentation)
 
-* https://en.wikipedia.org/wiki/Organizational_chart
+* [Data_item_descriptions](https://wikipedia.org/wiki/Data_item_descriptions)
 
-* https://en.wikipedia.org/wiki/Resource_allocation
+* [Accessibility](https://wikipedia.org/wiki/Accessibility)
 
-* https://en.wikipedia.org/wiki/International_Organization_for_Standardization
-
-* https://en.wikipedia.org/wiki/Value_(economics)
-
-* https://en.wikipedia.org/wiki/ISO_31000
-
-* https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
-
-* https://en.wikipedia.org/wiki/Open_Telecom_Platform
-
-* https://en.wikipedia.org/wiki/Erlang_(programming_language)
-
-* https://en.wikipedia.org/wiki/Message_broker
-
-* https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol
-
-* https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
-
-* https://en.wikipedia.org/wiki/Pivotal_Software
-
-* https://en.wikipedia.org/wiki/Mozilla_Public_License
-
-* https://en.wikipedia.org/wiki/ITIL
-
-* https://en.wikipedia.org/wiki/Demarcation
-
-* https://en.wikipedia.org/wiki/Operational-level_agreement
-
-* https://en.wikipedia.org/wiki/Service-level_agreement
-
-* https://en.wikipedia.org/wiki/Architecturally_Significant_Requirements
-
-* https://en.wikipedia.org/wiki/Non-functional_requirement
-
-* https://en.wikipedia.org/wiki/Total_cost_of_acquisition
-
-* https://en.wikipedia.org/wiki/Total_cost
-
-* https://en.wikipedia.org/wiki/Total_benefits_of_ownership
-
-* https://en.wikipedia.org/wiki/Whole-life_cost
-
-* https://en.wikipedia.org/wiki/Activity-based_costing
-
-* https://en.wikipedia.org/wiki/Operating_expense
-
-* https://en.wikipedia.org/wiki/Capital_expenditure
-
-* https://en.wikipedia.org/wiki/Cost_to_company
-
-* https://en.wikipedia.org/wiki/Total_cost_of_ownership
-
-* https://en.wikipedia.org/wiki/Total_project_control
-
-* https://en.wikipedia.org/wiki/Threat
-
-* https://en.wikipedia.org/wiki/Non-functional_requirement
-
-* https://en.wikipedia.org/wiki/Architecturally_Significant_Requirements
-
-* https://en.wikipedia.org/wiki/Software_requirements_specification
-
-* https://en.wikipedia.org/wiki/Deliverable
-
-* https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge
-
-* https://en.wikipedia.org/wiki/ISO_10006
-
-* https://en.wikipedia.org/wiki/Milestone_(project_management)
-
-* https://en.wikipedia.org/wiki/Technical_documentation
-
-* https://en.wikipedia.org/wiki/Data_item_descriptions
-
-* https://en.wikipedia.org/wiki/Accessibility
-
-* https://en.wikipedia.org/wiki/RAID_log
+* [RAID_log](https://wikipedia.org/wiki/RAID_log)
 
 * https://www.google.com/search?q=empathy+mapping
 
 * https://www.google.com/search?q=design+charrette
 
-* https://en.wikipedia.org/wiki/Charrette
+* [Charrette](https://wikipedia.org/wiki/Charrette)
 
-* https://en.wikipedia.org/wiki/Root_cause_analysis
+* [Root_cause_analysis](https://wikipedia.org/wiki/Root_cause_analysis)
 
-* https://en.wikipedia.org/wiki/Lean_enterprise
+* [Lean_enterprise](https://wikipedia.org/wiki/Lean_enterprise)
 
-* https://en.wikipedia.org/wiki/Rapid_application_development
+* [Rapid_application_development](https://wikipedia.org/wiki/Rapid_application_development)
 
-* https://en.wikipedia.org/wiki/Rapid_application_development
+* [Rapid_application_development](https://wikipedia.org/wiki/Rapid_application_development)
 
-* https://en.wikipedia.org/wiki/Graphical_user_interface_builder
+* [Graphical_user_interface_builder](https://wikipedia.org/wiki/Graphical_user_interface_builder)
 
-* https://en.wikipedia.org/wiki/Spiral_model
+* [Spiral_model](https://wikipedia.org/wiki/Spiral_model)
 
-* https://en.wikipedia.org/wiki/Structured_systems_analysis_and_design_method
+* [Structured_systems_analysis_and_design_method](https://wikipedia.org/wiki/Structured_systems_analysis_and_design_method)
 
-* https://en.wikipedia.org/wiki/Waterfall_model
+* [Waterfall_model](https://wikipedia.org/wiki/Waterfall_model)
 
-* https://en.wikipedia.org/wiki/Business_process_reengineering
+* [Business_process_reengineering](https://wikipedia.org/wiki/Business_process_reengineering)
 
-* https://en.wikipedia.org/wiki/Joint_Application_Design
+* [Joint_Application_Design](https://wikipedia.org/wiki/Joint_Application_Design)
 
-* https://en.wikipedia.org/wiki/Computer-aided_software_engineering
+* [Computer-aided_software_engineering](https://wikipedia.org/wiki/Computer-aided_software_engineering)
 
-* https://en.wikipedia.org/wiki/Dynamic_systems_development_method
+* [Dynamic_systems_development_method](https://wikipedia.org/wiki/Dynamic_systems_development_method)
 
-* https://en.wikipedia.org/wiki/SMART_criteria
-
-
+* [SMART_criteria](https://wikipedia.org/wiki/SMART_criteria)

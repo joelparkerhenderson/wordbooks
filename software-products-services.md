@@ -103,7 +103,7 @@ Contents:
 
 * [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL): object-relational database management system (ORDBMS)
 
-* [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ):  open source message broker software (sometimes called message-oriented middleware.
+* [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ): open source message broker software, sometimes called message-oriented middleware.
 
 * [Redis](https://en.wikipedia.org/wiki/Redis): data structure server
 
