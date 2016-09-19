@@ -3,11 +3,11 @@
 This repository contains demo wordbooks.
 
   * A wordbook is a collection of words, and possibly their meanings.
-  * A wordbook is like a dictionary, glossary, lexicon, vocabulary, and so on.
+  * A wordbook is like a dictionary, glossary, lexicon, vocabulary, terminology list, etc.
 
 We use these wordbooks with our software consulting clients.
 
-  * A wordbook helps our teams communicate clearly and consistently.
+  * A wordbook helps us communicate quickly, clearly, and consistently.
   * A wordbook is especially good for cross-cultural teams and global teams.
 
 Suggestions, comments, and pull requests are welcome.
