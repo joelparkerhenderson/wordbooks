@@ -1,8 +1,10 @@
-# Demo glossary for software projects
+# Demo wordbooks
 
-This repository contains demo glossary files for software projects.
+This repository contains demo wordbooks.
 
-For example, we use this glossary with our software consulting clients. This helps us with sharing vocabulary for good communication.
+A wordbook is a collection of words, and possibly their meanings. A wordbook is like a dictionary, glossary, lexicon, vocabulary, and so on.
+
+We use these wordbooks with our software consulting clients. These wordbooks help us create consistent clear communication.
 
 Suggestions, comments, and pull requests are welcome.
 
@@ -33,8 +35,8 @@ Useful lists:
 ## Tracking
 
 * Package: demo_glossary
-* Version: 2.1.0
+* Version: 3.0.0
 * Created: 2014-01-01
-* Updated: 2016-09-12
+* Updated: 2016-09-18
 * License: BSD, MIT, GPL
 * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
