@@ -1,4 +1,4 @@
-# Demo glossary for the energy industry
+# Energy wordbook
 
 Credit:
 

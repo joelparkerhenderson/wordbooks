@@ -1,4 +1,4 @@
-# Demo glossary for retail industry
+# Retail wordbook
 
 Credit:
 

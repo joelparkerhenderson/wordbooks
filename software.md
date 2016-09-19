@@ -1,4 +1,4 @@
-# Demo glossary for software projects
+# Software wordbook
 
 Contents:
 

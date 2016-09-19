@@ -1,4 +1,4 @@
-# Demo glossary for the travel industry
+# Travel wordbook
 
 Credit to https://www.onetravel.com/travel/glossary.asp
 
