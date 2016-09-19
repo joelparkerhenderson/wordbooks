@@ -114,7 +114,7 @@ Contents:
 
 * [standard deviation of time](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique): the variability of the time for accomplishing an activity (σte) or a path (σTE)
 
-* {float a.k.a. slack](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique): a measure of the excess time and resources available to complete a task. It is the amount of time that a project task can be delayed without causing a delay in any subsequent tasks (free float) or the whole project (total float). Positive slack would indicate ahead of schedule; negative slack would indicate behind schedule; and zero slack would indicate on schedule.
+* [float a.k.a. slack](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique): a measure of the excess time and resources available to complete a task. It is the amount of time that a project task can be delayed without causing a delay in any subsequent tasks (free float) or the whole project (total float). Positive slack would indicate ahead of schedule; negative slack would indicate behind schedule; and zero slack would indicate on schedule.
 
 * [critical path](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique): the longest possible continuous pathway taken from the initial event to the terminal event. It determines the total calendar time required for the project; and, therefore, any time delays along the critical path will delay the reaching of the terminal event by at least the same amount.
 
