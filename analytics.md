@@ -1,4 +1,4 @@
-# Glossary for software projects - analytics
+# Analytics wordbook
 
 Credit:
 
