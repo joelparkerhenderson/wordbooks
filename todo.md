@@ -1,5 +1,14 @@
 # TODO
 
+
+Useful software-related lists:
+
+* [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of software development philosophies](https://wikipedia.org/wiki/List_of_software_development_philosophies)
+* [List of software engineering topics](https://wikipedia.org/wiki/List_of_software_engineering_topics)
+* [List of RFCs](https://en.wikipedia.org/wiki/List_of_RFCs)
+
+
 * http://sijinjoseph.com/programmer-competency-matrix/
 
 * [Internet_Engineering_Task_Force](https://wikipedia.org/wiki/Internet_Engineering_Task_Force)
@@ -132,6 +141,70 @@
 
 * [Computer-aided_software_engineering](https://wikipedia.org/wiki/Computer-aided_software_engineering)
 
-* [Dynamic_systems_development_method](https://wikipedia.org/wiki/Dynamic_systems_development_method)
+* [dynamic systems development method (DSDM)](https://wikipedia.org/wiki/Dynamic_systems_development_method)
 
-* [SMART_criteria](https://wikipedia.org/wiki/SMART_criteria)
+* [SMART criteria](https://wikipedia.org/wiki/SMART_criteria)
+
+* [sales presentation](https://wikipedia.org/wiki/Sales_presentation)
+
+* [elevator pitch](https://wikipedia.org/wiki/Elevator_pitch)
+
+* [mission statement](https://wikipedia.org/wiki/Mission_statement)
+
+* [vision statement](https://wikipedia.org/wiki/Vision_statement)
+
+* [core competency](https://wikipedia.org/wiki/Core_competency)
+
+* [strategic planning](https://wikipedia.org/wiki/Strategic_planning)
+
+* [strategic management](https://wikipedia.org/wiki/Strategic_management)
+
+* [resource-based view](https://wikipedia.org/wiki/Resource-based_view)
+
+* [design structure matrix](https://wikipedia.org/wiki/Design_structure_matrix)
+
+* [Dunning-Kruger effect](https://wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+
+* [four stages of competence](https://wikipedia.org/wiki/Four_stages_of_competence)
+
+* [decision theory](https://wikipedia.org/wiki/Decision_theory)
+
+* [learning styles](https://wikipedia.org/wiki/Learning_styles)
+
+* [theory of multiple intelligences](https://wikipedia.org/wiki/Theory_of_multiple_intelligences)
+
+* [formula for change](https://wikipedia.org/wiki/Formula_for_change)
+
+* [motivation](https://wikipedia.org/wiki/Motivation)
+
+* [competitive advantage](https://wikipedia.org/wiki/Competitive_advantage)
+
+* [core business](https://wikipedia.org/wiki/Core_business)
+
+* [experience curve effects](https://wikipedia.org/wiki/Experience_curve_effects)
+
+* [PEST analysis](https://wikipedia.org/wiki/PEST_analysis)
+
+* [marketing management](https://wikipedia.org/wiki/Marketing_management)
+
+* [six forces model](https://wikipedia.org/wiki/Six_forces_model)
+
+* [Porter's four corners model](https://wikipedia.org/wiki/Porter%27s_four_corners_model)
+
+* [enterprise planning system](https://wikipedia.org/wiki/Enterprise_planning_system)
+
+* [benchmarking](https://wikipedia.org/wiki/Benchmarking)
+
+* [growth-share_matrix](https://wikipedia.org/wiki/Growth%E2%80%93share_matrix)
+
+* [Porter's five forces analysis](https://wikipedia.org/wiki/Porter%27s_five_forces_analysis)
+
+* [Porter's generic strategies](https://wikipedia.org/wiki/Porter%27s_generic_strategies)
+
+* [outsourcing](https://wikipedia.org/wiki/Outsourcing)
+
+* [strategic thinking](https://wikipedia.org/wiki/Strategic_thinking)
+
+* [VRIO](https://wikipedia.org/wiki/VRIO)
+
+* [SWOT analysis](https://wikipedia.org/wiki/SWOT_analysis)

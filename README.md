@@ -12,33 +12,39 @@ We use these wordbooks with our software consulting clients.
 
 Suggestions, comments, and pull requests are welcome.
 
-Files:
+Software consulting:
 
   * [Analytics](analytics.md)
+  * [Organizations](organizations.md)
   * [Project management](project-management.md)
   * [Software](software.md)
   * [Software products/services](software-products-services.md)
   * [Software design patterns](software-design-patterns.md)
   * [Quality Attributes](quality-attributes.md)
-
-Files with work in progress:
-
   * [TODO](todo.md)
-  * [Energy - WIP](energy.md)
-  * [Organizations](organizations.md)
+
+Industries:
+
+  * [Automotive](automotive.md)
+  * [Consumer](consumer.md)
+  * [Education](education.md)
+  * [Energy](energy.md)
+  * [Engineering](engineering.md)
+  * [Finance](finance.md)
+  * [Government](government.md)
+  * [Healthcare](healthcare.md)
+  * [Insurance](insurance.md)
+  * [Manufacturing](manufacturing.md)
+  * [Media](media.md)
+  * [Real estate](real-estate.md)
   * [Retail](retail.md)
+  * [Telecommunication](telecommunication.md)
   * [Travel](travel.md)
 
-Useful lists:
-
-* [List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of software development philosophies](https://wikipedia.org/wiki/List_of_software_development_philosophies)
-* [List of software engineering topics](https://wikipedia.org/wiki/List_of_software_engineering_topics)
-* [List of RFCs](https://en.wikipedia.org/wiki/List_of_RFCs)
 
 ## Tracking
 
-* Package: demo_glossary
+* Package: demo_wordbooks
 * Version: 3.0.0
 * Created: 2014-01-01
 * Updated: 2016-09-18
