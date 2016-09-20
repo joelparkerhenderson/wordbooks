@@ -15,12 +15,14 @@ Suggestions, comments, and pull requests are welcome.
 Software consulting:
 
   * [Analytics](analytics.md)
+  * [Measurement](measurement.md)
   * [Organizations](organizations.md)
   * [Project management](project-management.md)
   * [Software](software.md)
   * [Software products/services](software-products-services.md)
   * [Software design patterns](software-design-patterns.md)
   * [Quality Attributes](quality-attributes.md)
+  * [Statistics](statistics.md)
   * [TODO](todo.md)
 
 Industries:

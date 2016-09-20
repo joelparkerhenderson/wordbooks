@@ -194,6 +194,8 @@ Contents:
 
 * [agile unified process (AUP)](https://wikipedia.org/wiki/Agile_Unified_Process)
 
+* [aspect-oriented programming (AOP)](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
+
 * [BDD: behavior-driven development](https://wikipedia.org/wiki/Behavior-driven_development) (cf. EDD, FDD, TDD)
 
 * [BDUF: big design pp Front](https://wikipedia.org/wiki/Big_Design_Up_Front) (cf. waterfall)
@@ -206,6 +208,10 @@ Contents:
 
 * [Continuous Obsolescence](https://wikipedia.org/wiki/Continuous_obsolescence)
 
+* [domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language)
+
+* [domain-specific modeling](https://en.wikipedia.org/wiki/Domain-specific_modeling)
+
 * [EDD: experiment-driven development](TODO) (cf. BDD, FDD, TDD)
 
 * [emergent design](https://wikipedia.org/wiki/Unit_testing)
@@ -215,6 +221,8 @@ Contents:
 * [extreme programming practices (XPP)](https://wikipedia.org/wiki/Extreme_programming_practices)
 
 * [FDD: feature-driven development](https://wikipedia.org/wiki/Feature-driven_development) (cf. BDD, EDD, TDD)
+
+* [functional programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 * [functioal testing](https://wikipedia.org/wiki/Functional_testing)
 
@@ -230,7 +238,19 @@ Contents:
 
 * [lean software development (LSD)](https://wikipedia.org/wiki/Lean_software_development)
 
+* [model-driven architecture](https://en.wikipedia.org/wiki/Model-driven_architecture)
+
+* [model-driven engineering](https://en.wikipedia.org/wiki/Model-driven_engineering)
+
+* [object-oriented programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+
+* [object-oriended analysis and design](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+* [OOP: object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming)
+
 * [pair programming](https://wikipedia.org/wiki/Pair_programming)
+
+* [procedural programming](https://en.wikipedia.org/wiki/Procedural_programming)
 
 * [scrum (software development](https://wikipedia.org/wiki/Lean_software_development)
 
@@ -266,19 +286,25 @@ Contents:
 
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 
+* [ABAC: Attribute-Based Access Control](https://wikipedia.org/wiki/Abac)
+
+* [AMI: asynchronous method invocation](https://wikipedia.org/wiki/Asynchronous_method_invocation)
+
 * [anti-pattern](https://wikipedia.org/wiki/Anti-pattern)
 
 * [API: application programming interface](https://wikipedia.org/wiki/Application_programming_interfaces)
 
-* [ABAC: Attribute-Based Access Control](https://wikipedia.org/wiki/Abac)
+* [APM: application performance management](https://en.wikipedia.org/wiki/Application_performance_management)
 
-* [AMI: asynchronous method invocation](https://wikipedia.org/wiki/Asynchronous_method_invocation)
+* [application performance management (APM)](https://en.wikipedia.org/wiki/Application_performance_management)
 
 * [availability (A)](https://en.wikipedia.org/wiki/Availability): every system request receives a meaningful response
 
 * [Blockchain database](https://wikipedia.org/wiki/Blockchain_(database))
 
 * [Boolean algebra](https://wikipedia.org/wiki/Boolean_algebra)
+
+* [bounded context](https://en.wikipedia.org/wiki/Domain-driven_design#Bounded_context]
 
 * [browser a.k.a. web browser](https://en.wikipedia.org/wiki/Web_browser)
 
@@ -290,13 +316,27 @@ Contents:
 
 * [CLI: call level interface](https://en.wikipedia.org/wiki/Call_Level_Interface)
 
+* [CM: content management](TODO)
+
+* [CMS: content management system](https://en.wikipedia.org/wiki/Content_management_system)
+
 * [CNAME: canonical name record](https://wikipedia.org/wiki/CNAME_record) (see DNS, IP address)
 
 * [conceptual architecture](TODO) (cf. logical architecture)
 
 * [connection pool](https://wikipedia.org/wiki/Connection_pool) 
 
+* [content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system)
+
 * [consistency (C)](https://en.wikipedia.org/wiki/Consistency_(database_systems)): all system nodes see the same data at the same time
+
+* [content management (CM)](TODO)
+
+* [core concern](https://en.wikipedia.org/wiki/Core_concern)
+
+* [cross-cutting concern](https://en.wikipedia.org/wiki/Cross-cutting_concern)
+
+* [data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 
 * [DB: database](https://en.wikipedia.org/wiki/Database)
 
@@ -322,13 +362,19 @@ Contents:
 
 * [Git: distributed version control for source code](https://wikipedia.org/wiki/Git_(software))
 
+* [globalization management system](https://en.wikipedia.org/wiki/Globalization_management_system)
+
 * [GPG: GNU Privacy Guard](https://wikipedia.org/wiki/GNU_Privacy_Guard) (cf. PGP)
 
 * [HCI: human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
 
 * [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor]: software, firmware, or hardware that creates and runs virtual machines.
 
+* [i18n: internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
+
 * [IAM: identity and access management](https://wikipedia.org/wiki/Identity_and_Access_Management)
+
+* [internationalization (i18n)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 * [invalidation](TODO)
 
@@ -336,11 +382,15 @@ Contents:
 
 * [ISO 9000](https://wikipedia.org/wiki/Iso_9000)A family of standards for quality management systems and requirements.
 
+* [l10n: localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
+
 * [LIFO: last in, first out](TODO) (a.k.a. stack, cf. FIFO, FILO, LILO)
 
 * [LILO: last inn, last out](TODO) (a.k.a. queue, cf. FIFO, FILO, LIFO)
 
 * [load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
+
+* [localization (l10n)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
 * [logical architecture](TODO) (cf. conceptual architecture)
 
@@ -350,19 +400,31 @@ Contents:
 
 * [mutual exclusion](https://wikipedia.org/wiki/Mutual_exclusion)
 
+* [naked objects](https://en.wikipedia.org/wiki/Naked_objects)
+
 * [network partition](https://en.wikipedia.org/wiki/Network_partition): a failure of a network device that causes a network to be split.
 
 * [object pool](https://wikipedia.org/wiki/Object_pool) pattern.
 
+* [object-relational mapping (ORM)](https://en.wikipedia.org/wiki/Object-relational_mapping)
+
 * [ODBC: Open Database Connectivity](https://en.wikipedia.org/wiki/Open_Database_Connectivity)
 
 * [ORDBMS: object-relational database management system](https://en.wikipedia.org/wiki/Object-relational_database_management_system)
+
+* [ORM: object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
 
 * [PACELC](?) If data has a Partition, do Availability-Consistency trade-off; Else, i.e. in normal operation, do Latency-Consistency trade-off.
 
 * [Partition-tolerance (P)](https://en.wikipedia.org/wiki/Network_partition): the system continues to operate despite arbitrary partitioning due to network failures
 
 * [PGP: Pretty Good Privacy](https://wikipedia.org/wiki/Pretty_Good_Privacy) (</a>cf. GPG)
+
+* [performance metric](https://en.wikipedia.org/wiki/Performance_metric)
+
+* [PO: plain old](https://en.wikipedia.org/wiki/Plain_Old_Java_Object)
+
+* [POJO: plain old Java object](https://en.wikipedia.org/wiki/Plain_Old_Java_Object)
 
 * [RBAC: role-based access control](https://wikipedia.org/wiki/Rbac)
 

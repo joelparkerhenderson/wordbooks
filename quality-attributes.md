@@ -2,11 +2,14 @@
 
 See [list of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
-* [accessbility](https://en.wikipedia.org/wiki/Accessibility)
-* [accessibility](https://wikipedia.org/wiki/Accessibility)
-* [accountability](TODO)
-* [accuracy](https://wikipedia.org/wiki/Accuracy)
+* [accessibility](https://en.wikipedia.org/wiki/Accessibility): qualities for people who experience disabilities.
+
+* [accountability](https://en.wikipedia.org/wiki/Accountability): qualities for answerability, annotatability, liability, and the expectation of account-giving.
+
+* [accuracy](https://wikipedia.org/wiki/Accuracy): qualities for closeness of measurements to true values.
+
 * [adaptability](https://wikipedia.org/wiki/Adaptation_(computer_science))
+
 * [administrability](TODO)
 * [affordability](https://en.wiktionary.orghttps://wikipedia.org/wiki/affordability)
 * [agility](https://wikipedia.org/wiki/Agility)

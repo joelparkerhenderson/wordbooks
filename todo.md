@@ -208,3 +208,145 @@ Useful software-related lists:
 * [VRIO](https://wikipedia.org/wiki/VRIO)
 
 * [SWOT analysis](https://wikipedia.org/wiki/SWOT_analysis)
+
+* https://en.wikipedia.org/wiki/Enterprise_search
+
+* https://en.wikipedia.org/wiki/Intranet
+
+* https://en.wikipedia.org/wiki/Enterprise_content_management
+
+* https://en.wikipedia.org/wiki/Digital_asset_management
+
+* https://en.wikipedia.org/wiki/Document_imaging
+
+* https://en.wikipedia.org/wiki/Workflow
+
+* https://en.wikipedia.org/wiki/Records_management
+
+* https://en.wikipedia.org/wiki/Governance,_risk_management,_and_compliance
+
+* https://en.wikipedia.org/wiki/Email
+
+* https://en.wikipedia.org/wiki/Database
+
+* https://en.wikipedia.org/wiki/Web_search_engine
+
+* https://en.wikipedia.org/wiki/Vertical_search
+
+* https://en.wikipedia.org/wiki/Business_intelligence
+
+* https://en.wikipedia.org/wiki/Business_analysis
+
+* https://en.wikipedia.org/wiki/Prescriptive_analytics
+
+* https://en.wikipedia.org/wiki/Online_analytical_processing
+
+* https://en.wikipedia.org/wiki/Text_mining
+
+* https://en.wikipedia.org/wiki/Business_performance_management
+
+* https://en.wikipedia.org/wiki/Process_mining
+
+* https://en.wikipedia.org/wiki/Data_mining
+
+* data dredging, data fishing, and data snooping refer to the use of data mining methods to sample parts of a larger population data set that are (or may be) too small for reliable statistical inferences to be made about the validity of any patterns discovered. These methods can, however, be used in creating new hypotheses to test against the larger data populations.
+
+* https://en.wikipedia.org/wiki/Online_public_access_catalog
+
+* https://en.wikipedia.org/wiki/Faceted_search
+
+* https://en.wikipedia.org/wiki/Faceted_classification
+
+* https://en.wikipedia.org/wiki/Comparison_and_contrast_of_classification_schemes_in_linguistics_and_metadata
+
+* https://en.wikipedia.org/wiki/ISO/IEC_11179
+
+* https://en.wikipedia.org/wiki/Data_element
+
+* https://en.wikipedia.org/wiki/Metadata_registry
+
+* https://en.wikipedia.org/wiki/Electronic_data_interchange
+
+* https://en.wikipedia.org/wiki/Serialization
+
+* https://en.wikipedia.org/wiki/Information_retrieval
+
+* https://en.wikipedia.org/wiki/Information_retrieval_applications
+
+* https://en.wikipedia.org/wiki/Venture_capital
+
+* [pretail](https://en.wikipedia.org/wiki/Pretail): a sub-category of e-commerce and online retail for introducing new products, services, and brands to market by pre-launching online, from creating an interest waitlist of signups before launch to collecting reservations or pre-orders in limited quantity before release, realization, or commercial availability
+
+* https://en.wikipedia.org/wiki/Early_adopter
+
+* https://en.wikipedia.org/wiki/Crowdfunding
+
+* https://en.wikipedia.org/wiki/Product/market_fit
+
+* https://en.wikipedia.org/wiki/Business_Model_Canvas
+
+* https://en.wikipedia.org/wiki/Strategic_management
+
+* https://en.wikipedia.org/wiki/Lean_startup
+
+* [lookbook](https://en.wikipedia.org/wiki/Lookbook):  a collection of photographs compiled to show off a model, a photographer, a style, or stylist or a clothing line. Usually, bloggers or vloggers will "model" fashionable looks for that month or season. This gives viewers ideas on how to style outfits, or to show what the latest fashions are
+
+* https://en.wikipedia.org/wiki/Fandom
+
+* https://en.wikipedia.org/wiki/Supply_chain
+
+* https://en.wikipedia.org/wiki/Value_chain
+
+* https://en.wikipedia.org/wiki/Minimum_viable_product
+
+* https://en.wikipedia.org/wiki/New_product_development
+
+* https://en.wikipedia.org/wiki/Distribution_(business)
+
+* https://en.wikipedia.org/wiki/Business_networking
+
+* https://en.wikipedia.org/wiki/Market_segmentation
+
+* https://en.wikipedia.org/wiki/Value_proposition
+
+* https://en.wikipedia.org/wiki/Strategic_management
+
+* https://en.wikipedia.org/wiki/Customer_experience
+
+* https://en.wikipedia.org/wiki/Analytics
+
+* https://en.wikipedia.org/wiki/Anomaly_detection
+
+* https://en.wikipedia.org/wiki/Association_rule_learning
+
+* https://en.wikipedia.org/wiki/Bi-directional_text
+
+* https://en.wikipedia.org/wiki/Website_localization
+
+* https://en.wikipedia.org/wiki/Separation_of_concerns
+
+* https://en.wikipedia.org/wiki/Pseudolocalization
+
+* https://en.wikipedia.org/wiki/Language_localisation
+
+* https://en.wikipedia.org/wiki/Language_code
+
+* https://en.wikipedia.org/wiki/Version_control
+
+* https://en.wikipedia.org/wiki/Specification_(technical_standard)
+
+* https://en.wikipedia.org/wiki/Spamming
+
+* https://en.wikipedia.org/wiki/Timestamp
+
+* SOE: sequence of events 
+
+* https://en.wikipedia.org/wiki/Data_logger
+
+* [UTC: Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)
+
+* https://en.wikipedia.org/wiki/Spreadsheet
+
+* https://en.wikipedia.org/wiki/Web_content_management_system
+
+

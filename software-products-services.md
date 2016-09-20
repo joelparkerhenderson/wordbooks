@@ -53,7 +53,11 @@ Contents:
 
 * [Accumulo](https://en.wikipedia.org/wiki/Apache_Accumulo): Apache Accumulo secure distributed database (cf. Hadoop)
 
+* [Adobe Marketing Cloud](http://www.adobe.com/marketing-cloud.html])
+
 * [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database): database
+
+* [ATG Web Commerce](https://en.wikipedia.org/wiki/Art_Technology_Group): web server that enables personalized online buying experience for each customer on a website.
 
 * [Berkeley DB](https://en.wikipedia.org/wiki/Berkeley_db): database
 
@@ -65,9 +69,13 @@ Contents:
 
 * [Druid](https://en.wikipedia.org/wiki/Druid_(open-source_data_store)): open-source data store
 
+* [Dynatrace](https://en.wikipedia.org/wiki/Dynatrace): application performance management (APM) software.
+
 * [EC2: Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 
 * [Elastic Beanstalk](https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk): AWS PaaS
+
+* [Endeca](https://en.wikipedia.org/wiki/Endeca): eCommerce search, Customer Experience Management, enterprise search and business intelligence.
 
 * [falcor](https://github.com/Netflix/falcor)
 
@@ -98,6 +106,8 @@ Contents:
 * [MySQL](https://en.wikipedia.org/wiki/MySQL): open-source relational database management system
 
 * [Nginx](https://en.wikipedia.org/wiki/Nginx): asynchronous event-driven web server
+
+* [Omniture](https://en.wikipedia.org/wiki/Omniture): online marketing and web analytics, by Adobe.
 
 * [PCF: Pivotal Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal
 
