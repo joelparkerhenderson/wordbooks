@@ -197,6 +197,10 @@ Contents:
 
 * [BPMN: business process model and notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
 
+* [business logic](https://en.wikipedia.org/wiki/Business_logic)
+
+* [business object](https://en.wikipedia.org/wiki/Business_object)
+
 * [CCPM: critical chain project management](https://wikipedia.org/wiki/Critical_chain_project_management) (cf. TOC: Theory Of Constraints)
 
 * [CM: change management](https://en.wikipedia.org/wiki/Change_management): any approach to transitioning individuals or teams that significantly reshape an organization.

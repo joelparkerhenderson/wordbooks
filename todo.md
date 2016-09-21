@@ -349,4 +349,237 @@ Useful software-related lists:
 
 * https://en.wikipedia.org/wiki/Web_content_management_system
 
+* https://en.wikipedia.org/wiki/Client%E2%80%93server_model
+
+* https://en.wikipedia.org/wiki/Architectural_pattern
+
+* https://en.wikipedia.org/wiki/Application_server
+
+* https://en.wikipedia.org/wiki/Graphical_user_interface
+
+* https://en.wikipedia.org/wiki/Software_framework
+
+* https://en.wikipedia.org/wiki/Inversion_of_control
+
+* https://en.wikipedia.org/wiki/Extensibility
+
+* [decision support system (DSS)](https://en.wikipedia.org/wiki/Decision_support_system)
+
+* https://en.wikipedia.org/wiki/Knowledge-based_systems
+
+* https://en.wikipedia.org/wiki/Knowledge_base
+
+* https://en.wikipedia.org/wiki/Unstructured_data
+
+* https://en.wikipedia.org/wiki/Tag_(metadata)
+
+* https://en.wikipedia.org/wiki/Data_model
+
+* https://en.wikipedia.org/wiki/Concurrent_user
+
+* https://en.wikipedia.org/wiki/Ontology_(information_science)
+
+* https://en.wikipedia.org/wiki/Knowledge_base
+
+* [enterprise architecture framework (EAF)](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+
+* https://en.wikipedia.org/wiki/Enterprise_architecture
+
+* [EABOK: Enterprise Architecture Body of Knowledge](https://en.wikipedia.org/wiki/Enterprise_Architecture_Body_of_Knowledge)
+
+* https://en.wikipedia.org/wiki/Architecture_framework
+
+* [MODAF: British Ministry of Defence Architecture Framework](https://en.wikipedia.org/wiki/MODAF)
+
+* https://en.wikipedia.org/wiki/The_Open_Group_Architecture_Framework
+
+* [4+1 architectural view model](https://en.wikipedia.org/wiki/4%2B1_architectural_view_model): logical view, development view, process view, physical view, cenarios
+  
+* [Reference Model of Open Distributed Processing (RM-ODP)(https://en.wikipedia.org/wiki/RM-ODP)
+
+* https://en.wikipedia.org/wiki/Reference_model
+
+* [Organization for the Advancement of Structured Information Standards (OASIS)](https://en.wikipedia.org/wiki/OASIS_(organization))
+
+* [AMQP: Advanced Message Queuing Protocol](https://wikipedia.org/wiki/Advanced_Message_Queuing_Protocol): an application layer protocol for message-oriented middleware.
+* [authentication](https://wikipedia.org/wiki/Authentication)
+* [authorziation](https://wikipedia.org/wiki/Authorization)
+* [BPEL: Business Process Execution Language](https://wikipedia.org/wiki/Business_Process_Execution_Language)
+* [CAM: Content Assembly Mechanism](https://wikipedia.org/wiki/Content_Assembly_Mechanism): a generalized assembly mechanism for using templates of XML business transaction content and the associated rules. CAM templates augment schema syntax and provide implementers with the means to specify interoperable interchange patterns.
+* [CAMP: Cloud_Application_Management_for_Platforms](https://wikipedia.org/wiki/Cloud_Application_Management_for_Platforms): an API for managing public and private cloud applications.
+* [CAP: Common Alerting Protocol](https://wikipedia.org/wiki/Common_Alerting_Protocol): an XML-based data format for exchanging public warnings and emergencies between alerting technologies.
+* [CIQ: Customer Information Quality](https://wikipedia.org/wiki/EDXL#Customer_Information_Quality): an XML Specifications for defining, representing, interoperating and managing party information (e.g. name, address).
+* [CMIS: Content Management Interoperability Services](https://wikipedia.org/wiki/Content_Management_Interoperability_Services): a domain model and Web services standard for working with Enterprise content management repositories and systems.
+* [DSS: Digital Signature Services](https://wikipedia.org/wiki/Digital_Signature_Services)
+* [DocBook](https://wikipedia.org/wiki/DocBook): markup language for technical documentation.
+* [DITA: Darwin Information Typing Architecture](https://wikipedia.org/wiki/Darwin_Information_Typing_Architecture): a modular and extensible XML-based language for topic-based information, such as for online help, documentation, and training.
+* [DSML: Directory Services Markup Language](https://wikipedia.org/wiki/Directory_Services_Markup_Language)
+* [ebXML](https://wikipedia.org/wiki/EbXML)
+* [EDXL: Emergency Data Exchange Language](https://wikipedia.org/wiki/EDXL): suite of XML-based messaging standards that facilitate emergency information sharing between government entities and the full range of emergency-related organizations.
+* [EML: Election Markup Language](https://wikipedia.org/wiki/Election_Markup_Language): end to end information standards and processes for conducting democratic elections using XML-based information recording.
+* [GeoXACML: Geospatial eXtensible Access Control Markup Language](https://wikipedia.org/wiki/GeoXACML): a geo-specific extension to XACML, mainly the geometric data-type and several geographic functions such as topological, bag, set, geometric and conversion functions.
+* [KMIP: Key Management Interoperability Protocol](https://wikipedia.org/wiki/Key_Management_Interoperability_Protocol):  tries to establish a single, comprehensive protocol for the communication between enterprise key management systems and encryption systems.
+* [Legal XML](https://wikipedia.org/wiki/Legal_XML): an XML specification for law, electronic court filing, and eNotarization standards.
+* [ML: machine learning](https://wikipedia.org/wiki/Machine_learning)
+* [ML: markup langauge](https://wikipedia.org/wiki/Markup_language)
+* [oBIX: open Building Information Exchange](https://wikipedia.org/wiki/OBIX): an extensible XML specification for enterprise interaction with building-based (or other) control systems, including HVAC, Access Control, Intrusion Detection, and many others.
+* [OpenDocument: OASIS Open Document Format for Office Applications](https://wikipedia.org/wiki/OpenDocument): an open document file format for saving office documents such as spreadsheets, memos, charts, and presentations.
+* [OSLC: Open Services for Lifecycle Collaboration](https://wikipedia.org/wiki/OSLC): develops standards for software lifecycle tools to share data with one another. 
+* [SAML: Security Assertion Markup Language](https://wikipedia.org/wiki/Security_Assertion_Markup_Language): a standard XML-based framework for the secure exchange of <a href="/wiki/Authentication" title="Authentication">authentication</a> and <a href="/wiki/Authorization" title="Authorization">authorization](https://wikipedia.org/wiki/Security_Assertion_Markup_Language) information.
+* [SDD: Solution Deployment Descriptor](https://wikipedia.org/wiki/Solution_Deployment_Descriptor)
+* [SOAP-over-UDP](https://wikipedia.org/wiki/SOAP-over-UDP)
+* [SPML: Service Provisioning Markup Language](https://wikipedia.org/wiki/Service_Provisioning_Markup_Language)
+* [TOSCA](https://wikipedia.org/wiki/OASIS_TOSCA)
+* [UBL: Universal Business Language](https://wikipedia.org/wiki/Universal_Business_Language)
+* [UDDI: Universal Description Discovery and Integration](https://wikipedia.org/wiki/Universal_Description_Discovery_and_Integration)
+* [WSDM: Web Services Distributed Management](https://wikipedia.org/wiki/Web_Services_Distributed_Management)
+* [XRI: Extensible Resource Identifier](https://wikipedia.org/wiki/Extensible_Resource_Identifier)
+* [XDI](https://wikipedia.org/wiki/XDI)
+* [WS-BPEL](https://wikipedia.org/wiki/Business_Process_Execution_Language)
+* [WSRF](https://wikipedia.org/wiki/Web_Services_Resource_Framework)
+* [WSS](https://wikipedia.org/wiki/WS-Security)
+* [XACML](https://wikipedia.org/wiki/XACML)
+
+* [SDD</a> — <b>Solution Deployment Descriptor</b>, a standard <a href="/wiki/XML" title="XML">XML](https://wikipedia.org/wiki/Solution_Deployment_Descriptor)-based schema defining a standardized way to express software installation characteristics required for lifecycle management in a multi-platform environment.
+* [SPML</a> — <b>Service Provisioning Markup Language</b>, a standard <a href="/wiki/XML" title="XML">XML</a>-based protocol for the integration and interoperation of <a href="/wiki/Provisioning#Service_provisioning" title="Provisioning">service provisioning](https://wikipedia.org/wiki/SPML) requests.
+* [TOSCA](https://wikipedia.org/wiki/OASIS_TOSCA) — <b>Topology and Orchestration Specification for Cloud Applications</b>, a Standard to describe cloud services, the relationships between parts of the service, and the operational behavior of the services.
+* [UBL](https://wikipedia.org/wiki/Universal_Business_Language) — <b>Universal Business Language</b>, National effort to define a royalty-free library of standard electronic XML business documents. All invoices to the Danish government have to be in UBL electronic format since February 2005.
+* [UDDI</a> — <b>Universal Description Discovery and Integration</b>, a <a href="/wiki/Platform-independent" class="mw-redirect" title="Platform-independent">platform-independent</a>, <a href="/wiki/Extensible_Markup_Language" class="mw-redirect" title="Extensible Markup Language">XML</a>-based registry for companies and individuals to list <a href="/wiki/Web_Services" class="mw-redirect" title="Web Services">Web Services](https://wikipedia.org/wiki/Universal_Description_Discovery_and_Integration).
+* [WebCGM</a> — <b>Web Computer Graphics Metafile</b>, a profile of <a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">Computer Graphics Metafile](https://wikipedia.org/wiki/Computer_Graphics_Metafile) (CGM), which adds Web linking and is optimized for Web applications in technical illustration, electronic documentation, geophysical data visualization, and similar fields.
+* [WS-BPEL](https://wikipedia.org/wiki/WS-BPEL) — <b>Web Services Business Process Execution Language</b>
+* [WSDM](https://wikipedia.org/wiki/Web_Services_Distributed_Management) — <b>Web Services Distributed Management</b>
+* [XACML</a> — <b>eXtensible Access Control Markup Language</b>, a standard <a href="/wiki/XML" title="XML">XML](https://wikipedia.org/wiki/XACML)-based protocol for access control policies.
+* [XDI</a> — <b>XRI Data Interchange</b>, a standard for sharing, linking, and synchronizing data ("<a href="/wiki/Data_Web" title="Data Web">dataweb</a>") across multiple domains and applications using <a href="/wiki/XML" title="XML">XML</a> documents, eXtensible Resource Identifiers (XRIs), and a new method of distributed data control called a <a href="/wiki/Link_contract" title="Link contract">link contract](https://wikipedia.org/wiki/XDI).
+* [XLIFF</a> — <b>XML Localization Interchange File Format</b>, a <a href="/wiki/XML" title="XML">XML</a>-based format created to standardize <a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">localization](https://wikipedia.org/wiki/XLIFF).
+* [XRI</a> — <b>eXtensible Resource Identifier</b>, a <a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier">URI](https://wikipedia.org/wiki/XRI)-compatible scheme and resolution protocol for abstract identifiers used to identify and share resources across domains and applications.
+
+* A18N: Andressen Horowitz
+
+* https://en.wikipedia.org/wiki/Graphical_user_interface
+
+* https://en.wikipedia.org/wiki/Command-line_interface
+
+* https://en.wikipedia.org/wiki/Learning_curve
+
+* https://en.wikipedia.org/wiki/Middleware_(distributed_applications)
+
+* https://en.wikipedia.org/wiki/Application_programming_interface
+
+* [DAL: data access layer](https://en.wikipedia.org/wiki/Data_access_layer)
+
+* [DAO: data access object](https://en.wikipedia.org/wiki/Data_access_object)
+
+* [database abstraction layer]https://en.wikipedia.org/wiki/Database_abstraction_layer
+
+* https://en.wikipedia.org/wiki/Business_logic
+
+* https://en.wikipedia.org/wiki/Business_rules_approach
+
+* https://en.wikipedia.org/wiki/Domain_model
+
+* https://en.wikipedia.org/wiki/Magic_pushbutton
+
+* https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
+
+* https://en.wikipedia.org/wiki/Orthogonality#Computer_science
+
+* https://en.wikipedia.org/wiki/Aspect_(computer_programming)
+
+* https://en.wikipedia.org/wiki/Regression_testing
+
+* https://en.wikipedia.org/wiki/Pointcut
+
+* https://en.wikipedia.org/wiki/Join_point
+
+* [CQS: command–query separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
+
+* [CQRS: command–query responsibility segregation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Segregation
+
+* [DbC: design by contract](https://en.wikipedia.org/wiki/Design_by_contract)
+
+* https://en.wikipedia.org/wiki/Precondition
+
+* https://en.wikipedia.org/wiki/Postcondition
+
+* https://en.wikipedia.org/wiki/Assertion_(software_development)
+
+* https://en.wikipedia.org/wiki/Invariant_(computer_science)
+
+* https://en.wikipedia.org/wiki/Conceptual_metaphor
+
+* https://en.wikipedia.org/wiki/Business_object
+
+* https://en.wikipedia.org/wiki/Anemic_domain_model
+
+* https://en.wikipedia.org/wiki/Anti-pattern
+
+* [ES: event sourcing](https://en.wikipedia.org/wiki/Event_Sourcing)
+
+* https://en.wikipedia.org/wiki/Database-centric_architecture
+
+* https://en.wikipedia.org/wiki/Front_and_back_ends
+
+* https://en.wikipedia.org/wiki/Hierarchical_internetworking_model
+
+* https://en.wikipedia.org/wiki/Open_Services_Access
+
+* [RIA: Rich internet application](https://en.wikipedia.org/wiki/Rich_Internet_application)
+
+* https://en.wikipedia.org/wiki/Sandbox_(computer_security)
+
+* https://en.wikipedia.org/wiki/Virtual_machine
+
+* https://en.wikipedia.org/wiki/Plug-in_(computing)
+
+* https://en.wikipedia.org/wiki/Service_layer
+
+* https://en.wikipedia.org/wiki/Web_application
+
+* https://en.wikipedia.org/wiki/Load_balancing_(computing)
+
+* https://en.wikipedia.org/wiki/Channel_bonding
+  
+* https://en.wikipedia.org/wiki/Multilayered_architecture
+
+* [prod: production](TODO): such as "prod env" meaning "production environment".
+
+* [dev: developer, developing, development](TODO): such as "dev env" meaning "development environment".
+
+* [stag: staging](TODO): such as "stag env" meaning "staging environment".
+
+* UA: user acceptance
+
+* UAT: user acceptance test
+
+* QA: quality assurance
+
+* SQA: software quality assurance
+
+* BD: business development
+
+* biz dev: business development
+
+* MKT: marketing
+
+* IT: information technology
+
+* SUT: system under test
+
+* OP: operation
+
+* OP: original poster
+
+* VC: venture capital
+
+* cap table: capitalization table of finances
+
+* PPMO: project portfolio management office
+
+* stem-to-stern
+
+* concept-to-cash
+
+* idea-to-insight
+
+* cradle-to-grave
 

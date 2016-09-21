@@ -252,6 +252,8 @@ Contents:
 
 * [procedural programming](https://en.wikipedia.org/wiki/Procedural_programming)
 
+* [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
+
 * [scrum (software development](https://wikipedia.org/wiki/Lean_software_development)
 
 * [software engineering](https://wikipedia.org/wiki/Software_engineering)
@@ -398,6 +400,8 @@ Contents:
 
 * [microservices](https://en.wikipedia.org/wiki/Microservices)
 
+* [multitier architecture](https://en.wikipedia.org/wiki/Multitier_architecture) (a.k.a. n-tier architecture)
+
 * [mutual exclusion](https://wikipedia.org/wiki/Mutual_exclusion)
 
 * [naked objects](https://en.wikipedia.org/wiki/Naked_objects)
@@ -441,6 +445,8 @@ Contents:
 * [SCM: source code management](https://wikipedia.org/wiki/Source_code_management)
 
 * [Shibboleth single sign on system](https://wikipedia.org/wiki/Shibboleth_(Internet2))
+
+* [side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
 
 * [SOA: resource oriented architecture](https://wikipedia.org/wiki/Service-oriented_architecture) (cf. REST)
 
