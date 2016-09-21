@@ -43,7 +43,9 @@ Contents:
 
 * [Pivotal](https://pivotal.com)
 
-* [RichRelevance](http://www.richrelevance.com/): omnichannel ecommerce recommendations
+* [RichRelevance](http://www.richrelevance.com/): omnichannel ecommerce recommendations.
+
+* [ShopRunner](https://www.shoprunner.com/): seamless shopping and checkout on mobile devices.
 
 * [Tealium](http://tealium.com/): customer data platform to build a unified customer view in real time.
 
