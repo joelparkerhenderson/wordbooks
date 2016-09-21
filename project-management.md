@@ -139,6 +139,8 @@ Contents:
 
 <a href="responsbility-assignment-matrix-ram">Responsbility Assigment Matrix (RAM)</a>
 
+* [RACI: responsible, accountable, consulted, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+
 * [PACSI: perform, accountable, control, suggest, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 
 * [RASCI: responsible, accountable, support, control, informed](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
