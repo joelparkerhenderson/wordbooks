@@ -1,4 +1,4 @@
-# Software products/services
+# Software companies, products, services
 
 Contents:
 
@@ -11,6 +11,8 @@ Contents:
 * [Cloud as a Service](#cloud-as-a-service-computing)
 
 * [Web Frameworks](#web-frameworks)
+
+* [Mac software](#mac)
 
 
 <h2><a name="companies">Companies</a></h2>
@@ -221,3 +223,30 @@ comprehensive content management solution for building websites, mobile apps, an
 * [SaaS: software as a service](https://en.wikipedia.org/wiki/Software_as_a_service)
 
 
+<h2><a name="mac">Mac software</a></h2>
+
+* [bropages](http://bropages.org/): concise examples of using command line programs.
+
+* [Charles](https://www.charlesproxy.com/): enables a developer to view HTTP traffic between their machine and the internet.
+
+* [Disk Inventory X](http://www.derlien.com/): disk usage utility for Mac that shows sizes of files and folders in a treemap.
+
+* [Fugu](https://en.wikipedia.org/wiki/Fugu_(software)): a graphical shell for SSH and FTP.
+
+* [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_management_software)) package management software for Mac.
+
+* [iWork](https://en.wikipedia.org/wiki/IWork) Apple iWork office suite, including Numbers, Pages, Keynote.
+
+* [Jazzy](https://github.com/realm/jazzy): generates documentation for Swift or Objective-C.
+
+* [LaTeX](https://www.latex-project.org/): document preparation system with high-quality typesetting.
+
+* [Pandoc](http://pandoc.org/): convert files from one markup format into another.
+
+* [Shuttle](http://fitztrev.github.io/shuttle/): simple SSH shortcut menu for Mac.
+
+* [SourceTree](https://www.sourcetreeapp.com/)graphical client for Mercurial and Git version control.
+
+* [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html): archive unpacker program for Mac.
+
+* [Xmind](https://en.wikipedia.org/wiki/XMind): mind mapping and brainstorming software
