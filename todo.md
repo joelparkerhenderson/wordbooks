@@ -583,3 +583,88 @@ Useful software-related lists:
 
 * cradle-to-grave
 
+* https://en.wikipedia.org/wiki/Storage_(memory)
+
+* https://en.wikipedia.org/wiki/Operating_system
+
+* https://en.wikipedia.org/wiki/Database
+
+* https://en.wikipedia.org/wiki/SMART_criteria
+
+* https://en.wikipedia.org/wiki/Server_(computing)
+
+* https://en.wikipedia.org/wiki/Client_(computing)
+
+* https://en.wikipedia.org/wiki/Computing_platform
+
+* https://en.wikipedia.org/wiki/Category:Cloud_computing_providers
+
+* https://en.wikipedia.org/wiki/Software_system
+
+* https://en.wikipedia.org/wiki/Systems_architecture
+
+* https://en.wikipedia.org/wiki/Cloud_engineering
+
+* https://en.wikipedia.org/wiki/Cloud_API
+
+* https://en.wikipedia.org/wiki/Representational_state_transfer
+
+* https://en.wikipedia.org/wiki/SOAP
+
+* https://en.wikipedia.org/wiki/Mobile_backend_as_a_service
+
+* https://en.wikipedia.org/wiki/Desktop_virtualization#Desktop_as_a_Service
+
+* https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29
+
+* https://en.wikipedia.org/wiki/Content_management
+
+* https://en.wikipedia.org/wiki/Recruitment
+
+* [Knowledge, skills, abilities and other characteristics (KSAOs)](https://en.wikipedia.org/wiki/Job_analysis#Knowledge.2C_skills.2C_abilities_and_other_characteristics_.28KSAOs.29)
+
+* https://en.wikipedia.org/wiki/Antivirus_software
+
+* https://en.wikipedia.org/wiki/Serverless_computing
+
+* [Developing a Curriculum (DACUM)](TODO): a process to conduct a job analysis by using observation, interviews, critical incidents and work diaries, questionnaires and surveys, a Position Analysis Questionnaire (PAQ), and checklists.
+
+* SME: subject matter expert
+
+* https://en.wikipedia.org/wiki/Applicant_tracking_system
+
+* https://en.wikipedia.org/wiki/Human_resource_management
+
+* https://en.wikipedia.org/wiki/Enterprise_resource_planning
+
+* https://en.wikipedia.org/wiki/Management_information_system
+
+* https://en.wikipedia.org/wiki/Customer_relationship_management
+
+* https://en.wikipedia.org/wiki/Collaborative_software
+
+* https://en.wikipedia.org/wiki/Accounting_software
+
+* https://en.wikipedia.org/wiki/Virtualization
+
+* https://en.wikipedia.org/wiki/Gamification
+  
+* https://en.wikipedia.org/wiki/Cloud_computing#Deployment_models
+
+* https://en.wikipedia.org/wiki/Edge_computing
+
+* https://en.wikipedia.org/wiki/Robot_as_a_service
+
+* https://en.wikipedia.org/wiki/Service-oriented_architecture
+
+* https://en.wikipedia.org/wiki/Ubiquitous_computing
+
+* https://en.wikipedia.org/wiki/Haptic_technology
+
+* https://en.wikipedia.org/wiki/Web_Services_Description_Language
+
+* https://en.wikipedia.org/wiki/Personal_cloud
+
+* https://en.wikipedia.org/wiki/Cloud_storage
+
+* https://en.wikipedia.org/wiki/Platform_as_a_service
