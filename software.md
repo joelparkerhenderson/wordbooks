@@ -328,6 +328,8 @@ Contents:
 
 * [DBMS: database management system](https://en.wikipedia.org/w/index.php?title=Database_management_system)
 
+* [design thinking](TODO): the discipline that uses the designer’s sensibility and methods to match people’s needs with what is feasible and valuable.
+
 * [digital signature](https://wikipedia.org//wiki/Digital_signature)
 
 * [DKIM: DomainKeys identified mail](https://wikipedia.org/wiki/DomainKeys_Identified_Mail) (cf. DMARC, SPF)
@@ -339,6 +341,8 @@ Contents:
 * [DNSBL: DNS-based blackhole list](https://wikipedia.org/wiki/DNSBL) (a.k.a. RBL)
 
 * [ECM: enterprise content management](https://en.wikipedia.org/wiki/Enterprise_content_management)
+
+* [ESB: enterprise service bus](https://en.wikipedia.org/wiki/Enterprise_service_bus)
 
 * [fat client](https://en.wikipedia.org/wiki/Fat_client) (cf. thin client)
 

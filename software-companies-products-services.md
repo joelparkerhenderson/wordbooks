@@ -19,6 +19,8 @@ Contents:
 
 * [Bloomreach[(http://bloomreach.com/): understand shopper intent and match it with products, using natural language processing and machine learning.
 
+* [Distil Networks](http://www.distilnetworks.com/): blocks bots and stop web scraping.
+
 * [Dynatrace](https://en.wikipedia.org/wiki/Dynatrace): application performance management (APM) software.
 
 * [ForgeRock](https://www.forgerock.com/): identity and access management (IAM) and passwordless authentication.
@@ -43,6 +45,8 @@ Contents:
 
 * [RichRelevance](http://www.richrelevance.com/): omnichannel ecommerce recommendations
 
+* [Tealium](http://tealium.com/): customer data platform to build a unified customer view in real time.
+
 * [ThoughtWorks](https://thoughtworks.com)
 
 
@@ -54,6 +58,8 @@ Contents:
 
 * [Adobe Experience Manager (AEM)](http://www.adobe.com/marketing-cloud/enterprise-content-management.html)
 comprehensive content management solution for building websites, mobile apps, and forms
+
+* [Adobe Target](http://www.adobe.com/marketing-cloud/testing-targeting.html): enables data-driven marketers to experiment and create high-converting personalized experiences.
 
 * [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database): database
 
@@ -108,6 +114,8 @@ comprehensive content management solution for building websites, mobile apps, an
 * [Hystrix](https://github.com/Netflix/Hystrix): a library to isolate remote systems, stop cascading failure, and enable resilience in distributed systems.
 
 * [JBoss](http://developers.redhat.com/products/eap/overview/): RedHat JBoss Enterprise Application Platform application server.
+
+* [LMX: LMX Trading Strategies](http://www.thisnewyorklife.com/portfolio/lmx.htm): A global suite of algorithmic trade order execution strategies by Lehman Brothers.
 
 * [Managed Kona Site Defender Service](https://www.akamai.com/us/en/solutions/products/services-support/managed-kona-site-defender-service.jsp): security management, monitoring, and threat mitigation by Akamai Security experts.
 

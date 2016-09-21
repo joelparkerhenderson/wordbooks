@@ -726,6 +726,14 @@ Useful software-related lists:
 
 * https://en.wikipedia.org/wiki/Group_(computing)
 
+* https://en.wikipedia.org/wiki/Website_monitoring
 
+* PCI
+
+* PII
+
+* https://en.wikipedia.org/wiki/Use_case
+
+* https://en.wikipedia.org/wiki/Unified_Modeling_Language
 
 

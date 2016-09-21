@@ -43,7 +43,7 @@ Glossary:
 * [goal](?): a measure of something you want to track in analytics, that you define as a success
 * [Google Analytics](?): Free service offering a simple way to track metrics on a site.
 * [head match](?): a match on the characters you specify as the beginning of a string
-* [hero shot](TODO): an image of an your offer that shows how your product or service works, so your prospects can picture themselves using it.
+* [hero shot](TODO): a promotional image that shows how a product/service works, so prospects can picture themselves using it.
 * [IAP: in-app purchase](TODO)
 * [impression](?): The display of a referral link or advertisement on a web page.
 * [in-app purchase (IAP)](TODO)

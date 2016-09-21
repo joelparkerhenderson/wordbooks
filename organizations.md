@@ -1,5 +1,14 @@
 # Organizations
 
+Contents:
+
+* [Miscellaneous](#misc)
+
+* [Titles](#titles)
+
+
+<h2><a name="misc">Miscellaneous</a></h2>
+
 * [best practice](https://en.wikipedia.org/wiki/Best_practice)
 
 * [customer experience (CX)](TODO)
@@ -17,6 +26,8 @@
 * [CX: Customer Experience](TODO)
 
 * [Globalization](https://en.wikipedia.org/wiki/Globalization)
+
+* [LMX: leader–member exchange theory](https://en.wikipedia.org/wiki/Leader%E2%80%93member_exchange_theory): a relationship-based approach to leadership that focuses on the two-way (dyadic) relationship between leaders and followers
 
 * [management by objectives (MBO)](https://en.wikipedia.org/wiki/Management_by_objectives)
 
@@ -45,6 +56,24 @@
 * [TQM: total quality management)](https://en.wikipedia.org/wiki/Total_quality_management)
 
 * [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in)
+
+
+<h2><a name="titles">Titles</a></h2>
+
+* CIO: Chief Information Officer
+
+* CMO: Chief Marketing Officer
+
+* CTO: Chief Technology Officer
+
+* EVP: Executive Vice President
+
+* GM: General Manager
+
+* VP: Vice President
+
+
+
 
 
 
