@@ -14,12 +14,13 @@ Suggestions, comments, and pull requests are welcome.
 
 Software consulting:
 
+  * [Access Control](access-control.md)
   * [Analytics](analytics.md)
   * [Measurement](measurement.md)
   * [Organizations](organizations.md)
   * [Project management](project-management.md)
   * [Software](software.md)
-  * [Software products/services](software-products-services.md)
+  * [Software companies, products, services](software-companies-products-services.md)
   * [Software design patterns](software-design-patterns.md)
   * [Quality Attributes](quality-attributes.md)
   * [Statistics](statistics.md)
@@ -47,8 +48,8 @@ Industries:
 ## Tracking
 
 * Package: demo_wordbooks
-* Version: 3.0.0
+* Version: 3.1.0
 * Created: 2014-01-01
-* Updated: 2016-09-18
+* Updated: 2016-09-21
 * License: BSD, MIT, GPL
 * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)

@@ -112,24 +112,6 @@ Contents:
 
 * [AWS: Amazon Web Services](https://wikipedia.org/wiki/Amazon_Web_Services): (see EC2, S3, Route 53)
 
-* [GitHub](https://github.com)
-
-* [GitLab](https://gitlab.com)
-
-* [Heroku](https://heroku.com)
-
-* [Microsoft](https://microsoft.com)
-
-* [IBM](https://ibm.com)
-
-* [Netflix](https://netflix.com)
-
-* [Oracle](https://oracle.com)
-
-* [Pivotal](https://pivotal.com)
-
-* [ThoughtWorks](https://thoughtworks.com)
-
 
 <a name="programming-languages">Programming languages</a>:
 
@@ -340,6 +322,8 @@ Contents:
 
 * [data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 
+* [data grid](https://en.wikipedia.org/wiki/Data_grid): architecture and services to enable geographically distributed data and caching.
+
 * [DB: database](https://en.wikipedia.org/wiki/Database)
 
 * [DBMS: database management system](https://en.wikipedia.org/w/index.php?title=Database_management_system)
@@ -353,6 +337,8 @@ Contents:
 * [DNS: domain name system](https://wikipedia.org/wiki/Domain_Name_System) (see CNAME, IP address)
 
 * [DNSBL: DNS-based blackhole list](https://wikipedia.org/wiki/DNSBL) (a.k.a. RBL)
+
+* [ECM: enterprise content management](https://en.wikipedia.org/wiki/Enterprise_content_management)
 
 * [fat client](https://en.wikipedia.org/wiki/Fat_client) (cf. thin client)
 
@@ -399,6 +385,10 @@ Contents:
 * [loose coupling](https://wikipedia.org/wiki/Loose_coupling)
 
 * [microservices](https://en.wikipedia.org/wiki/Microservices)
+
+* [MLS: multiple levels of security (MLS)](https://en.wikipedia.org/wiki/Multilevel_security)
+
+* [multilevel security a.k.a. multiple levels of security (MLS)](https://en.wikipedia.org/wiki/Multilevel_security)
 
 * [multitier architecture](https://en.wikipedia.org/wiki/Multitier_architecture) (a.k.a. n-tier architecture)
 
@@ -459,6 +449,8 @@ Contents:
 * [SSO: single sign-on](https://wikipedia.org/wiki/Single_sign-on)
 
 * [subclass](https://wikipedia.org/wiki/Subclass_(computer_science))
+
+* [synthetic monitoring](https://en.wikipedia.org/wiki/Synthetic_monitoring): (also known as active monitoring or proactive monitoring) is website monitoring that is done using a web browser emulation or scripted recordings of web transactions.
 
 * [thin client](https://en.wikipedia.org/wiki/Thin_client) (cf. fat client)
 

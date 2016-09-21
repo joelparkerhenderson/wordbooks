@@ -69,6 +69,7 @@ Glossary:
 * [limited line](TODO): describes a department store that carries a limited amount of merchandise.
 * [link sales](TODO): placing a product next to another to encourage the customer to buy more than one product.
 * [logical adjacencies](TODO):  store layout follows a logical sequence e.g. how a customer would use a product.
+* [lookbook](https://en.wikipedia.org/wiki/Lookbook):  a collection of photographs compiled to show off a model, a photographer, a style, or stylist or a clothing line. Usually, bloggers or vloggers will "model" fashionable looks for that month or season. This gives viewers ideas on how to style outfits, or to show the latest fashions.
 * [merchandising plan](TODO):  A strategy for actual and projected sales for a specific period of time. 
 * [merchandising strategy](TODO): the plan you have for positioning which product where.
 * [merger](TODO):  The combining of two or more retail organizations into one company. 
@@ -116,6 +117,7 @@ Glossary:
 * [service with accompanying products](TODO):  A product/service mix in which a service is the primary offering, and products are offered to accompany and augment the service. 
 * [service](TODO):  A product/service mix that offers only a service, with no accompanying product needed or wanted, such as an insurance policy. 
 * [services](TODO):  Intangible items for purchase.
+* [SKU: stock keeping unit](https://en.wikipedia.org/wiki/Stock_keeping_unit): an item or group of related items in a unit control inventory system. 
 * [shoplifting detection wafer](TODO):  A small device attached to goods, especially clothing, that sets off an alarm if it leaves the store. 
 * [shopping items](TODO):  Durable goods that require a great deal of comparison before purchase, such as appliances and furniture. 
 * [soft line](TODO):  Describes textile products. 
@@ -123,7 +125,7 @@ Glossary:
 * [specialty store](TODO):  A store that specializes in selling a specific kind of product. 
 * [specification buying](TODO):  Demands made by retailers and wholesalers to manufacturers of the products they sponsor and sell. 
 * [staples](TODO):  Products that are purchased routinely for everyday use, with little decision-making, and that must be in stock at all times, such as cleaning supplies and food. 
-* [stockkeeping unit (sku) ](TODO): Each item or group of related items in a unit control inventory system. 
+* [stock keeping unit (sku)](https://en.wikipedia.org/wiki/Stock_keeping_unit): an item or group of related items in a unit control inventory system. 
 * [store operations](TODO):  Includes all functions of operating a store except merchandising, such as customer service, protection, maintenance, and distribution. 
 * [string ticket](TODO):  A pricing ticket attached with a piece of string. 
 * [supportive services](TODO):  Free services offered to customers to increase convenience and entice buying more. 

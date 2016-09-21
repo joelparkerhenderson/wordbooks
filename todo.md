@@ -289,7 +289,6 @@ Useful software-related lists:
 
 * https://en.wikipedia.org/wiki/Lean_startup
 
-* [lookbook](https://en.wikipedia.org/wiki/Lookbook):  a collection of photographs compiled to show off a model, a photographer, a style, or stylist or a clothing line. Usually, bloggers or vloggers will "model" fashionable looks for that month or season. This gives viewers ideas on how to style outfits, or to show what the latest fashions are
 
 * https://en.wikipedia.org/wiki/Fandom
 
@@ -668,3 +667,65 @@ Useful software-related lists:
 * https://en.wikipedia.org/wiki/Cloud_storage
 
 * https://en.wikipedia.org/wiki/Platform_as_a_service
+
+* PIM: personal information manager
+
+* PIM: product information manager
+
+* Tasked-Based Authorization Controls (TBAC)
+
+* [Federation topology](TODO): each institution has control over its own data.
+
+* [Monadic topology](TODO): use central repository that all collected data is fed into. 
+
+* [Hierarchical topology](TODO): there is a single source for the data and it needs to be distributed to multiple locations around the world. 
+
+* [Hybrid Topology](TODO): a configuration that contains an architecture consisting of any combination of other topologies.
+
+* https://en.wikipedia.org/wiki/Role-based_access_control
+
+* https://en.wikipedia.org/wiki/Discretionary_access_control
+
+* [Transport Layer Security (TLS)](https://en.wikipedia.org/wiki/Transport_Layer_Security)
+
+* https://en.wikipedia.org/wiki/Kerberos_(protocol)
+
+* https://en.wikipedia.org/wiki/Trusted_Computer_System_Evaluation_Criteria
+
+* https://en.wikipedia.org/wiki/Ambient_authority
+
+* https://en.wikipedia.org/wiki/Data_structure
+
+* https://en.wikipedia.org/wiki/Abstract_data_type
+
+* https://en.wikipedia.org/wiki/Capability-based_addressing
+
+* https://en.wikipedia.org/wiki/Separation_of_duties
+
+* https://en.wikipedia.org/wiki/Denial-of-service_attack
+
+* https://en.wikipedia.org/wiki/Computer_security_model
+
+* https://en.wikipedia.org/wiki/Protocol_(object-oriented_programming)
+
+* https://en.wikipedia.org/wiki/Channel_(communications)
+
+* https://en.wikipedia.org/wiki/Naming_convention
+
+* https://en.wikipedia.org/wiki/Storage_Resource_Broker
+
+* https://en.wikipedia.org/wiki/Namespace
+
+* https://en.wikipedia.org/wiki/Data_set
+
+* https://en.wikipedia.org/wiki/Replica
+
+* https://en.wikipedia.org/wiki/File_system_permissions
+
+* https://en.wikipedia.org/wiki/User_(computing)
+
+* https://en.wikipedia.org/wiki/Group_(computing)
+
+
+
+
