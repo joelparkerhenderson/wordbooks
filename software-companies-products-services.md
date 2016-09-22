@@ -56,38 +56,38 @@ Contents:
 
 <h2><a name="products-and-services">Products and Services</a></h2>
 
-* [Accumulo](https://en.wikipedia.org/wiki/Apache_Accumulo): Apache Accumulo secure distributed database (cf. Hadoop)
+* [Accumulo](https://en.wikipedia.org/wiki/Apache_Accumulo): Apache Accumulo secure distributed database (cf. Hadoop).
 
 * [Adobe Marketing Cloud](http://www.adobe.com/marketing-cloud.html])
 
 * [Adobe Experience Manager (AEM)](http://www.adobe.com/marketing-cloud/enterprise-content-management.html)
-comprehensive content management solution for building websites, mobile apps, and forms
+comprehensive content management solution for building websites, mobile apps, and forms.
 
 * [Adobe Target](http://www.adobe.com/marketing-cloud/testing-targeting.html): enables data-driven marketers to experiment and create high-converting personalized experiences.
 
-* [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database): database
+* [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database): database.
 
 * [Artifactory](https://www.jfrog.com/artifactory/): JFrog Artifactory artifact repository manager to manage packages, CI/CD, devops, etc.
 
 * [ATG Web Commerce](https://en.wikipedia.org/wiki/Art_Technology_Group): web server that enables personalized online buying experience for each customer on a website.
 
-* [Berkeley DB](https://en.wikipedia.org/wiki/Berkeley_db): database
+* [Berkeley DB](https://en.wikipedia.org/wiki/Berkeley_db): database.
 
-* [Bigtable](https://en.wikipedia.org/wiki/Bigtable): database
+* [Bigtable](https://en.wikipedia.org/wiki/Bigtable): database.
 
 * [BorderFree](http://www.pitneybowes.com/us/global-ecommerce/international-retail-delivery/borderfree-marketplace-for-cross-border-ecommerce.html): Pitney Bowes BorderFreee provides cross-border ecommerce solutions, e.g. exchange rates, shipping costs, etc.
 
-* [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra): Apache Cassandra distributed database
+* [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra): Apache Cassandra distributed database.
 
-* [Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal
+* [Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal.
 
 * [Coherence](https://en.wikipedia.org/wiki/Oracle_Coherence): Oracle Coherence data grid for parallel query and global continuous data availability.
 
-* [Druid](https://en.wikipedia.org/wiki/Druid_(open-source_data_store)): open-source data store
+* [Druid](https://en.wikipedia.org/wiki/Druid_(open-source_data_store)): open-source data store.
 
 * [EC2: Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 
-* [Elastic Beanstalk](https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk): AWS PaaS
+* [Elastic Beanstalk](https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk): AWS PaaS.
 
 * [Endeca](https://en.wikipedia.org/wiki/Endeca): Oracle Endeca provides eCommerce search, Customer Experience Management, enterprise search and business intelligence.
 
@@ -95,21 +95,21 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [FileMaker](https://en.wikipedia.org/wiki/FileMaker): Apple FileMaker cross-platform relational database application.
 
-* [GoCD](TODO): continuous deployment server
+* [GoCD](TODO): continuous deployment server.
 
 * [Gomez](https://www.dynatrace.com/capabilities/synthetic-monitoring/): synthetic monitoring, now called Dynatrace Synthetic Monitoring.
 
-* [Google Cloud Platform](https://en.wikipedia.org/wiki/Google_Cloud_Platform): PaaS
+* [Google Cloud Platform](https://en.wikipedia.org/wiki/Google_Cloud_Platform): PaaS.
 
-* [HBase](https://en.wikipedia.org/wiki/HBase): Apache Hadoop based distributed database, similar to Bigtable
+* [HBase](https://en.wikipedia.org/wiki/HBase): Apache Hadoop based distributed database, similar to Bigtable.
 
-* [HyperDex](https://en.wikipedia.org/wiki/HyperDex): database
+* [HyperDex](https://en.wikipedia.org/wiki/HyperDex): database.
 
-* [Hypertable](https://en.wikipedia.org/wiki/Hypertable): Apache Hadoop based distributed database, similar to Bigtable
+* [Hypertable](https://en.wikipedia.org/wiki/Hypertable): Apache Hadoop based distributed database, similar to Bigtable.
 
-* [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)): continuous integration tool
+* [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)): continuous integration tool.
 
-* [Kundera](https://github.com/impetus-opensource/Kundera): data caching using a JPA polyglot object-datastore mapping library for NoSQL datastores
+* [Kundera](https://github.com/impetus-opensource/Kundera): data caching using a JPA polyglot object-datastore mapping library for NoSQL datastores.
 
 * [Hudson](https://en.wikipedia.org/wiki/Hudson_(software)): continuous deployment server
 
@@ -123,35 +123,43 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [Managed Kona Site Defender Service](https://www.akamai.com/us/en/solutions/products/services-support/managed-kona-site-defender-service.jsp): security management, monitoring, and threat mitigation by Akamai Security experts.
 
-* [Memcached](https://en.wikipedia.org/wiki/Memcached): general-purpose distributed memory caching system
+* [Memcached](https://en.wikipedia.org/wiki/Memcached): general-purpose distributed memory caching system.
 
-* [MongoDB](https://en.wikipedia.org/wiki/MongoDB): free open-source cross-platform document-oriented database
+* [MongoDB](https://en.wikipedia.org/wiki/MongoDB): free open-source cross-platform document-oriented database.
 
-* [MySQL](https://en.wikipedia.org/wiki/MySQL): open-source relational database management system
+* [MySQL](https://en.wikipedia.org/wiki/MySQL): open-source relational database management system.
 
-* [Nginx](https://en.wikipedia.org/wiki/Nginx): asynchronous event-driven web server
+* [Nginx](https://en.wikipedia.org/wiki/Nginx): asynchronous event-driven web server.
+
+* [Node.js](https://en.wikipedia.org/wiki/Node.js): JavaScript runtime environment and distributed development manager.
 
 * [Omniture](https://en.wikipedia.org/wiki/Omniture): Adobe Omniture online marketing and web analytics.
 
-* [PCF: Pivotal Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal
+* [PCF: Pivotal Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal.
 
-* [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL): object-relational database management system (ORDBMS)
+* [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL): object-relational database management system (ORDBMS).
 
 * [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ): open source message broker software a.k.a. message-oriented middleware.
 
-* [Redis](https://en.wikipedia.org/wiki/Redis): data structure server
+* [Redis](https://en.wikipedia.org/wiki/Redis): data structure server.
 
-* [Riak](https://en.wikipedia.org/wiki/Riak): database
+* [Riak](https://en.wikipedia.org/wiki/Riak): database.
 
-* [Route 53](https://en.wikipedia.org/wiki/Amazon_Route_53): Amazon Route 53 Domain Name Server DNS Service
+* [Route 53](https://en.wikipedia.org/wiki/Amazon_Route_53): Amazon Route 53 Domain Name Server DNS Service.
+
+* [Ruby](https://www.ruby-lang.org) programming language.
 
 * [S3: Amazon Simple Storage Service](https://en.wikipedia.org/wiki/Amazon_S3)
 
-* [ScyllaDB](http://www.scylladb.com/): database
+* [ScyllaDB](http://www.scylladb.com/): database.
 
 * [Simian Army](https://github.com/Netflix/SimianArmy)
 
-* [Spark](https://en.wikipedia.org/wiki/Apache_Spark): Apache Spark open source cluster computing framework
+* [Spark](https://en.wikipedia.org/wiki/Apache_Spark): Apache Spark open source cluster computing framework.
+
+* [Synergy](http://symless.com/synergy/): sharing your mouse and keyboard among computers. 
+
+* [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software)): build and maintain portable virtual development environments.
 
 * [VirtualBox](https://en.wikipedia.org/wiki/VirtualBox): virtual machine software hypervisor, for x86 computers, provided Oracle.
 
@@ -227,6 +235,12 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [bropages](http://bropages.org/): concise examples of using command line programs.
 
+* [BetterSnapTool](https://www.boastr.net/bettersnaptool/): enables you to easily manage your window positions and sizes
+
+* [BetterTouchTool](https://www.boastr.net/): configure actions for your mouse, trackpad, and keyboard.
+
+* [Burp Suite](https://portswigger.net/burp/):  toolkit for web application security testing.
+
 * [Charles](https://www.charlesproxy.com/): enables a developer to view HTTP traffic between their machine and the internet.
 
 * [Disk Inventory X](http://www.derlien.com/): disk usage utility for Mac that shows sizes of files and folders in a treemap.
@@ -241,7 +255,13 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [LaTeX](https://www.latex-project.org/): document preparation system with high-quality typesetting.
 
+* [OmniGraffle](https://en.wikipedia.org/wiki/OmniGraffle): diagramming and digital illustration application.
+
 * [Pandoc](http://pandoc.org/): convert files from one markup format into another.
+
+* [Paw](https://paw.cloud/): HTTP API testing tool.
+
+* [Pixelmator](http://www.pixelmator.com/mac/): full-featured image editor for Mac.
 
 * [Shuttle](http://fitztrev.github.io/shuttle/): simple SSH shortcut menu for Mac.
 
@@ -249,4 +269,4 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html): archive unpacker program for Mac.
 
-* [Xmind](https://en.wikipedia.org/wiki/XMind): mind mapping and brainstorming software
+* [Xmind](https://en.wikipedia.org/wiki/XMind): mind mapping and brainstorming software.
