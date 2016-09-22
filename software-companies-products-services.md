@@ -8,7 +8,7 @@ Contents:
 
 * [Cloud Hosting Models](#cloud-hosting-models)
 
-* [Cloud as a Service](#cloud-as-a-service-computing)
+* [X as a Service](#x-as-a-service)
 
 * [Web Frameworks](#web-frameworks)
 
@@ -214,17 +214,21 @@ comprehensive content management solution for building websites, mobile apps, an
 * [multicloud](https://en.wikipedia.org/wiki/Cloud_computing#Deployment_models): the use of multiple cloud computing services in a single heterogeneous architecture.
 
 
-<h2><a name="cloud-as-a-service">Cloud as a Service</a></h2>
+<h2><a name="x-as-a-service">X as a Service</a></h2>
+
+* [CaaS: content as a service](https://en.wikipedia.org/wiki/Content_as_a_Service)
 
 * [DaaS: desktop as a service](https://en.wikipedia.org/wiki/Desktop_as_a_service)
 
+* [DCaaS: digital content as a service](https://en.wikipedia.org/wiki/Digital_Content_as_a_service) TODO
+
 * [IaaS: infrastructure as a service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)
 
-* [ITMaaS: information technology management as a service](TODO)
+* [ITMaaS: information technology management as a service](https://en.wikipedia.org/wiki/Information_technology_management_as_a_service) TODO
 
 * [MBaaS: mobile backend as a service](https://en.wikipedia.org/wiki/Mobile_backend_as_a_service)
 
-* [MSaaS: managed software as a service](TODO)
+* [MSaaS: managed software as a service](https://en.wikipedia.org/wiki/Managed_software_as_a_service) TODO
 
 * [PaaS: platform as a service](https://en.wikipedia.org/wiki/Platform_as_a_service)
 
