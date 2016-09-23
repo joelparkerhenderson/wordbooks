@@ -393,6 +393,8 @@ Contents:
 
 * [use case, a.k.a. user story](https://en.wikipedia.org/wiki/Use_case): a list of actions in a system to achieve a goal. 
 
+* [value stream mapping](https://en.wikipedia.org/wiki/Value_stream_mapping)
+
 * [WBS: work breakdown structure](https://en.wikipedia.org/wiki/Work_breakdown_structure): deliverable-oriented decomposition of a project into smaller components.
 
 * [work breakdown structure (WBS)](https://en.wikipedia.org/wiki/Work_breakdown_structure): deliverable-oriented decomposition of a project into smaller components.

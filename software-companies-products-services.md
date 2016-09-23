@@ -23,9 +23,13 @@ Contents:
 
 * [Akamai](https://en.wikipedia.org/wiki/Akamai_Technologies): content delivery network (CDN) cloud services provider.
 
+* [AppDynamics](https://en.wikipedia.org/wiki/AppDynamics): Application Performance Monitoring & Management.
+
 * [Bloomreach](http://bloomreach.com/): understand shopper intent and match it with products, using natural language processing and machine learning.
 
 * [Blue Martini Software](https://en.wikipedia.org/wiki/Blue_Martini_Software):  e-commerce, contact center, relationship marketing, and clienteling applications; now named RedPrairie Commerce Suite.
+
+* [Datadog](https://www.datadoghq.com/): Cloud Monitoring as a Service.
 
 * [Distil Networks](http://www.distilnetworks.com/): blocks bots and stop web scraping.
 
@@ -85,6 +89,8 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database): database.
 
+* [Angular](https://en.wikipedia.org/wiki/AngularJS): AngularJS JavaScript front-end web application framework.
+
 * [Artifactory](https://www.jfrog.com/artifactory/): JFrog Artifactory artifact repository manager to manage packages, CI/CD, devops, etc.
 
 * [ATG Web Commerce](https://en.wikipedia.org/wiki/Art_Technology_Group): web server that enables personalized online buying experience for each customer on a website.
@@ -137,6 +143,8 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [FileMaker](https://en.wikipedia.org/wiki/FileMaker): Apple FileMaker cross-platform relational database application.
 
+* [Geb](http://www.gebish.org/): browser automation solution using WebDriver, jQuery, Page Object modelling, and Groovy.
+
 * [GoCD](TODO): continuous deployment server.
 
 * [Gomez](https://www.dynatrace.com/capabilities/synthetic-monitoring/): synthetic monitoring, now called Dynatrace Synthetic Monitoring.
@@ -159,6 +167,8 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [Logstash](https://www.elastic.co/products/logstash): transport and process logs, events, or other data .
 
+* [Hygieia](https://github.com/capitalone/Hygieia): CapitalOne DevOps dashboard.
+
 * [Hudson](https://en.wikipedia.org/wiki/Hudson_(software)): continuous deployment server
 
 * [Hyper-V](https://en.wikipedia.org/wiki/Hyper-V): a hypervisor that creates virtual machines on Windows x86-64 systems.
@@ -172,6 +182,8 @@ comprehensive content management solution for building websites, mobile apps, an
 * [Managed Kona Site Defender Service](https://www.akamai.com/us/en/solutions/products/services-support/managed-kona-site-defender-service.jsp): security management, monitoring, and threat mitigation by Akamai Security experts.
 
 * [Memcached](https://en.wikipedia.org/wiki/Memcached): general-purpose distributed memory caching system.
+
+* [Mockito](https://en.wikipedia.org/wiki/Mockito): open source testing framework for Java for test double objects.
 
 * [MongoDB](https://en.wikipedia.org/wiki/MongoDB): free open-source cross-platform document-oriented database.
 
@@ -203,11 +215,25 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [Simian Army](https://github.com/Netflix/SimianArmy)
 
+* [SonarQube](https://en.wikipedia.org/wiki/SonarQube): an open source platform for continuous inspection of code quality.
+
+* [Spock](https://github.com/spockframework/spock): enterprise-ready testing and specification framework.
+
+* [Spring](https://en.wikipedia.org/wiki/Spring_Framework): an application framework and inversion of control container for Java.
+
+* [Spring Boot](TODO)
+
+* [Spring Cloud](TODO)
+
+* [Spring Cloud Sleuth](TODO): distributed tracing solution for Spring Cloud.
+
 * [Subversion (SVN)](https://en.wikipedia.org/wiki/Apache_Subversion): version control system.
 
 * [Spark](https://en.wikipedia.org/wiki/Apache_Spark): Apache Spark open source cluster computing framework.
 
 * [Synergy](http://symless.com/synergy/): sharing your mouse and keyboard among computers. 
+
+* [Tomcat](https://en.wikipedia.org/wiki/Apache_Tomcat): Apache Tomcat web server that implements Java EE.
 
 * [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software)): build and maintain portable virtual development environments.
 
@@ -220,6 +246,10 @@ comprehensive content management solution for building websites, mobile apps, an
 * [Xen](https://en.wikipedia.org/wiki/Xen): a hypervisor using a microkernel design.
 
 * [ZeroMQ](https://en.wikipedia.org/wiki/ZeroMQ): distributed message queue (a.k.a. ØMQ, 0MQ or ZMQ)
+
+* [Zipkin](https://github.com/openzipkin/zipkin): distributed tracing system
+
+* [ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper): distributed hierarchical key-value store for configurations.
 
 
 <h2><a name="web-frameworks">Web frameworks</a></h2>

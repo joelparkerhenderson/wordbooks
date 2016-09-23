@@ -225,6 +225,8 @@ Wordbook:
 
 * [Reservation wage](https://wikipedia.org/wiki/Reservation_wage)
 
+* [Ringfencing](https://en.wikipedia.org/wiki/Ringfencing)
+
 * [Rivalry (economics)](https://wikipedia.org/wiki/Rivalry_(economics))
 
 * [Robinson Crusoe economy](https://wikipedia.org/wiki/Robinson_Crusoe_economy)

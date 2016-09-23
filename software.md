@@ -324,6 +324,8 @@ Contents:
 
 * [cross-fader release](TODO)
 
+* [DAMP: descriptive and meaningful phrases](TODO): a software development principal that improves code readability; cf. DRY.
+
 * [dark launch](TODO)
 
 * [data analysis](https://en.wikipedia.org/wiki/Data_analysis)
@@ -345,6 +347,8 @@ Contents:
 * [DNS: domain name system](https://wikipedia.org/wiki/Domain_Name_System) (see CNAME, IP address)
 
 * [DNSBL: DNS-based blackhole list](https://wikipedia.org/wiki/DNSBL) (a.k.a. RBL)
+
+* [DRY: don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself): a principle of software development, aimed at reducing repetition of information of all kinds; cf. DAMP.
 
 * [ECM: enterprise content management](https://en.wikipedia.org/wiki/Enterprise_content_management)
 
@@ -477,6 +481,8 @@ Contents:
 * [UX: user experience](https://en.wikipedia.org/wiki/User_experience)
 
 * [validation](TODO)
+
+* [vCPU: virtual central processing unit](TODO): one or more vCPUs are assigned to every Virtual Machine (VM) within a cloud environment.
 
 * [virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
 

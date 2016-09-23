@@ -9,6 +9,7 @@
 
 * [alert](?): a notification of a change in your data
 * [AMPU: average margin per user (or unit)](https://wikipedia.org/wiki/Average_revenue_per_user) (cf. ARPU, ARPPU)
+* [AOV: average order value](https://en.wikipedia.org/wiki/Average_order_value)
 * [APC: average purchase cost](TODO)
 * [APPY: average purchases per year](TODO)
 * [ARPPU: average revenue per paying user](https://wikipedia.org/wiki/Average_revenue_per_user) (cf. ARPU, AMPU)
