@@ -19,7 +19,13 @@ Contents:
 
 * [Adobe](http://www.adobe.com/): content creation, including Creative Cloud, Photoshop, Acrobat, Experience Manager, etc.
 
-* [Bloomreach[(http://bloomreach.com/): understand shopper intent and match it with products, using natural language processing and machine learning.
+* [Alipay](https://en.wikipedia.org/wiki/Alipay_(payment_platform)): third-party online payment platform with no transaction fees, launched in China by Alibaba.
+
+* [Akamai](https://en.wikipedia.org/wiki/Akamai_Technologies): content delivery network (CDN) cloud services provider.
+
+* [Bloomreach](http://bloomreach.com/): understand shopper intent and match it with products, using natural language processing and machine learning.
+
+* [Blue Martini Software](https://en.wikipedia.org/wiki/Blue_Martini_Software):  e-commerce, contact center, relationship marketing, and clienteling applications; now named RedPrairie Commerce Suite.
 
 * [Distil Networks](http://www.distilnetworks.com/): blocks bots and stop web scraping.
 
@@ -37,6 +43,10 @@ Contents:
 
 * [Informatica](https://www.informatica.com): enterprise data integration and management software powering analytics for big data and cloud.
 
+* [Instart Logic](https://en.wikipedia.org/wiki/Instart_Logic): speed and performance for web sites and applications.
+
+* [JDA Software](https://en.wikipedia.org/wiki/JDA_Software): software and consultancy company, providing supply chain management, manufacturing planning, retail planning, store operations and collaborative category management solutions.
+
 * [Microsoft](https://microsoft.com)
 
 * [Netflix](https://netflix.com)
@@ -45,9 +55,17 @@ Contents:
 
 * [Pivotal](https://pivotal.com)
 
+* [RedPrarie](https://en.wikipedia.org/wiki/RedPrairie): supply chain, workforce and all-channel commerce software provider; merged with JDA Software.
+
 * [RichRelevance](http://www.richrelevance.com/): omnichannel ecommerce recommendations.
 
 * [ShopRunner](https://www.shoprunner.com/): seamless shopping and checkout on mobile devices.
+
+* [SOASTA](https://www.soasta.com/): load testing and performance monitoring solutions.
+
+* [Splunk](https://en.wikipedia.org/wiki/Splunk): software for searching, monitoring, and analyzing machine-generated big data, via a web-style interface.
+
+* [Tealeaf](https://en.wikipedia.org/wiki/Tealeaf): a Customer Experience Management (CEM) software company, now owned by IBM.
 
 * [Tealium](http://tealium.com/): customer data platform to build a unified customer view in real time.
 
@@ -71,17 +89,35 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [ATG Web Commerce](https://en.wikipedia.org/wiki/Art_Technology_Group): web server that enables personalized online buying experience for each customer on a website.
 
+* [Bamboo](https://www.atlassian.com/software/bamboo): Atlassian Bamboo is a continuous integration and deployment tool that ties automated builds, tests and releases together in a single workflow.
+
+* [Bazel](https://en.wikipedia.org/wiki/Bazel_(software)): a tool that automates software builds and tests; like Make, Ant, Gradle, Buck, Pants and Maven.
+
 * [Berkeley DB](https://en.wikipedia.org/wiki/Berkeley_db): database.
 
 * [Bigtable](https://en.wikipedia.org/wiki/Bigtable): database.
 
 * [BorderFree](http://www.pitneybowes.com/us/global-ecommerce/international-retail-delivery/borderfree-marketplace-for-cross-border-ecommerce.html): Pitney Bowes BorderFreee provides cross-border ecommerce solutions, e.g. exchange rates, shipping costs, etc.
 
+* [Buck](https://buckbuild.com/): a high-performance build system by Facebook. 
+
 * [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra): Apache Cassandra distributed database.
+
+* [CheetahMail](TODO)
 
 * [Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal.
 
 * [Coherence](https://en.wikipedia.org/wiki/Oracle_Coherence): Oracle Coherence data grid for parallel query and global continuous data availability.
+
+* [Concurrent Versions System (CVS)](https://en.wikipedia.org/wiki/Concurrent_Versions_System): version control system.
+
+* [Couchbase](TODO)
+
+* [DataPower](https://en.wikipedia.org/wiki/IBM_WebSphere_DataPower_SOA_Appliances): IBM WebSphere DataPower SOA Appliances.
+
+* [Dropwizard](TODO)
+
+* [Dynatrace User Experience Management (UEM)](https://www.dynatrace.com/platform/offerings/user-experience-management/): deep customer monitoring across all channels.
 
 * [Druid](https://en.wikipedia.org/wiki/Druid_(open-source_data_store)): open-source data store.
 
@@ -89,7 +125,13 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [Elastic Beanstalk](https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk): AWS PaaS.
 
+* [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch): the most popular enterprise search engine; based on Lucene.
+
+* [ELK Stack: Elasticsearch, Logstash, Kibana](TODO)
+
 * [Endeca](https://en.wikipedia.org/wiki/Endeca): Oracle Endeca provides eCommerce search, Customer Experience Management, enterprise search and business intelligence.
+
+* [Exadata](https://en.wikipedia.org/wiki/Oracle_Exadata): Oracle Exadata Database Machine (Exadata) is a combined compute and storage system optimized for running Oracle Database software. 
 
 * [falcor](https://github.com/Netflix/falcor)
 
@@ -103,13 +145,19 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [HBase](https://en.wikipedia.org/wiki/HBase): Apache Hadoop based distributed database, similar to Bigtable.
 
+* [Hudson](https://en.wikipedia.org/wiki/Hudson_(software)): an extensible Continuous Integration Server.
+
 * [HyperDex](https://en.wikipedia.org/wiki/HyperDex): database.
 
 * [Hypertable](https://en.wikipedia.org/wiki/Hypertable): Apache Hadoop based distributed database, similar to Bigtable.
 
 * [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)): continuous integration tool.
 
+* [Kibana](https://en.wikipedia.org/wiki/Kibana): an open source data visualization plugin for Elasticsearch.
+
 * [Kundera](https://github.com/impetus-opensource/Kundera): data caching using a JPA polyglot object-datastore mapping library for NoSQL datastores.
+
+* [Logstash](https://www.elastic.co/products/logstash): transport and process logs, events, or other data .
 
 * [Hudson](https://en.wikipedia.org/wiki/Hudson_(software)): continuous deployment server
 
@@ -155,6 +203,8 @@ comprehensive content management solution for building websites, mobile apps, an
 
 * [Simian Army](https://github.com/Netflix/SimianArmy)
 
+* [Subversion (SVN)](https://en.wikipedia.org/wiki/Apache_Subversion): version control system.
+
 * [Spark](https://en.wikipedia.org/wiki/Apache_Spark): Apache Spark open source cluster computing framework.
 
 * [Synergy](http://symless.com/synergy/): sharing your mouse and keyboard among computers. 
@@ -162,6 +212,8 @@ comprehensive content management solution for building websites, mobile apps, an
 * [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software)): build and maintain portable virtual development environments.
 
 * [VirtualBox](https://en.wikipedia.org/wiki/VirtualBox): virtual machine software hypervisor, for x86 computers, provided Oracle.
+
+* [WebSphere](https://en.wikipedia.org/wiki/IBM_WebSphere): IBM WebSphere enterprise software known as application and integration middleware.
 
 * [WildFly](https://en.wikipedia.org/wiki/WildFly): an application server, formerly known as JBos.
 

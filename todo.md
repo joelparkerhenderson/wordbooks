@@ -13,6 +13,10 @@ Useful software-related lists:
 
 * [Internet_Engineering_Task_Force](https://wikipedia.org/wiki/Internet_Engineering_Task_Force)
 
+* [ADLT: Administrative or Logistic Downtime](TODO)
+
+* [throughput](https://en.wikipedia.org/wiki/Throughput
+
 * [Capability_Maturity_Model](https://wikipedia.org/wiki/Capability_Maturity_Model)
 
 * [Dynamic_systems_development_method](https://wikipedia.org/wiki/Dynamic_systems_development_method)

@@ -417,6 +417,12 @@ Contents:
 
 * [product lifecycle](https://en.wikipedia.org/wiki/Product_lifecycle)
 
+* [playbook](TODO): A document defining one or more business process workflows aimed at ensuring a consistent response to situations commonly encountered during the operation of the business.
+
+* [runbook automation (RBA)](TODO): the ability to define, build, orchestrate, manage, and report on workflows that support system and network operational processes.
+
+* [runbook](https://en.wikipedia.org/wiki/Runbook): a routine compilation of procedures and operations.
+
 * [systems analysis](https://en.wikipedia.org/wiki/Systems_analysis)
 
 * [systems development life cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
@@ -427,7 +433,11 @@ Contents:
 
 * [schedule](https://wikipedia.org/wiki/Schedule_(project_management))
 
-* [Outline of_project management](https://wikipedia.org/wiki/Outline_of_project_management)
+* [sev: severity](TODO): for example "sev1" is high priority, "sev2" is medium priority, "sev3" is low priority.
+
+* [p: priority](TODO): for example "p1" is high priority, "p2" is medium priority, "p3" is low priority.
+
+* [outline of project management](https://wikipedia.org/wiki/Outline_of_project_management)
 
 * [Project network](https://wikipedia.org/wiki/Project_network)
 
@@ -447,3 +457,6 @@ Contents:
 
 * [Integrated master plan](https://wikipedia.org/wiki/Integrated_master_plan)
 
+* [SOP: standard operating procedure](https://en.wikipedia.org/wiki/Standard_operating_procedure)
+
+* [standard operating procedure (SOP)](https://en.wikipedia.org/wiki/Standard_operating_procedure)

@@ -210,6 +210,8 @@ Contents:
 
 * [graphical system design](https://wikipedia.org/wiki/Graphical_system_design)
 
+* [hypothesis driven development](TODO)
+
 * [integration testing](https://wikipedia.org/wiki/Integration_testing)
 
 * [kaizen (Japanese for &quot;good change&quot;)](https://wikipedia.org/wiki/Kaizen)
@@ -319,6 +321,10 @@ Contents:
 * [core concern](https://en.wikipedia.org/wiki/Core_concern)
 
 * [cross-cutting concern](https://en.wikipedia.org/wiki/Cross-cutting_concern)
+
+* [cross-fader release](TODO)
+
+* [dark launch](TODO)
 
 * [data analysis](https://en.wikipedia.org/wiki/Data_analysis)
 
@@ -475,3 +481,4 @@ Contents:
 * [virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
 
 * [web framework](https://wikipedia.org/wiki/Web_framework)
+

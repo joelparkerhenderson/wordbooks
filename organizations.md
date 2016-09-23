@@ -35,6 +35,8 @@ Contents:
 
 * [MBO: management by objectives](https://en.wikipedia.org/wiki/Management_by_objectives)
 
+* [MGMT: management](https://en.wikipedia.org/wiki/Management)
+
 * [organizational chart](https://en.wikipedia.org/wiki/Organizational_chart)
 
 * [sales](https://en.wikipedia.org/wiki/Sales)
@@ -60,17 +62,29 @@ Contents:
 
 <h2><a name="titles">Titles</a></h2>
 
-* CIO: Chief Information Officer
+* [Assistant Vice President](https://en.wikipedia.org/wiki/Vice_president#In_business)
 
-* CMO: Chief Marketing Officer
+* [Chief Information Officer (CIO)](https://en.wikipedia.org/wiki/Chief_information_officer)
 
-* CTO: Chief Technology Officer
+* [Chief Marketing Officer (CMO)](https://en.wikipedia.org/wiki/Chief_marketing_officer)
 
-* EVP: Executive Vice President
+* [Chief Technology Officer (CTO)](https://en.wikipedia.org/wiki/Chief_technology_officer)
 
-* GM: General Manager
+* [Executive Vice President (EVP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
 
-* VP: Vice President
+* [First Vice President (FVP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
+
+* [General Manager (GM)(https://en.wikipedia.org/wiki/General_manager]
+
+* [Vice President (VP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
+
+* [Senior Executive Vice President (SEVP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
+
+* [Deputy President (DP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
+
+* [Senior Vice President (SVP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
+
+
 
 
 

@@ -1,11 +1,11 @@
 # Analytics wordbook
 
-Credit:
+* [General](#general)
+* [Quality Metrics](#quality)
+* [Credit](#credit)
 
-* [List of Google Analyatics terms](http://www.epower.com/google-analytics-glossary)
-* [Unbounce conversion glossary](http://unbounce.com/conversion-glossary/)
 
-Glossary:
+<h2><a name="general">General</h2>
 
 * [alert](?): a notification of a change in your data
 * [AMPU: average margin per user (or unit)](https://wikipedia.org/wiki/Average_revenue_per_user) (cf. ARPU, ARPPU)
@@ -90,3 +90,23 @@ Glossary:
 * [visitor](?): a person who goes to a site
 * [visits](?): the amount of times a site is accessed
 * [WAU: weekly active users](TODO) (cf. DAU, MAU)
+
+
+<h2><a name="credit">Quality Metrics</h2>
+
+* [mean time to repair (MTTR)](https://en.wikipedia.org/wiki/Mean_time_to_repair)
+
+* [mean time to recovery (MTTR)](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
+
+* [time between overhaul (TBO, TBOH)](https://en.wikipedia.org/wiki/Time_between_overhaul
+
+* [mean time between failures (MTBF)](https://en.wikipedia.org/wiki/Mean_time_between_failures)
+
+* [jitter](https://en.wikipedia.org/wiki/Jitter): the deviation from true periodicity of a presumably periodic signal.
+
+
+<h2><a name="credit">Credit</h2>
+
+* [List of Google Analyatics terms](http://www.epower.com/google-analytics-glossary)
+
+* [Unbounce conversion glossary](http://unbounce.com/conversion-glossary/)
