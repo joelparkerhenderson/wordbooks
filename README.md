@@ -22,8 +22,10 @@ Software consulting:
   * [Software](software.md)
   * [Software companies, products, services](software-companies-products-services.md)
   * [Software design patterns](software-design-patterns.md)
+  * [Software cloud hosting models](software-cloud-hosting-models.md)
   * [Quality Attributes](quality-attributes.md)
   * [Statistics](statistics.md)
+  * [X as a Service](x-as-a-service.md)
   * [TODO](todo.md)
 
 Industries:
@@ -48,8 +50,8 @@ Industries:
 ## Tracking
 
 * Package: demo_wordbooks
-* Version: 3.1.0
+* Version: 3.2.0
 * Created: 2014-01-01
-* Updated: 2016-09-21
+* Updated: 2016-09-23
 * License: BSD, MIT, GPL
 * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
