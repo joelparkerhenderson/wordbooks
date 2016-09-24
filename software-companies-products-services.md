@@ -1,12 +1,12 @@
 # Software companies, products, services
 
-* [1Password](TODO) online password manager.
+* [1Password](TODO): online password manager.
 * [abook](TODO)
 * [Accumulo](https://en.wikipedia.org/wiki/Apache_Accumulo): Apache Accumulo secure distributed database (cf. Hadoop).
 * [ack](TODO)
-* [Adium](TODO) instant messaging client.
+* [Adium](TODO): instant messaging client.
 * [Adobe Air](TODO)
-* [Adobe Experience Manager (AEM)](http://www.adobe.com/marketing-cloud/enterprise-content-management.html): content management system (CMS) for building websites, apps, and forms.
+* [Adobe Experience Manager (AEM)](http://www.adobe.com/marketing-cloud/enterprise-content-management.html): content management system (CMS): for building websites, apps, and forms.
 * [Adobe Marketing Cloud](http://www.adobe.com/marketing-cloud.html])
 * [Adobe Reader](TODO):
 * [Adobe Target](http://www.adobe.com/marketing-cloud/testing-targeting.html): enables data-driven marketing experiments to create high-converting personalization.
@@ -14,22 +14,22 @@
 * [Aerospike](https://en.wikipedia.org/wiki/Aerospike_database): database.
 * [ag](TODO): nickname for "the silver searcher" search tool, like an optimized grep.
 * [Akamai Technologies](https://en.wikipedia.org/wiki/Akamai_Technologies): content delivery network (CDN) cloud services provider.
-* [Alcatraz](TODO) Xcode plugin manager
-* [Alfred](TODO) boost your efficiency with hotkeys, keywords, text expansion, etc. (macOS)
+* [Alcatraz](TODO): Xcode plugin manager
+* [Alfred](TODO): boost your efficiency with hotkeys, keywords, text expansion, etc. (macOS)
 * [Alipay](https://en.wikipedia.org/wiki/Alipay_(payment_platform)): third-party online payment platform with no transaction fees, launched in China by Alibaba.
 * [Amazon Cloud Drive](TODO)
 * [Amazon Music](TODO)
 * [Angular](https://en.wikipedia.org/wiki/AngularJS): AngularJS JavaScript front-end web application framework.
 * [anki](TODO): flashcard app.
 * [Ansible](TODO): automate apps and IT infrastructure.
-* [Apache Maven](TODO) a software project management and comprehension tool.
-* [Apache Tomcat](TODO) server software that implements Java Servlet and JavaServer Pages technologies.
+* [Apache Maven](TODO): a software project management and comprehension tool.
+* [Apache Tomcat](TODO): server software that implements Java Servlet and JavaServer Pages technologies.
 * [apachetop](TODO)
 * [App Store](TODO)
 * [AppCleaner](TODO): thoroughly uninstalls unwanted apps. (macOS)
-* [AppCode](TODO) Swift IDE
+* [AppCode](TODO): Swift IDE; by JetBrains.
 * [AppDynamics](https://en.wikipedia.org/wiki/AppDynamics): Application Performance Monitoring & Management.
-* [Appium](TODO) test automation framework
+* [Appium](TODO): test automation framework
 * [Apple Configurator](TODO)
 * [apple-gcc42](TODO)
 * [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
@@ -38,11 +38,10 @@
 * [ascii](TODO)
 * [asciidoc](TODO)
 * [asciitex](TODO)
-* [aspell](TODO) GNU Aspell is a free open source spell checker; compare `lspell`.
+* [aspell](TODO): spell checker; compare `lspell`.
 * [atext](TODO)
 * [ATG Web Commerce](https://en.wikipedia.org/wiki/Art_Technology_Group): web server that enables personalized online buying experience for each user on a website.
-* [Atom](TODO) text editor by GitHub
-* [Atom](TODO): text editor by GitHub
+* [Atom](TODO): text editor; by GitHub.
 * [audacity](TODO)
 * [autobench](TODO)
 * [autoconf](TODO)
@@ -65,11 +64,11 @@
 * [base64](TODO)
 * [basecamp](TODO)
 * [bash-completion](TODO)
-* [Bash](TODO) the Bourne Again SHell. Bash is an sh-compatible shell.
+* [Bash](TODO): the Bourne Again SHell. Bash is an sh-compatible shell.
 * [bashish](TODO)
 * [BATS: Bash Automated Testing System](TODO)
 * [Battery Health](TODO)
-* [Bazel](https://en.wikipedia.org/wiki/Bazel_(software)): a tool that automates software builds and tests; like Make, Ant, Gradle, Buck, Pants and Maven.
+* [Bazel](https://en.wikipedia.org/wiki/Bazel_(software)): a tool that automates software builds and tests; compare Make, Ant, Gradle, Buck, Pants, Maven.
 * [bcrypt](TODO)
 * [beacon-scanner](TODO)
 * [Berkeley DB](https://en.wikipedia.org/wiki/Berkeley_db): database.
@@ -85,24 +84,23 @@
 * [Bloomreach](http://bloomreach.com/): understand shopper intent and match it with products, using NLP and ML.
 * [Blue Martini Software](https://en.wikipedia.org/wiki/Blue_Martini_Software):  e-commerce clienteling applications; now named RedPrairie Commerce Suite.
 * [bogofilter](TODO)
-* [boot2docker](TODO) utility to boot a Docker container.
+* [boot2docker](TODO): utility to boot a Docker container.
 * [BorderFree](http://www.pitneybowes.com/us/global-ecommerce/international-retail-delivery/borderfree-marketplace-for-cross-border-ecommerce.html): Pitney Bowes BorderFreee provides cross-border ecommerce solutions, e.g. exchange rates.
 * [box-sync](TODO)
 * [brain-workshop](TODO)
-* [Brew cask](TODO) enables installing typical Mac OS X applications.
+* [Brew cask](TODO): enables installing typical Mac OS X applications.
 * [bropages](http://bropages.org/): concise examples of using command line programs. 
 * [Buck](https://buckbuild.com/): a high-performance build system by Facebook. 
 * [Burp Suite](https://portswigger.net/burp/):  toolkit for web application security testing.
 * [CA Technologies](https://en.wikipedia.org/wiki/CA_Technologies): formerly Computer Associates.
-* [Cabal](TODO) a package manager for Haskell
+* [Cabal](TODO): a package manager for Haskell.
 * [Cactus](TODO)
 * [Caffeine](TODO)
 * [Calculator](TODO)
 * [Calendar](TODO)
-* [Calibre](TODO) ebook manager.
-* [Carthage](TODO) Xcode project dependency manager.
-* [Carthage](TODO): a simple, decentralized dependency manager for Cocoa.
-* [Cask](TODO) extends Homebrew to install macOS applications and large binaries.
+* [Calibre](TODO): ebook manager.
+* [Carthage](TODO): Xcode project dependency manager. (macOS)
+* [Cask](TODO): extends Homebrew to install macOS applications and large binaries.
 * [Cassandra](https://en.wikipedia.org/wiki/Apache_Cassandra): Apache Cassandra distributed database.
 * [Cassandra](TODO): a distributed eventually-consistent database.
 * [CCleaner](TODO)
@@ -111,14 +109,13 @@
 * [CheetahMail](TODO)
 * [China Mobile](https://en.wikipedia.org/wiki/China_Mobile)
 * [chromecast](TODO)
-* [chruby](TODO) changes the current Ruby.
 * [chruby](TODO): changes the current Ruby programming runtime.
-* [CLion](TODO) C/C++ IDE
-* [Clojure](TODO) programming language compiler.
+* [CLion](TODO): C/C++ IDE; by JetBrains.
+* [Clojure](TODO): programming language compiler.
 * [Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal.
 * [cmake](TODO): build tool
 * [coconutbattery](TODO)
-* [Code Climate](TODO) platform for all static analysic
+* [Code Climate](TODO): platform for all static analysic
 * [codekit](TODO)
 * [Coffitivity](TODO)
 * [Coherence](https://en.wikipedia.org/wiki/Oracle_Coherence): Oracle Coherence data grid for parallel query and global continuous data availability.
@@ -126,18 +123,18 @@
 * [commandq](TODO)
 * [Concurrent Versions System (CVS)](https://en.wikipedia.org/wiki/Concurrent_Versions_System): version control system.
 * [Contacts](TODO): the Apple macOS contact manager app. (macOS)
-* [coreutils](TODO) basic utilities of the GNU operating system.
+* [coreutils](TODO): basic utilities of the GNU operating system.
 * [Couchbase](TODO)
 * [CouchDB](TODO): database esp. for document-oriented storage.
-* [CPAN](TODO) search for perl modules
+* [CPAN](TODO): search for perl modules
 * [ctags](TODO)
 * [curl](TODO): a command line tool for transferring data with URL syntax.
-* [CVS](TODO) version control system.
+* [CVS](TODO): version control system.
 * [dart](TODO)
 * [Dash](TODO): documentation browser and code snippet manager (macOS).
 * [Dashboard](TODO)
 * [Datadog](https://www.datadoghq.com/): Cloud Monitoring as a Service.
-* [DataGrip](TODO) SQL IDE. By JetBrains.
+* [DataGrip](TODO): SQL IDE; by JetBrains.
 * [DataPower](https://en.wikipedia.org/wiki/IBM_WebSphere_DataPower_SOA_Appliances): IBM WebSphere DataPower SOA Appliances.
 * [Dictionary](TODO)
 * [diffstat](TODO)
@@ -146,7 +143,7 @@
 * [Disk Inventory X](http://www.derlien.com/): disk usage utility for Mac that shows sizes of files and folders in a treemap.
 * [Distil Networks](http://www.distilnetworks.com/): blocks bots and stop web scraping.
 * [docbook](TODO)
-* [Docker](TODO) software containers to help distribute applications.
+* [Docker](TODO): software containers to help distribute applications.
 * [Docs for Xcode](TODO)
 * [dovecot](TODO)
 * [doxygen](TODO)
@@ -166,12 +163,12 @@
 * [ed](TODO): the basic editor utility on *nix systems.
 * [Elastic Beanstalk](https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk): AWS PaaS.
 * [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch): the most popular enterprise search engine; based on Lucene. See ELK.
-* [Elixir](TODO) programming language built on top of the Erlang VM.
+* [Elixir](TODO): programming language built on top of the Erlang VM.
 * [ELK Stack: Elasticsearch, Logstash, Kibana](TODO)
 * [emacs](TODO): powerful text editor
-* [Enca]](TODO): utility to detect and convert encoding of text files.
+* [Enca](TODO): utility to detect and convert encoding of text files.
 * [Endeca](https://en.wikipedia.org/wiki/Endeca): Oracle Endeca provides eCommerce search, Customer Experience Management, and business intelligence.
-* [Erlang](TODO) programming language for scalable high-availability systems.
+* [Erlang](TODO): programming language for scalable high-availability systems.
 * [Evernote](TODO)
 * [Exadata](https://en.wikipedia.org/wiki/Oracle_Exadata): Oracle Exadata Database Machine is a combined compute and storage system optimized for running Oracle Database software. 
 * [exif](TODO)
@@ -186,15 +183,14 @@
 * [FileMaker](https://en.wikipedia.org/wiki/FileMaker): Apple FileMaker cross-platform relational database application.
 * [FileZilla](TODO): FTP client. By Mozilla.
 * [findutils](TODO)
-* [Firefox](TODO) web browser. By Mozilla.
+* [Firefox](TODO): web browser. By Mozilla.
 * [FLAC](TODO): lossless audio encoder.
-* [Flash](TODO) multimedia player
+* [Flash](TODO): multimedia player
 * [Flexitive](https://flexitive.com/): design tool for creating responsive websites.
 * [flip4mac](TODO)
 * [fluid](TODO)
-* [Flux](TODO) dims the screen colors for better nighttime visibility.
+* [Flux](TODO): dims the screen colors for better nighttime visibility.
 * [Font Book](TODO)
-* [Fontconfig](TODO) a library for configuring and customizing font access.
 * [Fontconfig](TODO): a library for configuring and customizing font access.
 * [ForgeRock](https://www.forgerock.com/): identity and access management (IAM) and passwordless authentication.
 * [Forrester Research](https://en.wikipedia.org/wiki/Forrester_Research)
@@ -208,23 +204,23 @@
 * [Garmin](TODO)
 * [Gartner IT Operations Research](https://en.wikipedia.org/wiki/Gartner)
 * [gawk](TODO): GNU awk command line tool.
-* [gdb](TODO) GNU debugger.
+* [gdb](TODO): GNU debugger.
 * [Geb](http://www.gebish.org/): browser automation solution using WebDriver, jQuery, Page Object modelling, and Groovy.
 * [geoip](TODO)
 * [Gerrit](TODO): source code review system
 * [gfxcardstatus](TODO)
 * [ghc](TODO)
-* [Gimp](TODO) image editor, similar to Photoshop
+* [Gimp](TODO): image editor, similar to Photoshop.
 * [git-flow](TODO): Git extensions to provide high-level operations for Git Flow branching model.
 * [Git](TODO): distributed version control system.
-* [GitHub](TODO)(https://github.com) source code social sharing.
+* [GitHub](TODO)(https://github.com): source code social sharing.
 * [GitLab](https://gitlab.com)
-* [Glassfish](TODO) application server.
+* [Glassfish](TODO): application server; by Oracle.
 * [Gmail](TODO)
-* [GNU Aspell](TODO) a free open source spell checker; compare `lspell`.
-* [GNU libtool](TODO) a generic library support script.
-* [GNU Privacy Guard (GnuPG)](TODO) provides encryption as a free replacement for PGP.
-* [GNU sed](TODO) stream editor; compare `sed`.
+* [GNU Aspell](TODO): spell checker; compare `lspell`.
+* [GNU libtool](TODO): a generic library support script.
+* [GNU Privacy Guard (GnuPG)](TODO): provides encryption as a free replacement for PGP.
+* [GNU sed](TODO): stream editor; compare `sed`.
 * [gnu-barcode](TODO)
 * [gnu-getopt](TODO)
 * [gnu-indent](TODO)
@@ -256,7 +252,7 @@
 * [gpatch](TODO)
 * [gperf](TODO)
 * [GPG: Gnu Privacy Guard](TODO)
-* [Gradle](TODO) a Java build tool
+* [Gradle](TODO): a Java build tool; compare Maven, Bazel.
 * [GraphicsMagick](TODO): the swiss army knife of image processing.
 * [GraphViz](TODO)
 * [grep](TODO)
@@ -275,8 +271,8 @@
 * [hg](TODO): nickname for Mercurial version control system.
 * [hipchat](TODO)
 * [hockey](TODO)
-* [Homebrew Cask](TODO) extends Homebrew to install OS X applications and large binaries.
-* [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_management_software)) package management software for Mac.
+* [Homebrew Cask](TODO): extends Homebrew to install OS X applications and large binaries.
+* [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_management_software)): package management software for Mac.
 * [html-xml-utils](TODO)
 * [html2text](TODO)
 * [htop](TODO)
@@ -298,27 +294,27 @@
 * [Informatica](https://www.informatica.com): enterprise data integration and management software powering analytics for big data and cloud.
 * [inky](TODO)
 * [Instart Logic](https://en.wikipedia.org/wiki/Instart_Logic): speed and performance for web sites and applications.
-* [IntelliJ](TODO) Java IDE
+* [IntelliJ](TODO): Java IDE; by JetBrains.
 * [ios-sim](TODO)
 * [iOS](TODO): Apple's mobile operating system. (macOS)
 * [iPhoto](TODO): Apple's photo manager app. (macOS)
-* [iterm2](TODO) terminal app. (macOS)
+* [iterm2](TODO): terminal app. (macOS)
 * [iTunes](TODO): Apple's media manager app. (macOS)
-* [iWork](https://en.wikipedia.org/wiki/IWork) Apple iWork office suite, including Numbers, Pages, Keynote.
+* [iWork](https://en.wikipedia.org/wiki/IWork): Apple iWork office suite, including Numbers, Pages, Keynote.
 * [Jasper](TODO): command line transcoder between JPEG2000 and other formats.
-* [Java](TODO) programming language.
+* [Java](TODO): programming language; by Oracle.
 * [JavaScript](TODO) programming language.
 * [Jazzy](https://github.com/realm/jazzy): generates documentation for Swift or Objective-C.
 * [JBoss](http://developers.redhat.com/products/eap/overview/): RedHat JBoss Enterprise Application Platform application server.
 * [JDA Software](https://en.wikipedia.org/wiki/JDA_Software): software and consultancy company, providing supply chain management, manufacturing planning, retail planning, store operations and collaborative category management solutions.
 * [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)): continuous integration tool.
 * [JetBrains](TODO)
-* [Jetty](TODO) Java web server and javax.servlet container.
+* [Jetty](TODO): Java web server and javax.servlet container.
 * [jmeter](TODO)
 * [jo](TODO)
 * [joinme](TODO)
 * [jq](TODO): JSON command line processor.
-* [JRuby](TODO) a high performance, stable, fully threaded Java implementation of Ruby.
+* [JRuby](TODO): a high performance, stable, fully threaded Java implementation of Ruby.
 * [json-c](TODO)
 * [json-glib](TODO)
 * [json_spirit](TODO)
@@ -336,7 +332,7 @@
 * [kdiff3](TODO)
 * [kelbt](TODO)
 * [kes](TODO)
-* [Keybase.io](TODO) digital signature manager
+* [Keybase.io](TODO): digital signature manager.
 * [Keychain](TODO)
 * [Keynote](TODO): Apple's presentation app. (macOS)
 * [Kibana](https://en.wikipedia.org/wiki/Kibana): an open source data visualization plugin for Elasticsearch. See ELK.
@@ -361,7 +357,7 @@
 * [languagetool](TODO)
 * [lapack](TODO)
 * [lasi](TODO)
-* [last.fm](TODO) streaming music service.
+* [last.fm](TODO): streaming music service.
 * [LastPass](TODO): online password manager.
 * [latex2html](TODO)
 * [latex2rtf](TODO)
@@ -381,7 +377,7 @@
 * [ledger](TODO)
 * [ledit](TODO)
 * [legit](TODO)
-* [Leiningen](TODO) automates Clojure projects.
+* [Leiningen](TODO): a tool to automate Clojure projects.
 * [lemon](TODO)
 * [leptonica](TODO)
 * [less](TODO)
@@ -392,9 +388,9 @@
 * [lftp](TODO)
 * [lha](TODO)
 * [libMemcached](TODO): a client library and tools for the memcached server.
-* [LibreOffice](TODO) a large office suite for editing text, spreadsheets, diagrams, databases, etc.
-* [Libxml2](TODO) the XML C parser and toolkit.
-* [Libxslt](TODO) the XSLT C library for the XML EXtensible Stylesheet Language.
+* [LibreOffice](TODO): a large office suite for editing text, spreadsheets, diagrams, databases, etc.
+* [Libxml2](TODO): the XML C parser and toolkit.
+* [Libxslt](TODO): the XSLT C library for the XML EXtensible Stylesheet Language.
 * [lifelines](TODO)
 * [lightning](TODO)
 * [lighttpd](TODO)
@@ -464,8 +460,7 @@
 * [mapnik](TODO)
 * [Maps
 * [mapserver](TODO)
-* [MariaDB](TODO) a database created by the creators of MySQL.
-* [MariaDB](TODO): database; prefer this over MySQL.
+* [MariaDB](TODO): a database created by the creators of MySQL.
 * [Markdown](TODO)
 * [mathgl](TODO)
 * [mathomatic](TODO)
@@ -534,14 +529,14 @@
 * [mod_python](TODO)
 * [mod_wsgi](TODO)
 * [mogenerator](TODO)
-* [Mojolicious](https://wikipedia.org/wiki/Mojolicious) for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
+* [Mojolicious](https://wikipedia.org/wiki/Mojolicious): web framework for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
 * [monetdb](TODO)
 * [MongoDB database.
 * [MongoDB](https://en.wikipedia.org/wiki/MongoDB): free open-source cross-platform document-oriented database.
 * [MongoDB](TODO): database, esp. for storing schema-free documents.
 * [mongoose](TODO)
 * [mongrel2](TODO)
-* [Monit](TODO) monitoring Unix systems.
+* [Monit](TODO): monitoring for *nix systems.
 * [monotone](TODO)
 * [montage](TODO)
 * [moreutils](TODO)
@@ -597,7 +592,7 @@
 * [mytop](TODO)
 * [n2n](TODO)
 * [nacl](TODO)
-* [Nagios](TODO) a monitoring app for IT infrastructure.
+* [Nagios](TODO): a monitoring app for IT infrastructure.
 * [nailgun](TODO)
 * [nano](TODO)
 * [narwhal](TODO)
@@ -674,11 +669,11 @@
 * [ogmtools](TODO)
 * [ohcount](TODO)
 * [omega](TODO)
-* [OmniFocus](TODO) task manager, best with the paid service; by OmniGroup.
+* [OmniFocus](TODO): task manager, best with the paid service; by OmniGroup.
 * [OmniGraffle](https://en.wikipedia.org/wiki/OmniGraffle): diagramming and digital illustration application; by OmniGroup.
-* [OmniGroup](TODO) project management tools company.
-* [OmniOutline](TODO) outline editor; by OmniGroup.
-* [OmniPlan](TODO) planning app; by OmniGroup.
+* [OmniGroup](TODO): a project management tools company.
+* [OmniOutline](TODO) an outline editor app; by OmniGroup.
+* [OmniPlan](TODO) a task planning app; by OmniGroup.
 * [Omniture](https://en.wikipedia.org/wiki/Omniture): Adobe Omniture online marketing and web analytics.
 * [oniguruma](TODO)
 * [oorexx](TODO)
@@ -735,7 +730,7 @@
 * [pam_yubico](TODO)
 * [paml](TODO)
 * [Pandoc](http://pandoc.org/): convert files from one markup format into another.
-* [Pandora](TODO) music player
+* [Pandora](TODO): a music player app.
 * [pango](TODO)
 * [pangomm](TODO)
 * [paparazzi](TODO)
@@ -782,18 +777,18 @@
 * [perforce-server](TODO)
 * [perforce](TODO)
 * [perl](TODO)
-* [Perl](TODO) programming language, esp. for systems administration.
+* [Perl](TODO): programming language, esp. for systems administration.
 * [pg_top](TODO)
 * [pgbouncer](TODO)
 * [pgdbf](TODO)
 * [pgpool-ii](TODO)
 * [pgtap](TODO)
-* [PhantomJS](TODO) a headless WebKit scriptable with a JavaScript API.
+* [PhantomJS](TODO): a headless WebKit scriptable with a JavaScript API.
 * [phash](TODO)
 * [phoronix-test-suite](TODO)
 * [Photo Booth
 * [phpstorm](TODO)
-* [PhpStorm](TODO) PHP IDE. By JetBrains.
+* [PhpStorm](TODO): PHP IDE; by JetBrains.
 * [phyml](TODO)
 * [physfs](TODO)
 * [pianobar](TODO)
@@ -854,7 +849,7 @@
 * [Prepo](TODO)
 * [Preview](TODO
 * [Prey](TODO): app to track devices in case they are lost or stolen.
-* [Prezi](TODO) slide show presentation.
+* [Prezi](TODO): slide show presentation service.
 * [primer3](TODO)
 * [primesieve](TODO)
 * [privoxy](TODO)
@@ -862,7 +857,7 @@
 * [prodigal](TODO)
 * [proguard](TODO)
 * [proj](TODO)
-* [protobuf: protocol buffers](TODO) for serializing structured data.
+* [protobuf: protocol buffers](TODO): for serializing structured data.
 * [proxytunnel](TODO)
 * [psftools](TODO)
 * [psgrep](TODO)
@@ -886,7 +881,7 @@
 * [pwnat](TODO)
 * [pwsafe](TODO)
 * [py2cairo](TODO)
-* [PyCharm](TODO) Python IDE. By JetBrains.
+* [PyCharm](TODO): Python IDE; by JetBrains.
 * [pygobject](TODO)
 * [pygtk](TODO)
 * [pygtkglext](TODO)
@@ -895,7 +890,7 @@
 * [pyqwt](TODO)
 * [pyside-tools](TODO)
 * [pyside](TODO)
-* [Python](TODO) programming language, esp. for systems scripting.
+* [Python](TODO): programming language, esp. for systems scripting.
 * [qca](TODO)
 * [qcachegrind](TODO)
 * [qd](TODO)
@@ -925,7 +920,7 @@
 * [quvi](TODO)
 * [qwt](TODO)
 * [qxmpp](TODO)
-* [R](TODO) programming language, esp. for statistics.
+* [R](TODO): programming language, esp. for statistics.
 * [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ): open source message broker software a.k.a. message-oriented middleware, based the AMQP standard.
 * [radare2](TODO)
 * [ragel](TODO)
@@ -943,7 +938,7 @@
 * [rc](TODO)
 * [rdesktop](TODO)
 * [rdiff-backup](TODO)
-* [Rdio](TODO) music player and streaming service.
+* [Rdio](TODO): music player and streaming service.
 * [rds-command-line-tools](TODO)
 * [re2](TODO)
 * [re2c](TODO)
@@ -964,7 +959,7 @@
 * [regina-rexx](TODO)
 * [RELX Group a.k.a. Reed Elsevier](https://en.wikipedia.org/wiki/RELX_Group](https://en.wikipedia.org/wiki/RELX_Group)
 * [remind](TODO)
-* [Reminders](TODO) Apple's task app. (macOS)
+* [Reminders](TODO): Apple's task app. (macOS)
 * [ren](TODO)
 * [rename](TODO): command-line tools to rename files quickly and easily
 * [renameutils](TODO)
@@ -974,7 +969,7 @@
 * [rescuetime](TODO)
 * [Resilio Sync](https://en.wikipedia.org/wiki/Resilio_Sync]: peer-to-peer file synchronization tool using bittorrent; formerly BitTorrent Sync.
 * [resty](TODO)
-* [Revel](https://wikipedia.org/wiki/?) for [Go](https://wikipedia.org/wiki/Go_(programming_language))
+* [Revel](https://wikipedia.org/wiki/?): web framework for [Go](https://wikipedia.org/wiki/Go_(programming_language))
 * [rfcdiff](TODO)
 * [rfcmarkup](TODO)
 * [rfcstrip](TODO)
@@ -1015,8 +1010,8 @@
 * [ruby-enterprise-edition](TODO)
 * [ruby-install](TODO)
 * [ruby-odbc](TODO)
-* [Ruby](https://www.ruby-lang.org) programming language; compare `perl`, `python`.
-* [RubyMine](TODO) Ruby IDE; by JetBrains.
+* [Ruby](https://www.ruby-lang.org): programming language; compare `perl`, `python`.
+* [RubyMine](TODO): Ruby IDE; by JetBrains.
 * [runcocoa](TODO)
 * [runit](TODO)
 * [rush](TODO)
@@ -1025,11 +1020,11 @@
 * [rzip](TODO)
 * [s-lang](TODO)
 * [s3-backer](TODO)
-* [S3: Simple Storage Service](https://en.wikipedia.org/wiki/Amazon_S3) cloud storage; by Amazon.
+* [S3: Simple Storage Service](https://en.wikipedia.org/wiki/Amazon_S3): cloud storage; by Amazon.
 * [s3cmd](TODO)
 * [s3fs](TODO)
 * [s3sync](TODO)
-* [Safari](TODO) Apple's web browser. (macOS)
+* [Safari](TODO): Apple's web browser. (macOS)
 * [saga-core](TODO)
 * [salt](TODO)
 * [salt](TODO)
@@ -1057,7 +1052,7 @@
 * [Screen Recorder Robot Lite](TODO)
 * [screen](TODO)
 * [screenhero](TODO)
-* [Screenhero](TODO) screen sharing; by Slack.
+* [Screenhero](TODO): screen sharing; by Slack.
 * [scrollkeeper](TODO)
 * [scrotwm](TODO)
 * [scrub](TODO)
@@ -1070,7 +1065,7 @@
 * [sdelta3](TODO)
 * [sdf](TODO)
 * [sdl](TODO)
-* [sed](TODO) stream editor utility
+* [sed](TODO): stream editor utility.
 * [sedna](TODO)
 * [seil](TODO)
 * [seil](TODO)
@@ -1081,7 +1076,7 @@
 * [serf](TODO)
 * [sersniff](TODO)
 * [sgrep](TODO)
-* [sh](TODO) shell for *nix; typical shells are bash, zsh, ksh.
+* [sh](TODO): shell for *nix; typical shells are bash, zsh, ksh.
 * [shakespeare](TODO)
 * [shapelib](TODO)
 * [shaper-probe](TODO)
@@ -1102,11 +1097,11 @@
 * [sic](TODO)
 * [sickbeard](TODO)
 * [Siege](TODO): a http load testing and benchmarking utility.
-* [sift](TODO) a seach command similar to grep, plus faster and with more features.
+* [sift](TODO): a seach command similar to grep, plus faster and with more features.
 * [sigar](TODO)
 * [signing-party](TODO)
 * [silk](TODO)
-* [Silverlight](TODO) video player. By Microsoft.
+* [Silverlight](TODO): video player; by Microsoft.
 * [simgrid](TODO)
 * [simh](TODO)
 * [Simian Army](https://github.com/Netflix/SimianArmy)
@@ -1122,10 +1117,10 @@
 * [skipfish](TODO)
 * [skitch](TODO)
 * [skktools](TODO)
-* [Skype](TODO) calling app for video calls and phone calls.
+* [Skype](TODO): a calling app for video calls and phone calls; by Microsoft.
 * [skytools](TODO)
 * [sl](TODO)
-* [Slack](TODO) chat client
+* [Slack](TODO): a chat client.
 * [sleep-monitor](TODO)
 * [sleepwatcher](TODO)
 * [sleuthkit](TODO)
@@ -1148,13 +1143,13 @@
 * [solr](TODO)
 * [sonar](TODO)
 * [SonarQube](https://en.wikipedia.org/wiki/SonarQube): an open source platform for continuous inspection of code quality.
-* [Sophos](TODO) antivirus.
+* [Sophos](TODO): antivirus.
 * [sound-touch](TODO)
 * [source-highlight](TODO)
-* [SourceKitten](TODO) attaches to SourceKit AST.
+* [SourceKitten](TODO): attaches to SourceKit AST.
 * [SourceTree](https://www.sourcetreeapp.com/): graphical client for Mercurial and Git version control.
 * [sox](TODO)
-* [Spacemacs](TODO) text editor that combines features of emacs and vim.
+* [Spacemacs](TODO): a text editor that combines features of emacs and vim.
 * [Spark](https://en.wikipedia.org/wiki/Apache_Spark): Apache Spark open source cluster computing framework.
 * [spatialindex](TODO)
 * [spatialite-tools](TODO)
@@ -1173,7 +1168,7 @@
 * [Spring Boot](TODO)
 * [Spring Cloud Sleuth](TODO): distributed tracing solution for Spring Cloud.
 * [Spring Cloud](TODO)
-* [Spring Tool Suite](TODO) an Eclipse IDE for developing apps.
+* [Spring Tool Suite](TODO): an Eclipse IDE for developing apps.
 * [spring-roo](TODO)
 * [Spring](https://en.wikipedia.org/wiki/Spring_Framework): an application framework and inversion of control container for Java.
 * [sproxy](TODO)
@@ -1223,7 +1218,7 @@
 * [swfmill](TODO)
 * [swftools](TODO)
 * [swi-prolog](TODO)
-* [Swift](TODO) programming language. By Apple.
+* [Swift](TODO): programming language; by Apple. (macOS)
 * [swiftlint](TODO)
 * [swig](TODO)
 * [swish-e](TODO)
@@ -1247,7 +1242,7 @@
 * [talloc](TODO)
 * [Tarsnap](TODO): a secure online backup service for *nix.
 * [task](TODO)
-* [Taylor](TODO) code quality metrics tool for Swift.
+* [Taylor](TODO): code quality metrics tool for Swift.
 * [tbb](TODO)
 * [tcl-tk](TODO)
 * [tcl](TODO)
@@ -1359,8 +1354,7 @@
 * [unfs3](TODO)
 * [ungif](TODO)
 * [unifdef](TODO)
-* [Unison](TODO) a high-level file synchronization utility; compare `rsync`.
-* [Unison](TODO) file synchronizer utility; compare `rsync`.
+* [Unison](TODO): a file synchronizer utility; compare `rsync`.
 * [units](TODO)
 * [unittest](TODO)
 * [Unity 3D](TODO)
@@ -1384,10 +1378,10 @@
 * [utimer](TODO)
 * [uudeview](TODO)
 * [uwsgi](TODO)
-* [V8](TODO) JavaScript Engine; by Google.
+* [V8](TODO): JavaScript Engine; by Google.
 * [Vagrant](https://en.wikipedia.org/wiki/Vagrant_(software)): build and maintain portable virtual development environments.
 * [vala](TODO)
-* [Valentina Studio](TODO) database manager.
+* [Valentina Studio](TODO): database manager.
 * [valgrind](TODO)
 * [Valkyrie](TODO): a Qt4-based GUI for the Memcheck and Helgrind tools in Valgrind.
 * [Varnish](TODO): a reverse-proxy web application accelerator.
@@ -1405,8 +1399,7 @@
 * [vice](TODO)
 * [vifm](TODO)
 * [vilistextum](TODO)
-* [Vim](TODO) editor
-* [Vim](TODO) text editor.
+* [Vim](TODO): text editor.
 * [Vimeo](TODO)
 * [vimpager](TODO)
 * [vimpc](TODO)
@@ -1418,7 +1411,7 @@
 * [virtuoso](TODO)
 * [visitors](TODO)
 * [visualnetkit](TODO)
-* [VLC](TODO) media player.
+* [VLC](TODO): media player.
 * [vmalloc](TODO)
 * [vnstat](TODO)
 * [vobcopy](TODO)
@@ -1444,7 +1437,7 @@
 * [webkit2png](TODO)
 * [webp](TODO)
 * [WebSphere](https://en.wikipedia.org/wiki/IBM_WebSphere): enterprise application software and integration middleware; by IBM.
-* [WebStorm](TODO) web IDE; by JetBrains.
+* [WebStorm](TODO): web IDE; by JetBrains.
 * [weechat](TODO)
 * [wemux](TODO)
 * [wget](TODO): fetch files using HTTP and FTP.
@@ -1482,13 +1475,13 @@
 * [x264](TODO)
 * [x3270](TODO)
 * [xa](TODO)
-* [Xapian](TODO) a search engine library.
+* [Xapian](TODO): a search engine library.
 * [xar](TODO)
 * [xaric](TODO)
 * [xastir](TODO)
 * [xaw3d](TODO)
 * [xchat](TODO)
-* [xclip](TODO) a command line interface to the X11 clipboard.
+* [xclip](TODO): a command line interface to the X11 clipboard.
 * [Xcode](TODO)
 * [xdelta](TODO)
 * [xdotool](TODO)
@@ -1547,7 +1540,7 @@
 * [ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper): distributed hierarchical key-value store for configurations.
 * [zoomus](TODO)
 * [zsh-lovers](TODO)
-* [Zsh](TODO) Z-shell, a shell designed for interactive use.
+* [Zsh](TODO): Z-shell, a shell designed for interactive use.
 * [zssh](TODO)
 * [zsync](TODO)
 * [zzuf](TODO)
