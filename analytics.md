@@ -66,7 +66,9 @@
 * [offline conversion](TODO) e.g. a redemption of an app-specific offer that occurs outside of the app.
 * [organic traffic](?): visitors who come to your site from unpaid organic or natural search engine results (cf. paid traffic)
 * [page view](?): when a visitor arrives on an individual page of your site
+* [paid content](https://en.wikipedia.org/wiki/Paid_content)
 * [paid traffic](?): visitors who come to your site from paid advertisements (cf. organic traffic)
+* [pay per click](https://en.wikipedia.org/wiki/Pay_per_click)
 * [query parameter](?): A VARIABLE=VALUE pair that follows the question mark ("?") in a URL
 * [query variable](?): The VARIABLE portion of the VARIABLE=VALUE pair that makes up a query parameter
 * [rating](?) e.g. when a user rates an app in an app store, or a product on a web site
@@ -87,6 +89,7 @@
 * [traffic sources](?): where a site's traffic comes from
 * [traffic](?): the total number of visits to your site
 * [unique visitor](?): the number of individual (non-duplicate) visitors to a site in a specific time period
+* [user-generated content](https://en.wikipedia.org/wiki/User-generated_content)
 * [visitor session](?): the duration a visitor spends on a site
 * [visitor](?): a person who goes to a site
 * [visits](?): the amount of times a site is accessed
@@ -96,18 +99,13 @@
 <h2><a name="credit">Quality Metrics</h2>
 
 * [mean time to repair (MTTR)](https://en.wikipedia.org/wiki/Mean_time_to_repair)
-
 * [mean time to recovery (MTTR)](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
-
 * [time between overhaul (TBO, TBOH)](https://en.wikipedia.org/wiki/Time_between_overhaul
-
 * [mean time between failures (MTBF)](https://en.wikipedia.org/wiki/Mean_time_between_failures)
-
 * [jitter](https://en.wikipedia.org/wiki/Jitter): the deviation from true periodicity of a presumably periodic signal.
 
 
 <h2><a name="credit">Credit</h2>
 
 * [List of Google Analyatics terms](http://www.epower.com/google-analytics-glossary)
-
 * [Unbounce conversion glossary](http://unbounce.com/conversion-glossary/)

@@ -14,16 +14,16 @@ Suggestions, comments, and pull requests are welcome.
 
 Software consulting:
 
-  * [Access Control](access-control.md)
+  * [Access control](access-control.md)
   * [Analytics](analytics.md)
   * [Measurement](measurement.md)
   * [Organizations](organizations.md)
   * [Project management](project-management.md)
-  * [Software](software.md)
   * [Software companies, products, services](software-companies-products-services.md)
+  * [Software concepts](software.md)
   * [Software design patterns](software-design-patterns.md)
   * [Software cloud hosting models](software-cloud-hosting-models.md)
-  * [Quality Attributes](quality-attributes.md)
+  * [Quality attributes](quality-attributes.md)
   * [Statistics](statistics.md)
   * [X as a Service](x-as-a-service.md)
   * [TODO](todo.md)

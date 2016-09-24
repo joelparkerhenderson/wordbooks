@@ -1,4 +1,4 @@
-# Quality Attributes
+# Quality attributes
 
 See [list of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 
