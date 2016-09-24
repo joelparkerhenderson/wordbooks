@@ -289,7 +289,7 @@
 * [ical-buddy](TODO)
 * [iCloud](TODO): Apple's cloud storage service. (macOS)
 * [Image Capture](TODO)
-* [ImageMagick]](TODO): image processing utilities.
+* [ImageMagick](TODO): image processing utilities.
 * [iMovie](TODO): Apple's movie player app. (macOS)
 * [Informatica](https://www.informatica.com): enterprise data integration and management software powering analytics for big data and cloud.
 * [inky](TODO)
@@ -458,7 +458,6 @@
 * [mame](TODO)
 * [man2html](TODO)
 * [mapnik](TODO)
-* [Maps
 * [mapserver](TODO)
 * [MariaDB](TODO): a database created by the creators of MySQL.
 * [Markdown](TODO)
@@ -509,7 +508,7 @@
 * [minisat](TODO)
 * [minised](TODO)
 * [miniupnpc](TODO)
-* [Mint QuickView
+* [Mint QuickView](TODO)
 * [minuit2](TODO)
 * [mira](TODO)
 * [Mission Control](TODO)
@@ -531,9 +530,7 @@
 * [mogenerator](TODO)
 * [Mojolicious](https://wikipedia.org/wiki/Mojolicious): web framework for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
 * [monetdb](TODO)
-* [MongoDB database.
-* [MongoDB](https://en.wikipedia.org/wiki/MongoDB): free open-source cross-platform document-oriented database.
-* [MongoDB](TODO): database, esp. for storing schema-free documents.
+* [MongoDB](https://en.wikipedia.org/wiki/MongoDB): document-oriented database.
 * [mongoose](TODO)
 * [mongrel2](TODO)
 * [Monit](TODO): monitoring for *nix systems.
@@ -647,7 +644,7 @@
 * [ntl](TODO)
 * [nu](TODO)
 * [num-utils](TODO)
-* [Numbers
+* [Numbers](TODO) Apple's spreadsheet app. (macOS)
 * [nuttcp](TODO)
 * [nvi](TODO)
 * [nylon](TODO)
@@ -655,7 +652,7 @@
 * [o-make](TODO)
 * [oath-toolkit](TODO)
 * [obby](TODO)
-* [Objective-C
+* [Objective-C](TODO): programming language; by Apple.
 * [objective-caml](TODO)
 * [obs](TODO)
 * [obs](TODO)
@@ -672,9 +669,9 @@
 * [OmniFocus](TODO): task manager, best with the paid service; by OmniGroup.
 * [OmniGraffle](https://en.wikipedia.org/wiki/OmniGraffle): diagramming and digital illustration application; by OmniGroup.
 * [OmniGroup](TODO): a project management tools company.
-* [OmniOutline](TODO) an outline editor app; by OmniGroup.
-* [OmniPlan](TODO) a task planning app; by OmniGroup.
-* [Omniture](https://en.wikipedia.org/wiki/Omniture): Adobe Omniture online marketing and web analytics.
+* [OmniOutline](TODO): an outline editor app; by OmniGroup.
+* [OmniPlan](TODO): a task planning app; by OmniGroup.
+* [Omniture](https://en.wikipedia.org/wiki/Omniture): online marketing and web analytics; by Adobe.
 * [oniguruma](TODO)
 * [oorexx](TODO)
 * [open-babel](TODO)
@@ -720,7 +717,7 @@
 * [osslsigncode](TODO)
 * [ossp-uuid](TODO)
 * [otx](TODO)
-* [Outliner
+* [Outliner](TODO)
 * [owfs](TODO)
 * [p0f](TODO)
 * [p11-kit](TODO)
@@ -786,7 +783,7 @@
 * [PhantomJS](TODO): a headless WebKit scriptable with a JavaScript API.
 * [phash](TODO)
 * [phoronix-test-suite](TODO)
-* [Photo Booth
+* [Photo Booth](TODO): Apple's picture-taking app. (macOS)
 * [phpstorm](TODO)
 * [PhpStorm](TODO): PHP IDE; by JetBrains.
 * [phyml](TODO)
@@ -847,7 +844,7 @@
 * [ppss](TODO)
 * [premake](TODO)
 * [Prepo](TODO)
-* [Preview](TODO
+* [Preview](TODO): Apple's media viewing app. (macOS)
 * [Prey](TODO): app to track devices in case they are lost or stolen.
 * [Prezi](TODO): slide show presentation service.
 * [primer3](TODO)
@@ -862,8 +859,6 @@
 * [psftools](TODO)
 * [psgrep](TODO)
 * [pssh: Parallel SSH](TODO)
-* [pssh](TODO)
-* [pssh](TODO): Parallel SSH
 * [pstoedit](TODO)
 * [pstree](TODO)
 * [pth](TODO)
@@ -921,7 +916,7 @@
 * [qwt](TODO)
 * [qxmpp](TODO)
 * [R](TODO): programming language, esp. for statistics.
-* [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ): open source message broker software a.k.a. message-oriented middleware, based the AMQP standard.
+* [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ): open source message broker software based the AMQP standard.
 * [radare2](TODO)
 * [ragel](TODO)
 * [rails-completion](TODO)
@@ -957,7 +952,7 @@
 * [RedPrarie](https://en.wikipedia.org/wiki/RedPrairie): supply chain, workforce and all-channel commerce software provider; merged with JDA Software.
 * [redsocks](TODO)
 * [regina-rexx](TODO)
-* [RELX Group a.k.a. Reed Elsevier](https://en.wikipedia.org/wiki/RELX_Group](https://en.wikipedia.org/wiki/RELX_Group)
+* [RELX Group a.k.a. Reed Elsevier](https://en.wikipedia.org/wiki/RELX_Group)
 * [remind](TODO)
 * [Reminders](TODO): Apple's task app. (macOS)
 * [ren](TODO)
@@ -1039,7 +1034,7 @@
 * [sbcl](TODO)
 * [sbt](TODO)
 * [sc68](TODO)
-* [Scala](TODO) programming language; runs on top of the JVM.
+* [Scala](TODO): programming language; runs on top of the JVM.
 * [scalate](TODO)
 * [scalpel](TODO)
 * [scamperema](TODO)
@@ -1069,7 +1064,6 @@
 * [sedna](TODO)
 * [seil](TODO)
 * [seil](TODO)
-* [SemVer: semantic version](TODO)
 * [Sequel Pro](TODO): database management application.
 * [sequential](TODO)
 * [ser2net](TODO)
@@ -1135,7 +1129,7 @@
 * [snobol4](TODO)
 * [snort](TODO)
 * [sntop](TODO)
-* [SoapUI
+* [SoapUI](TODO)
 * [SOASTA](https://www.soasta.com/): load testing and performance monitoring solutions.
 * [socat](TODO)
 * [sofia-sip](TODO)
@@ -1172,7 +1166,7 @@
 * [spring-roo](TODO)
 * [Spring](https://en.wikipedia.org/wiki/Spring_Framework): an application framework and inversion of control container for Java.
 * [sproxy](TODO)
-* [SQLite]](TODO): database featuring self-contained, serverless, zero-configuration, transactional engine.
+* [SQLite](TODO): database featuring self-contained, serverless, zero-configuration, transactional engine.
 * [sqsh](TODO)
 * [squashfs](TODO)
 * [squid](TODO)
@@ -1192,7 +1186,7 @@
 * [StarUML](TODO): a tool to model UML.
 * [staticrouted](TODO)
 * [stgit](TODO)
-* [Stickies
+* [Stickies](TODO): Apple's yellow index card app. (macOS)
 * [stklos](TODO)
 * [storm](TODO)
 * [stormfs](TODO)
@@ -1224,12 +1218,12 @@
 * [swish-e](TODO)
 * [syck](TODO)
 * [symphony](TODO)
-* [Syncthing](TODO)L open source file sharing tool; compare BitTorrent.
+* [Syncthing](TODO): open source file sharing tool; compare BitTorrent.
 * [Synergy](http://symless.com/synergy/): a utility to share a mouse and keyboard among computers. 
 * [synfig](TODO)
 * [synfigstudio](TODO)
 * [syslog-ng](TODO)
-* [System Preferences
+* [System Preferences](TODO): Apple's configuration dashboard. (macOS)
 * [szip](TODO)
 * [szl](TODO)
 * [t1utils](TODO)
@@ -1258,13 +1252,13 @@
 * [tcpurify](TODO)
 * [Tealeaf](https://en.wikipedia.org/wiki/Tealeaf): a Customer Experience Management (CEM) software company, now owned by IBM.
 * [Tealium](http://tealium.com/): customer data platform to build a unified customer view in real time.
-* [TeamViewer]
+* [TeamViewer](TODO)
 * [teapot](TODO)
 * [teem](TODO)
 * [term](TODO)
 * [tesseract](TODO)
 * [testdisk](TODO)
-* [Testflight](TODO): Apple iOS testing service 
+* [Testflight](TODO): Apple iOS testing service.
 * [tetgen](TODO)
 * [texinfo](TODO)
 * [TextEdit
@@ -1318,8 +1312,7 @@
 * [trafshow](TODO)
 * [trang](TODO)
 * [transcode](TODO)
-* [Transmission bittorrent client.
-* [transmission](TODO)
+* [Transmission](TODO): bittorrent client.
 * [transmit](TODO)
 * [tre](TODO)
 * [Tree](TODO): a directory lister that shows a tree outline.
@@ -1393,7 +1386,6 @@
 * [vde](TODO)
 * [velvet](TODO)
 * [verilator](TODO)
-* [Versioning
 * [vf](TODO)
 * [vgmstream](TODO)
 * [vice](TODO)
@@ -1489,7 +1481,6 @@
 * [xerces-c](TODO)
 * [Xmind](https://en.wikipedia.org/wiki/XMind): mind mapping and brainstorming software.
 * [xml2rfc](TODO)
-* [XML](TODO)
 * [xmlformat](TODO)
 * [xmlrpc-c](TODO)
 * [xmlstarlet](TODO)

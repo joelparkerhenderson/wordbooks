@@ -64,12 +64,12 @@ Contents:
 * [JPEG](TODO): image format.
 * [JSON: JavaScript object notation](https://wikipedia.org/wiki/JSON) (cf. XML)
 * [PNG](TODO): image format.
+* [RDF: resource description framework](https://wikipedia.org/wiki/Resource_Description_Framework)
 * [TDF: tab delimited files](https://wikipedia.org/wiki/Delimiter-separated_values)  (cf. CSV, TSV)
 * [TIFF](TODO): image format.
 * [TSV: tab separated values](https://wikipedia.org/wiki/Tab-separated_values)  (cf. CSV, TDF)
 * [UML: Unified Modeling Lanuage](TODO)
 * [XML: extensible markup language](https://wikipedia.org/wiki/Xml) (cf. JSON: JavaScript Object Notation)
-* [RDF: resource description framework](https://wikipedia.org/wiki/Resource_Description_Framework)
 
 
 <a name="programming-languages">Programming languages</a>:
@@ -144,7 +144,9 @@ Contents:
 * [procedural programming](https://en.wikipedia.org/wiki/Procedural_programming)
 * [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [scrum (software development](https://wikipedia.org/wiki/Lean_software_development)
+* [SemVer: semantic versioning specification](http://semver.org/)
 * [software engineering](https://wikipedia.org/wiki/Software_engineering)
+* [software versioning](https://en.wikipedia.org/wiki/Software_versioning)
 * [src: source]
 * [story-driven modeling](https://wikipedia.org/wiki/Story-driven_modeling)
 * [test-triven tevelopment (TDD)](https://wikipedia.org/wiki/Test-driven_development) (cf. BDD, EDD, FDD)
