@@ -1087,7 +1087,6 @@
 * [shorten](TODO)
 * [shtool](TODO)
 * [Shuttle](http://fitztrev.github.io/shuttle/): simple SSH shortcut menu for Mac.
-* [shuttle](TODO)
 * [sic](TODO)
 * [sickbeard](TODO)
 * [Siege](TODO): a http load testing and benchmarking utility.
@@ -1261,13 +1260,13 @@
 * [Testflight](TODO): Apple iOS testing service.
 * [tetgen](TODO)
 * [texinfo](TODO)
-* [TextEdit
+* [TextEdit](TODO): Apple's simple text editor. (macOS)
 * [thc-pptp-bruter](TODO)
 * [the silver searcher](TODO)
 * [The Unarchiver](http://wakaba.c3.cx/s/apps/unarchiver.html): archive unpacker program for Mac.
 * [theora](TODO)
 * [ThoughtWorks](https://thoughtworks.com)
-* [Thrift](](TODO): an efficent way to serialize data for networks. See Protocol Buffers.
+* [Thrift](TODO): an efficent way to serialize data for networks; compare protobuf; by Facebook.
 * [thrulay](TODO)
 * [Thunderbird](TODO): email client app; by Mozilla.
 * [tidy](TODO)
