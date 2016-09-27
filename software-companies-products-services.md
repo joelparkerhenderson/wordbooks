@@ -25,6 +25,8 @@
 * [Apache Maven](TODO): a software project management and comprehension tool.
 * [Apache Tomcat](TODO): server software that implements Java Servlet and JavaServer Pages technologies.
 * [apachetop](TODO)
+* [API Blueprint](https://apiblueprint.org/): a documentation-oriented web API description language; compare Apiary, Swagger.
+* [Apiary](https://apiary.io/() makes API development simple and collaborative; compare API Blueprint, Swagger.
 * [App Store](TODO)
 * [AppCleaner](TODO): thoroughly uninstalls unwanted apps. (macOS)
 * [AppCode](TODO): Swift IDE; by JetBrains.
@@ -39,8 +41,6 @@
 * [asciidoc](TODO)
 * [asciitex](TODO)
 * [aspell](TODO): spell checker; compare `lspell`.
-* [Apiary](https://apiary.io/() makes API development simple and collaborative; compare API Blueprint, Swagger.
-* [API Blueprint](https://apiblueprint.org/): a documentation-oriented web API description language; compare Apiary, Swagger.
 * [atext](TODO)
 * [ATG Web Commerce](https://en.wikipedia.org/wiki/Art_Technology_Group): web server that enables personalized online buying experience for each user on a website.
 * [Atom](TODO): text editor; by GitHub.
@@ -180,6 +180,7 @@
 * [FaceTime](TODO)
 * [fakeroot](TODO)
 * [falcor](https://github.com/Netflix/falcor)
+* [Federation topology](TODO): each institution has control over its own data.
 * [fetchmail](TODO)
 * [ffmpeg](TODO)
 * [ffmpeg](TODO)
@@ -201,8 +202,8 @@
 * [freeplane](TODO)
 * [FreeType](TODO): font-rendering software library.
 * [Fugu](https://en.wikipedia.org/wiki/Fugu_(software)): a graphical shell for SSH and FTP.
-* [Game Center](TODO)
 * [Galen Framework](http://galenframework.com/): automated testing of look and feel for responsive websites.
+* [Game Center](TODO)
 * [ganttproject](TODO)
 * [GarageBand](TODO)
 * [Garmin](TODO)
@@ -273,6 +274,7 @@
 * [Heroku toolbelt](TODO): Heroku command-line utilties.
 * [Heroku](https://heroku.com)
 * [hg](TODO): nickname for Mercurial version control system.
+* [Hierarchical topology](TODO): there is a single source for the data and it needs to be distributed to multiple locations around the world. 
 * [hipchat](TODO)
 * [hockey](TODO)
 * [Homebrew Cask](TODO): extends Homebrew to install OS X applications and large binaries.
@@ -283,6 +285,7 @@
 * [httperf](TODO)
 * [HTTrack](TODO)" a free easy-to-use offline browser utility.
 * [Hudson](https://en.wikipedia.org/wiki/Hudson_(software)): continuous integration server.
+* [Hybrid Topology](TODO): a configuration that contains an architecture consisting of any combination of other topologies.
 * [Hygieia](https://github.com/capitalone/Hygieia): CapitalOne DevOps dashboard.
 * [Hyper-V](https://en.wikipedia.org/wiki/Hyper-V): a hypervisor that creates virtual machines on Windows x86-64 systems.
 * [HyperDex](https://en.wikipedia.org/wiki/HyperDex): database.
@@ -461,6 +464,7 @@
 * [malbolge](TODO)
 * [mame](TODO)
 * [man2html](TODO)
+* [Manhattan Associates](http://www.manh.com/): supply chain software to sell and execute in stores.
 * [mapnik](TODO)
 * [mapserver](TODO)
 * [MariaDB](TODO): a database created by the creators of MySQL.
@@ -533,6 +537,7 @@
 * [mod_wsgi](TODO)
 * [mogenerator](TODO)
 * [Mojolicious](https://wikipedia.org/wiki/Mojolicious): web framework for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
+* [Monadic topology](TODO): use central repository that all collected data is fed into. 
 * [monetdb](TODO)
 * [MongoDB](https://en.wikipedia.org/wiki/MongoDB): document-oriented database.
 * [mongoose](TODO)
@@ -713,6 +718,7 @@
 * [Oracle](https://www.oracle.com)
 * [orbit](TODO)
 * [orc](TODO)
+* [Organization for the Advancement of Structured Information Standards (OASIS)](https://en.wikipedia.org/wiki/OASIS_(organization))
 * [orpie](TODO)
 * [ortp](TODO)
 * [osm-pbf](TODO)
@@ -800,12 +806,14 @@
 * [pig](TODO)
 * [pigz](TODO)
 * [pil](TODO)
+* [PIM: personal information manager](TODO)
+* [PIM: product information manager](TODO)
 * [pincaster](TODO)
 * [pinentry](TODO)
 * [pipebench](TODO)
 * [pipemeter](TODO)
 * [pit](TODO)
-* [Pivotal](https://pivotal.com)
+* [Pivotal Software](https://wikipedia.org/wiki/Pivotal_Software)
 * [Pixelmator](http://www.pixelmator.com/mac/): full-featured image editor for Mac.
 * [pixie](TODO)
 * [pixman](TODO)
@@ -945,8 +953,8 @@
 * [readline](TODO): functions for use by applications to edit command lines while typing.
 * [readosm](TODO)
 * [readpst](TODO)
-* [Realm](TODO): mobile database.
 * [Realm browser](TODO): mobile database editor for the Realm embedded database.
+* [Realm](TODO): mobile database.
 * [reattach-to-user-namespace](TODO)
 * [rebar](TODO)
 * [recode](TODO)
@@ -984,6 +992,7 @@
 * [rlog](TODO)
 * [rlwrap](TODO)
 * [rmcast](TODO)
+* [RMS: Oracle Retail Merchandising System](https://www.oracle.com/industries/retail/products/merchandise-management/merchandising-system/index.html)
 * [rmtrash](TODO)
 * [rnv](TODO)
 * [robodoc](TODO)
@@ -995,6 +1004,7 @@
 * [rpg](TODO)
 * [rpl](TODO)
 * [rpm2cpio](TODO)
+* [RPM: Oracle Retail Price Management](https://www.oracle.com/industries/retail/products/merchandise-management/price-management/index.html)
 * [rrdtool](TODO)
 * [rsense](TODO)
 * [rsnapshot](TODO)
@@ -1244,6 +1254,7 @@
 * [talloc](TODO)
 * [Tarsnap](TODO): a secure online backup service for *nix.
 * [task](TODO)
+* [Tasked-Based Authorization Controls (TBAC)](TODO)
 * [Taylor](TODO): code quality metrics tool for Swift.
 * [tbb](TODO)
 * [tcl-tk](TODO)

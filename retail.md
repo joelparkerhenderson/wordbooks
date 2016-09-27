@@ -53,6 +53,7 @@ Glossary:
 * [group buying](TODO):  When retailers pool their resources to buy products at a discount; also called a cooperative. 
 * [gummed label](TODO):  A pricing ticket with adhesive on the back, used on cloth, leather, and unpainted wood. 
 * [hard line](TODO):  Describes all nontextile merchandise. 
+* [hard mark](TODO): hard markdown a.k.a. permanent markdown; theese tend to be taken at the end of the season, but can also be taken on slow moving merchandise that you want to exit out of. (cf. promo markdown)
 * [heterogenous products](TODO):  Durable products that are different in quality, appearance, and other features. 
 * [hole pin ticket](TODO):  A pricing ticket used on paired items such as gloves. 
 * [home furnishings](TODO):  Refers to all furniture and accessories for the home, including dishes, rugs, furniture, etc.
@@ -93,6 +94,7 @@ Glossary:
 * [product/service mix](TODO):  The number and kind of products and services a general merchandise retailer will offer. 
 * [product/service planning](TODO):  The process of deciding what the product/service mix will be. 
 * [profit center](TODO):  A section of a store that earns money for the retailer. 
+* [promo markdowns](TODO): used for sales events and the like, such as 20% off, etc. (cf. hard markdown)
 * [promotional campaign](TODO): the time and place you choose to introduce lines, products etc.
 * [promotional lines](TODO): limited editions, summer ranges, only available during the promotion
 * [proportional merchandising](TODO): giving more space to your best sellers and less space to your poor sellers.
@@ -124,6 +126,7 @@ Glossary:
 * [specialty products](TODO):  Products that solve a specific want or need for specific customers, often expensive products with special characteristics or brand identity. 
 * [specialty store](TODO):  A store that specializes in selling a specific kind of product. 
 * [specification buying](TODO):  Demands made by retailers and wholesalers to manufacturers of the products they sponsor and sell. 
+* [stack promotions](TODO): different kinds of promotions that come together for a product.
 * [staples](TODO):  Products that are purchased routinely for everyday use, with little decision-making, and that must be in stock at all times, such as cleaning supplies and food. 
 * [stock keeping unit (sku)](https://en.wikipedia.org/wiki/Stock_keeping_unit): an item or group of related items in a unit control inventory system. 
 * [store operations](TODO):  Includes all functions of operating a store except merchandising, such as customer service, protection, maintenance, and distribution. 
