@@ -138,6 +138,7 @@ Contents:
 * [design structure matrix (DSM)](https://en.wikipedia.org/wiki/Design_structure_matrix)
 * [DSDM: dynamic systems development Method](https://wikipedia.org/wiki/Dynamic_systems_development_method) (cf. BPR, CBSE)
 * [DSM: design structure matrix](https://en.wikipedia.org/wiki/Design_structure_matrix)
+* [early adopter a.k.a. lighthouse customer](https://en.wikipedia.org/wiki/Early_adopter): an early customer of a given company, product, or technology.
 * [effort management](https://en.wikipedia.org/wiki/Effort_management):  the effective and efficient allocation of time and resources to perform activities.
 * [estimation](https://wikipedia.org/wiki/Estimation_(project_management))
 * [FBE: fuzzy back-end](TODO): the action steps where the production and market launch occur. (cf. FFE)
@@ -154,8 +155,11 @@ Contents:
 * [law of two feet](https://en.wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [linear responsibility chart (LRC)](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
 * [LRC: linear responsibility chart](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
+* [minimal viable product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product): a product with just enough features to gather validated learning.
+* [MMF: Minimal marketable feature](TODO) akin to minimal viable product.
 * [MoSCoW: must have, should have, could have, won't have](https://en.wikipedia.org/wiki/MoSCoW_method)): prioritization method
 * [must have, should have, could have, won't have (MoSCoW)](https://en.wikipedia.org/wiki/MoSCoW_method)): prioritization method
+* [MVP: minimal viable product](https://en.wikipedia.org/wiki/Minimum_viable_product): a product with just enough features to gather validated learning.
 * [new product development (NPD)](https://en.wikipedia.org/wiki/New_product_development)
 * [NFR: non-functional requirement](https://en.wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system. (cf. quality attributes)
 * [non-functional requirement (NFR)](https://en.wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system. (cf. quality attributes)
@@ -164,6 +168,7 @@ Contents:
 * [Persona](https://wikipedia.org/wiki/Persona)
 * [PERT: program evaluation and review technique](https://en.wikipedia.org/wiki/Program_evaluation_and_review_technique)
 * [PMBOK: Project Management Body of Knowledge](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge)
+* [problem domain](https://en.wikipedia.org/wiki/Problem_domain)
 * [Project Management Body of Knowledge (PMBOK)](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge)
 * [PMO: project management office](https://en.wikipedia.org/wiki/Project_management_office)
 * [project management triangle](https://wikipedia.org/wiki/Project_management_triangle)

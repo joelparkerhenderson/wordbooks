@@ -50,3 +50,14 @@ Contents:
 * [Senior Executive Vice President (SEVP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
 * [Deputy President (DP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
 * [Senior Vice President (SVP)](https://en.wikipedia.org/wiki/Vice_president#In_business)
+* [BA: Business Analyst]
+* [PM: Project Manager]
+* [IT: Information Technology]
+* [XD: Experience Design]
+* [CX: Customer Experience]
+* [DX: Developer Experience]
+* [QA: Quality Assurance]
+* [QA: Quality Architect]
+* [SET: Software Engineer in Test]
+* [SDET: Software Development Engineer in Test]
+* [TDE: Test Design Engineer]

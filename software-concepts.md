@@ -230,11 +230,15 @@ Contents:
 * [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor]: software, firmware, or hardware that creates and runs virtual machines.
 * [i18n: internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [IAM: identity and access management](https://wikipedia.org/wiki/Identity_and_Access_Management)
+* [IDM: identity management](TODO)
 * [internationalization (i18n)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [invalidation](TODO)
 * [IP address](https://wikipedia.org/wiki/IP_address) (see CNAME, DNS)
 * [ISO 9000](https://wikipedia.org/wiki/Iso_9000)A family of standards for quality management systems and requirements.
+* [ITBM: IT Business Management](TODO)
 * [ITOA: IT Operations Analytics](https://en.wikipedia.org/wiki/IT_Operations_Analytics)
+* [ITOM: IT Operations Management](TODO)
+* [ITSM: IT Service Management](TODO)
 * [l10n: localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [lib: library](TODO)
 * [LIFO: last in, first out](TODO) (a.k.a. stack, cf. FIFO, FILO, LILO)
@@ -248,6 +252,10 @@ Contents:
 * [multilevel security a.k.a. multiple levels of security (MLS)](https://en.wikipedia.org/wiki/Multilevel_security)
 * [multitier architecture](https://en.wikipedia.org/wiki/Multitier_architecture) (a.k.a. n-tier architecture)
 * [mutual exclusion](https://wikipedia.org/wiki/Mutual_exclusion)
+* [model-view-controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller): a software architectural pattern for implementing logic and user interfaces.
+* [model-view-presenter (MVP)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter):  a derivation of the model–view–controller (MVC) architectural pattern.
+* [MVC: model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller): a software architectural pattern for implementing logic and user interfaces.
+* [MVP: model-view-presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter): a derivation of the model–view–controller (MVC) architectural pattern.
 * [naked objects](https://en.wikipedia.org/wiki/Naked_objects)
 * [network partition](https://en.wikipedia.org/wiki/Network_partition): a failure of a network device that causes a network to be split.
 * [object pool](https://wikipedia.org/wiki/Object_pool) pattern.
@@ -293,4 +301,5 @@ Contents:
 * [virtual environment](TODO)
 * [virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
 * [web framework](https://wikipedia.org/wiki/Web_framework)
+
 

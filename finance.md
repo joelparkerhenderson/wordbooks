@@ -31,6 +31,8 @@ Wordbook:
 
 * [Capital good](https://wikipedia.org/wiki/Capital_good)
 
+* [Capital expense (cap ex)](https://en.wikipedia.org/wiki/Capital_expenditure) (cf. financing expense, operational expense)
+
 * [Classical theory of growth and stagnation](https://wikipedia.org/wiki/Classical_theory_of_growth_and_stagnation)
 
 * [Coincidence of wants](https://wikipedia.org/wiki/Coincidence_of_wants)
@@ -88,6 +90,8 @@ Wordbook:
 * [Final product](https://wikipedia.org/wiki/Final_product)
 
 * [Financial system](https://wikipedia.org/wiki/Financial_system)
+
+* [Financing expense (fin ex)](https://en.wikipedia.org/wiki/Corporate_finance) (cf. capital expense, operating expense)
 
 * [Fiscal multiplier](https://wikipedia.org/wiki/Fiscal_multiplier)
 
@@ -184,6 +188,8 @@ Wordbook:
 * [Oil burden](https://wikipedia.org/wiki/Oil_burden)
 
 * [Open economy](https://wikipedia.org/wiki/Open_economy)
+
+* [Operating expense (op ex)](https://en.wikipedia.org/wiki/Operating_expense) (cf. capital expense, financing expense)
 
 * [Opportunity cost](https://wikipedia.org/wiki/Opportunity_cost)
 

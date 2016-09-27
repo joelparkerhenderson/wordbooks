@@ -39,6 +39,8 @@
 * [asciidoc](TODO)
 * [asciitex](TODO)
 * [aspell](TODO): spell checker; compare `lspell`.
+* [Apiary](https://apiary.io/() makes API development simple and collaborative; compare API Blueprint, Swagger.
+* [API Blueprint](https://apiblueprint.org/): a documentation-oriented web API description language; compare Apiary, Swagger.
 * [atext](TODO)
 * [ATG Web Commerce](https://en.wikipedia.org/wiki/Art_Technology_Group): web server that enables personalized online buying experience for each user on a website.
 * [Atom](TODO): text editor; by GitHub.
@@ -57,6 +59,7 @@
 * [aws-iam-tools](TODO)
 * [aws-sns-cli](TODO)
 * [Backblaze](TODO)
+* [BackstopJS](https://garris.github.io/BackstopJS/): testing tool to check HTML web pages, CSS, and responsive page elements.
 * [backuploupe](TODO)
 * [balsamiq-mockups](TODO)
 * [Bamboo](https://www.atlassian.com/software/bamboo): a continuous integration and deployment tool by Atlassian.
@@ -199,6 +202,7 @@
 * [FreeType](TODO): font-rendering software library.
 * [Fugu](https://en.wikipedia.org/wiki/Fugu_(software)): a graphical shell for SSH and FTP.
 * [Game Center](TODO)
+* [Galen Framework](http://galenframework.com/): automated testing of look and feel for responsive websites.
 * [ganttproject](TODO)
 * [GarageBand](TODO)
 * [Garmin](TODO)
@@ -723,6 +727,7 @@
 * [p11-kit](TODO)
 * [p4merge](TODO)
 * [p7zip](TODO)
+* [Pact](https://github.com/realestate-com-au/pact): enables API contract testing, mock service, and DSL.
 * [Pages](TODO): Apple's text editing app. (macOS)
 * [pam_yubico](TODO)
 * [paml](TODO)
@@ -1039,6 +1044,7 @@
 * [scalpel](TODO)
 * [scamperema](TODO)
 * [scantailor](TODO)
+* [Scene7](https://en.wikipedia.org/wiki/Scene7):  interactive publishing services such as online catalogs, targeted email, video, and image management.
 * [scheme48](TODO)
 * [schroedinger](TODO)
 * [scm-manager](TODO)
@@ -1069,6 +1075,7 @@
 * [ser2net](TODO)
 * [serf](TODO)
 * [sersniff](TODO)
+* [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow): enterprise service management software, such as IT Service Management (ITSM), IT Operations Management (ITOM) and IT Business Management (ITBM).
 * [sgrep](TODO)
 * [sh](TODO): shell for *nix; typical shells are bash, zsh, ksh.
 * [shakespeare](TODO)
@@ -1119,6 +1126,7 @@
 * [sleuthkit](TODO)
 * [sloccount](TODO)
 * [slrn](TODO)
+* [Slyce](http://slyce.it): visual search provider for retailers and brands.
 * [smake](TODO)
 * [smartmontools](TODO)
 * [smartypants](TODO)
@@ -1187,7 +1195,7 @@
 * [stgit](TODO)
 * [Stickies](TODO): Apple's yellow index card app. (macOS)
 * [stklos](TODO)
-* [storm](TODO)
+* [Storm](https://en.wikipedia.org/wiki/Storm_(event_processor)): Apache Storm event processor, including including Spouts, Bolts, Streams, Topologies.
 * [stormfs](TODO)
 * [stow](TODO)
 * [stp](TODO)
@@ -1207,6 +1215,7 @@
 * [svdlibc](TODO)
 * [svg2pdf](TODO)
 * [svg2png](TODO)
+* [Swagger](https://en.wikipedia.org/wiki/Swagger_(software)): tool to specify API contracts; new name is OpenAPI; compare Apiary, API Blueprint.
 * [swaks](TODO)
 * [swfmill](TODO)
 * [swftools](TODO)
