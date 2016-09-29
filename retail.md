@@ -13,6 +13,8 @@ Glossary:
 * [auditory marketing](TODO): playing music to strengthen your brand quality.
 * [AVT](TODO): average value transaction - the average spend of your customer.
 * [bill of lading ](TODO): A shipping contract which includes the exact contents of the delivery. 
+* [BOGO: buy one get one](TODO): a promotion kind. Compare GWP, PWP.
+* [BOPS: buy online, pickup in store](TODO)
 * [branch store](TODO):  A smaller store operated by a department store that carries a limited range of merchandise. 
 * [brand](TODO): the total sensory experience the client has with your company and its product or service. 
 * [button ticket](TODO):  A pricing ticket with a hook at the top that can be attached to a button. 
@@ -52,6 +54,7 @@ Glossary:
 * [grade labeling](TODO):  Product labeling that includes a quality rating for the product. 
 * [group buying](TODO):  When retailers pool their resources to buy products at a discount; also called a cooperative. 
 * [gummed label](TODO):  A pricing ticket with adhesive on the back, used on cloth, leather, and unpainted wood. 
+* [GWP: gift with purchase](TODO): a promotion kind. Compare BOGO, PWP.
 * [hard line](TODO):  Describes all nontextile merchandise. 
 * [hard mark](TODO): hard markdown a.k.a. permanent markdown; theese tend to be taken at the end of the season, but can also be taken on slow moving merchandise that you want to exit out of. (cf. promo markdown)
 * [heterogenous products](TODO):  Durable products that are different in quality, appearance, and other features. 
@@ -101,6 +104,7 @@ Glossary:
 * [proxemics](TODO):  The nonverbal communication suggested by the space between two people. 
 * [pull policy](TODO):  A promotional policy aimed at building strong consumer demand for a product. 
 * [push policy](TODO):  A promotional policy aimed at getting retailers to stock a product, to build supply in the marketplace. 
+* [PWP: purchase with purchase](TODO): a promotion kind. Compare BOGO, GWP.
 * [relationships](TOD): how well you know your customers, vendors, partners, et al.
 * [reserve stock](TODO):  Merchandise that is kept somewhere other than the selling floor. 
 * [resident buying office](TODO):  An office located in a central merchandising area where buyers can receive information about products from a variety of manufacturers. 
@@ -111,6 +115,7 @@ Glossary:
 * [Romancing the Customer](TODO): a metaphor for describing how to create lasting business relationships.
 * [romancing](TODO): becoming obsessive (in a healthy way) with your customer, their needs, wants, desires.
 * [scrim](TODO):  A sheer fabric onto which pictures can be painted to be used as a transparent backdrop in the theater and as a visual merchandising prop in stores. 
+* [SDD: same day delivery](TODO)
 * [seasonal merchandising](TODO): reflective of the time of year, or holiday, etc.
 * [secondary space](TODO): almost as good as primary space or a hot spot but may be less visible - generally next to primary space
 * [seducing the senses](TODO): using your environment to appeal to each of our senses.

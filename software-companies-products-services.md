@@ -410,6 +410,7 @@
 * [little-cms](TODO)
 * [little-snitch](TODO)
 * [llvm](TODO)
+* [LMAX Disruptor](https://lmax-exchange.github.io/disruptor/): high performance inter-thread messaging library
 * [lmutil](TODO)
 * [LMX: LMX Trading Strategies](http://www.thisnewyorklife.com/portfolio/lmx.htm): A global suite of algorithmic trade order execution strategies by Lehman Brothers.
 * [lockrun](TODO)
@@ -424,6 +425,7 @@
 * [Logstash](https://www.elastic.co/products/logstash): transport and process logs, events, or other data; see ELK.
 * [logtalk](TODO)
 * [lolcode](TODO)
+* [Loop Commerce](http://www.loopcommerce.com/): gift commerce platform for large retailers
 * [lorem](TODO)
 * [loudmouth](TODO)
 * [lout](TODO)
@@ -1006,6 +1008,7 @@
 * [rpm2cpio](TODO)
 * [RPM: Oracle Retail Price Management](https://www.oracle.com/industries/retail/products/merchandise-management/price-management/index.html)
 * [rrdtool](TODO)
+* [RSA SecurID Software Token](https://itunes.apple.com/us/app/rsa-securid-software-token/id318038618) Protect networks and data with RSA SecurID two-factor authentication. (iOS)
 * [rsense](TODO)
 * [rsnapshot](TODO)
 * [rsync](TODO)
@@ -1255,6 +1258,7 @@
 * [Tarsnap](TODO): a secure online backup service for *nix.
 * [task](TODO)
 * [Tasked-Based Authorization Controls (TBAC)](TODO)
+* [Taxware](https://en.wikipedia.org/wiki/Taxware): provides products ranging from simple tax rate files to complete end-to-end taxt solution automation. 
 * [Taylor](TODO): code quality metrics tool for Swift.
 * [tbb](TODO)
 * [tcl-tk](TODO)
@@ -1405,6 +1409,7 @@
 * [vde](TODO)
 * [velvet](TODO)
 * [verilator](TODO)
+* [Vertex Inc.](https://en.wikipedia.org/wiki/Vertex_Inc): offers Fixed Asset Management, Income Tax, and Sales Tax software.
 * [vf](TODO)
 * [vgmstream](TODO)
 * [vice](TODO)
@@ -1554,3 +1559,12 @@
 * [zssh](TODO)
 * [zsync](TODO)
 * [zzuf](TODO)
+* [VendorNet](https://vendornet.com): web-based cross-channelsupply chain software solutions for inventory & order fulfillment
+* [VeriStitch](https://www.veristitch.com): personalized embroidery software.
+* [FraudNet](http://www.experian.com/decision-analytics/identity-and-fraud/fraudnet.html): online fraud detection and real-time risk engine.
+* [ProRep](http://spaldingsoftware.com/wp/prorep/): labor management software with quality tracking, reporting, covering audits, checks, and catches.
+* [VoxWare](http://voxware.com/): software for voice recognition that directs the work of the warehouse workforce.
+* [SourceLink](http://www.sourcelink.com/): full-service direct marketing agency.
+* [Avaya](http://www.avaya.com): voice detection & predictive dialing capabilities for call center agents.
+* [Totalview](http://www.total-view.com/): workforce management software that measures staff and company.
+* [NICE](http://www.nice.com/): enterprise software to improve customer experience, compliance, fraud prevention.
