@@ -20,6 +20,8 @@
 * [benchmarking](?): how a service is performing in comparison to other services of similar scope
 * [bounce rate](?): the percentage of visits in which a visitor only views one page of your site before leaving
 * [churn rate a.k.a. attrition rate](https://en.wikipedia.org/wiki/Churn_rate) a measure of items moving out of a group over a period of time 
+* [CI: confidence interval](https://en.wikipedia.org/wiki/Confidence_interval): a range of values (interval) that act as good estimates of an unknown population parameter.
+* [CL: confidence level](https://en.wikipedia.org/wiki/Confidence_interval): How frequently the observed interval contains the parameter is determined by the confidence level or confidence coefficient.
 * [click](?): The single instance of a user following a hyperlink to another page or to initiate an action
 * [CMRR: contracted monthly recurring revenue or committed monthly recurring revenue](TODO)
 * [conversion](?): when a visitor comes to a site and complets a goal

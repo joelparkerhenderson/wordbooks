@@ -62,6 +62,7 @@
 * [BackstopJS](https://garris.github.io/BackstopJS/): testing tool to check HTML web pages, CSS, and responsive page elements.
 * [backuploupe](TODO)
 * [balsamiq-mockups](TODO)
+* [Bounce Exchange a.k.a. BounceX](https://www.bounceexchange.com/): behavioral marketing.
 * [Bamboo](https://www.atlassian.com/software/bamboo): a continuous integration and deployment tool by Atlassian.
 * [bartender](TODO)
 * [base64](TODO)
@@ -89,6 +90,7 @@
 * [bogofilter](TODO)
 * [boot2docker](TODO): utility to boot a Docker container.
 * [BorderFree](http://www.pitneybowes.com/us/global-ecommerce/international-retail-delivery/borderfree-marketplace-for-cross-border-ecommerce.html): Pitney Bowes BorderFreee provides cross-border ecommerce solutions, e.g. exchange rates.
+* [Bottle Rocket Studios](https://www.bottlerocketstudios.com/)
 * [box-sync](TODO)
 * [brain-workshop](TODO)
 * [Brew cask](TODO): enables installing typical Mac OS X applications.
@@ -265,7 +267,7 @@
 * [grooveshark](TODO)
 * [grsync](TODO)
 * [gzip](TODO)
-* [Hadoop](TODO): database.
+* [Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop): distributed storage and processing of large data sets on computer clusters.
 * [Hangout](TODO): Google Hangout instant messaging app.
 * [Harvest](TODO): time-tracking tool and service.
 * [Haskell](TODO): programming language featuring functional programming.
@@ -332,6 +334,7 @@
 * [jumpcut](TODO)
 * [justniffer](TODO)
 * [jython](TODO)
+* [Kafka](https://en.wikipedia.org/wiki/Apache_Kafka): massively scalable pub/sub message queue architected as a distributed transaction log.
 * [karabiner](TODO)
 * [karabiner](TODO)
 * [kawa](TODO)
@@ -967,6 +970,7 @@
 * [RedPrarie](https://en.wikipedia.org/wiki/RedPrairie): supply chain, workforce and all-channel commerce software provider; merged with JDA Software.
 * [redsocks](TODO)
 * [regina-rexx](TODO)
+* [Reltio](http://www.reltio.com/): cloud Master Data Management (MDM)
 * [RELX Group a.k.a. Reed Elsevier](https://en.wikipedia.org/wiki/RELX_Group)
 * [remind](TODO)
 * [Reminders](TODO): Apple's task app. (macOS)
@@ -983,6 +987,7 @@
 * [rfcdiff](TODO)
 * [rfcmarkup](TODO)
 * [rfcstrip](TODO)
+* [R/GA Business Consulting](https://www.rga.com/capabilities/business-consulting)
 * [rhino](TODO)
 * [Riak](https://en.wikipedia.org/wiki/Riak): database.
 * [Riak](TODO): open-source distributed database.

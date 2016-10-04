@@ -274,6 +274,8 @@ Contents:
 * [localization (l10n)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [logical architecture](TODO) (cf. conceptual architecture)
 * [loose coupling](https://wikipedia.org/wiki/Loose_coupling)
+* [MDM: master data management](https://en.wikipedia.org/wiki/Master_data_management): comprises the processes, governance, policies, standards and tools that consistently define and manage the critical data of an organization to provide a single point of reference.
+* [MDM: mobile device management](https://en.wikipedia.org/wiki/Mobile_device_management): an industry term for the administration of mobile devices, such as smartphones and tablet computers.
 * [microservices](https://en.wikipedia.org/wiki/Microservices)
 * [ML: machine learning](https://wikipedia.org/wiki/Machine_learning)
 * [ML: markup langauge](https://wikipedia.org/wiki/Markup_language)

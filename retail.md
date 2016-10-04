@@ -135,7 +135,8 @@ Glossary:
 * [staples](TODO):  Products that are purchased routinely for everyday use, with little decision-making, and that must be in stock at all times, such as cleaning supplies and food. 
 * [stock keeping unit (sku)](https://en.wikipedia.org/wiki/Stock_keeping_unit): an item or group of related items in a unit control inventory system. 
 * [store operations](TODO):  Includes all functions of operating a store except merchandising, such as customer service, protection, maintenance, and distribution. 
-* [string ticket](TODO):  A pricing ticket attached with a piece of string. 
+* [string ticket](TODO): A pricing ticket attached with a piece of string. 
+* [suite selling](TODO): Sell items together in a bundle, such as a complete outfit, or a complete bedding set.
 * [supportive services](TODO):  Free services offered to customers to increase convenience and entice buying more. 
 * [surprise &amp; delight](TODO): dare to be different! Use colour, animation, humour, anything to wake customers up.
 * [swing area](TODO): the positioning of tables, gondalas or floor fixtures to influence the flow or direction your customer takes through your environment.
