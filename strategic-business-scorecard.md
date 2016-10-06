@@ -14,7 +14,7 @@ The four boxes:
 
 1. Financial Stewardship
 2. Internal Processes
-3. Extenal Relations
+3. External Relations
 4. Learning & Growth
 
 
