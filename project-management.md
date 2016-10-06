@@ -157,6 +157,7 @@ Contents:
 * [law of two feet](https://wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [linear responsibility chart (LRC)](https://wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
 * [LRC: linear responsibility chart](https://wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
+* [MDI: metric-driven initiative](TODO)
 * [minimal viable product (MVP)](https://wikipedia.org/wiki/Minimum_viable_product): a product with just enough features to gather validated learning.
 * [MMF: Minimal marketable feature](TODO) akin to minimal viable product.
 * [MoSCoW: must have, should have, could have, won't have](https://wikipedia.org/wiki/MoSCoW_method)): prioritization method
