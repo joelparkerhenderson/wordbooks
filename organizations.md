@@ -5,11 +5,12 @@ Contents:
 * [Miscellaneous](#misc)
 * [Titles](#titles)
 
-
 <h2><a name="misc">Miscellaneous</a></h2>
 
 * [activity-based_costing](https://wikipedia.org/wiki/Activity-based_costing)
+* [balanced scorecard (BSC)](https://en.wikipedia.org/wiki/Balanced_scorecard) a semi-standard structured report that is a strategy performance management tool.
 * [BAU: business as usual](TODO)
+* [BSC: balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard) a semi-standard structured report that is a strategy performance management tool.
 * [best practice](https://en.wikipedia.org/wiki/Best_practice)
 * [Capability Maturity Model](https://wikipedia.org/wiki/Capability_Maturity_Model)
 * [core competency](https://wikipedia.org/wiki/Core_competency)
@@ -27,6 +28,7 @@ Contents:
 * [formula for change](https://wikipedia.org/wiki/Formula_for_change)
 * [four stages of competence](https://wikipedia.org/wiki/Four_stages_of_competence)
 * [Globalization](https://en.wikipedia.org/wiki/Globalization)
+* [KPI: key performance indicator](https://en.wikipedia.org/wiki/Performance_indicator): s a type of performance measurement that evaluates the success of an organization or activity.
 * [lean enterprise](https://wikipedia.org/wiki/Lean_enterprise)
 * [learning styles](https://wikipedia.org/wiki/Learning_styles)
 * [LMX: leader–member exchange theory](https://en.wikipedia.org/wiki/Leader%E2%80%93member_exchange_theory): a relationship-based approach to leadership that focuses on the two-way (dyadic) relationship between leaders and followers
@@ -52,6 +54,7 @@ Contents:
 * [TC: total cost](https://wikipedia.org/wiki/Total_cost)
 * [TCA: total cost of acquisition](https://wikipedia.org/wiki/Total_cost_of_acquisition)
 * [TCO: total cost of ownership](https://en.wikipedia.org/wiki/Total_cost_of_ownership)
+* [third-generation balanced scorecard](https://en.wikipedia.org/wiki/Third-generation_balanced_scorecard): a balanced scorecare typically with four items: a destination statement, a strategic linkage model, defintions of objectives, and measures for targets.
 * [total cost of ownership (TCO)](https://en.wikipedia.org/wiki/Total_cost_of_ownership)
 * [total project control](https://wikipedia.org/wiki/Total_project_control)
 * [UCID: universal customer identifier](TODO) (cf. CID)

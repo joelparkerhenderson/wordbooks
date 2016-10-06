@@ -35,6 +35,7 @@
 * [Apple Configurator](TODO)
 * [apple-gcc42](TODO)
 * [Apple](https://en.wikipedia.org/wiki/Apple_Inc.)
+* [Arbor Networks](https://en.wikipedia.org/wiki/Arbor_Networks)
 * [arq](TODO)
 * [Artifactory](https://www.jfrog.com/artifactory/): JFrog Artifactory artifact repository manager to manage packages, CI/CD, devops, etc.
 * [ascii](TODO)
@@ -622,7 +623,10 @@
 * [neko](TODO)
 * [neo4j](TODO)
 * [neon](TODO)
+* [Neptune.io](https://www.neptune.io/): incident enrichment and automation for IT Operations and DevOps.
 * [nesc](TODO)
+* [NetIQ](https://en.wikipedia.org/wiki/NetIQ)
+* [NetIQ Identity Manager](https://en.wikipedia.org/wiki/NetIQ_Identity_Manager)
 * [net-nuclear](TODO)
 * [net-snmp](TODO)
 * [net6](TODO)
@@ -630,6 +634,8 @@
 * [Netcat](TODO): a networking utility for the TCP/IP protocol.
 * [netcdf](TODO)
 * [Netflix](https://netflix.com)
+* [NetIQ](https://en.wikipedia.org/wiki/NetIQ): provides products for identity and access management. 
+* [NetIQ Identity Manager](https://en.wikipedia.org/wiki/NetIQ_Identity_Manager)
 * [netpbm](TODO)
 * [netsed](TODO)
 * [nettle](TODO)
@@ -768,6 +774,7 @@
 * [pcal](TODO)
 * [pcb](TODO)
 * [PCF: Pivotal Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal.
+* [PCI DSS: Payment Card Industry Data Security Standard](https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard)
 * [PCRE: Perl-compatible regular expressions](TODO): enables searches to use better syntax.
 * [pdal](TODO)
 * [pdf2image](TODO)
@@ -941,6 +948,7 @@
 * [rakudo-star](TODO)
 * [randomize-lines](TODO)
 * [ranger](TODO)
+* [Rapid7](https://en.wikipedia.org/wiki/Rapid7): internet security company.
 * [raptor](TODO)
 * [rarian](TODO)
 * [rasqal](TODO)

@@ -56,6 +56,7 @@
 * [LCV: lifetime customer value)](https://en.wikipedia.org/wiki/Customer_lifetime_value) a.k.a. customer lifetime value.
 * [life-time value (LTV)](https://en.wikipedia.org/wiki/Customer_lifetime_value) a.k.a. customer lifetime value.
 * [lifetime customer value (LCV)](https://en.wikipedia.org/wiki/Customer_lifetime_value) a.k.a. customer lifetime value.
+* [Likert scale](https://en.wikipedia.org/wiki/Likert_scale) a psychometric scale commonly used for measuring agree-or-disgree.
 * [LTV: life-time value](https://en.wikipedia.org/wiki/Customer_lifetime_value) a.k.a. customer lifetime value.
 * [loyalty](?): A measure of visitor behavior, such as number of visits in a time period
 * [Marketing Accountability Standards Board (MASB)](https://en.wikipedia.org/wiki/Marketing_Accountability_Standards_Board)
@@ -74,6 +75,7 @@
 * [query parameter](?): A VARIABLE=VALUE pair that follows the question mark ("?") in a URL
 * [query variable](?): The VARIABLE portion of the VARIABLE=VALUE pair that makes up a query parameter
 * [rating](?) e.g. when a user rates an app in an app store, or a product on a web site
+* [rating scale](https://en.wikipedia.org/wiki/Rating_scale): a set of categories designed for questionnaires; common scales are the Likert response scale and 1-10 rating scale.
 * [referring site](?): another site that sends a visitor to your site
 * [regular expression match](?): match text by using special characters, wildcards, and flexible rules
 * [request URI](?): the string at the end of a URL after a site's domain name
