@@ -9,7 +9,7 @@
 * [compatibility testing](https://en.wikipedia.org/wiki/Compatibility_testing)
 * [contract testing](TODO)
 * [dynamic testing](https://en.wikipedia.org/wiki/Dynamic_testing) (compare static testing)
-* [EDD: experiment-driven development)](https://wikipedia.org/wiki/Test-driven_development) (cf. BDD, FDD, HDD, TDD)
+* [EDD: experiment-driven development](https://wikipedia.org/wiki/Test-driven_development) (cf. BDD, FDD, HDD, TDD)
 * [FAT: factory acceptance testing](TODO)
 * [FDD: feature-driven development](https://wikipedia.org/wiki/Feature-driven_development) (cf. BDD, EDD, TDD)
 * [functional testing](https://wikipedia.org/wiki/Functional_testing)
@@ -44,12 +44,3 @@
 * [unit testing](https://wikipedia.org/wiki/Unit_testing)
 * [usability testing](https://en.wikipedia.org/wiki/Usability_testing)
 * [white-box testing](https://en.wikipedia.org/wiki/White-box_testing) (also known as clear box testing, glass box testing, transparent box testing, and structural testing)
-
-
-
-
-
-
-
-
-
