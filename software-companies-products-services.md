@@ -116,6 +116,8 @@
 * [China Mobile](https://en.wikipedia.org/wiki/China_Mobile)
 * [chromecast](TODO)
 * [chruby](TODO): changes the current Ruby programming runtime.
+* [Cisco Systems](https://en.wikipedia.org/wiki/Cisco_Systems)
+* [Citrix Systems](https://en.wikipedia.org/wiki/Citrix_Systems)
 * [CLion](TODO): C/C++ IDE; by JetBrains.
 * [Clojure](TODO): programming language compiler.
 * [Cloud Foundry](https://wikipedia.org/wiki/Cloud_Foundry): PaaS by Pivotal.
@@ -179,6 +181,7 @@
 * [Exadata](https://en.wikipedia.org/wiki/Oracle_Exadata): Oracle Exadata Database Machine is a combined compute and storage system optimized for running Oracle Database software. 
 * [exif](TODO)
 * [expect](TODO)
+* [F5 Networks](https://en.wikipedia.org/wiki/F5_Networks): application delivery networking (ADN) technology.
 * [Facebook](https://en.wikipedia.org/wiki/Facebook)
 * [FaceTime](TODO)
 * [fakeroot](TODO)
@@ -460,7 +463,7 @@
 * [madplay](TODO)
 * [mafft](TODO)
 * [magit](TODO)
-* [Mail
+* [Mail](TODO)
 * [mailcheck](TODO)
 * [MailTab for Gmail](TODO)
 * [mairix](TODO)
@@ -506,7 +509,7 @@
 * [metalua](TODO)
 * [metapixel](TODO)
 * [metaproxy](TODO)
-* [metasploit](TODO)
+* [Metasploit Project](https://en.wikipedia.org/wiki/Metasploit_Project)
 * [metis](TODO)
 * [mftrace](TODO)
 * [mg](TODO)
@@ -943,6 +946,7 @@
 * [R](TODO): programming language, esp. for statistics.
 * [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ): open source message broker software based the AMQP standard.
 * [radare2](TODO)
+* [Radware](https://en.wikipedia.org/wiki/Radware): a provider of load balancing and cybersecurity services for data centers.
 * [ragel](TODO)
 * [rails-completion](TODO)
 * [rakudo-star](TODO)

@@ -41,12 +41,16 @@ Consulting:
 Software:
 
   * [Access control](access-control.md)
+  * [Algorithms](algorithms.md)
+  * [Data structures](data-structures.md)
   * [Quality attributes](quality-attributes.md)
   * [Software companies, products, services](software-companies-products-services.md)
   * [Software concepts](software.md)
   * [Software design patterns](software-design-patterns.md)
   * [Software cloud hosting models](software-cloud-hosting-models.md)
   * [Software for Apple, macOS, iOS, watchOS](software-for-apple-macos-ios-watchos.md)
+  * [Software testing](software-testing.md)
+  * [Technical debt causes](software-technical-debt-causes.md)
   * [X as a Service](x-as-a-service.md)
 
 Data:

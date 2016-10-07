@@ -10,6 +10,7 @@ Contents:
 * [activity-based_costing](https://wikipedia.org/wiki/Activity-based_costing)
 * [balanced scorecard (BSC)](https://en.wikipedia.org/wiki/Balanced_scorecard) a semi-standard structured report that is a strategy performance management tool.
 * [BAU: business as usual](TODO)
+* [BPO: business process outsourcing](https://en.wikipedia.org/wiki/Business_process_outsourcing) (compare ITES-BPO, KPO, LPO
 * [BSC: balanced scorecard](https://en.wikipedia.org/wiki/Balanced_scorecard) a semi-standard structured report that is a strategy performance management tool.
 * [best practice](https://en.wikipedia.org/wiki/Best_practice)
 * [Capability Maturity Model](https://wikipedia.org/wiki/Capability_Maturity_Model)
@@ -28,9 +29,12 @@ Contents:
 * [formula for change](https://wikipedia.org/wiki/Formula_for_change)
 * [four stages of competence](https://wikipedia.org/wiki/Four_stages_of_competence)
 * [Globalization](https://en.wikipedia.org/wiki/Globalization)
+* [ITES-BPO: Information Technology Enabled Service - Business Process Outsourcing] (compare BPO, KPO, LPO)
 * [KPI: key performance indicator](https://en.wikipedia.org/wiki/Performance_indicator): s a type of performance measurement that evaluates the success of an organization or activity.
+* [KPO: knowledge process outsourcing](https://en.wikipedia.org/wiki/Knowledge_process_outsourcing) (compare BPO, ITES-BPO, KPO)
 * [lean enterprise](https://wikipedia.org/wiki/Lean_enterprise)
 * [learning styles](https://wikipedia.org/wiki/Learning_styles)
+* [LPO: legal process outsourcing](https://en.wikipedia.org/wiki/Legal_process_outsourcing) (compare BPO, ITES-BPO, KPO)
 * [LMX: leader–member exchange theory](https://en.wikipedia.org/wiki/Leader%E2%80%93member_exchange_theory): a relationship-based approach to leadership that focuses on the two-way (dyadic) relationship between leaders and followers
 * [management by objectives (MBO)](https://en.wikipedia.org/wiki/Management_by_objectives)
 * [marketing](https://en.wikipedia.org/wiki/Marketing)

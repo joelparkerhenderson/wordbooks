@@ -3,9 +3,7 @@
 Contents:
 
 * [Overviews](#overviews)
-* [Algorithms](#algorithms)
 * [Challenges](#challenges)
-* [Data structures](#data-structures)
 * [Formats](#formats)
 * [Lists](#lists)
 * [Programming languages](#programming-languages)
@@ -24,36 +22,9 @@ Contents:
 * [Outline of software engineering](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
 
 
-<a name="algorithms">Algorithms</a>:
-
-* <i>[List of algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)</i>
-* [Bcrypt: secure password key derivation function](https://wikipedia.org/wiki/Bcrypt) (cf. Scrypt)
-* [MD5: Message Digest Algorithm](https://wikipedia.org/wiki/Md5) (cf. SHA)
-* [SHA: Secure Hash Algorithm](https://wikipedia.org/wiki/Secure_Hash_Algorithm) (cf. MD5) (related: SHA1, SHA2, SHA512, etc.)
-* [Scrypt: secure password key derivation function](https://wikipedia.org/wiki/Scrypt) (cf. Bcrypt)
-* [Vector clock: for ordering events in a distributed systems](https://en.wikipedia.org/wiki/Vector_clock)
-
 <a name="challenges">Challenges</a>:
 
 * [longest path problem](https://en.wikipedia.org/wiki/Longest_path_problem)
-
-
-<a name="data-structures">Data structures</a>:
-
-* [Array](https://wikipedia.org/wiki/array)
-* [B-tree](https://wikipedia.org/wiki/b-tree)
-* [Bag](https://wikipedia.org/wiki/bag)
-* [Hash](https://wikipedia.org/wiki/hash)
-* [Hash tree a.k.a. Merkle tree](https://wikipedia.org/wiki/merkle_tree)
-* [Heap](https://wikipedia.org/wiki/heap)
-* [List](https://wikipedia.org/wiki/list)
-* [Map](https://wikipedia.org/wiki/bag)
-* [Matrix](https://wikipedia.org/wiki/matrix)
-* [Set](https://wikipedia.org/wiki/set)
-* [Sorted Set](https://wikipedia.org/wiki/sorted_set)
-* [Stack](https://wikipedia.org/wiki/stack)
-* [Queue](https://wikipedia.org/wiki/queue)
-* [Vector](https://wikipedia.org/wiki/vector)
 
 
 <a name="formats">Formats</a>:
@@ -109,12 +80,10 @@ Contents:
 <a name="software-development-philosophies">Software development philosophies</a>:
 
 * <i>[List of software development philosophies](https://wikipedia.org/wiki/List_of_software_development_philosophies)</i>
-* [acceptance testing](https://wikipedia.org/wiki/Acceptance_testing)
 * [agile modeling](https://wikipedia.org/wiki/List_of_software_development_philosophies)
 * [agile software development](https://en.wikipedia.org/wiki/Agile_software_development)
 * [agile unified process (AUP)](https://wikipedia.org/wiki/Agile_Unified_Process)
 * [aspect-oriented programming (AOP)](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
-* [BDD: behavior-driven development](https://wikipedia.org/wiki/Behavior-driven_development) (cf. EDD, FDD, TDD)
 * [BDUF: big design pp Front](https://wikipedia.org/wiki/Big_Design_Up_Front) (cf. waterfall)
 * [CD: continuous delivery](TODO) (cf. Kaizen)
 * [CI: continuous improvement](TODO) (cf. Kaizen)
@@ -123,20 +92,18 @@ Contents:
 * [domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language)
 * [domain-specific modeling](https://en.wikipedia.org/wiki/Domain-specific_modeling)
 * [EBO: enterprise business object](TODO)
-* [EDD: experiment-driven development](TODO) (cf. BDD, FDD, TDD)
-* [emergent design](https://wikipedia.org/wiki/Unit_testing)
+* [emergent design](https://en.wikipedia.org/wiki/Emergent_Design)
 * [extreme programming (XP)](https://wikipedia.org/wiki/Extreme_Programming)
 * [extreme programming practices (XPP)](https://wikipedia.org/wiki/Extreme_programming_practices)
-* [FDD: feature-driven development](https://wikipedia.org/wiki/Feature-driven_development) (cf. BDD, EDD, TDD)
 * [functional programming](https://en.wikipedia.org/wiki/Functional_programming)
-* [functioal testing](https://wikipedia.org/wiki/Functional_testing)
 * [graphical system design](https://wikipedia.org/wiki/Graphical_system_design)
 * [hypothesis driven development](TODO)
-* [integration testing](https://wikipedia.org/wiki/Integration_testing)
 * [kaizen (Japanese for &quot;good change&quot;)](https://wikipedia.org/wiki/Kaizen)
 * [kanban lean manufacturing process](https://wikipedia.org/wiki/Kanban)
 * [kanban (software development) process management and improvement method](https://wikipedia.org/wiki/Kanban_(development))
 * [lean software development (LSD)](https://wikipedia.org/wiki/Lean_software_development)
+* [method stub](https://en.wikipedia.org/wiki/Method_stub)
+* [mock object](https://en.wikipedia.org/wiki/Mock_object)
 * [model-driven architecture](https://en.wikipedia.org/wiki/Model-driven_architecture)
 * [model-driven engineering](https://en.wikipedia.org/wiki/Model-driven_engineering)
 * [object-oriented programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming)
@@ -151,9 +118,7 @@ Contents:
 * [software versioning](https://en.wikipedia.org/wiki/Software_versioning)
 * [src: source]
 * [story-driven modeling](https://wikipedia.org/wiki/Story-driven_modeling)
-* [test-triven tevelopment (TDD)](https://wikipedia.org/wiki/Test-driven_development) (cf. BDD, EDD, FDD)
 * [thin slice](TODO) (see Agile)
-* [unit testing](https://wikipedia.org/wiki/Unit_testing)
 * [waterfall model](https://wikipedia.org/wiki/Waterfall_model)
 * [velocity (software development)](https://wikipedia.org/wiki/Velocity_tracking)
 
@@ -169,6 +134,8 @@ Contents:
 <a name="technology-terminology">Terminology</a>:
 
 * [ABAC: Attribute-Based Access Control](https://wikipedia.org/wiki/Abac)
+* [ADC: application delivery controller](https://en.wikipedia.org/wiki/Application_delivery_controller)
+* [ADN: application delivery network](https://en.wikipedia.org/wiki/Application_delivery_network)
 * [AJAX: Asynchronous JavaScript and XML](https://wikipedia.org/wiki/Ajax_(programming))
 * [Algorithm](https://en.wikipedia.org/wiki/Algorithm)
 * [AMI: asynchronous method invocation](https://wikipedia.org/wiki/Asynchronous_method_invocation)
@@ -177,18 +144,26 @@ Contents:
 * [anti-pattern](https://wikipedia.org/wiki/Anti-pattern)
 * [API: application programming interface](https://wikipedia.org/wiki/Application_programming_interfaces)
 * [APM: application performance management](https://en.wikipedia.org/wiki/Application_performance_management)
+* [application delivery controller (ADC)](https://en.wikipedia.org/wiki/Application_delivery_controller)
+* [application delivery network (ADN)](https://en.wikipedia.org/wiki/Application_delivery_network)
+* [application firewall](https://en.wikipedia.org/wiki/Application_firewall)
 * [application performance management (APM)](https://en.wikipedia.org/wiki/Application_performance_management)
 * [AST: abstract syntax tree](TODO)
 * [authentication](https://wikipedia.org/wiki/Authentication)
 * [authorziation](https://wikipedia.org/wiki/Authorization)
 * [availability (A)](https://en.wikipedia.org/wiki/Availability): every system request receives a meaningful response
+* [bandwidth](https://en.wikipedia.org/wiki/Bandwidth_(computing))
+* [bandwidth throttling](https://en.wikipedia.org/wiki/Bandwidth_throttling)
 * [benchmarking](https://wikipedia.org/wiki/Benchmarking)
 * [Blockchain database](https://wikipedia.org/wiki/Blockchain_(database))
 * [Boolean algebra](https://wikipedia.org/wiki/Boolean_algebra)
 * [bounded context](https://en.wikipedia.org/wiki/Domain-driven_design#Bounded_context]
 * [BPEL: Business Process Execution Language](https://wikipedia.org/wiki/Business_Process_Execution_Language)
+* [BPS: bits per second](https://en.wikipedia.org/wiki/Data_rate_units): also abbreviated as bitrate and bits/s.
 * [browser a.k.a. web browser](https://en.wikipedia.org/wiki/Web_browser)
 * [business logic](https://wikipedia.org/wiki/Business_logic)
+* [cache](https://en.wikipedia.org/wiki/Cache_(computing))
+* [cache pollution](https://en.wikipedia.org/wiki/Cache_pollution): where an executing computer program loads data into CPU cache unnecessarily, thus causing other useful data to be evicted from the cache.
 * [CAM: Content Assembly Mechanism](https://wikipedia.org/wiki/Content_Assembly_Mechanism): a generalized assembly mechanism for using templates of XML business transaction content and the associated rules. CAM templates augment schema syntax and provide implementers with the means to specify interoperable interchange patterns.
 * [CAMP: Cloud Application Management for Platforms](https://wikipedia.org/wiki/Cloud_Application_Management_for_Platforms): an API for managing public and private cloud applications.
 * [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem): a distributed system cannot simultaneously provide consistency, availability, and partition tolerance. (cf. PACELC)
@@ -212,11 +187,14 @@ Contents:
 * [DAMP: descriptive and meaningful phrases](TODO): a software development principal that improves code readability; cf. DRY.
 * [dark launch](TODO)
 * [data analysis](https://en.wikipedia.org/wiki/Data_analysis)
+* [data compression](https://en.wikipedia.org/wiki/Data_compression)
 * [data grid](https://en.wikipedia.org/wiki/Data_grid): architecture and services to enable geographically distributed data and caching.
 * [data item descriptions](https://wikipedia.org/wiki/Data_item_descriptions)
 * [DB: database](https://en.wikipedia.org/wiki/Database)
 * [DBMS: database management system](https://en.wikipedia.org/w/index.php?title=Database_management_system)
+* [debugging](https://en.wikipedia.org/wiki/Debugging)
 * [design thinking](TODO): the discipline that uses the designer’s sensibility and methods to match people’s needs with what is feasible and valuable.
+* [devops: development + operations](https://en.wikipedia.org/wiki/DevOps)
 * [digital content](https://en.wikipedia.org/wiki/Digital_content): any type of content that exists in the form of digital data.
 * [digital data](https://en.wikipedia.org/wiki/Digital_data)
 * [digital distribution](https://en.wikipedia.org/wiki/Digital_distribution)
@@ -238,6 +216,7 @@ Contents:
 * [ECM: enterprise content management](https://en.wikipedia.org/wiki/Enterprise_content_management)
 * [EDXL: Emergency Data Exchange Language](https://wikipedia.org/wiki/EDXL): suite of XML-based messaging standards that facilitate emergency information sharing between government entities and the full range of emergency-related organizations.
 * [EML: Election Markup Language](https://wikipedia.org/wiki/Election_Markup_Language): end to end information standards and processes for conducting democratic elections using XML-based information recording.
+* [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
 * [ESB: enterprise service bus](https://en.wikipedia.org/wiki/Enterprise_service_bus)
 * [ESD: electronic software distribution](TODO)
 * [fat client](https://en.wikipedia.org/wiki/Fat_client) (cf. thin client)
@@ -256,9 +235,11 @@ Contents:
 * [i18n: internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [IAM: identity and access management](https://wikipedia.org/wiki/Identity_and_Access_Management)
 * [IDM: identity management](TODO)
+* [information hiding](https://en.wikipedia.org/wiki/Information_hiding)
 * [internationalization (i18n)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [invalidation](TODO)
 * [IP address](https://wikipedia.org/wiki/IP_address) (see CNAME, DNS)
+* [IP traceback](https://en.wikipedia.org/wiki/IP_traceback)
 * [ISO 9000](https://wikipedia.org/wiki/Iso_9000)A family of standards for quality management systems and requirements.
 * [ITBM: IT Business Management](TODO)
 * [ITOA: IT Operations Analytics](https://en.wikipedia.org/wiki/IT_Operations_Analytics)
@@ -266,11 +247,13 @@ Contents:
 * [ITSM: IT Service Management](TODO)
 * [KMIP: Key Management Interoperability Protocol](https://wikipedia.org/wiki/Key_Management_Interoperability_Protocol):  tries to establish a single, comprehensive protocol for the communication between enterprise key management systems and encryption systems.
 * [l10n: localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
+* [latency](https://en.wikipedia.org/wiki/Latency_(engineering))
 * [Legal XML](https://wikipedia.org/wiki/Legal_XML): an XML specification for law, electronic court filing, and eNotarization standards.
 * [lib: library](TODO)
 * [LIFO: last in, first out](TODO) (a.k.a. stack, cf. FIFO, FILO, LILO)
 * [LILO: last inn, last out](TODO) (a.k.a. queue, cf. FIFO, FILO, LIFO)
 * [load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
+* [locality of reference](https://en.wikipedia.org/wiki/Locality_of_reference) memory access patterns, with types such as temporal, spatial, memory, branch, equidistant.
 * [localization (l10n)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [logical architecture](TODO) (cf. conceptual architecture)
 * [loose coupling](https://wikipedia.org/wiki/Loose_coupling)
@@ -284,6 +267,7 @@ Contents:
 * [model-view-presenter (MVP)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter):  a derivation of the model–view–controller (MVC) architectural pattern.
 * [MQ: message queue](TODO)
 * [multilevel security a.k.a. multiple levels of security (MLS)](https://en.wikipedia.org/wiki/Multilevel_security)
+* [multiplexing](https://en.wikipedia.org/wiki/Multiplexing)
 * [multitier architecture](https://en.wikipedia.org/wiki/Multitier_architecture) (a.k.a. n-tier architecture)
 * [mutual exclusion](https://wikipedia.org/wiki/Mutual_exclusion)
 * [MVC: model-view-controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller): a software architectural pattern for implementing logic and user interfaces.
@@ -297,6 +281,7 @@ Contents:
 * [OpenDocument: OASIS Open Document Format for Office Applications](https://wikipedia.org/wiki/OpenDocument): an open document file format for saving office documents such as spreadsheets, memos, charts, and presentations.
 * [ORDBMS: object-relational database management system](https://en.wikipedia.org/wiki/Object-relational_database_management_system)
 * [ORM: object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [orthogonality](https://en.wikipedia.org/wiki/Orthogonality#Computer_science)
 * [OSLC: Open Services for Lifecycle Collaboration](https://wikipedia.org/wiki/OSLC): develops standards for software lifecycle tools to share data with one another. 
 * [PACELC](?) If data has a Partition, do Availability-Consistency trade-off; Else, i.e. in normal operation, do Latency-Consistency trade-off.
 * [Partition-tolerance (P)](https://en.wikipedia.org/wiki/Network_partition): the system continues to operate despite arbitrary partitioning due to network failures
@@ -309,6 +294,8 @@ Contents:
 * [RBL: Real-time Blackhole List](https://wikipedia.org/wiki/DNSBL) (a.k.a. DNSBL)
 * [RDBMS: relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)
 * [resource management software](https://en.wikipedia.org/wiki/List_of_resource_management_software)
+* [RED: random early detection](https://en.wikipedia.org/wiki/Random_early_detection)
+* [reflection](https://en.wikipedia.org/wiki/Reflection_(computer_programming)): the ability of a computer program to examine, introspect, and modify its own structure and behavior at runtime.
 * [REST: representational state transfer](https://wikipedia.org/wiki/Representational_state_transfer) (cf. SAP, ROA)
 * [ROA: resource oriented architecture](https://wikipedia.org/wiki/Resource-oriented_architecture) (cf. REST)* [scheduling](https://wikipedia.org/wiki/Scheduling_(computing))
 * [SAML: Security Assertion Markup Language](https://wikipedia.org/wiki/Security_Assertion_Markup_Language): a standard XML-based framework for the secure exchange of <a href="/wiki/Authentication" title="Authentication">authentication</a> and <a href="/wiki/Authorization" title="Authorization">authorization](https://wikipedia.org/wiki/Security_Assertion_Markup_Language) information.
@@ -327,15 +314,19 @@ Contents:
 * [SPML: Service Provisioning Markup Language](TODO): a standard <a href="/wiki/XML" title="XML">XML</a>-based protocol for the integration and interoperation of <a href="/wiki/Provisioning#Service_provisioning" title="Provisioning">service provisioning](https://wikipedia.org/wiki/SPML) requests.
 * [SSH: secure shell](https://wikipedia.org/wiki/Secure_Shell)
 * [SSL: secure sockets layer](https://wikipedia.org/wiki/Secure_Sockets_Layer)
+* [SSL acceleration](https://en.wikipedia.org/wiki/SSL_acceleration)
 * [SSO: single sign-on](https://wikipedia.org/wiki/Single_sign-on)
 * [subclass](https://wikipedia.org/wiki/Subclass_(computer_science))
 * [synthetic monitoring](https://en.wikipedia.org/wiki/Synthetic_monitoring): (also known as active monitoring or proactive monitoring) is website monitoring that is done using a web browser emulation or scripted recordings of web transactions.
-* [test pyramid a.k.a. test triangle](http://martinfowler.com/bliki/TestPyramid.html)
+* [technical debt](https://en.wikipedia.org/wiki/Technical_debt) (also known as design debt or code debt)
 * [thin client](https://en.wikipedia.org/wiki/Thin_client) (cf. fat client)
+* [thrashing](https://en.wikipedia.org/wiki/Thrashing_(computer_science)) performance problems when a computer system is in a constant state of paging, to the exclusion of most application-level processing.
 * [thread pool](https://wikipedia.org/wiki/Thread_pool)
+* [throughput](https://en.wikipedia.org/wiki/Throughput)
 * [TLS: transport layer security](https://wikipedia.org/wiki/Transport_Layer_Security)
 * [TOSCA: Topology and Orchestration Specification for Cloud Applications](https://wikipedia.org/wiki/OASIS_TOSCA): a standard to describe cloud services, the relationships between parts of the service, and the operational behavior of the services.
 * [TOSCA](https://wikipedia.org/wiki/OASIS_TOSCA)
+* [traffic shaping](https://en.wikipedia.org/wiki/Traffic_shaping) a.k.a. packet shaping.
 * [UBL: Universal Business Language](https://wikipedia.org/wiki/Universal_Business_Language)
 * [UBL](https://wikipedia.org/wiki/Universal_Business_Language) — <b>Universal Business Language</b>, National effort to define a royalty-free library of standard electronic XML business documents. All invoices to the Danish government have to be in UBL electronic format since February 2005.
 * [UDDI: Universal Description Discovery and Integration](https://wikipedia.org/wiki/Universal_Description_Discovery_and_Integration)
@@ -348,9 +339,11 @@ Contents:
 * [vCPU: virtual central processing unit](TODO): one or more vCPUs are assigned to every Virtual Machine (VM) within a cloud environment.
 * [VCS: version control system](TODO)
 * [virtual environment](TODO)
-* [virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
+* [virtual LAN (VLAN)](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
+* [VLAN: virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
 * [web framework](https://wikipedia.org/wiki/Web_framework)
 * [WebCGM: Web Computer Graphics Metafile](TODO): a profile of <a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">Computer Graphics Metafile](https://wikipedia.org/wiki/Computer_Graphics_Metafile) (CGM), which adds Web linking and is optimized for Web applications in technical illustration, electronic documentation, geophysical data visualization, and similar fields.
+* [WRR: weighted round robin](https://en.wikipedia.org/wiki/Weighted_round_robin)
 * [WS-BPEL](https://wikipedia.org/wiki/Business_Process_Execution_Language)
 * [WS-BPEL](https://wikipedia.org/wiki/WS-BPEL) — <b>Web Services Business Process Execution Language</b>
 * [WSDM: Web Services Distributed Management](https://wikipedia.org/wiki/Web_Services_Distributed_Management)
@@ -364,5 +357,3 @@ Contents:
 * [XLIFF: XML Localization Interchange File Format](TODO) a <a href="/wiki/XML" title="XML">XML</a>-based format created to standardize <a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">localization](https://wikipedia.org/wiki/XLIFF).
 * [XRI: Extensible Resource Identifier](https://wikipedia.org/wiki/Extensible_Resource_Identifier)
 * [XRI: eXtensible Resource Identifier](TODO): a <a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier">URI](https://wikipedia.org/wiki/XRI)-compatible scheme and resolution protocol for abstract identifiers used to identify and share resources across domains and applications.
-
-

@@ -139,6 +139,8 @@ Contents:
 * [design structure matrix (DSM)](https://wikipedia.org/wiki/Design_structure_matrix)
 * [DSDM: dynamic systems development Method](https://wikipedia.org/wiki/Dynamic_systems_development_method) (cf. BPR, CBSE)
 * [DSM: design structure matrix](https://wikipedia.org/wiki/Design_structure_matrix)
+* [EVM: earned value management](https://en.wikipedia.org/wiki/Earned_value_management) a project management technique for measuring project performance and progress in an objective manner.
+* [EVPM: earned value project/performance management)](https://en.wikipedia.org/wiki/Earned_value_management) a project management technique for measuring project performance and progress in an objective manner.
 * [early adopter a.k.a. lighthouse customer](https://wikipedia.org/wiki/Early_adopter): an early customer of a given company, product, or technology.
 * [effort management](https://wikipedia.org/wiki/Effort_management):  the effective and efficient allocation of time and resources to perform activities.
 * [estimation](https://wikipedia.org/wiki/Estimation_(project_management))
