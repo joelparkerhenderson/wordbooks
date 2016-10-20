@@ -7,9 +7,9 @@ Subjective attributes versus objective attributes:
 <tr><td>Fast, Immediate, Real Time</td><td>Within 1 second</td></tr>
 <tr><td>Easy, Simple, Friendly</td><td>A majority of focus group users check the survey box "this is easy"</td></tr>
 <tr><td>Safe, Secure, Protected</td><td>All passwords storage uses scrypt encryption</td></tr>
-<tr><td>Available, Reliable, Always Usable</td><td>Our third-party monitoring service proves our uptime is 99% or higher</td></tr>
-<tr><td>State-of-the-art</td><td>Published in the current ThoughtWorks technology radar as "Assess" or better</td></tr>
+<tr><td>Available, Reliable, Always Up</td><td>Our third-party monitoring service proves our uptime is 99% or higher</td></tr>
 <tr><td>Frequently, Regularly, Often</td><td>Every hour, on the hour</td></tr>
+<tr><td>State-of-the-art</td><td>The product name is published in the Gartner magic quadrant within the past 30 days</td></tr>
 </table>
 
 Capacity:
