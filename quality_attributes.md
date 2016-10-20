@@ -28,7 +28,7 @@ See [list of system quality attributes](https://en.wikipedia.org/wiki/List_of_sy
 
 * [compatibility](https://en.wiktionary.orghttps://wikipedia.org/wiki/compatibility)
 
-* [composabilxity](https://wikipedia.org/wiki/Composability)
+* [composability](https://wikipedia.org/wiki/Composability)
 
 * [configurability](https://en.wiktionary.orghttps://wikipedia.org/wiki/configurability)
 
@@ -90,7 +90,7 @@ See [list of system quality attributes](https://en.wikipedia.org/wiki/List_of_sy
 
 * [interoperability](https://wikipedia.org/wiki/Interoperability)
 
-* [instrumentability]: the degree to which it is possible to instrument the system.
+* [instrumentability](TODO): the degree to which it is possible to instrument the system.
 
 * [isolateability](https://en.wikipedia.org/wiki/Isolation_(database_systems)): the degree to which items are kept separate, such as for ACID transactions, testing.
 
