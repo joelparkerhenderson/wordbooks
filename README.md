@@ -25,7 +25,7 @@ Industries:
   * [Manufacturing](manufacturing.md)
   * [Media](media.md)
   * [Politics](politics.md)
-  * [Real estate](real-estate.md)
+  * [Real estate](real_estate.md)
   * [Retail](retail.md)
   * [Telecommunication](telecommunication.md)
   * [Travel](travel.md)
@@ -33,25 +33,25 @@ Industries:
 Consulting:
 
   * [Organizations](organizations.md)
-  * [Project management](project-management.md)
-  * [RAID log](raid-log.md)
-  * [Responsibility Assigment Matrix](responsibility-assignment-matrix.md)
-  * [Strategic Business Scorecard](strategic-business-scorecard.md)
+  * [Project management](project_management.md)
+  * [RAID log](raid_log.md)
+  * [Responsibility Assigment Matrix](responsibility_assignment_matrix.md)
+  * [Strategic Business Scorecard](strategic_business_scorecard.md)
 
 Software:
 
-  * [Access control](access-control.md)
+  * [Access control](access_control.md)
   * [Algorithms](algorithms.md)
-  * [Data structures](data-structures.md)
-  * [Quality attributes](quality-attributes.md)
-  * [Software companies, products, services](software-companies-products-services.md)
+  * [Data structures](data_structures.md)
+  * [Quality attributes](quality_attributes.md)
+  * [Software companies, products, services](software_companies_products_services.md)
   * [Software concepts](software.md)
-  * [Software design patterns](software-design-patterns.md)
-  * [Software cloud hosting models](software-cloud-hosting-models.md)
-  * [Software for Apple, macOS, iOS, watchOS](software-for-apple-macos-ios-watchos.md)
-  * [Software testing](software-testing.md)
-  * [Technical debt causes](software-technical-debt-causes.md)
-  * [X as a Service](x-as-a-service.md)
+  * [Software design patterns](software_design_patterns.md)
+  * [Software cloud hosting models](software_cloud_hosting_models.md)
+  * [Software for Apple, macOS, iOS, watchOS](software_for_apple_macos_ios_watchos.md)
+  * [Software testing](software_testing.md)
+  * [Technical debt causes](software_technical_debt_causes.md)
+  * [X as a Service](x_as_a_service.md)
 
 Data:
 
