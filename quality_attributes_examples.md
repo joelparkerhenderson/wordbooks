@@ -4,12 +4,12 @@ Subjective attributes versus objective attributes:
 
 <table>
 <tr><th>Subjective</th><th>Objective</th></tr>
-<tr><td>Fast, Immediate, Real Time</td><td>Within 1 second</td></tr>
-<tr><td>Easy, Simple, Friendly</td><td>A majority of focus group users check the survey box "this is easy"</td></tr>
-<tr><td>Safe, Secure, Protected</td><td>All passwords storage uses scrypt encryption</td></tr>
-<tr><td>Available, Reliable, Always Up</td><td>Our third-party monitoring service proves our uptime is 99% or higher</td></tr>
-<tr><td>Frequently, Regularly, Often</td><td>Every hour, on the hour</td></tr>
-<tr><td>State-of-the-art</td><td>The product name is published in the Gartner magic quadrant within the past 30 days</td></tr>
+<tr><td>Fast<br>Immediate<br>Real Time</td><td>Within 1 second</td></tr>
+<tr><td>Easy<br>Simple<br>Friendly</td><td>A majority of focus group users check the survey box "this is easy"</td></tr>
+<tr><td>Safe<br>Secure<br>Protected</td><td>All passwords storage uses scrypt encryption</td></tr>
+<tr><td>Dependable<br>Reliable<br>Always Up</td><td>Our third-party monitoring service proves our uptime is 99% or higher</td></tr>
+<tr><td>Frequently<br>Regularly<br>Often</td><td>Every hour, on the hour</td></tr>
+<tr><td>State-of-the-art<br>Best-practice<br>Highly-rated</td><td>The product is in the Gartner magic quadrant within the past 30 days</td></tr>
 </table>
 
 Capacity:
