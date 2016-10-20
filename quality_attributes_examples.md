@@ -1,6 +1,54 @@
 # Quality Attributes Examples
 
-Subjective attributes versus objective attributes:
+* [Introduction](#introduction)
+* [IEEE Recommended Practice](#ieee)
+* [Users and developers](#users-and-developers)
+* [Subjective and objective](#subjective-and-objective)
+* [Big list of categories and examples](#big)
+
+
+<a name="introduction"><h2>Introdcution</h2></a>
+
+* [Non-functional requirements-- do we really care?](http://www.slideshare.net/osscube/non-functional-requirements-do-we-really-care)
+* [What is a functional and non-functional requirement? - Stack Overflow](http://stackoverflow.com/questions/16475979/what-is-functional-and-non-functional-requirement)
+
+Examples of 
+Execution qualities, such as security and usability, which are observable at run time.
+Evolution qualities, such as testability, maintainability, extensibility and scalability, which are embodied in the static structure of the software system.
+
+
+<a name="ieee"><h2>IEEE Recommended Practice</h2></a>
+
+Examples based on [IEEE Recommended Practice for Software Requirements Specifications](http://www.utdallas.edu/~chung/RE/IEEE830-1993.pdf)
+
+* Performance requirements
+* Interface requirements
+* Operational requirements
+* Resource requirements
+* Verification requirements
+* Acceptance requirements
+* Documentation requirements
+* Security requirements
+* Portability requirements
+* Quality requirements
+* Reliability requirements
+* Maintainability requirements
+* Safety requirements
+
+
+<a name="users-and-developers"><h2>Users and developers</h2></a>
+
+Users and developers typically want different kinds of quality attributes.
+
+<table>
+<tr><th>Important to users</th><th>Important to developers</th></tr>
+<tr><td>Usability<br>Reliability<br>Security<br></td><td>Maintainability<br>Porability<br>Testability</td></tr>
+</table>
+
+
+<a name="subjective-and-objective"><h2>Subjective and objective</h2></a>
+
+Examples of subjective attributes and objective attributes:
 
 <table>
 <tr><th>Subjective</th><th>Objective</th></tr>
@@ -11,6 +59,9 @@ Subjective attributes versus objective attributes:
 <tr><td>Frequently<br>Regularly<br>Often</td><td>Every hour, on the hour</td></tr>
 <tr><td>State-of-the-art<br>Best-practice<br>Highly-rated</td><td>The product is in the Gartner magic quadrant within the past 30 days</td></tr>
 </table>
+
+
+<a name="big"><h2>Big list of categories and examples</h2></a>
 
 Accessibility:
 * Can a blind person navigate the site using a screen reader?
@@ -236,6 +287,7 @@ Resilience:
 Responsiveness:
 * How fast are response times for browser page loading, API responses, software downloads, etc.?
 * What is the process for tracking query times, reporting times, ETL times, etc.?
+* Throughput
 
 Reusability:
 * TODO
