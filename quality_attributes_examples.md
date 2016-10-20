@@ -59,7 +59,6 @@ Examples of subjective attributes and objective attributes:
 <tr><td>Frequent</td><td>Every hour on the hour</td></tr>
 <tr><td>Secure</td><td>All password storage uses scrypt encryption</td></tr>
 <tr><td>Available</td><td>Our third-party monitoring service proves our uptime is 99% or higher</td></tr>
-
 </table>
 
 
