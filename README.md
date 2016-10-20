@@ -44,6 +44,7 @@ Software:
   * [Algorithms](algorithms.md)
   * [Data structures](data_structures.md)
   * [Quality attributes](quality_attributes.md)
+  * [Quality attributes examples](quality_attributes_examples.md)
   * [Software companies, products, services](software_companies_products_services.md)
   * [Software concepts](software.md)
   * [Software design patterns](software_design_patterns.md)
