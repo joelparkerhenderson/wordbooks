@@ -166,9 +166,6 @@ Learnability:
 
 Maintainability:
 * How easily can the system be maintained?
-* Conformance to Enterprise Architecture standards
-* Conformance to Technical design standards
-* Conformance to coding standards
 * What are the goals for conformance to best practices, coding standards, enterprise architecture patterns, etc.?
 * What documentation is needed for the system, training, versioning, etc.?
 
@@ -279,7 +276,9 @@ Stability:
 * TODO
 
 Standards compliance:
-* TODO
+* What standards are involved, such as ISO, IEEE, Internet RFCs, etc.? 
+* What are the goals for conformance to Enterprise Architecture standards, technical design standards, coding standards, etc.?
+* What automatic standards validators are available, such as code quality metric tools, source code linters, etc.?
 
 Supportability:
 * TODO
