@@ -42,7 +42,9 @@ Users and developers typically want different kinds of quality attributes.
 
 <table>
 <tr><th>Important to users</th><th>Important to developers</th></tr>
-<tr><td>Usability<br>Reliability<br>Security<br></td><td>Maintainability<br>Porability<br>Testability</td></tr>
+<tr><td>Usability</td><td>Maintainability</td></tr>
+<tr><td>Availability</td><td>Scalability</td></tr>
+<tr><td>Reliability</td><td>Testability</td></tr>
 </table>
 
 
