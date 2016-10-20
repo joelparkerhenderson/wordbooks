@@ -52,11 +52,11 @@ Examples of subjective attributes and objective attributes:
 
 <table>
 <tr><th>Subjective</th><th>Objective</th></tr>
-<tr><td>Fast<br>Real Time</td><td>Within 1 second</td></tr>
-<tr><td>Easyy</td><td>A majority of focus group users check the survey box "this is easy"</td></tr>
+<tr><td>Fast</td><td>Within 1 second</td></tr>
+<tr><td>Easy</td><td>A majority of focus group users check the survey box "this is easy"</td></tr>
 <tr><td>Secure</td><td>All password storage uses scrypt encryption</td></tr>
 <tr><td>Available</td><td>Our third-party monitoring service proves our uptime is 99% or higher</td></tr>
-<tr><td>Often</td><td>Every hour, on the hour</td></tr>
+<tr><td>Often</td><td>Every hour on the hour</td></tr>
 <tr><td>State-of-the-art</td><td>The product is in the Gartner magic quadrant within the past 30 days</td></tr>
 </table>
 
