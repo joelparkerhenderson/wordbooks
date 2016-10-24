@@ -172,6 +172,7 @@ Contents:
 * [PDCA: planœôòódoœôòócheckœôòóact](https://wikipedia.org/wiki/PDCA): a management method for process/product control and continual improvement. (a.k.a. Deming cycle)
 * [Persona](https://wikipedia.org/wiki/Persona)
 * [PERT: program evaluation and review technique](https://wikipedia.org/wiki/Program_evaluation_and_review_technique)
+* [planning poker a.k.a. Scrum poker](https://en.wikipedia.org/wiki/Planning_poker): a consensus-based, gamified technique for estimating tasks. 
 * [PMBOK: Project Management Body of Knowledge](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge)
 * [problem domain](https://wikipedia.org/wiki/Problem_domain)
 * [Project Management Body of Knowledge (PMBOK)](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge)
