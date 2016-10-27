@@ -318,6 +318,15 @@ Securability:
 * Do passwords have any requirements, such as length, special characters, expiry, recycling policies, multi-factor authentication (MFA)
 * What are the encryption requirements for data in flight and/or data at rest?
 * What is the policy if someone reports a possible data breach?
+* SSL implementation
+* Password policy
+* Integrity of accounts
+* Data confidentiality
+* Processes for authentication and authorization 
+PCI compliance
+Non-repudiation
+Encryption
+
 
 Separability:
 * The extent to which each item has a single well defined responsibility.
@@ -367,9 +376,11 @@ Upgradability:
 * TODO
 
 Usability:
+* How are we measuring customer sastisfaction?
 * Are there goals or standards for user interfaces, look and feel, keyboard navigation, image alt tags, etc.?
 * What are the needs for internationalization, localization, languages, spellings, regional keyboards, etc.?
 * What help is available for the users?
+* See also: Learnability, Efficiency, Memorability
 
 Warrantability:
 * for guarantees or promises, express or implied, such as for legal contracts, SLAs, and QoS.

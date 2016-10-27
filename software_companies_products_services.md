@@ -144,6 +144,7 @@
 * [Datadog](https://www.datadoghq.com/): Cloud Monitoring as a Service.
 * [DataGrip](TODO): SQL IDE; by JetBrains.
 * [DataPower](https://en.wikipedia.org/wiki/IBM_WebSphere_DataPower_SOA_Appliances): IBM WebSphere DataPower SOA Appliances.
+* [Datawire](datawire.io): microservices development kit and managment tools.
 * [Dictionary](TODO)
 * [diffstat](TODO)
 * [diffutils](TODO)
@@ -157,7 +158,7 @@
 * [doxygen](TODO)
 * [dpkg](TODO)
 * [Dropbox](TODO)
-* [Dropwizard](TODO)
+* [Dropwizard](http://www.dropwizard.io): a Java framework for developing ops-friendly, high-performance, RESTful web services.
 * [Druid](https://en.wikipedia.org/wiki/Druid_(open-source_data_store)): open-source data store.
 * [Duet](TODO): screen utility to enable multiple devices to interoperate. (macOS)
 * [DVD Player](TODO)
@@ -967,6 +968,7 @@
 * [rds-command-line-tools](TODO)
 * [re2](TODO)
 * [re2c](TODO)
+* [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)):  JavaScript library for rendering data as HTML. By Facebook.
 * [readline](TODO): functions for use by applications to edit command lines while typing.
 * [readosm](TODO)
 * [readpst](TODO)
