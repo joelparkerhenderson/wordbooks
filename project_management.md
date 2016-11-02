@@ -231,7 +231,8 @@ Contents:
 * [TPC: total project control](https://wikipedia.org/wiki/Total_project_control): a project management method that emphasizes continuous tracking and optimization of return on investment (ROI).
 * [unified process a.k.a. unified software development process](https://wikipedia.org/wiki/Unified_Process)
 * [use case, a.k.a. user story](https://wikipedia.org/wiki/Use_case): a list of actions in a system to achieve a goal. 
-* [value stream mapping](https://wikipedia.org/wiki/Value_stream_mapping)
+* [value stream mapping (VSM)](https://wikipedia.org/wiki/Value_stream_mapping)
+* [VSM: value stream mapping](https://wikipedia.org/wiki/Value_stream_mapping)
 * [waterfall model](https://wikipedia.org/wiki/Waterfall_model)
 * [WBS: work breakdown structure](https://wikipedia.org/wiki/Work_breakdown_structure): deliverable-oriented decomposition of a project into smaller components.
 * [work breakdown structure (WBS)](https://wikipedia.org/wiki/Work_breakdown_structure): deliverable-oriented decomposition of a project into smaller components.
