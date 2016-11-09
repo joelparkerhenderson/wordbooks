@@ -11,6 +11,7 @@ Contents:
 * [Responsbility Assigment Matrix (RAM)](#responsbility-assignment-matrix-ram)
 * [Service Level Agreement Metrics (SLAM)](#service-level-agreement-metrics)
 * [Structured systems analysis and design method](structured-systems-analysis-and-design-method-ssadm)
+* [Capability maturity model integration (CMMI)](#cmmi-capability-maturity-model-integration)
 * [Miscellaneous](#misc)
 * [TODO](#todo)
 
@@ -58,7 +59,7 @@ Contents:
 * [RTW: release to web](https://wikipedia.org/wiki/Software_release_life_cycle#RTW): a software release life cycle phase when software is ready to be published on the web.
 
 
-<a name="program-evaluation-and-review-technique-pert">PERT: program evaluation and review technique</a>
+<a name="program-evaluation-and-review-technique-pert">Program evaluation and review technique (PERT)</a>
 
 * [PERT: program evaluation and review technique](https://wikipedia.org/wiki/Program_evaluation_and_review_technique)
 * [PERT event](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): a point that marks the start or completion of one or more activities. It consumes no time and uses no resources. When it marks the completion of one or more activities, it is not "reached" (does not occur) until all of the activities leading to that event have been completed.
@@ -108,6 +109,28 @@ Contents:
 * MTTR (Mean Time To Recover): Time taken to recover after an outage of service.
 
 
+<a name="capability-maturity-model-integration">Capability maturity model integration (CMMI)</a>
+
+* CAR: Causal Analysis and Resolution
+* CM: Configuration Management
+* DAR:Decision Analysis and Resolution
+* IPM: Integrated Project Management
+* MA: Measurement and Analysis
+* OPD: Organizational Process Definition
+* OPF: Organizational Process Focus
+* OPM: Organizational Performance Management
+* OPP: Organizational Process Performance
+* OT: Organizational Training
+* PMC: Project Monitoring and Control
+* PP: Project Planning
+* PM: Project Management
+* PPQA: Process and Product Quality Assurance
+* QPM: Quantitative Project Management
+* REQM: Requirements Management
+* RSKM: Risk Management
+* SAM: Supplier Agreement Management
+
+
 <a name="misc">Miscellaneous</a>:
 * [5 Whys: questions to get to a root cause](https://wikipedia.org/wiki/5_Whys) (cf. RCA: Root Cause Analysis)
 * [ADR: architectural decision record](TODO)
@@ -121,9 +144,13 @@ Contents:
 * [BPMN: business process model and notation](https://wikipedia.org/wiki/Business_Process_Model_and_Notation)
 * [business logic](https://wikipedia.org/wiki/Business_logic)
 * [business object](https://wikipedia.org/wiki/Business_object)
+* [Capability Maturity Model (CMM)](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+* [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
 * [CCPM: critical chain project management](https://wikipedia.org/wiki/Critical_chain_project_management) (cf. TOC: Theory Of Constraints)
 * [charrette](https://wikipedia.org/wiki/Charrette)
 * [CM: change management](https://wikipedia.org/wiki/Change_management): any approach to transitioning individuals or teams that significantly reshape an organization.
+* [CMM: Capability Maturity Model](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
+* [CMMI: Capability Maturity Model Integration](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
 * [component-based development](https://wikipedia.org/wiki/Component-based_development) (a.k.a. CBSE, cf. BPR, DSDM)
 * [component-based software engineering](https://wikipedia.org/wiki/Component-based_software_engineering) (a.k.a. CBD; cf. BPR, DSDM)
 * [contract data requirements list (CDRL)](https://wikipedia.org/wiki/Contract_data_requirements_list)
@@ -162,6 +189,8 @@ Contents:
 * [MDI: metric-driven initiative](TODO)
 * [minimal viable product (MVP)](https://wikipedia.org/wiki/Minimum_viable_product): a product with just enough features to gather validated learning.
 * [MMF: Minimal marketable feature](TODO) akin to minimal viable product.
+* [MML: Modeling Maturity Levels](https://en.wikipedia.org/wiki/Modeling_Maturity_Levels)
+* [Modeling Maturity Levels (MML)](https://en.wikipedia.org/wiki/Modeling_Maturity_Levels)
 * [MoSCoW: must have, should have, could have, won't have](https://wikipedia.org/wiki/MoSCoW_method)): prioritization method
 * [must have, should have, could have, won't have (MoSCoW)](https://wikipedia.org/wiki/MoSCoW_method)): prioritization method
 * [MVP: minimal viable product](https://wikipedia.org/wiki/Minimum_viable_product): a product with just enough features to gather validated learning.
@@ -273,3 +302,4 @@ Contents:
 * [Integrated master plan](https://wikipedia.org/wiki/Integrated_master_plan)
 * [SOP: standard operating procedure](https://wikipedia.org/wiki/Standard_operating_procedure)
 * [standard operating procedure (SOP)](https://wikipedia.org/wiki/Standard_operating_procedure)
+

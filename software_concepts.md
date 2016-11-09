@@ -150,6 +150,7 @@ Contents:
 * [application firewall](https://en.wikipedia.org/wiki/Application_firewall)
 * [application performance management (APM)](https://en.wikipedia.org/wiki/Application_performance_management)
 * [Architectural Knowledge Management (AKM)](TODO)
+* [assertion](https://en.wikipedia.org/wiki/Assertion_(software_development))
 * [AST: abstract syntax tree](TODO)
 * [authentication](https://wikipedia.org/wiki/Authentication)
 * [authorziation](https://wikipedia.org/wiki/Authorization)
@@ -184,6 +185,8 @@ Contents:
 * [content management (CM)](TODO)
 * [content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system)
 * [core concern](https://en.wikipedia.org/wiki/Core_concern)
+* [CQRS: command query responsibility segregation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Segregation)
+* [CQS: command-query separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
 * [cross-cutting concern](https://en.wikipedia.org/wiki/Cross-cutting_concern)
 * [cross-fader release](TODO)
 * [DAMP: descriptive and meaningful phrases](TODO): a software development principal that improves code readability; cf. DRY.
@@ -193,6 +196,7 @@ Contents:
 * [data grid](https://en.wikipedia.org/wiki/Data_grid): architecture and services to enable geographically distributed data and caching.
 * [data item descriptions](https://wikipedia.org/wiki/Data_item_descriptions)
 * [DB: database](https://en.wikipedia.org/wiki/Database)
+* [DbC: design by contract](https://en.wikipedia.org/wiki/Design_by_contract) a.k.a. contract programming, programming by contract, design-by-contract programming.
 * [DBMS: database management system](https://en.wikipedia.org/w/index.php?title=Database_management_system)
 * [debugging](https://en.wikipedia.org/wiki/Debugging)
 * [design thinking](TODO): the discipline that uses the designer’s sensibility and methods to match people’s needs with what is feasible and valuable.
@@ -210,7 +214,9 @@ Contents:
 * [DNS: domain name system](https://wikipedia.org/wiki/Domain_Name_System) (see CNAME, IP address)
 * [DNSBL: DNS-based blackhole list](https://wikipedia.org/wiki/DNSBL) (a.k.a. RBL)
 * [DocBook](https://wikipedia.org/wiki/DocBook): markup language for technical documentation.
+* [domain-specific language (DSL)](https://en.wikipedia.org/wiki/Domain-specific_language)
 * [DRY: don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself): a principle of software development, aimed at reducing repetition of information of all kinds; cf. DAMP.
+* [DSL: domain-specific language](https://en.wikipedia.org/wiki/Domain-specific_language)
 * [DSML: Directory Services Markup Language](https://wikipedia.org/wiki/Directory_Services_Markup_Language)
 * [DSS: Digital Signature Services](https://wikipedia.org/wiki/Digital_Signature_Services)
 * [dst: destination](TODO)
@@ -233,6 +239,7 @@ Contents:
 * [GPG: GNU Privacy Guard](https://wikipedia.org/wiki/GNU_Privacy_Guard) (cf. PGP)
 * [graphical user interface builder](https://wikipedia.org/wiki/Graphical_user_interface_builder)
 * [HCI: human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
+* [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
 * [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor]: software, firmware, or hardware that creates and runs virtual machines.
 * [i18n: internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [IAM: identity and access management](https://wikipedia.org/wiki/Identity_and_Access_Management)
@@ -240,6 +247,7 @@ Contents:
 * [information hiding](https://en.wikipedia.org/wiki/Information_hiding)
 * [internationalization (i18n)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [invalidation](TODO)
+* [invariant](https://en.wikipedia.org/wiki/Invariant_(computer_science))
 * [IP address](https://wikipedia.org/wiki/IP_address) (see CNAME, DNS)
 * [IP traceback](https://en.wikipedia.org/wiki/IP_traceback)
 * [ISO 9000](https://wikipedia.org/wiki/Iso_9000)A family of standards for quality management systems and requirements.
@@ -265,6 +273,8 @@ Contents:
 * [ML: machine learning](https://wikipedia.org/wiki/Machine_learning)
 * [ML: markup langauge](https://wikipedia.org/wiki/Markup_language)
 * [MLS: multiple levels of security (MLS)](https://en.wikipedia.org/wiki/Multilevel_security)
+* [MML: Modeling Maturity Levels](https://en.wikipedia.org/wiki/Modeling_Maturity_Levels)
+* [Modeling Maturity Levels (MML)](https://en.wikipedia.org/wiki/Modeling_Maturity_Levels)
 * [model-view-controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller): a software architectural pattern for implementing logic and user interfaces.
 * [model-view-presenter (MVP)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter):  a derivation of the model–view–controller (MVC) architectural pattern.
 * [MQ: message queue](TODO)
@@ -291,12 +301,16 @@ Contents:
 * [PGP: Pretty Good Privacy](https://wikipedia.org/wiki/Pretty_Good_Privacy) (</a>cf. GPG)
 * [PO: plain old](https://en.wikipedia.org/wiki/Plain_Old_Java_Object)
 * [POJO: plain old Java object](https://en.wikipedia.org/wiki/Plain_Old_Java_Object)
+* [postcondition](https://en.wikipedia.org/wiki/Postcondition) compare precondition.
+* [precondition](https://en.wikipedia.org/wiki/Precondition) compare postcondition.
 * [rapid application development](https://wikipedia.org/wiki/Rapid_application_development)
 * [RBAC: role-based access control](https://wikipedia.org/wiki/Rbac)
 * [RBL: Real-time Blackhole List](https://wikipedia.org/wiki/DNSBL) (a.k.a. DNSBL)
 * [RDBMS: relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system)
 * [resource management software](https://en.wikipedia.org/wiki/List_of_resource_management_software)
 * [RED: random early detection](https://en.wikipedia.org/wiki/Random_early_detection)
+* [referential opacity](https://en.wikipedia.org/wiki/Referential_transparency)
+* [referential transparency](https://en.wikipedia.org/wiki/Referential_transparency)
 * [reflection](https://en.wikipedia.org/wiki/Reflection_(computer_programming)): the ability of a computer program to examine, introspect, and modify its own structure and behavior at runtime.
 * [REST: representational state transfer](https://wikipedia.org/wiki/Representational_state_transfer) (cf. SAP, ROA)
 * [ROA: resource oriented architecture](https://wikipedia.org/wiki/Resource-oriented_architecture) (cf. REST)* [scheduling](https://wikipedia.org/wiki/Scheduling_(computing))
