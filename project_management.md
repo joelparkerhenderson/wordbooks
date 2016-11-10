@@ -140,6 +140,8 @@ Contents:
 * [ASR: architecturally significant requirement](https://wikipedia.org/wiki/Architecturally_Significant_Requirements): requirements that have a measurable effect on a software systemœôòùs architecture.
 * [backlog](https://wikipedia.org/wiki/Backlog)
 * [BDUF: big-design-up-front](TODO)
+* [Best Known Method (BKM)](https://en.wikipedia.org/wiki/Best_practice) a.k.a best practice
+* [BKM: Best Known Method](https://en.wikipedia.org/wiki/Best_practice) a.k.a best practice
 * [BPR: business process re-engineering](https://wikipedia.org/wiki/Business_Process_Re-engineering) (cf. CBD, CBSE, DSDM)
 * [BPMN: business process model and notation](https://wikipedia.org/wiki/Business_Process_Model_and_Notation)
 * [business logic](https://wikipedia.org/wiki/Business_logic)
