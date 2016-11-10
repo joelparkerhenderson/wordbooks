@@ -141,6 +141,7 @@ Contents:
 * [backlog](https://wikipedia.org/wiki/Backlog)
 * [BDUF: big-design-up-front](TODO)
 * [Best Known Method (BKM)](https://en.wikipedia.org/wiki/Best_practice) a.k.a best practice
+* [best practice](https://en.wikipedia.org/wiki/Best_practice)
 * [BKM: Best Known Method](https://en.wikipedia.org/wiki/Best_practice) a.k.a best practice
 * [BPR: business process re-engineering](https://wikipedia.org/wiki/Business_Process_Re-engineering) (cf. CBD, CBSE, DSDM)
 * [BPMN: business process model and notation](https://wikipedia.org/wiki/Business_Process_Model_and_Notation)
