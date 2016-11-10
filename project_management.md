@@ -186,6 +186,8 @@ Contents:
 * [law of two feet](https://wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [linear responsibility chart (LRC)](https://wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
 * [LRC: linear responsibility chart](https://wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
+* [MBO: management by objectives][https://en.wikipedia.org/wiki/Management_by_objectives)
+* [Management by objectives (MBO)][https://en.wikipedia.org/wiki/Management_by_objectives)
 * [MDI: metric-driven initiative](TODO)
 * [minimal viable product (MVP)](https://wikipedia.org/wiki/Minimum_viable_product): a product with just enough features to gather validated learning.
 * [MMF: Minimal marketable feature](TODO) akin to minimal viable product.
@@ -223,6 +225,7 @@ Contents:
 * [QoS: Quality of Service](https://wikipedia.org/wiki/Quality_of_service): overall performance of a system.
 * [RACI: Responsible, Accountable, Consulted, Informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
 * [RACI matrix a.k.a. responsibility assignment matrix](https://wikipedia.org/wiki/Responsibility_assignment_matrix): list stakeholders and their responsibilities towards the project. 
+* [radar chart](https://en.wikipedia.org/wiki/Radar_chart)
 * [RAID: Risks, Assumptions, Issues, Dependencies](TODO): 
 * [RAID log](https://wikipedia.org/wiki/RAID_log): a RAID log keeps track of a project's risks, assumptions, issues, and dependencies
 * [RAM: responsibility assignment matrix](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
