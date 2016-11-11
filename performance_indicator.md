@@ -22,13 +22,13 @@ The key stages in identifying KPIs are:
 * Investigate variances.
 * Adjust processes and/or resources to achieve short-term goals.
 
-KPIs use SMART criteria, which means the measure has:
+KPIs use SMART criteria, which means the measure is:
 
 * Specific
 * Measurable
 * Achievable
 * Relevant
-* Time-scoped
+* Timely
 
 KPIs are linked to target values, so that the value of the measure can be assessed as meeting expectations or not.
 
