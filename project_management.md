@@ -133,6 +133,9 @@ Contents:
 
 <a name="misc">Miscellaneous</a>:
 * [5 Whys: questions to get to a root cause](https://wikipedia.org/wiki/5_Whys) (cf. RCA: Root Cause Analysis)
+* [ADKAR: awareness, desire, knowledge, ability, reinforcement](https://www.prosci.com/adkar/adkar-model)
+ Overview & Exercises | Prosc
+* [ADKAR Change Management Model](https://www.prosci.com/adkar/adkar-model) ADKAR: awareness, desire, knowledge, ability, reinforcement
 * [ADR: architectural decision record](TODO)
 * [agile software development](https://wikipedia.org/wiki/Agile_software_development)
 * [ambidextrous organization](https://wikipedia.org/wiki/Ambidextrous_organization): an organizationœôòùs ability to be efficient in its management of todayœôòùs business and also adaptable for coping with tomorrowœôòùs changing demand.
