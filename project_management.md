@@ -71,7 +71,7 @@ Contents:
 * [pessimistic time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the maximum possible time required to accomplish an activity (p) or a path (P), assuming everything goes wrong (but excluding major catastrophes).
 * [most likely time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the best estimate of the time required to accomplish an activity (m) or a path (M), assuming everything proceeds as normal.
 * [expected time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the best estimate of the time required to accomplish an activity (te) or a path (TE), accounting for the fact that things don't always proceed as normal (the implication being that the expected time is the average time the task would require if the task were repeated on a number of occasions over an extended period of time).
-* [standard deviation of time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the variability of the time for accomplishing an activity (œô§Ãte) or a path (œô§ÃTE)
+* [standard deviation of time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the variability of the time for accomplishing an activity (†óte) or a path (†óTE)
 * [float a.k.a. slack](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): a measure of the excess time and resources available to complete a task. It is the amount of time that a project task can be delayed without causing a delay in any subsequent tasks (free float) or the whole project (total float). Positive slack would indicate ahead of schedule; negative slack would indicate behind schedule; and zero slack would indicate on schedule.
 * [critical path](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the longest possible continuous pathway taken from the initial event to the terminal event. It determines the total calendar time required for the project; and, therefore, any time delays along the critical path will delay the reaching of the terminal event by at least the same amount.
 * [critical activity](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): An activity that has total float equal to zero. An activity with zero float is not necessarily on the critical path since its path may not be the longest.
@@ -138,9 +138,9 @@ Contents:
 * [ADKAR Change Management Model](https://www.prosci.com/adkar/adkar-model) ADKAR: awareness, desire, knowledge, ability, reinforcement
 * [ADR: architectural decision record](TODO)
 * [agile software development](https://wikipedia.org/wiki/Agile_software_development)
-* [ambidextrous organization](https://wikipedia.org/wiki/Ambidextrous_organization): an organizationœôòùs ability to be efficient in its management of todayœôòùs business and also adaptable for coping with tomorrowœôòùs changing demand.
-* [architecturally significant requirement (ASR)](https://wikipedia.org/wiki/Architecturally_Significant_Requirements): requirements that have a measurable effect on a software systemœôòùs architecture.
-* [ASR: architecturally significant requirement](https://wikipedia.org/wiki/Architecturally_Significant_Requirements): requirements that have a measurable effect on a software systemœôòùs architecture.
+* [ambidextrous organization](https://wikipedia.org/wiki/Ambidextrous_organization): an organization†¢s ability to be efficient in its management of today†¢s business and also adaptable for coping with tomorrow†¢s changing demand.
+* [architecturally significant requirement (ASR)](https://wikipedia.org/wiki/Architecturally_Significant_Requirements): requirements that have a measurable effect on a software system†¢s architecture.
+* [ASR: architecturally significant requirement](https://wikipedia.org/wiki/Architecturally_Significant_Requirements): requirements that have a measurable effect on a software system†¢s architecture.
 * [backlog](https://wikipedia.org/wiki/Backlog)
 * [BDUF: big-design-up-front](TODO)
 * [Best Known Method (BKM)](https://en.wikipedia.org/wiki/Best_practice) a.k.a best practice
@@ -178,7 +178,7 @@ Contents:
 * [effort management](https://wikipedia.org/wiki/Effort_management):  the effective and efficient allocation of time and resources to perform activities.
 * [estimation](https://wikipedia.org/wiki/Estimation_(project_management))
 * [FBE: fuzzy back-end](TODO): the action steps where the production and market launch occur. (cf. FFE)
-* [FFE: fuzzy front-end](TODO): activities employed before a well-defined requirements specification is completed. 
+* [FFE: fuzzy front-end](TODO): activities employed before a well-defined requirements specification is completed.
 * [float](https://wikipedia.org/wiki/Float_(project_management))
 * [fuzzy back-end (FBE)](TODO): the action steps where the production and market launch occur. (cf. FFE)
 * [functional requirements, a.k.a. functional specification](TODO)
@@ -188,7 +188,7 @@ Contents:
 * [integrated master plan (IMP)](https://wikipedia.org/wiki/Integrated_master_plan) documents the significant accomplishments necessary to complete the work and ties each accomplishment to a key program event. (cf. integrated master schedule)
 * [iteration](https://wikipedia.org/wiki/Iteration)
 * [International Organization for Standardization](https://wikipedia.org/wiki/International_Organization_for_Standardization)
-* [ISO 31000 "Risk management œôòó Principles and guidelines on implementation"](TODO)
+* [ISO 31000 "Risk management •¡¹ Principles and guidelines on implementation"](TODO)
 * [law of two feet](https://wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [linear responsibility chart (LRC)](https://wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
 * [LRC: linear responsibility chart](https://wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
@@ -206,21 +206,21 @@ Contents:
 * [NFR: non-functional requirement](https://wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system. (cf. quality attributes)
 * [non-functional requirement (NFR)](https://wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system. (cf. quality attributes)
 * [OST: open space technology](https://wikipedia.org/wiki/Open_Space_Technology): an approach to purpose-driven leadership.
-* [PDCA: planœôòódoœôòócheckœôòóact](https://wikipedia.org/wiki/PDCA): a management method for process/product control and continual improvement. (a.k.a. Deming cycle)
+* [PDCA: plan•¡¹do•¡¹check•¡¹act](https://wikipedia.org/wiki/PDCA): a management method for process/product control and continual improvement. (a.k.a. Deming cycle)
 * [Persona](https://wikipedia.org/wiki/Persona)
 * [PERT: program evaluation and review technique](https://wikipedia.org/wiki/Program_evaluation_and_review_technique)
-* [planning poker a.k.a. Scrum poker](https://en.wikipedia.org/wiki/Planning_poker): a consensus-based, gamified technique for estimating tasks. 
+* [planning poker a.k.a. Scrum poker](https://en.wikipedia.org/wiki/Planning_poker): a consensus-based, gamified technique for estimating tasks.
 * [PMBOK: Project Management Body of Knowledge](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge)
 * [problem domain](https://wikipedia.org/wiki/Problem_domain)
 * [Project Management Body of Knowledge (PMBOK)](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge)
 * [PMO: project management office](https://wikipedia.org/wiki/Project_management_office)
 * [project management triangle](https://wikipedia.org/wiki/Project_management_triangle)
 * [PRINCE2: Projects In Controlled Environments](https://wikipedia.org/wiki/PRINCE2)
-* [Project Management Body of Knowledge](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge):  a set of standard terminology and guidelines (a body of knowledge) for project management. 
+* [Project Management Body of Knowledge](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge):  a set of standard terminology and guidelines (a body of knowledge) for project management.
 * [Project Management Institute](https://wikipedia.org/wiki/Project_Management_Institute)
 * [product backlog](https://wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
 * [program evaluation and review technique (PERT)](https://wikipedia.org/wiki/Program_evaluation_and_review_technique)
-* [program management]https://wikipedia.org/wiki/Program_management): the process of managing several related projects, often with the intention of improving an organization's performance. 
+* [program management]https://wikipedia.org/wiki/Program_management): the process of managing several related projects, often with the intention of improving an organization's performance.
 * [project](https://wikipedia.org/wiki/Project)
 * [project management office (PMO)](https://wikipedia.org/wiki/Project_management_office)
 * [project portfolio management (PPM)](https://wikipedia.org/wiki/Project_portfolio_management)
@@ -230,9 +230,9 @@ Contents:
 * [quality attributes a.k.a. non-functional requirements](https://wikipedia.org/wiki/Quality_attributes)
 * [QoS: Quality of Service](https://wikipedia.org/wiki/Quality_of_service): overall performance of a system.
 * [RACI: Responsible, Accountable, Consulted, Informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [RACI matrix a.k.a. responsibility assignment matrix](https://wikipedia.org/wiki/Responsibility_assignment_matrix): list stakeholders and their responsibilities towards the project. 
+* [RACI matrix a.k.a. responsibility assignment matrix](https://wikipedia.org/wiki/Responsibility_assignment_matrix): list stakeholders and their responsibilities towards the project.
 * [radar chart](https://en.wikipedia.org/wiki/Radar_chart)
-* [RAID: Risks, Assumptions, Issues, Dependencies](TODO): 
+* [RAID: Risks, Assumptions, Issues, Dependencies](TODO):
 * [RAID log](https://wikipedia.org/wiki/RAID_log): a RAID log keeps track of a project's risks, assumptions, issues, and dependencies
 * [RAM: responsibility assignment matrix](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
 * [resource](https://wikipedia.org/wiki/Resource_(project_management)): project management resources are the project's people, equipment, facilities, funding, etc.
@@ -266,9 +266,10 @@ Contents:
 * [time limit a.k.a. deadline](https://wikipedia.org/wiki/Time_limit)
 * [TOC: theory of constraints](https://wikipedia.org/wiki/Theory_of_Constraints) (cf. CCPM: Critical Chain Project Management)
 * [total project control (TPC)](https://wikipedia.org/wiki/Total_project_control): a project management method that emphasizes continuous tracking and optimization of return on investment (ROI).
+* [Toyota Kata](https://en.wikipedia.org/wiki/Toyota_Kata): a book that explains Improvement Kata and Coaching Kata
 * [TPC: total project control](https://wikipedia.org/wiki/Total_project_control): a project management method that emphasizes continuous tracking and optimization of return on investment (ROI).
 * [unified process a.k.a. unified software development process](https://wikipedia.org/wiki/Unified_Process)
-* [use case, a.k.a. user story](https://wikipedia.org/wiki/Use_case): a list of actions in a system to achieve a goal. 
+* [use case, a.k.a. user story](https://wikipedia.org/wiki/Use_case): a list of actions in a system to achieve a goal.
 * [value stream mapping (VSM)](https://wikipedia.org/wiki/Value_stream_mapping)
 * [VSM: value stream mapping](https://wikipedia.org/wiki/Value_stream_mapping)
 * [waterfall model](https://wikipedia.org/wiki/Waterfall_model)
@@ -311,4 +312,3 @@ Contents:
 * [Integrated master plan](https://wikipedia.org/wiki/Integrated_master_plan)
 * [SOP: standard operating procedure](https://wikipedia.org/wiki/Standard_operating_procedure)
 * [standard operating procedure (SOP)](https://wikipedia.org/wiki/Standard_operating_procedure)
-
