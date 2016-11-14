@@ -248,6 +248,7 @@ Contents:
 * [scrum](https://wikipedia.org/wiki/Scrum_(software_development)): an iterative and incremental agile software development framework for managing product development
 * [SDLC: systems development life cycle](https://wikipedia.org/wiki/Systems_development_life_cycle): a process for planning, creating, testing, and deploying an information system. (a.k.a. application development life-cycle)
 * [service-level agreement (SLA)](https://wikipedia.org/wiki/Service-level_agreement): a commitment between a service provider and customer, typically explaining scope, quality, availability, responsibilities, etc.
+* [SIPOC](https://en.wikipedia.org/wiki/SIPOC): a tool that summarizes using supplier, input, process, output, customer.
 * [SLA: service-level agreement](https://wikipedia.org/wiki/Service-level_agreement): a commitment between a service provider and customer, typically explaining scope, quality, availability, responsibilities, etc.
 * [SMART criteria](https://wikipedia.org/wiki/SMART_criteria)
 * [software release life cycle](https://wikipedia.org/wiki/Software_release_life_cycle)
@@ -259,6 +260,7 @@ Contents:
 * [stakeholder](https://wikipedia.org/wiki/Project_stakeholder): an individual or group who may interact with a project's planning or ongoing use.
 * [stand-up meeting](https://wikipedia.org/wiki/Stand-up_meeting)
 * [systems development life cycle (SDLC)](https://wikipedia.org/wiki/Systems_development_life_cycle): a process for planning, creating, testing, and deploying an information system.
+* [Taguchi methods](https://en.wikipedia.org/wiki/Taguchi_methods)
 * [task](https://wikipedia.org/wiki/Task_(project_management))
 * [task management](https://wikipedia.org/wiki/Task_management)
 * [technical support](https://wikipedia.org/wiki/Technical_support)
