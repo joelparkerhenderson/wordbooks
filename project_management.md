@@ -189,6 +189,7 @@ Contents:
 * [iteration](https://wikipedia.org/wiki/Iteration)
 * [International Organization for Standardization](https://wikipedia.org/wiki/International_Organization_for_Standardization)
 * [ISO 31000 "Risk management •¡¹ Principles and guidelines on implementation"](TODO)
+* [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
 * [law of two feet](https://wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [lean dynamics](https://en.wikipedia.org/wiki/Lean_dynamics)
 * [linear responsibility chart (LRC)](https://wikipedia.org/wiki/Responsibility_assignment_matrix) a.k.a. RACI matrix.
