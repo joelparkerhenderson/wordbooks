@@ -40,7 +40,7 @@ Wordbook:
 * [EBT: earnings before taxes](https://en.wikipedia.org/wiki/Earnings_before_taxes)
 * [EBIT: earnings before interest and taxes](https://en.wikipedia.org/wiki/Earnings_before_interest_and_taxes)
 * [EBITA: earnings before interest, taxes, and amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_and_amortization)
-* [EBITDA: earnings before interest, taxes, depreciation, and amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization): EBITDA margin is a measurement of a company's operating profitability as a percentage of its total revenue. 
+* [EBITDA: earnings before interest, taxes, depreciation, and amortization](https://en.wikipedia.org/wiki/Earnings_before_interest,_taxes,_depreciation,_and_amortization): EBITDA margin is a measurement of a company's operating profitability as a percentage of its total revenue.
 * [Economic growth](https://wikipedia.org/wiki/Economic_growth)
 * [Endogeneity (econometrics)](https://wikipedia.org/wiki/Endogeneity_(econometrics))
 * [Endogenous money](https://wikipedia.org/wiki/Endogenous_money)
@@ -112,6 +112,7 @@ Wordbook:
 * [Operating expense (op ex)](https://wikipedia.org/wiki/Operating_expense) (cf. capital expense, financing expense)
 * [Operating margin](https://en.wikipedia.org/wiki/Operating_margin) a.k.a. also known as operating income margin, operating profit margin and return on sales (ROS).
 * [Opportunity cost](https://wikipedia.org/wiki/Opportunity_cost)
+* [ORPIC: Operational Readiness Per Invested Capital](TODO)
 * [Overnight indexed swap](https://wikipedia.org/wiki/Overnight_indexed_swap)
 * [Payment](https://wikipedia.org/wiki/Payment)
 * [Peak debt](https://wikipedia.org/wiki/Peak_debt)
@@ -133,6 +134,7 @@ Wordbook:
 * [Representative agent](https://wikipedia.org/wiki/Representative_agent)
 * [Reservation price](https://wikipedia.org/wiki/Reservation_price)
 * [Reservation wage](https://wikipedia.org/wiki/Reservation_wage)
+* [ROIC: return on invested capital](TODO)
 * [ROS: return on sales](https://en.wikipedia.org/wiki/Operating_margin) a.k.a. also known as operating margin, operating income margin, operating profit margin.
 * [Ringfencing](https://wikipedia.org/wiki/Ringfencing)
 * [Rivalry (economics)](https://wikipedia.org/wiki/Rivalry_(economics))
