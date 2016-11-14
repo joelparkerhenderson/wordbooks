@@ -141,6 +141,7 @@ Wordbook:
 * [Robinson Crusoe economy](https://wikipedia.org/wiki/Robinson_Crusoe_economy)
 * [Scarcity](https://wikipedia.org/wiki/Scarcity)
 * [Service (economics)](https://wikipedia.org/wiki/Service_(economics))
+* [SIP: Strategic Investment Plan](TODO)
 * [SG&amp;A: Selling, General and Administrative Expenses](https://en.wikipedia.org/wiki/SG%26A)
 * [Shutdown (economics)](https://wikipedia.org/wiki/Shutdown_(economics))
 * [Small open economy](https://wikipedia.org/wiki/Small_open_economy)
