@@ -17,6 +17,7 @@ Contents:
 * [core competency](https://wikipedia.org/wiki/Core_competency)
 * [customer experience (CX)](TODO)
 * [CID: customer identifier](TODO) (cf. UCID)
+* [CoE: center of excellence](TODO)
 * [corporate social responsibility (CSR)](https://en.wikipedia.org/wiki/Corporate_social_responsibility): business practices involving initiatives that benefit society. A business's CSR can encompass a wide variety of tactics, from giving away a portion of a company's proceeds to charity, to implementing "greener" business operations. (cf. customer service record)
 * [cost to company](https://wikipedia.org/wiki/Cost_to_company)
 * [competitive advantage](https://wikipedia.org/wiki/Competitive_advantage)
