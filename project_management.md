@@ -272,6 +272,7 @@ Contents:
 * [total project control (TPC)](https://wikipedia.org/wiki/Total_project_control): a project management method that emphasizes continuous tracking and optimization of return on investment (ROI).
 * [Toyota Kata](https://en.wikipedia.org/wiki/Toyota_Kata): a book that explains Improvement Kata and Coaching Kata
 * [TPC: total project control](https://wikipedia.org/wiki/Total_project_control): a project management method that emphasizes continuous tracking and optimization of return on investment (ROI).
+* [Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development)
 * [unified process a.k.a. unified software development process](https://wikipedia.org/wiki/Unified_Process)
 * [use case, a.k.a. user story](https://wikipedia.org/wiki/Use_case): a list of actions in a system to achieve a goal.
 * [value stream mapping (VSM)](https://wikipedia.org/wiki/Value_stream_mapping)
