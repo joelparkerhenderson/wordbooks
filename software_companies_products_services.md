@@ -95,8 +95,8 @@
 * [box-sync](TODO)
 * [brain-workshop](TODO)
 * [Brew cask](TODO): enables installing typical Mac OS X applications.
-* [bropages](http://bropages.org/): concise examples of using command line programs. 
-* [Buck](https://buckbuild.com/): a high-performance build system by Facebook. 
+* [bropages](http://bropages.org/): concise examples of using command line programs.
+* [Buck](https://buckbuild.com/): a high-performance build system by Facebook.
 * [Burp Suite](https://portswigger.net/burp/):  toolkit for web application security testing.
 * [CA Technologies](https://en.wikipedia.org/wiki/CA_Technologies): formerly Computer Associates.
 * [Cabal](TODO): a package manager for Haskell.
@@ -179,7 +179,7 @@
 * [Endeca](https://en.wikipedia.org/wiki/Endeca): Oracle Endeca provides eCommerce search, Customer Experience Management, and business intelligence.
 * [Erlang](TODO): programming language for scalable high-availability systems.
 * [Evernote](TODO)
-* [Exadata](https://en.wikipedia.org/wiki/Oracle_Exadata): Oracle Exadata Database Machine is a combined compute and storage system optimized for running Oracle Database software. 
+* [Exadata](https://en.wikipedia.org/wiki/Oracle_Exadata): Oracle Exadata Database Machine is a combined compute and storage system optimized for running Oracle Database software.
 * [exif](TODO)
 * [expect](TODO)
 * [F5 Networks](https://en.wikipedia.org/wiki/F5_Networks): application delivery networking (ADN) technology.
@@ -189,6 +189,7 @@
 * [falcor](https://github.com/Netflix/falcor)
 * [Federation topology](TODO): each institution has control over its own data.
 * [fetchmail](TODO)
+* [Fieldglass](https://en.wikipedia.org/wiki/Fieldglass)
 * [ffmpeg](TODO)
 * [ffmpeg](TODO)
 * [FileMaker](https://en.wikipedia.org/wiki/FileMaker): Apple FileMaker cross-platform relational database application.
@@ -281,7 +282,7 @@
 * [Heroku toolbelt](TODO): Heroku command-line utilties.
 * [Heroku](https://heroku.com)
 * [hg](TODO): nickname for Mercurial version control system.
-* [Hierarchical topology](TODO): there is a single source for the data and it needs to be distributed to multiple locations around the world. 
+* [Hierarchical topology](TODO): there is a single source for the data and it needs to be distributed to multiple locations around the world.
 * [hipchat](TODO)
 * [hockey](TODO)
 * [Homebrew Cask](TODO): extends Homebrew to install OS X applications and large binaries.
@@ -547,7 +548,7 @@
 * [mod_wsgi](TODO)
 * [mogenerator](TODO)
 * [Mojolicious](https://wikipedia.org/wiki/Mojolicious): web framework for [Perl](https://wikipedia.org/wiki/Perl_(programming_language))
-* [Monadic topology](TODO): use central repository that all collected data is fed into. 
+* [Monadic topology](TODO): use central repository that all collected data is fed into.
 * [monetdb](TODO)
 * [MongoDB](https://en.wikipedia.org/wiki/MongoDB): document-oriented database.
 * [mongoose](TODO)
@@ -638,7 +639,7 @@
 * [Netcat](TODO): a networking utility for the TCP/IP protocol.
 * [netcdf](TODO)
 * [Netflix](https://netflix.com)
-* [NetIQ](https://en.wikipedia.org/wiki/NetIQ): provides products for identity and access management. 
+* [NetIQ](https://en.wikipedia.org/wiki/NetIQ): provides products for identity and access management.
 * [NetIQ Identity Manager](https://en.wikipedia.org/wiki/NetIQ_Identity_Manager)
 * [netpbm](TODO)
 * [netsed](TODO)
@@ -1259,7 +1260,7 @@
 * [syck](TODO)
 * [symphony](TODO)
 * [Syncthing](TODO): open source file sharing tool; compare BitTorrent.
-* [Synergy](http://symless.com/synergy/): a utility to share a mouse and keyboard among computers. 
+* [Synergy](http://symless.com/synergy/): a utility to share a mouse and keyboard among computers.
 * [synfig](TODO)
 * [synfigstudio](TODO)
 * [syslog-ng](TODO)
@@ -1277,7 +1278,7 @@
 * [Tarsnap](TODO): a secure online backup service for *nix.
 * [task](TODO)
 * [Tasked-Based Authorization Controls (TBAC)](TODO)
-* [Taxware](https://en.wikipedia.org/wiki/Taxware): provides products ranging from simple tax rate files to complete end-to-end taxt solution automation. 
+* [Taxware](https://en.wikipedia.org/wiki/Taxware): provides products ranging from simple tax rate files to complete end-to-end taxt solution automation.
 * [Taylor](TODO): code quality metrics tool for Swift.
 * [tbb](TODO)
 * [tcl-tk](TODO)
