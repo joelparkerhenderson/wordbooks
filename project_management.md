@@ -317,3 +317,18 @@ Contents:
 * [Integrated master plan](https://wikipedia.org/wiki/Integrated_master_plan)
 * [SOP: standard operating procedure](https://wikipedia.org/wiki/Standard_operating_procedure)
 * [standard operating procedure (SOP)](https://wikipedia.org/wiki/Standard_operating_procedure)
+* [WIP: work in progress](TODO)
+* [work in progress (WIP)](TODO)
+* [WIP limit](TODO): A constraint in a workflow that mitigates potential bottlenecks
+* [visual management](TODO): a philosophy that work is better managed through visual systems, such as Kanban, than text lists.
+* [task switching](TODO) a.k.a. context switching, multi-tasking; shifting attention between multiple pieces of work.
+* [source of demand](TODO): what is driving a business goal such as a requirement for work; the source is sometimes an external customer, sometimes an internal business stakeholder.
+* [pull system](TODO): a work process where each stage only pulls work into progress when it has capacity to do so; the opposite of a push system, where work is assigned and added to a queue, regardless of capacity.
+* [blocker](TODO): any factor preventing progress, thereby limiting the ability for work to move from one phase in a process to the next phase.
+* [bottleneck](TODO): a constraint in the system that limits the flow of work.
+* [hidden work-in-progress](TODO): work that a team member is working on but
+hasn†¢t made visible, such as by adding a story card to a kanban board.
+* [DSU: daily stand up](TODO): a team briefing meeting, typically at the start of each workday.
+* [daily stand up (DSU)](TODO): a team briefing meeting, typically at the start of each workday.
+* [daily stand down (DSD)](TODO): a team briefing meeting, typically at the end of each workday.
+* [DSD: daily stand down](TODO): a team briefing meeting, typically at the end of each workday.
