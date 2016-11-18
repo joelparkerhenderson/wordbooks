@@ -190,6 +190,7 @@ Contents:
 * [International Organization for Standardization](https://wikipedia.org/wiki/International_Organization_for_Standardization)
 * [ISO 31000 "Risk management •¡¹ Principles and guidelines on implementation"](TODO)
 * [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
+* [Kanban system](TODO) A display of visual indicators, namely cards, that signals what the process needs exactly when the process needs it. Also: a way to visualize work and workflow.
 * [keep the business running (KTBR)](TODO)
 * [KTBR: keep the business running](TODO)
 * [law of two feet](https://wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
@@ -220,6 +221,8 @@ Contents:
 * [PMO: project management office](https://wikipedia.org/wiki/Project_management_office)
 * [project management triangle](https://wikipedia.org/wiki/Project_management_triangle)
 * [PRINCE2: Projects In Controlled Environments](https://wikipedia.org/wiki/PRINCE2)
+* [process](TODO): a series of actions, steps or stages that a piece of work goes through to be considered ‘¡°done.‘¡±
+* [process map](TODO): a visual representation of the steps needed to complete a piece of work.
 * [Project Management Body of Knowledge](https://wikipedia.org/wiki/Project_Management_Body_of_Knowledge):  a set of standard terminology and guidelines (a body of knowledge) for project management.
 * [Project Management Institute](https://wikipedia.org/wiki/Project_Management_Institute)
 * [product backlog](https://wikipedia.org/wiki/Scrum_(software_development)#Product_backlog)
