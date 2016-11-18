@@ -234,6 +234,7 @@ Contents:
 * [project risk management](https://wikipedia.org/wiki/Project_risk_management)
 * [project workforce management](https://wikipedia.org/wiki/Project_workforce_management): the practice of combining the coordination of all logistic elements of a project.
 * [propagation strategy](TODO)
+* [pull mechanism](TODO): the action of pulling work based on the opportunity and capacity to fulfill the needs of the system.
 * [quality attributes a.k.a. non-functional requirements](https://wikipedia.org/wiki/Quality_attributes)
 * [QoS: Quality of Service](https://wikipedia.org/wiki/Quality_of_service): overall performance of a system.
 * [RACI: Responsible, Accountable, Consulted, Informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
