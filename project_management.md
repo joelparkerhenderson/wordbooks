@@ -341,3 +341,5 @@ hasn†¢t made visible, such as by adding a story card to a kanban board.
 * [CONWIP: constant work in progress](https://en.wikipedia.org/wiki/CONWIP)
 * [theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)
 * [ORS: Overview Results Scale framework](TODO) E.g. a deck of slides: Title, Agenda, Overview, Results, Scale, Thanks, Appendix.
+* [FMEA: failure mode and effects analysis](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)
+* [failure mode and effects analysis (FMEA)](https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis)
