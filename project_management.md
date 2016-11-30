@@ -338,3 +338,6 @@ hasn†¢t made visible, such as by adding a story card to a kanban board.
 * [daily stand up (DSU)](TODO): a team briefing meeting, typically at the start of each workday.
 * [daily stand down (DSD)](TODO): a team briefing meeting, typically at the end of each workday.
 * [DSD: daily stand down](TODO): a team briefing meeting, typically at the end of each workday.
+* [CONWIP: constant work in progress](https://en.wikipedia.org/wiki/CONWIP)
+* [theory of constraints](https://en.wikipedia.org/wiki/Theory_of_constraints)
+* [ORS: Overview Results Scale framework](TODO) E.g. a deck of slides: Title, Agenda, Overview, Results, Scale, Thanks, Appendix.

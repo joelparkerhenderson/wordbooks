@@ -325,6 +325,7 @@
 * [Jenkins](https://en.wikipedia.org/wiki/Jenkins_(software)): continuous integration tool.
 * [JetBrains](TODO)
 * [Jetty](TODO): Java web server and javax.servlet container.
+* [Jira](https://www.atlassian.com/software/jira/)
 * [jmeter](TODO)
 * [jo](TODO)
 * [joinme](TODO)
