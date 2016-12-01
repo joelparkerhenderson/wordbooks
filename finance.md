@@ -172,4 +172,6 @@ Wordbook:
 * [Whitemail](https://wikipedia.org/wiki/Whitemail)
 * [Willingness to accept](https://wikipedia.org/wiki/Willingness_to_accept)
 * [Willingness to pay](https://wikipedia.org/wiki/Willingness_to_pay)
+* [ZBB: Zero-based_budgeting](https://en.wikipedia.org/wiki/Zero-based_budgeting)
 * [Zerat](https://wikipedia.org/wiki/Zerat)
+* [Zero-based_budgeting (ZBB)](https://en.wikipedia.org/wiki/Zero-based_budgeting)
