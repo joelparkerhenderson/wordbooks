@@ -154,6 +154,7 @@ Contents:
 * [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
 * [CCPM: critical chain project management](https://wikipedia.org/wiki/Critical_chain_project_management) (cf. TOC: Theory Of Constraints)
 * [charrette](https://wikipedia.org/wiki/Charrette)
+* [Clinger-Cohen Act](https://en.wikipedia.org/wiki/Clinger%E2%80%93Cohen_Act) formerly the Information Technology Management Reform Act of 1996 (ITMRA)
 * [CM: change management](https://wikipedia.org/wiki/Change_management): any approach to transitioning individuals or teams that significantly reshape an organization.
 * [CMM: Capability Maturity Model](https://en.wikipedia.org/wiki/Capability_Maturity_Model)
 * [CMMI: Capability Maturity Model Integration](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
@@ -189,6 +190,7 @@ Contents:
 * [iteration](https://wikipedia.org/wiki/Iteration)
 * [International Organization for Standardization](https://wikipedia.org/wiki/International_Organization_for_Standardization)
 * [ISO 31000 "Risk management •¡¹ Principles and guidelines on implementation"](TODO)
+* [Information Technology Management Reform Act of 1996 (ITMRA)](https://en.wikipedia.org/wiki/Clinger%E2%80%93Cohen_Act) see Clinger-Cohen Act
 * [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
 * [Kanban system](TODO) A display of visual indicators, namely cards, that signals what the process needs exactly when the process needs it. Also: a way to visualize work and workflow.
 * [keep the business running (KTBR)](TODO)
