@@ -48,6 +48,7 @@ Contents:
 * [organizational structure](https://wikipedia.org/wiki/Organizational_structure)
 * [sales](https://en.wikipedia.org/wiki/Sales)
 * [sales presentation](https://wikipedia.org/wiki/Sales_presentation)
+* [six thinking hats](https://en.wikipedia.org/wiki/Six_Thinking_Hats): Managing Blue, Information White, Emotions Red, Discernment Black, Optimistic Yellow, Creativity Green
 * [resource allocation](https://en.wikipedia.org/wiki/Resource_allocation)
 * [resource leveling](https://en.wikipedia.org/wiki/Resource_leveling)
 * [resource management](https://en.wikipedia.org/wiki/Resource_management): efficient and effective development of an organization's resources, such as money, people, and inventory.
