@@ -287,6 +287,7 @@
 * [hockey](TODO)
 * [Homebrew Cask](TODO): extends Homebrew to install OS X applications and large binaries.
 * [Homebrew](https://en.wikipedia.org/wiki/Homebrew_(package_management_software)): package management software for Mac.
+* [HPE Unified Functional Testing (UFT)](https://en.wikipedia.org/wiki/HP_QuickTest_Professional)
 * [html-xml-utils](TODO)
 * [html2text](TODO)
 * [htop](TODO)
@@ -940,6 +941,7 @@
 * [quex](TODO)
 * [quickfix](TODO)
 * [quicksilver](TODO)
+* [QuickTest](https://en.wikipedia.org/wiki/HP_QuickTest_Professional)
 * [QuickTime Player](TODO)
 * [quicktree](TODO)
 * [quilt](TODO)
@@ -1383,6 +1385,7 @@
 * [udns](TODO)
 * [udunits](TODO)
 * [ufraw](TODO)
+* [UFT: HPE Unified Functional Testing](https://en.wikipedia.org/wiki/HP_QuickTest_Professional)
 * [uif2iso](TODO)
 * [uim](TODO)
 * [unafold](TODO)
