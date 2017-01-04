@@ -29,7 +29,7 @@ Contents:
 
 <a name="formats">Formats</a>:
 
-* [CSV: comma separated values](https://wikipedia.org/wiki/Comma-separated_values) (cf. TDF, TSV) 
+* [CSV: comma separated values](https://wikipedia.org/wiki/Comma-separated_values) (cf. TDF, TSV)
 * [PDF: portable document format](TODO)
 * [HTML: hyper text markup language](https://wikipedia.org/wiki/HTML)
 * [JPEG](TODO): image format.
@@ -180,7 +180,7 @@ Contents:
 * [CMS: content management system](https://en.wikipedia.org/wiki/Content_management_system)
 * [CNAME: canonical name record](https://wikipedia.org/wiki/CNAME_record) (see DNS, IP address)
 * [conceptual architecture](TODO) (cf. logical architecture)
-* [connection pool](https://wikipedia.org/wiki/Connection_pool) 
+* [connection pool](https://wikipedia.org/wiki/Connection_pool)
 * [consistency (C)](https://en.wikipedia.org/wiki/Consistency_(database_systems)): all system nodes see the same data at the same time
 * [content management (CM)](TODO)
 * [content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system)
@@ -189,6 +189,7 @@ Contents:
 * [CQS: command-query separation](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation)
 * [cross-cutting concern](https://en.wikipedia.org/wiki/Cross-cutting_concern)
 * [cross-fader release](TODO)
+* [cyclomatic complexity](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
 * [DAMP: descriptive and meaningful phrases](TODO): a software development principal that improves code readability; cf. DRY.
 * [dark launch](TODO)
 * [data analysis](https://en.wikipedia.org/wiki/Data_analysis)
@@ -294,7 +295,7 @@ Contents:
 * [ORDBMS: object-relational database management system](https://en.wikipedia.org/wiki/Object-relational_database_management_system)
 * [ORM: object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
 * [orthogonality](https://en.wikipedia.org/wiki/Orthogonality#Computer_science)
-* [OSLC: Open Services for Lifecycle Collaboration](https://wikipedia.org/wiki/OSLC): develops standards for software lifecycle tools to share data with one another. 
+* [OSLC: Open Services for Lifecycle Collaboration](https://wikipedia.org/wiki/OSLC): develops standards for software lifecycle tools to share data with one another.
 * [PACELC](?) If data has a Partition, do Availability-Consistency trade-off; Else, i.e. in normal operation, do Latency-Consistency trade-off.
 * [Partition-tolerance (P)](https://en.wikipedia.org/wiki/Network_partition): the system continues to operate despite arbitrary partitioning due to network failures
 * [performance metric](https://en.wikipedia.org/wiki/Performance_metric)
