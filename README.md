@@ -37,6 +37,8 @@ Consulting:
   * [RAID log](raid_log.md)
   * [Responsibility Assigment Matrix](responsibility_assignment_matrix.md)
   * [Strategic Business Scorecard](strategic_business_scorecard.md)
+  * [Six Sigma](six_sigma.md)
+  * [Lean Six Sigma](lean_six_sigma.md)
 
 Software:
 
