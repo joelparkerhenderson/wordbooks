@@ -194,6 +194,10 @@ Contents:
 * [Kaizen](https://en.wikipedia.org/wiki/Kaizen)
 * [Kanban system](TODO) A display of visual indicators, namely cards, that signals what the process needs exactly when the process needs it. Also: a way to visualize work and workflow.
 * [keep the business running (KTBR)](TODO)
+* [key process area (KPA)](TODO)
+* [key performance indicator (KPI)](TODO)
+* [KPA: key process area](TODO)
+* [KPI: key performance indicator](TODO)
 * [KTBR: keep the business running](TODO)
 * [law of two feet](https://wikipedia.org/wiki/Open_Space_Technology): If you are not learning nor contributing, use your two feet to go someplace else.
 * [lean dynamics](https://en.wikipedia.org/wiki/Lean_dynamics)
@@ -212,6 +216,7 @@ Contents:
 * [new product development (NPD)](https://wikipedia.org/wiki/New_product_development)
 * [NFR: non-functional requirement](https://wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system. (cf. quality attributes)
 * [non-functional requirement (NFR)](https://wikipedia.org/wiki/Non-functional_requirement): specifies criteria of the operation of a system. (cf. quality attributes)
+* [Objective and Key Results (OKRs)](TODO)
 * [OST: open space technology](https://wikipedia.org/wiki/Open_Space_Technology): an approach to purpose-driven leadership.
 * [PDCA: plan•¡¹do•¡¹check•¡¹act](https://wikipedia.org/wiki/PDCA): a management method for process/product control and continual improvement. (a.k.a. Deming cycle)
 * [Persona](https://wikipedia.org/wiki/Persona)
