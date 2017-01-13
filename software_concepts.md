@@ -222,10 +222,14 @@ Contents:
 * [DSS: Digital Signature Services](https://wikipedia.org/wiki/Digital_Signature_Services)
 * [dst: destination](TODO)
 * [ebXML](https://wikipedia.org/wiki/EbXML)
+* [EAI: enterprise application integration](TODO)
 * [ECM: enterprise content management](https://en.wikipedia.org/wiki/Enterprise_content_management)
+* [ESB: enterprise service bus](TODO)
 * [EDXL: Emergency Data Exchange Language](https://wikipedia.org/wiki/EDXL): suite of XML-based messaging standards that facilitate emergency information sharing between government entities and the full range of emergency-related organizations.
 * [EML: Election Markup Language](https://wikipedia.org/wiki/Election_Markup_Language): end to end information standards and processes for conducting democratic elections using XML-based information recording.
 * [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [enterprise application integration (EAI)](TODO)
+* [enterprise service bus (ESB)](https://en.wikipedia.org/wiki/Enterprise_service_bus)
 * [ESB: enterprise service bus](https://en.wikipedia.org/wiki/Enterprise_service_bus)
 * [ESD: electronic software distribution](TODO)
 * [fat client](https://en.wikipedia.org/wiki/Fat_client) (cf. thin client)
