@@ -155,6 +155,8 @@ Contents:
 * [authentication](https://wikipedia.org/wiki/Authentication)
 * [authorziation](https://wikipedia.org/wiki/Authorization)
 * [availability (A)](https://en.wikipedia.org/wiki/Availability): every system request receives a meaningful response
+* [B2B: Business to Business](TODO)
+* [B2C: Business to Consumer](TODO)
 * [bandwidth](https://en.wikipedia.org/wiki/Bandwidth_(computing))
 * [bandwidth throttling](https://en.wikipedia.org/wiki/Bandwidth_throttling)
 * [benchmarking](https://wikipedia.org/wiki/Benchmarking)
@@ -165,6 +167,8 @@ Contents:
 * [BPS: bits per second](https://en.wikipedia.org/wiki/Data_rate_units): also abbreviated as bitrate and bits/s.
 * [browser a.k.a. web browser](https://en.wikipedia.org/wiki/Web_browser)
 * [business logic](https://wikipedia.org/wiki/Business_logic)
+* [business to business (B2B)](TODO)
+* [business to consumer (B2C)](TODO)
 * [cache](https://en.wikipedia.org/wiki/Cache_(computing))
 * [cache pollution](https://en.wikipedia.org/wiki/Cache_pollution): where an executing computer program loads data into CPU cache unnecessarily, thus causing other useful data to be evicted from the cache.
 * [CAM: Content Assembly Mechanism](https://wikipedia.org/wiki/Content_Assembly_Mechanism): a generalized assembly mechanism for using templates of XML business transaction content and the associated rules. CAM templates augment schema syntax and provide implementers with the means to specify interoperable interchange patterns.
@@ -251,8 +255,10 @@ Contents:
 * [IDM: identity management](TODO)
 * [information hiding](https://en.wikipedia.org/wiki/Information_hiding)
 * [internationalization (i18n)](https://en.wikipedia.org/wiki/Internationalization_and_localization)
+* [internet of things (Iot)](TODO)
 * [invalidation](TODO)
 * [invariant](https://en.wikipedia.org/wiki/Invariant_(computer_science))
+* [IoT: Internet of Things](TODO)
 * [IP address](https://wikipedia.org/wiki/IP_address) (see CNAME, DNS)
 * [IP traceback](https://en.wikipedia.org/wiki/IP_traceback)
 * [ISO 9000](https://wikipedia.org/wiki/Iso_9000)A family of standards for quality management systems and requirements.
@@ -329,6 +335,7 @@ Contents:
 * [SMO: social media optimiation](https://en.wikipedia.org/wiki/Social_media_optimization)
 * [SOA: resource oriented architecture](https://wikipedia.org/wiki/Service-oriented_architecture) (cf. REST)
 * [SOAP-over-UDP](https://wikipedia.org/wiki/SOAP-over-UDP)
+* [SoE: System of Engagement](TODO)
 * [software development process](https://wikipedia.org/wiki/Software_development_process)
 * [SPF: Sender Policy Framework](https://wikipedia.org/wiki/Sender_Policy_Framework) (cf. DKIM, DMARC)
 * [SPML: Service Provisioning Markup Language](https://wikipedia.org/wiki/Service_Provisioning_Markup_Language)
