@@ -219,6 +219,7 @@ Contents:
 * [Objective and Key Results (OKRs)](TODO)
 * [OST: open space technology](https://wikipedia.org/wiki/Open_Space_Technology): an approach to purpose-driven leadership.
 * [PDCA: plan•¡¹do•¡¹check•¡¹act](https://wikipedia.org/wiki/PDCA): a management method for process/product control and continual improvement. (a.k.a. Deming cycle)
+* [performance work statement (PWS)](https://en.wikipedia.org/wiki/Performance_work_statement): summarize the work that needs to be done for a contract.
 * [Persona](https://wikipedia.org/wiki/Persona)
 * [PERT: program evaluation and review technique](https://wikipedia.org/wiki/Program_evaluation_and_review_technique)
 * [planning poker a.k.a. Scrum poker](https://en.wikipedia.org/wiki/Planning_poker): a consensus-based, gamified technique for estimating tasks.
@@ -242,6 +243,7 @@ Contents:
 * [project workforce management](https://wikipedia.org/wiki/Project_workforce_management): the practice of combining the coordination of all logistic elements of a project.
 * [propagation strategy](TODO)
 * [pull mechanism](TODO): the action of pulling work based on the opportunity and capacity to fulfill the needs of the system.
+* [PWS: performance work statement](https://en.wikipedia.org/wiki/Performance_work_statement): summarize the work that needs to be done for a contract.
 * [quality attributes a.k.a. non-functional requirements](https://wikipedia.org/wiki/Quality_attributes)
 * [QoS: Quality of Service](https://wikipedia.org/wiki/Quality_of_service): overall performance of a system.
 * [RACI: Responsible, Accountable, Consulted, Informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
