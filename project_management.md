@@ -270,11 +270,15 @@ Contents:
 * [software release life cycle](https://wikipedia.org/wiki/Software_release_life_cycle)
 * [software requirements specification (SRS)](https://wikipedia.org/wiki/Software_requirements_specification)
 * [software system](https://wikipedia.org/wiki/Software_system): a system of intercommunicating components based on software .
+* [SOO: Statement Of Objectives](https://en.wikipedia.org/wiki/Statement_of_objectives)
 * [SOS: Statement Of Scope](TODO) (cf. SOW: Statement Of Work)
 * [SOW: Statement Of Work](https://wikipedia.org/wiki/Statement_of_work) (cf. SOS: Statement Of Scope)
 * [SRS: software requirements specification](https://wikipedia.org/wiki/Software_requirements_specification)
 * [stakeholder](https://wikipedia.org/wiki/Project_stakeholder): an individual or group who may interact with a project's planning or ongoing use.
 * [stand-up meeting](https://wikipedia.org/wiki/Stand-up_meeting)
+* [statement of objectives (SOO)](https://en.wikipedia.org/wiki/Statement_of_objectives)
+* [statement of scope (SOS)](TODO) (cf. SOW: Statement Of Work)
+* [statement of work (SOW)](https://wikipedia.org/wiki/Statement_of_work) (cf. SOS: Statement Of Scope)
 * [systems development life cycle (SDLC)](https://wikipedia.org/wiki/Systems_development_life_cycle): a process for planning, creating, testing, and deploying an information system.
 * [Taguchi methods](https://en.wikipedia.org/wiki/Taguchi_methods)
 * [task](https://wikipedia.org/wiki/Task_(project_management))
