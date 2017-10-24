@@ -249,7 +249,7 @@ Contents:
 * [graphical user interface builder](https://wikipedia.org/wiki/Graphical_user_interface_builder)
 * [HCI: human-computer interaction](https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction)
 * [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
-* [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor]: software, firmware, or hardware that creates and runs virtual machines.
+* [Hypervisor](https://en.wikipedia.org/wiki/Hypervisor): software, firmware, or hardware that creates and runs virtual machines.
 * [i18n: internationalization](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 * [IAM: identity and access management](https://wikipedia.org/wiki/Identity_and_Access_Management)
 * [IDM: identity management](TODO)
