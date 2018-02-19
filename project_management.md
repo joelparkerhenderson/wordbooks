@@ -15,15 +15,20 @@ Contents:
 * [Miscellaneous](#misc)
 * [TODO](#todo)
 
+Related wordbooks:
+* [Capability maturity model integration (CMMI)](capability_maturity_model_integration.md)
+* [Program evaluation and review technique (PERT) wordbook](program_evaluation_and_review_technique.md)
+* [Responsibility assigment matrix (RAM)](responsibility_assigment_matrix.md)
 
-<a name="overviews">Overviews</a>:
+
+## Overviews
 
 * [List of system quality attributes](https://wikipedia.org/wiki/List_of_system_quality_attributes)
 * [Outline of project management](https://wikipedia.org/wiki/Outline_of_project_management)
 * [Comparison of project management software](https://wikipedia.org/wiki/Comparison_of_project_management_software)
 
 
-<a name="Diagrams">Diagrams</a>
+## Diagrams
 
 * [class diagram](https://wikipedia.org/wiki/Class_diagram)
 * [data flow diagram (DFD)](https://wikipedia.org/wiki/Data_flow_diagram): a graphical representation of the flow of data through a system, modelling its process aspects.
@@ -34,7 +39,7 @@ Contents:
 * [use case diagram](https://wikipedia.org/wiki/Use_Case_Diagram)
 
 
-<a name="Unified Process">Unified Processes</a>
+## Unified Processes
 
 * [Unified Process](https://wikipedia.org/wiki/Unified_Process)
 * [OpenUP](https://wikipedia.org/wiki/OpenUP)
@@ -42,7 +47,7 @@ Contents:
 * [Rational Unified Process](https://wikipedia.org/wiki/Rational_Unified_Process)
 
 
-<a name="lifecycles">Lifecycles</a>:
+## Lifecycles
 
 * [concept-to-cash](TODO): the lifecycle from a new product concept (e.g. feature idea) to cash earned (i.e. the feature is producing financial value).
 * [current state](TODO): what is happening right now with a system's people, processes, tools, etc. (cf. future state)
@@ -59,47 +64,7 @@ Contents:
 * [RTW: release to web](https://wikipedia.org/wiki/Software_release_life_cycle#RTW): a software release life cycle phase when software is ready to be published on the web.
 
 
-<a name="program-evaluation-and-review-technique-pert">Program evaluation and review technique (PERT)</a>
-
-* [PERT: program evaluation and review technique](https://wikipedia.org/wiki/Program_evaluation_and_review_technique)
-* [PERT event](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): a point that marks the start or completion of one or more activities. It consumes no time and uses no resources. When it marks the completion of one or more activities, it is not "reached" (does not occur) until all of the activities leading to that event have been completed.
-* [predecessor event](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): an event that immediately precedes some other event without any other events intervening. An event can have multiple predecessor events and can be the predecessor of multiple events.
-* [successor event](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): an event that immediately follows some other event without any other intervening events. An event can have multiple successor events and can be the successor of multiple events.
-* [PERT activity](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the actual performance of a task which consumes time and requires resources (such as labor, materials, space, machinery). It can be understood as representing the time, effort, and resources required to move from one event to another. A PERT activity cannot be performed until the predecessor event has occurred.
-* [PERT sub-activity](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): a PERT activity can be further decomposed into a set of sub-activities. For example, activity A1 can be decomposed into A1.1, A1.2 and A1.3. Sub-activities have all the properties of activities; in particular, a sub-activity has predecessor or successor events just like an activity. A sub-activity can be decomposed again into finer-grained sub-activities.
-* [optimistic time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the minimum possible time required to accomplish an activity (o) or a path (O), assuming everything proceeds better than is normally expected
-* [pessimistic time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the maximum possible time required to accomplish an activity (p) or a path (P), assuming everything goes wrong (but excluding major catastrophes).
-* [most likely time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the best estimate of the time required to accomplish an activity (m) or a path (M), assuming everything proceeds as normal.
-* [expected time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the best estimate of the time required to accomplish an activity (te) or a path (TE), accounting for the fact that things don't always proceed as normal (the implication being that the expected time is the average time the task would require if the task were repeated on a number of occasions over an extended period of time).
-* [standard deviation of time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the variability of the time for accomplishing an activity (†óte) or a path (†óTE)
-* [float a.k.a. slack](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): a measure of the excess time and resources available to complete a task. It is the amount of time that a project task can be delayed without causing a delay in any subsequent tasks (free float) or the whole project (total float). Positive slack would indicate ahead of schedule; negative slack would indicate behind schedule; and zero slack would indicate on schedule.
-* [critical path](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the longest possible continuous pathway taken from the initial event to the terminal event. It determines the total calendar time required for the project; and, therefore, any time delays along the critical path will delay the reaching of the terminal event by at least the same amount.
-* [critical activity](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): An activity that has total float equal to zero. An activity with zero float is not necessarily on the critical path since its path may not be the longest.
-* [lead time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the time by which a predecessor event must be completed in order to allow sufficient time for the activities that must elapse before a specific PERT event reaches completion.
-* [lag time](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): the earliest time by which a successor event can follow a specific PERT event.
-* [fast tracking](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): performing more critical activities in parallel
-* [crashing critical path](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): Shortening duration of critical activities
-* [earliest start time (ES)](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): The earliest time, an activity can start once the previous dependent activities are over.
-* [latest start time (LS)](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): LF - activity duration.
-* [earliest finish time (EF)](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): ES + activity duration.
-* [latest finish time (LF)](https://wikipedia.org/wiki/Program_evaluation_and_review_technique): The latest time an activity can finish without delaying the project.
-
-
-<a href="responsbility-assignment-matrix-ram">Responsbility Assigment Matrix (RAM)</a>
-
-* [RACI: responsible, accountable, consulted, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [PACSI: perform, accountable, control, suggest, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [RASCI: responsible, accountable, support, control, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [RASI: responsible, accountable, support, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [RACIQ: responsible, accountable, consulted, informed, quality review](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [RACI-VS: responsible, accountable, consulted, informed, verifier, signatory](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [RACIO a.k.a. CAIRO: responsible, accountable, consulted, informed, omitted](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [DACI: driver, approver, contributors, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [RAPID: recommend, agree, perform, input, decide](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-* [RATSI: responsibility, authority, task, support, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
-
-
-<a href="service-level-agreement-metrics">Service Level Agreement Metrics</a>
+## Service Level Agreement Metrics
 
 * Abandonment Rate: Percentage of calls abandoned while waiting to be answered.
 * ASA (Average Speed to Answer): Average time (usually in seconds) it takes for a call to be answered by the service desk.
@@ -109,29 +74,8 @@ Contents:
 * MTTR (Mean Time To Recover): Time taken to recover after an outage of service.
 
 
-<a name="capability-maturity-model-integration">Capability maturity model integration (CMMI)</a>
 
-* CAR: Causal Analysis and Resolution
-* CM: Configuration Management
-* DAR:Decision Analysis and Resolution
-* IPM: Integrated Project Management
-* MA: Measurement and Analysis
-* OPD: Organizational Process Definition
-* OPF: Organizational Process Focus
-* OPM: Organizational Performance Management
-* OPP: Organizational Process Performance
-* OT: Organizational Training
-* PMC: Project Monitoring and Control
-* PP: Project Planning
-* PM: Project Management
-* PPQA: Process and Product Quality Assurance
-* QPM: Quantitative Project Management
-* REQM: Requirements Management
-* RSKM: Risk Management
-* SAM: Supplier Agreement Management
-
-
-<a name="misc">Miscellaneous</a>:
+## Miscellaneous
 * [5 Whys: questions to get to a root cause](https://wikipedia.org/wiki/5_Whys) (cf. RCA: Root Cause Analysis)
 * [ADKAR: awareness, desire, knowledge, ability, reinforcement](https://www.prosci.com/adkar/adkar-model)
  Overview & Exercises | Prosc
@@ -302,7 +246,7 @@ Contents:
 * [work breakdown structure (WBS)](https://wikipedia.org/wiki/Work_breakdown_structure): deliverable-oriented decomposition of a project into smaller components.
 
 
-<a name="structured-systems-analysis-and-design-method-ssadm">Structured systems analysis and design method</a>
+## Structured systems analysis and design method
 
 * [SSADM: structured systems analysis and design method](https://wikipedia.org/wiki/Structured_systems_analysis_and_design_method)
 * [structured systems analysis and design method (SSADM)](https://wikipedia.org/wiki/Structured_systems_analysis_and_design_method)
@@ -312,7 +256,7 @@ Contents:
 * SSADM method stages: Feasibility study, Investigation of the current environment, Business system options, Requirements specification, Technical system options, Logical design, Physical design.
 
 
-<a name="todo">TODO</a>
+## TODO
 
 * [product lifecycle](https://wikipedia.org/wiki/Product_lifecycle)
 * [playbook](TODO): A document defining one or more business process workflows aimed at ensuring a consistent response to situations commonly encountered during the operation of the business.

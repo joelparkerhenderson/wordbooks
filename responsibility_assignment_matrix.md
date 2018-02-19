@@ -1,14 +1,14 @@
-# Responsibility Assignment Matrix
+# Responsibility Assignment Matrix (RAM) wordbook
 
-See https://en.wikipedia.org/wiki/Responsibility_assignment_matrix
+See [Wikipedia: Responsibility assignment Mmatrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 
-List all the people who are relevant to an initative, each person's roles in the organization and also in initiatives.
-
-A popular approach is a RACIO matrix:
-
-  * Responsible: people who do the work to achieve the task.
-  * Accountable: the one person ultimately answerable for the task.
-  * Consultable: people whose opinions are sought, such as subject matter experts.
-  * Informable: people who are kept up-to-date on progress.
-  * Omittable: people who are deliberately out of the loop, i.e. not involved.
-
+* [RACI: responsible, accountable, consulted, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [PACSI: perform, accountable, control, suggest, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [RASCI: responsible, accountable, support, control, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [RASI: responsible, accountable, support, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [RACIQ: responsible, accountable, consulted, informed, quality review](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [RACI-VS: responsible, accountable, consulted, informed, verifier, signatory](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [RACIO a.k.a. CAIRO: responsible, accountable, consulted, informed, omitted](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [DACI: driver, approver, contributors, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [RAPID: recommend, agree, perform, input, decide](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
+* [RATSI: responsibility, authority, task, support, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)

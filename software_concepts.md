@@ -15,19 +15,19 @@ Contents:
 * [Web frameworks](#web-frameworks)
 
 
-<a name="Overviews">Overviews</a>:
+## Overviews
 
 * [Outline of software development](https://en.wikipedia.org/wiki/Outline_of_software_development)
 
 * [Outline of software engineering](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
 
 
-<a name="challenges">Challenges</a>:
+## Challenges
 
 * [longest path problem](https://en.wikipedia.org/wiki/Longest_path_problem)
 
 
-<a name="formats">Formats</a>:
+## Formats
 
 * [CSV: comma separated values](https://wikipedia.org/wiki/Comma-separated_values) (cf. TDF, TSV)
 * [PDF: portable document format](TODO)
@@ -43,7 +43,7 @@ Contents:
 * [XML: extensible markup language](https://wikipedia.org/wiki/Xml) (cf. JSON: JavaScript Object Notation)
 
 
-<a name="programming-languages">Programming languages</a>:
+## Programming languages
 
 * [Bash](https://wikipedia.org/wiki/Bash_(Unix_shell))
 * [C](https://wikipedia.org/wiki/C_(programming_language)), [C++](https://wikipedia.org/wiki/C%252B%252B), [C#](https://wikipedia.org/wiki/C_Sharp_(programming_language)), [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
@@ -56,10 +56,10 @@ Contents:
 * [Python](https://wikipedia.org/wiki/Python_(programming_language))
 * [PHP](https://wikipedia.org/wiki/Php)
 * [Rust](https://wikipedia.org/wiki/Rust_(programming_language))
-* [Scala](https://wikipedia.org/wiki/Scala_(programming_language)): an object-functional programming language, concise and expressive, built atop the Java VM.
+* [Scala](https://wikipedia.org/wiki/Scala_(programming_language))
 
 
-<a name="protocols">Protocols</a>:
+## Protocols
 
 * [FTP: File Transfer Protocol](https://wikipedia.org/wiki/File_Transfer_Protocol)
 * [HTTP: Hyper-Text Tranfer Protocol](https://wikipedia.org/wiki/Hypertext_Transfer_Protocol)
@@ -69,7 +69,7 @@ Contents:
 * [STOMP: Streaming Text Oriented Messaging Protocol](https://wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol)
 
 
-<a name="standards">Standards</a>:
+## Standards
 
 * [ISAE 3402: Assurance Reports on Controls at a Service Organization](https://en.wikipedia.org/wiki/ISAE_3402)
 * [ISO/IEC_42010- Systems and software engineering — Architecture description](https://wikipedia.org/wiki/ISO/IEC_42010)
@@ -77,7 +77,7 @@ Contents:
 * [SSAE 16: Statement on Standards for Attestation Engagements 16](https://en.wikipedia.org/wiki/SSAE_16)
 
 
-<a name="software-development-philosophies">Software development philosophies</a>:
+## Software development philosophies
 
 * <i>[List of software development philosophies](https://wikipedia.org/wiki/List_of_software_development_philosophies)</i>
 * [agile modeling](https://wikipedia.org/wiki/List_of_software_development_philosophies)
@@ -123,7 +123,7 @@ Contents:
 * [velocity (software development)](https://wikipedia.org/wiki/Velocity_tracking)
 
 
-<a name="rfcs">RFCs</a>:
+## RFCs
 
 * <i>[List of RFCs](https://en.wikipedia.org/wiki/List_of_RFCs)</i>
 * [RFC 3696: Application Techniques for Checking and Transformation of Names](https://tools.ietf.org/html/rfc3696)
@@ -131,7 +131,7 @@ Contents:
 * [RFC 6749: The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
 
 
-<a name="technology-terminology">Terminology</a>:
+## Terminology
 
 * [ABAC: Attribute-Based Access Control](https://wikipedia.org/wiki/Abac)
 * [ADC: application delivery controller](https://en.wikipedia.org/wiki/Application_delivery_controller)
@@ -325,10 +325,9 @@ Contents:
 * [reflection](https://en.wikipedia.org/wiki/Reflection_(computer_programming)): the ability of a computer program to examine, introspect, and modify its own structure and behavior at runtime.
 * [REST: representational state transfer](https://wikipedia.org/wiki/Representational_state_transfer) (cf. SAP, ROA)
 * [ROA: resource oriented architecture](https://wikipedia.org/wiki/Resource-oriented_architecture) (cf. REST)* [scheduling](https://wikipedia.org/wiki/Scheduling_(computing))
-* [SAML: Security Assertion Markup Language](https://wikipedia.org/wiki/Security_Assertion_Markup_Language): a standard XML-based framework for the secure exchange of <a href="/wiki/Authentication" title="Authentication">authentication</a> and <a href="/wiki/Authorization" title="Authorization">authorization](https://wikipedia.org/wiki/Security_Assertion_Markup_Language) information.
+* [SAML: Security Assertion Markup Language](https://wikipedia.org/wiki/Security_Assertion_Markup_Language): a standard XML-based framework for the secure exchange of ## authentication
 * [SCM: source code management](https://wikipedia.org/wiki/Source_code_management)
 * [SDD: Solution Deployment Descriptor](https://wikipedia.org/wiki/Solution_Deployment_Descriptor)
-* [SDD: Solution Deployment Descriptor](TODO): a standard <a href="/wiki/XML" title="XML">XML](https://wikipedia.org/wiki/Solution_Deployment_Descriptor)-based schema defining a standardized way to express software installation characteristics required for lifecycle management in a multi-platform environment.
 * [SEO: search engine optimiation](https://en.wikipedia.org/wiki/Search_engine_optimization)
 * [Shibboleth single sign on system](https://wikipedia.org/wiki/Shibboleth_(Internet2))
 * [side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
@@ -339,7 +338,7 @@ Contents:
 * [software development process](https://wikipedia.org/wiki/Software_development_process)
 * [SPF: Sender Policy Framework](https://wikipedia.org/wiki/Sender_Policy_Framework) (cf. DKIM, DMARC)
 * [SPML: Service Provisioning Markup Language](https://wikipedia.org/wiki/Service_Provisioning_Markup_Language)
-* [SPML: Service Provisioning Markup Language](TODO): a standard <a href="/wiki/XML" title="XML">XML</a>-based protocol for the integration and interoperation of <a href="/wiki/Provisioning#Service_provisioning" title="Provisioning">service provisioning](https://wikipedia.org/wiki/SPML) requests.
+* [SPML: Service Provisioning Markup Language](TODO): a standard ## XML
 * [SSH: secure shell](https://wikipedia.org/wiki/Secure_Shell)
 * [SSL: secure sockets layer](https://wikipedia.org/wiki/Secure_Sockets_Layer)
 * [SSL acceleration](https://en.wikipedia.org/wiki/SSL_acceleration)
@@ -358,7 +357,7 @@ Contents:
 * [UBL: Universal Business Language](https://wikipedia.org/wiki/Universal_Business_Language)
 * [UBL](https://wikipedia.org/wiki/Universal_Business_Language) — <b>Universal Business Language</b>, National effort to define a royalty-free library of standard electronic XML business documents. All invoices to the Danish government have to be in UBL electronic format since February 2005.
 * [UDDI: Universal Description Discovery and Integration](https://wikipedia.org/wiki/Universal_Description_Discovery_and_Integration)
-* [UDDI: Universal Description Discovery and Integration](TODO): a <a href="/wiki/Platform-independent" class="mw-redirect" title="Platform-independent">platform-independent</a>, <a href="/wiki/Extensible_Markup_Language" class="mw-redirect" title="Extensible Markup Language">XML</a>-based registry for companies and individuals to list <a href="/wiki/Web_Services" class="mw-redirect" title="Web Services">Web Services](https://wikipedia.org/wiki/Universal_Description_Discovery_and_Integration).
+* [UDDI: Universal Description Discovery and Integration](TODO): a ## platform-independent
 * [UI: user interface](https://en.wikipedia.org/wiki/User_interface) (cf. user interaction, HCI)
 * [URI: uniform resource identifier](https://wikipedia.org/wiki/Uniform_resource_identifier) (cf. URL)
 * [URL: uniform resource locator](https://wikipedia.org/wiki/Url) (cf. URI)
@@ -370,7 +369,7 @@ Contents:
 * [virtual LAN (VLAN)](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
 * [VLAN: virtual LAN](https://en.wikipedia.org/wiki/Virtual_LAN): any broadcast domain that is partitioned and isolated in a computer network at the data link layer.
 * [web framework](https://wikipedia.org/wiki/Web_framework)
-* [WebCGM: Web Computer Graphics Metafile](TODO): a profile of <a href="/wiki/Computer_Graphics_Metafile" title="Computer Graphics Metafile">Computer Graphics Metafile](https://wikipedia.org/wiki/Computer_Graphics_Metafile) (CGM), which adds Web linking and is optimized for Web applications in technical illustration, electronic documentation, geophysical data visualization, and similar fields.
+* [WebCGM: Web Computer Graphics Metafile](https://wikipedia.org/wiki/Computer_Graphics_Metafile)
 * [WRR: weighted round robin](https://en.wikipedia.org/wiki/Weighted_round_robin)
 * [WS-BPEL](https://wikipedia.org/wiki/Business_Process_Execution_Language)
 * [WS-BPEL](https://wikipedia.org/wiki/WS-BPEL) — <b>Web Services Business Process Execution Language</b>
@@ -378,10 +377,10 @@ Contents:
 * [WSDM](https://wikipedia.org/wiki/Web_Services_Distributed_Management) — <b>Web Services Distributed Management</b>
 * [WSRF](https://wikipedia.org/wiki/Web_Services_Resource_Framework)
 * [WSS](https://wikipedia.org/wiki/WS-Security)
-* [XACML: eXtensible Access Control Markup Language](TODO): a standard <a href="/wiki/XML" title="XML">XML](https://wikipedia.org/wiki/XACML)-based protocol for access control policies.
+* [XACML: eXtensible Access Control Markup Language](https://wikipedia.org/wiki/XACML)
 * [XACML](https://wikipedia.org/wiki/XACML)
-* [XDI: XRI Data Interchange](TODO): a standard for sharing, linking, and synchronizing data ("<a href="/wiki/Data_Web" title="Data Web">dataweb</a>") across multiple domains and applications using <a href="/wiki/XML" title="XML">XML</a> documents, eXtensible Resource Identifiers (XRIs), and a new method of distributed data control called a <a href="/wiki/Link_contract" title="Link contract">link contract](https://wikipedia.org/wiki/XDI).
+* [XDI: XRI Data Interchange](TODO): a standard for sharing, linking, and synchronizing data ("## dataweb
 * [XDI](https://wikipedia.org/wiki/XDI)
-* [XLIFF: XML Localization Interchange File Format](TODO) a <a href="/wiki/XML" title="XML">XML</a>-based format created to standardize <a href="/wiki/Internationalization_and_localization" title="Internationalization and localization">localization](https://wikipedia.org/wiki/XLIFF).
+* [XLIFF: XML Localization Interchange File Format](TODO) a ## XML
 * [XRI: Extensible Resource Identifier](https://wikipedia.org/wiki/Extensible_Resource_Identifier)
-* [XRI: eXtensible Resource Identifier](TODO): a <a href="/wiki/Uniform_Resource_Identifier" title="Uniform Resource Identifier">URI](https://wikipedia.org/wiki/XRI)-compatible scheme and resolution protocol for abstract identifiers used to identify and share resources across domains and applications.
+* [XRI: eXtensible Resource Identifier](https://wikipedia.org/wiki/XRI)

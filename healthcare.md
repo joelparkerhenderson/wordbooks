@@ -2,8 +2,8 @@
 
 See:
 
-*  https://en.wikipedia.org/wiki/Health_care
-* https://en.wikipedia.org/wiki/List_of_medical_abbreviations
+* [Wikipedia: Health care](https://en.wikipedia.org/wiki/Health_care)
+* [Wikipedia: List of medical abbreviations](https://en.wikipedia.org/wiki/List_of_medical_abbreviations)
 
 Wordbook:
 

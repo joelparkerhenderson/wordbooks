@@ -39,6 +39,10 @@ Consulting:
   * [Strategic Business Scorecard](strategic_business_scorecard.md)
   * [Six Sigma](six_sigma.md)
   * [Lean Six Sigma](lean_six_sigma.md)
+  * [Capability maturity model integration (CMMI)](capability_maturity_model_integration.md)
+  * [Program evaluation and review technique (PERT) wordbook](program_evaluation_and_review_technique.md)
+  * [Responsibility assigment matrix (RAM)](responsibility_assigment_matrix.md)
+
 
 Software:
 

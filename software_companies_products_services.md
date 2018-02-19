@@ -169,7 +169,7 @@
 * [eBay](https://en.wikipedia.org/wiki/EBay)
 * [EC2: Amazon Elastic Compute Cloud](https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud)
 * [Eclipse](TODO): a large programming IDE built on Java. By IBM.
-* [ed](TODO): the basic editor utility on *nix systems.
+* [ed](TODO): the basic editor utility on unix systems.
 * [Elastic Beanstalk](https://en.wikipedia.org/wiki/AWS_Elastic_Beanstalk): AWS PaaS.
 * [Elasticsearch](https://en.wikipedia.org/wiki/Elasticsearch): the most popular enterprise search engine; based on Lucene. See ELK.
 * [Elixir](TODO): programming language built on top of the Erlang VM.

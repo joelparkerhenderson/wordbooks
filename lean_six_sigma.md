@@ -706,4 +706,4 @@ Credit: https://www.isixsigma.com/dictionary
 * [Z st](https://www.isixsigma.com/dictionary/z-st)
 * [Zadj](https://www.isixsigma.com/dictionary/zadj)
 * [Zero Defects](https://www.isixsigma.com/dictionary/zero-defects)
-</u
+

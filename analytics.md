@@ -1,11 +1,12 @@
 # Analytics wordbook
 
+Contents:
 * [General](#general)
 * [Quality Metrics](#quality)
 * [Credit](#credit)
 
 
-<h2><a name="general">General</h2>
+## General
 
 * [alert](?): a notification of a change in your data
 * [AMPU: average margin per user (or unit)](https://wikipedia.org/wiki/Average_revenue_per_user) (cf. ARPU, ARPPU)
@@ -100,7 +101,7 @@
 * [WAU: weekly active users](TODO) (cf. DAU, MAU)
 
 
-<h2><a name="credit">Quality Metrics</h2>
+## Quality Metrics
 
 * [mean time to repair (MTTR)](https://en.wikipedia.org/wiki/Mean_time_to_repair)
 * [mean time to recovery (MTTR)](https://en.wikipedia.org/wiki/Mean_time_to_recovery)
@@ -109,7 +110,7 @@
 * [jitter](https://en.wikipedia.org/wiki/Jitter): the deviation from true periodicity of a presumably periodic signal.
 
 
-<h2><a name="credit">Credit</h2>
+## Credit
 
 * [List of Google Analyatics terms](http://www.epower.com/google-analytics-glossary)
 * [Unbounce conversion glossary](http://unbounce.com/conversion-glossary/)

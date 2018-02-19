@@ -1,13 +1,19 @@
 # Access control wordbook
 
-General:
+Contents:
+* [](#)
+
+
+## General
+
 
 * [access control (AC)](https://en.wikipedia.org/wiki/Access_control)
 
 * [access control list (ACL)](https://en.wikipedia.org/wiki/Access_control_list)
 
 
-Access control methodologies:
+## Access control methodologies
+
 
 * [Attribute-Based Access Control (ABAC)](https://en.wikipedia.org/wiki/Attribute-Based_Access_Control)
 
@@ -36,15 +42,16 @@ Access control methodologies:
 * [Risk-based authentication](https://en.wikipedia.org/wiki/Risk-based_authentication)
 
 
-Miscellaneous:
+## Miscellaneous
+
 
 * [Bell–LaPadula model](https://en.wikipedia.org/wiki/Bell%E2%80%93LaPadula_model): a state machine model used for enforcing access control in government and military applications.
 
 * [Biba Model](https://en.wikipedia.org/wiki/Biba_Model): a formal state transition system of computer security policy that describes a set of access control rules designed to ensure data integrity. 
 
-* https://en.wikipedia.org/wiki/Computer_security_model
+* [Computer security model](https://en.wikipedia.org/wiki/Computer_security_model)
 
-* https://en.wikipedia.org/wiki/Role_hierarchy
+* [Role hierarchy](https://en.wikipedia.org/wiki/Role_hierarchy)
 
 * [XACML eXtensible Access Control Markup Language](https://en.wikipedia.org/wiki/XACML)
 

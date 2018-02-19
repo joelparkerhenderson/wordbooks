@@ -1,7 +1,6 @@
 # Measurment wordbook
 
-See [ISO 5725-1:1994(en)
-Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions](https://www.iso.org/obp/ui/#iso:std:iso:5725:-1:ed-1:v1:en)
+See [ISO 5725-1:1994(en) Accuracy (trueness and precision) of measurement methods and results — Part 1: General principles and definitions](https://www.iso.org/obp/ui/#iso:std:iso:5725:-1:ed-1:v1:en)
 
 * accuracy: a description of systematic errors, a measure of statistical bias, that includes both precision and trueness.
 
