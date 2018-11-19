@@ -1,6 +1,6 @@
 # Responsibility Assignment Matrix (RAM) wordbook
 
-See [Wikipedia: Responsibility assignment Mmatrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
+See [Wikipedia: Responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix)
 
 * [RACI: responsible, accountable, consulted, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
 * [PACSI: perform, accountable, control, suggest, informed](https://wikipedia.org/wiki/Responsibility_assignment_matrix)
