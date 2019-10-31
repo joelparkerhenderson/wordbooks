@@ -56,6 +56,7 @@ Software:
   * [Software design patterns](software_design_patterns.md)
   * [Software cloud hosting models](software_cloud_hosting_models.md)
   * [Software for Apple, macOS, iOS, watchOS](software_for_apple_macos_ios_watchos.md)
+  * [Software engineering by IQBBA](software_engineering_by_iqbba.md)
   * [Software testing](software_testing.md)
   * [Technical debt causes](software_technical_debt_causes.md)
   * [X as a Service](x_as_a_service.md)
