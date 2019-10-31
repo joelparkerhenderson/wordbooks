@@ -1,9 +1,6 @@
 # Standard glossary of terms used in Software Engineering by IQBBA
 
-Standard glossary of terms used in Software Engineering. By International Qualification Board for Business Analysis. Version 1.0.
-
-
-**Used with permission**: This document may be copied in its entirety, or extracts made, if the source is acknowledged.
+Standard glossary of terms used in Software Engineering. By International Qualification Board for Business Analysis. Version 1.0. Used with permission.
 
 **5 x Why**: see Five Why’s.
 
