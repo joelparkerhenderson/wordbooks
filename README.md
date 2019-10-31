@@ -14,68 +14,68 @@ Suggestions, comments, and pull requests are welcome.
 
 Industries:
 
-  * [Automotive](automotive.md)
-  * [Consumer](consumer.md)
-  * [Education](education.md)
-  * [Energy](energy.md)
-  * [Engineering](engineering.md)
-  * [Finance](finance.md)
-  * [Healthcare](healthcare.md)
-  * [Insurance](insurance.md)
-  * [Manufacturing](manufacturing.md)
-  * [Media](media.md)
-  * [Politics](politics.md)
-  * [Real estate](real_estate.md)
-  * [Retail](retail.md)
-  * [Telecommunication](telecommunication.md)
-  * [Travel](travel.md)
+  * [Automotive](doc/automotive.md)
+  * [Consumer](doc/consumer.md)
+  * [Education](doc/education.md)
+  * [Energy](doc/energy.md)
+  * [Engineering](doc/engineering.md)
+  * [Finance](doc/finance.md)
+  * [Healthcare](doc/healthcare.md)
+  * [Insurance](doc/insurance.md)
+  * [Manufacturing](doc/manufacturing.md)
+  * [Media](doc/media.md)
+  * [Politics](doc/politics.md)
+  * [Real estate](doc/real_estate.md)
+  * [Retail](doc/retail.md)
+  * [Telecommunication](doc/telecommunication.md)
+  * [Travel](doc/travel.md)
 
 Consulting:
 
-  * [Organizations](organizations.md)
-  * [Project management](project_management.md)
-  * [RAID log](raid_log.md)
-  * [Responsibility Assigment Matrix](responsibility_assignment_matrix.md)
-  * [Strategic Business Scorecard](strategic_business_scorecard.md)
-  * [Six Sigma](six_sigma.md)
-  * [Lean Six Sigma](lean_six_sigma.md)
-  * [Capability maturity model integration (CMMI)](capability_maturity_model_integration.md)
-  * [Program evaluation and review technique (PERT) wordbook](program_evaluation_and_review_technique.md)
-  * [Responsibility assigment matrix (RAM)](responsibility_assigment_matrix.md)
+  * [Organizations](doc/organizations.md)
+  * [Project management](doc/project_management.md)
+  * [RAID log](doc/raid_log.md)
+  * [Responsibility Assigment Matrix](doc/responsibility_assignment_matrix.md)
+  * [Strategic Business Scorecard](doc/strategic_business_scorecard.md)
+  * [Six Sigma](doc/six_sigma.md)
+  * [Lean Six Sigma](doc/lean_six_sigma.md)
+  * [Capability maturity model integration (CMMI)](doc/capability_maturity_model_integration.md)
+  * [Program evaluation and review technique (PERT) wordbook](doc/program_evaluation_and_review_technique.md)
+  * [Responsibility assigment matrix (RAM)](doc/responsibility_assigment_matrix.md)
 
 
 Software:
 
-  * [Access control](access_control.md)
-  * [Algorithms](algorithms.md)
-  * [Data structures](data_structures.md)
-  * [Quality attributes](quality_attributes.md)
-  * [Quality attributes examples](quality_attributes_examples.md)
-  * [Software companies, products, services](software_companies_products_services.md)
-  * [Software concepts](software.md)
-  * [Software design patterns](software_design_patterns.md)
-  * [Software cloud hosting models](software_cloud_hosting_models.md)
-  * [Software for Apple, macOS, iOS, watchOS](software_for_apple_macos_ios_watchos.md)
-  * [Software engineering by IQBBA](software_engineering_by_iqbba.md)
-  * [Software testing](software_testing.md)
-  * [Technical debt causes](software_technical_debt_causes.md)
-  * [X as a Service](x_as_a_service.md)
+  * [Access control](doc/access_control.md)
+  * [Algorithms](doc/algorithms.md)
+  * [Data structures](doc/data_structures.md)
+  * [Quality attributes](doc/quality_attributes.md)
+  * [Quality attributes examples](doc/quality_attributes_examples.md)
+  * [Software companies, products, services](doc/software_companies_products_services.md)
+  * [Software concepts](doc/software.md)
+  * [Software design patterns](doc/software_design_patterns.md)
+  * [Software cloud hosting models](doc/software_cloud_hosting_models.md)
+  * [Software for Apple, macOS, iOS, watchOS](doc/software_for_apple_macos_ios_watchos.md)
+  * [Software engineering by IQBBA](doc/software_engineering_by_iqbba.md)
+  * [Software testing](doc/software_testing.md)
+  * [Technical debt causes](doc/software_technical_debt_causes.md)
+  * [X as a Service](doc/x_as_a_service.md)
 
 Data:
 
-  * [Analytics](analytics.md)
-  * [Measurement](measurement.md)
-  * [Statistics](statistics.md)
+  * [Analytics](doc/analytics.md)
+  * [Measurement](doc/measurement.md)
+  * [Statistics](doc/statistics.md)
 
 To Do:
 
-  * [TODO](todo.md)
+  * [TODO](doc/todo.md)
 
 ## Tracking
 
 * Package: demo_wordbooks
-* Version: 3.3.0
+* Version: 3.4.0
 * Created: 2014-01-01
-* Updated: 2016-09-23
+* Updated: 2019-10-31
 * License: BSD, MIT, GPL
 * Contact: Joel Parker Henderson (joel@joelparkerhenderson.com)
