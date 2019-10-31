@@ -67,6 +67,10 @@ Data:
   * [Measurement](doc/measurement.md)
   * [Statistics](doc/statistics.md)
 
+Areas of interest:
+
+  * [Homeless services delivery system by LAHSA](doc/homeless_services_delivery_system_by_lahsa.md)
+
 To Do:
 
   * [TODO](doc/todo.md)
