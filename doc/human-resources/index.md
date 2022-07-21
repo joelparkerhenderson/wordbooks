@@ -14,7 +14,7 @@ Thanks to https://www.zenefits.com/workest/hr-glossary-of-terms/
 
 * [Americans With Disabilities Act (ADA)](https://wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990): A United States Federal law that forbids discrimination, including in employment, on the basis of disability.
 
-* [Applicant Tracking System (ATS)](https://wikipedia.org/wiki/Applicant_Tracking System): A software application that lets recruiters and employers track candidates during the recruitment and hiring stages. Streamlines the recruitment and hiring processes, from start to end.
+* [Applicant Tracking System (ATS)](https://wikipedia.org/wiki/Applicant_Tracking_System): A software application that lets recruiters and employers track candidates during the recruitment and hiring stages. Streamlines the recruitment and hiring processes, from start to end.
 
 * [Attrition](https://wikipedia.org/wiki/Attrition): When an employee leaves the organization — whether voluntarily or involuntarily — and is not replaced.
 
