@@ -21,6 +21,7 @@ Industries:
   * [Engineering](doc/engineering/index.md)
   * [Finance](doc/finance/index.md)
   * [Healthcare](doc/healthcare/index.md)
+  * [Human Resources](doc/human-resources/index.md)
   * [Insurance](doc/insurance/index.md)
   * [Manufacturing](doc/manufacturing/index.md)
   * [Media](doc/media/index.md)
