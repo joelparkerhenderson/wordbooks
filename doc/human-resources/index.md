@@ -1,4 +1,6 @@
-https://www.zenefits.com/workest/hr-glossary-of-terms/
+# Human resources
+
+Thanks to https://www.zenefits.com/workest/hr-glossary-of-terms/
 
 * [Absenteeism](https://wikipedia.org/wiki/Absenteeism): When an employee habitually fails to show up for work as scheduled without good reason.
 
@@ -6,7 +8,7 @@ https://www.zenefits.com/workest/hr-glossary-of-terms/
 
 * [Adverse Impact](https://wikipedia.org/wiki/Adverse_Impact): Employment actions that seem neutral but are discriminatory toward a legally-protected group. Adverse impact can happen in many aspects of employment, including hiring, training and development, promotion, performance evaluation, transfer, and termination. 
 
-* [Affirmative Action (AA)](https://wikipedia.org/wiki/Affirmative Action (AA)): A set of policies that aim to promote equal employment opportunities for individuals of an underrepresented group, such as women and minorities.
+* [Affirmative Action (AA)](https://wikipedia.org/wiki/Affirmative_Action): A set of policies that aim to promote equal employment opportunities for individuals of an underrepresented group, such as women and minorities.
 
 * [Ageism](https://wikipedia.org/wiki/Ageism): The practice of treating someone unfairly based on their age — also called “age discrimination.” Examples include refusing to promote someone or denying benefits to older employees solely because of their age.
 
@@ -198,7 +200,7 @@ https://www.zenefits.com/workest/hr-glossary-of-terms/
 
 * [People Operations](https://wikipedia.org/wiki/People_Operations): An organizational function that puts people first. The focus is on employee development, engagement, and retention.
 
-* [Performance Appraisal](https://wikipedia.org/wiki/Performance Appraisal): A periodic evaluation of an employee’s job performance, which is measured against a predefined set of goals and expectations.
+* [Performance Appraisal](https://wikipedia.org/wiki/Performance_Appraisal): A periodic evaluation of an employee’s job performance, which is measured against a predefined set of goals and expectations.
 
 * [Performance Improvement Plan (PIP)](https://wikipedia.org/wiki/Performance_Improvement_Plan): A document designed to help employees improve their job performance. It includes areas of performance deficiencies. expectations for improvement, and a timeline for meeting objectives.
 
