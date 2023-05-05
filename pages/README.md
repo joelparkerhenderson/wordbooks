@@ -279,7 +279,7 @@
 * [The Law of Demos (Kapor's Law)](the-law-of-demos)
 * [The Law of Supply and Demand](the-law-of-supply-and-demand)
 * [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
-* [The Pareto Principal (The 80/20 Rule)](the-principle-of-least-knowledge)
+* [The Pareto Principle (The 80/20 Rule)](the-principle-of-least-knowledge)
 * [The Principal of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
 
 
@@ -290,11 +290,11 @@
 * [Graph Query Language (GraphQL)](graph-query-language)
 * [Hypertext Markup Language (HTML)](hypertext-markup-language)
 * [SPARQL Protocol and RDF Query Language (SPARQL)](sparql-protocol-and-rdf-query-language)
+* [Strategy Markup Language (StratML)](strategy-markup-language)
 * [Structured Query Language (SQL)](structured-query-language)
 * [Tom's Opinionated Markup Language (TOML)](toms-opinionated-markup-language)
 * [Unified Modeling Language (UML)](unified-modeling-language
 * [YAML Ain't Markup Language (YAML)](yaml-aint-markup-language)
-
 
 ## Quality analysis
 
