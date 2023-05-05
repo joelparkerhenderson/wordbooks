@@ -1,0 +1,9 @@
+# Values statement
+
+A values statement is a concise, written declaration that communicates the core principles and beliefs that guide the behavior and decisions of a business. It is typically expressed in terms of the company's values and ideals, and provides a framework for how the organization conducts its affairs, interacts with stakeholders, and achieves its goals.
+
+A values statement is different from a mission statement or a vision statement, which focus on the organization's purpose and aspirations, respectively. While a mission statement outlines what the business does and a vision statement describes where it wants to go, a values statement articulates the fundamental principles that drive how the business operates.
+
+A well-crafted values statement typically includes a set of core values that reflect the company's culture and beliefs, and which serve as a guide for employees and other stakeholders. These values might include things like honesty, integrity, respect, teamwork, and customer focus. The statement should be specific and meaningful, and should reflect the unique identity and personality of the organization.
+
+The values statement is an important tool for a business because it helps to define and communicate the organization's identity and purpose, and helps to align the behavior and decisions of employees with the company's goals and values. By establishing a clear set of values, businesses can create a shared sense of purpose and direction among employees, which can lead to increased motivation, engagement, and productivity. It can also help to build trust and credibility with customers, suppliers, and other stakeholders by demonstrating a commitment to ethical and responsible business practices.
