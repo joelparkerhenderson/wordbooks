@@ -248,6 +248,8 @@
 
 ## Financing
 
+* [Capitalization table](capitalization-table)
+* [Term sheet](term-sheet)
 * [Small business loan](small-business-loan)
 * [Equity financing](equity-financing)
 * [Private equity](private-equity)
@@ -256,7 +258,6 @@
 
 ## Equity
 
-* [Capitalization table](capitalization-table)
 * [Startup equity division](startup-equity-division)
 * [Stock options](stock-options)
 * [Vesting schedule](vesting-schedule)
@@ -266,7 +267,6 @@
 * [Restricted stock units (RSUs)](restricted-stock-units)
 * [Sweat equity](sweat-equity)
 * [Profit sharing](profit-sharing)
-
 
 
 ## So-called laws & principles
@@ -317,6 +317,7 @@
 
 * [Relational database](relational-database)
 * [Document database](document-database)
+* [Object database](object-database)
 * [Graph database](graph-database)
 * [Vector database](vector-database)
 * [Ledger database](ledger-database)
@@ -364,6 +365,8 @@ inclusive language
 version control
 message-passing programming
 API, REST, GraphQL, SQL, etc.
+
+EBITA
 
 Ready:
 
@@ -442,16 +445,18 @@ Bare:
 * [stealth-mode](stealth-mode)
 * [success-factors](success-factors)
 * [system-quality-attributes](system-quality-attributes)
-* [term-sheet](term-sheet)
 * [the-engineering-executives-primer](the-engineering-executives-primer)
 * [the-phoenix-project](the-phoenix-project)
 * [value-proposition](value-proposition)
 * [Vendor lock-in](vendor-lock-in)
 * [venture-capital](venture-capital)
-* [venture-capital](venture-capital)
 * [virtuous-cycle](virtuous-cycle)
 * [winner-take-all](winner-take-all)
 
+
+ODMG Query Language (OQL), Object Query Language (OQL), and Java Persistence Query Language (JPQL).
+
+data mesh
 
 11-fundamental-laws-of-software-development.md
 16-non-obvious-fundraising-lessons-on-pitching.md
