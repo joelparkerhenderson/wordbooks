@@ -1,0 +1,23 @@
+# Performance testing
+
+Performance testing is a type of software testing that measures the performance and responsiveness of a software application or system under specific workloads and scenarios. The goal of performance testing is to identify bottlenecks, determine system limitations, and ensure that the application meets the required performance standards.
+
+There are several types of performance testing:
+
+* Load testing: This type of testing is used to measure how well the application performs under normal and peak loads. It involves simulating a high volume of user traffic and monitoring the system's response time, throughput, and resource utilization.
+
+* Stress testing: This type of testing is used to measure the application's behavior under extreme loads or beyond its capacity. It involves pushing the system to its limits to identify any performance degradation or failures.
+
+* Endurance testing: This type of testing is used to measure the application's performance over an extended period. It involves running the application continuously for a long time to identify any performance issues that may arise over time, such as memory leaks or performance degradation.
+
+* Spike testing: This type of testing is used to measure the application's performance during sudden and significant spikes in user traffic. It involves simulating a sudden increase in user traffic to identify any performance degradation or system failures.
+
+The performance testing process involves the following steps:
+
+* Test planning: This step involves defining the test objectives, identifying the testing scenarios and workloads, and selecting the appropriate performance testing tools and techniques.
+
+* Test design: This step involves creating test scripts, test data, and performance scenarios based on the identified test objectives and workloads.
+
+* Test execution: This step involves running the tests and collecting performance metrics such as response time, throughput, and resource utilization.
+
+* Analysis and reporting: This step involves analyzing the test results and generating a performance report that highlights any performance issues, bottlenecks, or limitations. It includes recommendations for improving the system's performance and scalability.

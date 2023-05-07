@@ -1,7 +1,7 @@
 # Startup Starters
 
 
-## Vision, Mission, Values
+## [Vision, Mission, Values](vision-mission-values)
 
 * [Vision statement](vision-statement) + [examples](vision-statement-examples)
 * [Mission statement](mission-statement) + [examples](mission-statement-examples)
@@ -17,8 +17,17 @@
 
 ## Top goals
 
-* [traction](traction)
-* [valuation](valuation)
+* [Traction](traction)
+* [Valuation](valuation)
+
+
+## [Business models](business-models)
+
+* [Direct sales busiess model](direct-sales-business-model)
+* [Subscription busiess model](subscription-business-model)
+* [Advertising busiess model](advertising-business-model)
+* [Marketplace business model](marketplace-business-model)
+* [Franchise business model](franchise-business-model)
 
 
 ## Tactical tools
@@ -29,29 +38,34 @@
 * [Pitch deck](pitch-deck)
 * [Go-to-market strategy](go-to-market-strategy)
 * [Elevator pitch](elevator-pitch)
+* [Investment Readiness Level (IRL)](investment-readiness-level)
+* [OODAloop](ooda-loop)
 
 
-## How to find...
+## [How to find startup help](how-to-find-startup-help)
 
-* [How to find startup investors](how-to-find-startup-investors)
+* [How to find startup ideas](how-to-find-startup-ideas)
 * [How to find startup mentors](how-to-find-startup-mentors)
+* [How to find startup investors](how-to-find-startup-investors)
 * [How to find startup employees](how-to-find-startup-employees)
-* [How to find startup recruiters](how-to-find-startup-employees)
 * [How to find startup consultants](how-to-find-startup-consultants)
+* [How to find startup recruiters](how-to-find-startup-employees)
+* [How to find startup loans](how-to-find-startup-loans)
 
 
-## Roles
+## [Company leadership roles](company-leadership-roles)
 
 * [Chief Executive Officer (CEO)](chief-executive-officer)
 * [Chief Technology Officer (CTO)](chief-technology-officer)
-* [Chief Product Officer (CPO)](chief-product-officer)
-* [Chief Marketing Officer (CMO)](chief-marketing-officer)
 * [Chief Financial Officer (CFO)](chief-financial-officer)
+* [Chief Operating Officer (COO)](chief-operating-officer)
+* [Chief Human Resources Officer (CHRO)](chief-human-resources-officer)
 * [Chief Information Officer (CIO)](chief-information-officer)
 * [Chief Legal Officer (CLO)](chief-legal-officer)
+* [Chief Product Officer (CPO)](chief-product-officer)
+* [Chief Marketing Officer (CMO)](chief-marketing-officer)
 * [Chief Security Officer (CSO)](chief-security-officer)
 * [Chief Risk Officer (CSO)](chief-risk-officer)
-* [Chief Human Resources Officer (CHRO)](chief-human-resources-officer)
 * [Executive Director (ED)](executive-director)
 * [Board of Directors (BOD)](board-of-directors)
 * [Chairperson of the Board (COB)](chairperson-of-the-board)
@@ -74,23 +88,51 @@
 * [Service Obtainable Market (SOM)](service-obtainable-market)
 
 
+## Marketing
+
+* [Marketing channels](marketing-channels)
+* [Affiliate marketing](affiliate-marketing)
+* [Attribute-based marketing](attribute-based-marketing)
+* [Content marketing](content-marketing)
+* [Guerilla marketing](guerilla-marketing)
+* [Word-of-mouth marketing (WOMM)](word-of-mouth-marketing)
+
+
+## Growth options
+
+* [Product-led growth (PLG)](product-led-growth)
+* [Sales-led growth (SLG)](sales-led-growth)
+
+
 ## Planning
 
 * [North Star](north-star)
-* [Objectives and key results (OKRs)](objectives-and-key-results)
+* [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
+* [Objectives and Key Results (OKRs)](objectives-and-key-results)
 * [Key Performance Indicators (KPIs)](key-performance-indicators)
+* [Key Risk Indicators (KRIs)](key-risk-indicators)
+* [Critical Success Factors (CSF)](critical-success-factors)
+* [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
 
 
-## Project Management
+## Project liftoff
 
-* [Project management](project-management)
+* [Statement Of Work (SOW)](statement-of-work)
+* [Functional specifications](functional-specifications)
+
+
+## [Project management](project-management)
+
 * [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
+* [Gantt chart](gantt-chart)
+* [Resource leveling](resource-leveling)
 * [Critical chain project management](critical-chain-project-management)
 * [Critical path project management](critical-path-project-management)
-* [Gantt chart](gantt-chart)
+* [Kanban](kanban)
+* [Swimlanes](swimlanes)
 
 
-## Startup venture capital companies
+## [Startup venture capital companies](startup-venture-capital-companies)
 
 * [500 Startups](500-startups)
 * [Accel](accel)
@@ -103,23 +145,37 @@
 * [Y Combinator (YC)](y-combinator)
 
 
-## Books
+## Book lists
+
+* [Executive management books](executive-management-books)
+* [Military strategy books](military-strategy-books)
+* [Negotiation books](negotiation-books)
+* [Venture capital books](venture-capital-books)
+  
+
+## [Leadership books](leadership-books)
+
+* [“Founders at Work” by Jessica Livingston](founders-at-work-by-jessica-livingston)
+* [“How to Win Friends and Influence People” by Dale Carnegie](how-to-win-friends-and-influence-people-by-dale-carnegie)
+* [“Leading at the Speed of Growth” by Katherine Catlin and Jana Matthews](leading-at-the-speed-of-growth-by-katherine-catlin-and-jana-matthews)
+* [“Superbosses” by Sydney Finkelstein](superbosses-by-sydney-finkelstein)
+
+
+## [Startup books](startup-books)
 
 * [“Creativity, Inc.” by Ed Catmull and Amy Wallace](creativity-inc-by-ed-catmull-and-amy-wallace)
-* [“Crossing The Chasm” by Geoffrey Moore](crossing-the-chasm-by-geoffrey-moore)
 * [“Crucial Conversations” by Kerry Patterson et al.](crucial-conversations-by-kerry-patterson-et-al)
-* [“Founders at Work” by Jessica Livingston](founders-at-work-by-jessica-livingston)
+* [“Crossing The Chasm” by Geoffrey Moore](crossing-the-chasm-by-geoffrey-moore)
 * [“Grit” by Angela Duckworth](grit-by-angela-duckworth)
-* [“Leading at the Speed of Growth” by Katherine Catlin and Jana Matthews]
 * [“Mastering the VC Game” by Jeffrey Bussgang](mastering-the-vc-game-by-jeffrey-bussgang)
 * [“Never Too Late to Startup” by Rob Kornblum](never-too-late-to-startup-by-rob-kornblum)
 * [“Outliers” by Malcom Gladwell](outliers-by-malcom-gladwell)
 * [“Radical Candor” by Kim Scott](radical-candor-by-kim-scott)
 * [“Start Something That Matters” by Blake Mycoskie](start-something-that-matters-by-blake-mycoskie)
-* [“Superbosses” by Sydney Finkelstein](superbosses-by-sydney-finkelstein)
 * [“The Four Steps To The Epiphany” by Steve Blank](the-four-steps-to-the-epiphany-by-steve-blank)
 * [“The Hard Thing About Hard Things” by Ben Horowitz](the-hard-thing-about-hard-things-by-ben-horowitz)
 * [“The Lean Startup” by Eric Ries](the-lean-startup-by-eric-ries)
+* ["The Mom Test" by Rob Fitzpatrick](the-mom-test-by-rob-fitzpatrick)
 * [“The Startup Owners Manual” by Steve Blank](the-startup-owners-manual-by-steve-blank)
 * [“Thrive” by Arianna Huffington](thrive-by-arianna-huffington)
 * [“Zero To One” by Peter Thiel](zero-to-one-by-peter-thiel)
@@ -135,16 +191,25 @@
 * [Test-Driven Development (TDD)](test-driven-development)
 
 
+## Teaming
+
+* [Organizational chart](organizational-chart)
+* [Stakeholders](stakeholders)
+* [Roles and responsibilities](roles-and-responsibilities)
+* [RACI matrix](raci-matrix)
+
+
 ## Teamwork
 
 * [Blameless retrospective](blameless-retrospective)
 * [Futurespective](futurespective)
+* [TEAM FOCUS](team-focus)
 * [Ways Of Working (WOW)](ways-of-working)
 
 
-## Company structures
+## [Company legal entities](company-legal-entities)
 
-* [Sole proprietorship](sole-proprietorship]
+* [Sole proprietorship](sole-proprietorship)
 * [Partnership company](partnership-company)
 * [Limited Liability Company (LLC)](limited-liability-company)
 * [C Corporation](c-corporation)
@@ -179,10 +244,18 @@
 * [Crowdfunding](crowdfunding)
 
 
+## Startup ramp
+
+* [Product-market fit (PMF)](product-market-fit)
+* [Validated learning](validated-learning)
+* [Early evangelists](early-evangelists)
+
+
 ## Strategic insights
 
 * [Aggregation theory](aggregation-theory)
 * [Commoditization of trust](commoditization-of-trust)
+* [Move fast and break things](move-fast-and-break-things)
 
 
 ## Business metholodies
@@ -201,9 +274,8 @@
 * [Economies of scale](economies-of-scale)
 
 
-## Intellectual Property
+## [Intellectual Property (IP)](intellectual-property)
 
-* [Intellectual Property (IP)](intellectual-property)
 * [Patents](patents)
 * [Copyrights](copyrights)
 * [Trademarks](trademarks)
@@ -211,7 +283,7 @@
 * [Industrial design rights](industrial-design-rights)
 
 
-## Legal agreements
+## [Legal agreements](legal-agreements)
 
 * [Employee agreement](employee-agreement)
 * [Service agreement](service-agreement)
@@ -230,6 +302,7 @@
 * [Burn rate](burn-rate)
 * [Churn rate](churn-rate)
 * [Customer Acquisition Cost (CAC)](customer-acquisition-cost)
+* [Discounted Cash Flow (DCF)](discounted-cash-flow)
 * [Net Present Value (NPV)](net-present-value)
 * [Net Promoter Score (NPS)](net-promoter-score)
 * [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
@@ -281,6 +354,7 @@
 * [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
 * [The Pareto Principle (The 80/20 Rule)](the-principle-of-least-knowledge)
 * [The Principal of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
+* [Chesterton's fence](chestertons-fence)
 
 
 ## Markup/Modeling languages
@@ -288,32 +362,55 @@
 * [Extensible Markup Language (XML)](extensible-markup-language)
 * [Financial Products Markup Language (FPML)](financial-products-markup-language)
 * [Graph Query Language (GraphQL)](graph-query-language)
+* [Geography Markup Language (GML)](geography-query-language)
 * [Hypertext Markup Language (HTML)](hypertext-markup-language)
 * [SPARQL Protocol and RDF Query Language (SPARQL)](sparql-protocol-and-rdf-query-language)
 * [Strategy Markup Language (StratML)](strategy-markup-language)
 * [Structured Query Language (SQL)](structured-query-language)
 * [Tom's Opinionated Markup Language (TOML)](toms-opinionated-markup-language)
-* [Unified Modeling Language (UML)](unified-modeling-language
+* [Unified Modeling Language (UML)](unified-modeling-language)
 * [YAML Ain't Markup Language (YAML)](yaml-aint-markup-language)
+* [Schema.org](schema-org)
+* [Resource Description Framework (RDF)](resource-description-framework)
+* [Web Ontology Language (OWL)](web-ontology-language)
+* [The Semantic Web](the-semantic-web)
+
 
 ## Quality analysis
 
+* [After-Action Report (AAR)](after-action-report)
+* [Cause-and-effect diagram](Cause-and-effect-diagram)
+* Fishbone diagram: see cause-and-effect diagram
 * [Five Whys analysis](five-whys-analysis)
+* Ishikawa diagram: see cause-and-effect diagram
+* Non-functional requirements: see system quality attributes
 * [Root cause analysis (RCA)](root-cause-analysis)
+* [System Quality Attributes (SQAs)](system-quality-attributes)
 
 
-## Programming paradigms
+## [Software design approaches](software-design-approaches)
 
+* [Level-Oriented Design (LOD)](level-oriented-design)
+* [Data Flow-Oriented Design (DFD)](data-flow-oriented-design)
+* [Data Structure-Oriented Design (DSD)](data-structure-oriented-design)
+* [Object-Oriented Design (OOD)](object-oriented-design)
+
+
+## [Programming paradigms](programming-paradigms)
+
+* [Imperative Programming](imperative-programming)
+* [Declarative Programming](declarative-programming)
 * [Object-Oriented Programming (OOP)](object-oriented-programming)
 * [Aspect-Oriented Programming (AOP)](aspect-oriented-programming)
 * [Message-Oriented Programming (MOP)](message-oriented-programming)
+* [Event-Driven Programming (EDP)](event-drivent-programming)
 * [Functional Programming](functional-programming)
 * [Procedural Programming](procedural-programming)
 * [Logic Programming](logic-programming)
 * [Actor Programming](actor-programming)
 
 
-## Database paradigms
+## [Database paradigms](database-paradigms)
 
 * [Relational database](relational-database)
 * [Document database](document-database)
@@ -322,9 +419,19 @@
 * [Vector database](vector-database)
 * [Ledger database](ledger-database)
 * [Time-series database](time-series-database)
+
+
+## Database availability concepts
+
+* [Database sharding](database-sharding)
+* [Database replication](database-replication)
 * [Replica database](replica-database)
 * [Distributed database](distributed-database)
 * [Eventually-consistent database](eventually-consistent-database)
+* [CAP theorem](cap-theorem)
+* [PACELC theorem](cap-theorem)
+* [Lamport timestamp](lamport-timestamp)
+* [Vector clock](vector-clock)
 
 
 ## Technology tactics
@@ -337,264 +444,33 @@
 * [Extract, Transform, Load (ETL)](extract-transform-load)
 * [Batch processing](batch-processing)
 * [MapReduce](map-reduce)
+* [Scrum](scrum)
 
 
-## Testing tactics
+## [Modeling diagrams](modeling-diagrams)
+
+* [Sequence diagram](sequence-diagram)
+* [Use case diagram](use-case-diagram)
+* [Object diagram](object-diagram)
+* [Class diagram](class-diagram)
+* [Package diagram](package-diagram)
+* [Component diagram](component-diagram)
+* [Deployment diagram](deployment-diagram)
+* [State diagram](state-diagram)
+* [Timing diagram](timing-diagram)
+* [Entity-relationship diagram (ERD)](entity-relationship-diagram)
+
+
+## [Software testing](software-testing)
 
 * [Unit testing](unit-testing)
 * [Integration testing](integration-testing)
 * [End-to-end testing](end-to-end-testing)
+* [System testing](system-testing)
+* [Regression testing](regression-testing)
 * [Acceptance testing](acceptance-testing)
 * [Accessibility testing](accessibility-testing)
+* [Performance testing](performance-testing)
 * [Benchmark testing](benchmark-testing)
-* [Regression testing](regression-testing)
+* [Security testing](security-testing)
 * [Shift-left testing](shift-left-testing)
-
-
-<!--
-
-TODO
-
-stakeholders
-subcontracting
-freelancing
-constraint satistfaction
-simulated annealing
-neural networks
-inclusive language
-version control
-message-passing programming
-API, REST, GraphQL, SQL, etc.
-
-EBITA
-
-Ready:
-
-* [Acquihire](acquihire)
-* [ADKAR change management model](adkar-change-management-model)
-
-
-Bare:
-
-* [anti-patterns](anti-patterns)
-* [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
-* [bootstrapping](bootstrapping)
-* [brand-recognition](brand-recognition)
-* [carried-interest](carried-interest)
-* [change-management](change-management)
-* [chestertons-fence](chestertons-fence)
-* [compliance](compliance)
-* [content-marketing](content-marketing)
-* [contingengy-recruiter](contingengy-recruiter)
-* [conversion-rate-optimization](conversion-rate-optimization)
-* [crowdsourcing](crowdsourcing)
-* [customer-relationship-management](customer-relationship-management)
-* [decision-record](decision-record)
-* [dilution](dilution)
-* [discounted-cash-flow](discounted-cash-flow)
-* [domain-specific-langauge](domain-specific-langauge)
-* [down-round](down-round)
-* [drag-along-rights](drag-along-rights)
-* [due-dilligence](due-dilligence)
-* [elevator-pitch](elevator-pitch)
-* [equity](equity)
-* [exit-strategy](exit-strategy)
-* [functional-specifications](functional-specifications)
-* [gamification](gamification)
-* [go-to-market-strategy](go-to-market-strategy)
-* [growth-hacking](growth-hacking)
-* [hockey-stick-growth](hockey-stick-growth)
-* [investment-readiness-level](investment-readiness-level)
-* [ishikawa-diagram](ishikawa-diagram)
-* [kanban](kanban)
-* [landing-page](landing-page)
-* [lean-software-development](lean-software-development)
-* [lifestyle-business](lifestyle-business)
-* [lifetime-value](lifetime-value)
-* [maturity-models](maturity-models)
-* [minimum-viable-product](minimum-viable-product)
-* [one-on-one-meeting](one-on-one-meeting)
-* [ooda-loop](ooda-loop)
-* [pay-per-click](pay-per-click)
-* [pivot](pivot)
-* [planning-poker-estimation](planning-poker-estimation)
-* [portfolio-company](portfolio-company)
-* [post-money-valuation](post-money-valuation)
-* [pre-money-valuation](pre-money-valuation)
-* [product-led-growth](product-led-growth)
-* [product-market-fit](product-market-fit)
-* [product-roadmap](product-roadmap)
-* [proof-of-capability](proof-of-capability)
-* [proof-of-concept](proof-of-concept)
-* [quality-of-service](quality-of-service)
-* [quantitative-fallacy](quantitative-fallacy)
-* [queueing-theory](queueing-theory)
-* [referral-marketing](referral-marketing)
-* [return-on-investment](return-on-investment)
-* [risk-management](risk-management)
-* [runway](runway)
-* [sales-led-growth](sales-led-growth)
-* [scrum](scrum)
-* [search-engine-optimization](search-engine-optimization)
-* [seed-round](seed-round)
-* [smart-criteria](smart-criteria)
-* [software-as-a-service](software-as-a-service)
-* [startup-accelerator](startup-accelerator)
-* [startup-incubator](startup-incubator)
-* [statement-of-work](statement-of-work)
-* [stealth-mode](stealth-mode)
-* [success-factors](success-factors)
-* [system-quality-attributes](system-quality-attributes)
-* [the-engineering-executives-primer](the-engineering-executives-primer)
-* [the-phoenix-project](the-phoenix-project)
-* [value-proposition](value-proposition)
-* [Vendor lock-in](vendor-lock-in)
-* [venture-capital](venture-capital)
-* [virtuous-cycle](virtuous-cycle)
-* [winner-take-all](winner-take-all)
-
-
-ODMG Query Language (OQL), Object Query Language (OQL), and Java Persistence Query Language (JPQL).
-
-data mesh
-
-11-fundamental-laws-of-software-development.md
-16-non-obvious-fundraising-lessons-on-pitching.md
-6-guidelines-for-getting-to-yes.md
-7-brutal-truths-about-leadership.md
-7-secrets-to-effective-teamwork.md
-7-startup-questions-by-peter-thiel.md
-agile-chartering.md
-agoge-and-the-gates-of-fire.md
-amazon-meeting-memo.md
-bold-vision.md
-books.md
-building-a-winning-team-by-steve-kerr.md
-business-intelligence.md
-business-model-examples.md
-customer-development-manifesto.md
-disruptive-technology-shift.md
-do-things-that-dont-scale-by-paul-graham.md
-domain-driven-design-relationships.md
-drucker-teamwork-exercise.md
-effectuation.md
-eight-disciplines-problem-solving.md
-failure-mode-and-effects-analysis.md
-goal-directed-practice-and-feedback-items.md
-goal-directed-practice-and-goal-items.md
-how-to-succeed-with-a-startup-by-sam-altman.md
-hunt-for-signals-of-open-space.md
-intent-plan.md
-key-risk-indicator-examples-by-deloitte.md
-key-risk-indicator.md
-lean-coffee.md
-liftoff-commitment-to-success.md
-liftoff-origins-outcomes-outputs.md
-liftoff-schedule-and-agenda.md
-market-first-team-second.md
-on-site-arrangements.md
-powerful-questions-how-to-generate-questions.md
-powerful-questions-the-game-plan.md
-practice-and-feedback.md
-showcase-of-work-in-progress.md
-software-engineering-method-and-theory.md
-start-with-a-compelling-narrative.md
-startup-analytics-best-practices.md
-steve-blank-startup-advice.md
-strategic-control.md
-strategic-management.md
-strategy-map.md
-strategy-markup-language.md
-systems-modeling-language.md
-team-focus-focus-is-analytical.md
-team-focus-team-is-interpersonal.md
-technology-adoption-life-cycle.md
-the-beginners-guide-to-startup-analytics.md
-the-greatest-sales-deck-ive-ever-seen.md
-the-pocket-guide-of-essential-yc-advice.md
-the-primes.md
-the-top-20-reasons-startups-fail.md
-understand-the-small-idea-and-the-big-idea.md
-what-is-required-for-a-product-to-succeed.md
-writing-docs-at-amazon.md
-
-10-best-practices-for-remote-software-engineering.md
-10-lessons-learned-after-5b-of-m-a.md
-7-powers-framework.md
-9-m-s-resource-audit-checklist.md
-advice-you-wont-take.md
-allen-curve.md
-amazon-principal-engineering-tenets.md
-asabiyyah.md
-asymmetric-laws-by-floodgate.md
-better-than-free.md
-brooks-law.md
-business-strategy-frameworks.md
-canvas.md
-crazy-and-good.md
-critical-to-quality-ctq.md
-customer-development-interview-questions-by-wrkshp.md
-customer-discovery-questions.md
-daily-habits-of-high-achievers.md
-delight-your-users.md
-disciplined-agile-delivery.md
-documentation-system-by-divio.md
-due-dilligence-survival-guide.md
-engineering-management-book-summaries-by-shawn-axsom.md
-evaluating-modest-saas-business-ideas.md
-first-principles-of-how-to-explain-an-idea.md
-gamification-game-design-elements.md
-giving-and-taking-advice-by-alexey-guzey.md
-goals-and-events.md
-golden-rules-to-investigate-customer-pain-points.md
-good-idea-checklist-by-daniel-tillet.md
-goodharts-law-campbells-law-lucas-critique.md
-guilds-and-communities-of-practice.md
-habitization-vs-gamification.md
-holland-codes-riasec.md
-how-to-create-advertising-that-sells.md
-how-to-do-less-by-alex-turek.md
-jobs-as-progress-vs-jobs-as-activities.md
-jobs-pains-gains.md
-jobs-to-be-done-jtbd-framework.md
-joels-totally-fair-method-to-divide-up-the-ownership-of-any-startup.md
-landing-page-and-dashboard.md
-lean-customer-development.md
-lean-startup-definitions.md
-lean-startup.md
-lessons-learned-as-a-software-developer-turned-project-manager.md
-managing-people-by-andreas-klinger.md
-measurement-anti-patterns.md
-measuring-an-engineering-organization.md
-mini-habits-by-stephen-guise.md
-move-fast-total-ownership-culture.md
-north-star-framework.md
-objectives-and-key-results-notes-by-google.md
-one-on-ones-with-executives.md
-product-market-fit.md
-product-positioning-exercise-by-april-dunford.md
-prospective-chart.md
-shuhari.md
-six-questions-in-a-case-interview.md
-space-a-framework-for-understanding-developer-productivity.md
-startup-steps-by-garyarefuge.md
-story-structure-101.md
-system-design-laws.md
-systems-theory.md
-the-dictators-handbook.md
-the-eleven-laws-of-showrunning.md
-the-innovators-dilemma-disruptive-innovation.md
-the-laws-of-simplicity-by-john-maeda.md
-the-mom-test.md
-the-psychology-of-design.md
-the-tower-of-weakenings-models-for-everyone.md
-twelve-factor-app-methodology.md
-two-way-writeups-by-coda.md
-v2mom.md
-value-based-funding-model.md
-venture-capital-firms.md
-what-are-investors-looking-for.md
-what-i-wish-i-knew-about-onboarding-effectively.md
-what-silicon-valley-gets-right.md
-
--->

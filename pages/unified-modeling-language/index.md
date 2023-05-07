@@ -12,8 +12,14 @@ UML has a number of different diagram types that can be used to model different 
 
 * Activity Diagram: This diagram represents the flow of control in the system. It is used to describe the behavior of the system.
 
-* State Machine Diagram: This diagram represents the state transitions of an object. It is used to describe the behavior of the system.
+* State Diagram: This diagram represents the states and transitions of an system. It is used to describe the behavior of the system.
 
 * Deployment Diagram: This diagram represents the physical deployment of the system on hardware. It is used to describe the deployment architecture of the system.
+
+* Object diagram: The object diagram is used to represent a snapshot of the system at a particular point in time. It shows the objects and their relationships, and it can be used to test and verify the design of the system.
+
+* Package diagram: The package diagram is used to organize the elements of a system into packages. It shows the dependencies between the packages and their contents.
+
+* Component diagram: The component diagram is used to represent the physical components of a system. It shows the interfaces and dependencies between the components.
 
 UML diagrams are widely used in software development, especially in the design and architecture phase. They help in understanding, communicating, and visualizing the different aspects of a software system. UML diagrams are also useful in documenting the system and in ensuring that all stakeholders have a common understanding of the system's design.
