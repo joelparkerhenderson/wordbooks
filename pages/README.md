@@ -186,7 +186,15 @@
 * [“Founders at Work” by Jessica Livingston](founders-at-work-by-jessica-livingston)
 * [“How to Win Friends and Influence People” by Dale Carnegie](how-to-win-friends-and-influence-people-by-dale-carnegie)
 * [“Leading at the Speed of Growth” by Katherine Catlin and Jana Matthews](leading-at-the-speed-of-growth-by-katherine-catlin-and-jana-matthews)
-* [“Superbosses” by Sydney Finkelstein](superbosses-by-sydney-finkelstein)
+* [“Radical Candor” by Kim Scott](radical-candor-by-kim-scott)
+* [“Superbosses” by Sydney Finkelstein”](superbosses-by-sydney-finkelstein)
+
+
+## [Entrepreneurship books](entrepreneurship-books)
+
+* [“Disciplined Entrepreneurship” by Bill Aulet](disciplined-entrepreneurship-by-bill-aule)
+* [“The Hard Thing About Hard Things” by Ben Horowitz](the-hard-thing-about-hard-things-by-ben-horowitz)
+* [“You Are a Badass at Making Money” by Jen Sincero](you-are-a-badass-at-making-money-by-jen-sincero)
 
 
 ## [Startup books](startup-books)
@@ -198,17 +206,14 @@
 * [“Mastering the VC Game” by Jeffrey Bussgang](mastering-the-vc-game-by-jeffrey-bussgang)
 * [“Never Too Late to Startup” by Rob Kornblum](never-too-late-to-startup-by-rob-kornblum)
 * [“Outliers” by Malcom Gladwell](outliers-by-malcom-gladwell)
-* [“Radical Candor” by Kim Scott](radical-candor-by-kim-scott)
 * [“Start Something That Matters” by Blake Mycoskie](start-something-that-matters-by-blake-mycoskie)
 * [“The Four Steps To The Epiphany” by Steve Blank](the-four-steps-to-the-epiphany-by-steve-blank)
-* [“The Hard Thing About Hard Things” by Ben Horowitz](the-hard-thing-about-hard-things-by-ben-horowitz)
 * [“The Lean Startup” by Eric Ries](the-lean-startup-by-eric-ries)
 * ["The Mom Test" by Rob Fitzpatrick](the-mom-test-by-rob-fitzpatrick)
 * [“The Startup Owners Manual” by Steve Blank](the-startup-owners-manual-by-steve-blank)
 * [“Thrive” by Arianna Huffington](thrive-by-arianna-huffington)
 * [“Zero To One” by Peter Thiel](zero-to-one-by-peter-thiel)
 * [“Who” by Geoff Smart and Randy Street](who-by-geoff-smart-and-randy-street)
-* [“You Are a Badass at Making Money” by Jen Sincero](you-are-a-badass-at-making-money-by-jen-sincero)
 
 
 ## [Software engineering books]
@@ -239,7 +244,8 @@
 * [Squad team](squad-team)
 * [Community of Practice (CoP)](community-of-practice)
 * [The Spotify Model](the-spotify-model)
-   
+* [Forming, Storming, Norming, Performing (FSNP)](forming-storming-norming-performing)
+
 
 ## Teamwork
 
@@ -442,6 +448,7 @@
 * Non-functional requirements: see system quality attributes
 * [Root cause analysis (RCA)](root-cause-analysis)
 * [System Quality Attributes (SQAs)](system-quality-attributes)
+* [Quality of Service (QoS) for networks](quality-of-service-for-networks)
 
 
 ## [Software design approaches](software-design-approaches)
@@ -505,6 +512,8 @@
 * [Array data structure](array-data-structure)
 * [Graph data structure](graph-data-structure)
 * [Tree data structure](tree-data-structure)
+* [Bloom filter](bloom-filter)
+* [Kalman filter](kalman-filter)
 
 
 ## Data tactics
@@ -518,12 +527,19 @@
 
 ## Technology tactics
 
+* [Artificial intelligence (AI)](artificial-intelligence)
+* [Machine learning (ML)](machine-learning)
 * [Constraint satisfaction](constraint-satisfaction)
 * [Design patterns](design-patterns)
 * [Event-Driven Architecture (EDA)](event-driven-architecture)
 * [MapReduce](map-reduce)
 * [Coordinated disclosure](coordinated-disclosure)
 * Responsible disclosure: see coordinated disclosure
+* [Compression](compression)
+* [Encoding](encoding)
+* [Encryption](encryption)
+* [Recursion](recursion)
+* [Serialization](serialization)
 
 
 ## [Software development methodologies](software-development-methodologies)
@@ -562,3 +578,10 @@
 * [Security testing](security-testing)
 * [Penetration testing](penetration-testing)
 * [Shift-left testing](shift-left-testing)
+
+
+## [Security attacks](security-attacks)
+
+* [Social engineering](social-engineering)
+* [Piggyback attack](piggyback-attack)
+* [Spear phish attack](piggyback-attack)

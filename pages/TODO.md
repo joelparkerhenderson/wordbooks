@@ -1,7 +1,6 @@
 
 
 
-    ADKAR change management model
     Agile assessment
     Always improving: book summaries
     Architecture Decision Record (ADR)
@@ -36,7 +35,6 @@
 
 
 squad (spotify)
-pizza team
 community of practice
 stakeholders
 subcontracting
@@ -54,7 +52,6 @@ EBITA
 Ready:
 
 * [Acquihire](acquihire)
-* [ADKAR change management model](adkar-change-management-model)
 
 
 
@@ -74,7 +71,6 @@ Bare:
 
 * [anti-patterns](anti-patterns)
 * [bootstrapping](bootstrapping)
-* [brand-recognition](brand-recognition)
 * [carried-interest](carried-interest)
 * [change-management](change-management)
 * [compliance](compliance)
@@ -91,7 +87,6 @@ Bare:
 * [elevator-pitch](elevator-pitch)
 * [equity](equity)
 * [exit-strategy](exit-strategy)
-* [gamification](gamification)
 * [go-to-market-strategy](go-to-market-strategy)
 * [growth-hacking](growth-hacking)
 * [hockey-stick-growth](hockey-stick-growth)
@@ -118,14 +113,11 @@ Bare:
 * [runway](runway)
 * [search-engine-optimization](search-engine-optimization)
 * [seed-round](seed-round)
-* [smart-criteria](smart-criteria)
 * [software-as-a-service](software-as-a-service)
 * [startup-accelerator](startup-accelerator)
 * [startup-incubator](startup-incubator)
-* [stealth-mode](stealth-mode)
 * [success-factors](success-factors)
 * [the-engineering-executives-primer](the-engineering-executives-primer)
-* [the-phoenix-project](the-phoenix-project)
 * [value-proposition](value-proposition)
 * [Vendor lock-in](vendor-lock-in)
 * [venture-capital](venture-capital)
@@ -214,13 +206,11 @@ amazon-principal-engineering-tenets.md
 asabiyyah.md
 asymmetric-laws-by-floodgate.md
 better-than-free.md
-brooks-law.md
 business-strategy-frameworks.md
 canvas.md
 crazy-and-good.md
 critical-to-quality-ctq.md
 customer-development-interview-questions-by-wrkshp.md
-customer-discovery-questions.md
 daily-habits-of-high-achievers.md
 delight-your-users.md
 disciplined-agile-delivery.md
@@ -279,5 +269,21 @@ what-are-investors-looking-for.md
 what-i-wish-i-knew-about-onboarding-effectively.md
 what-silicon-valley-gets-right.md
 
--->
 
+Security attacks:
+
+* Malware: Malware is malicious software that is designed to infiltrate or damage a computer system. This includes viruses, worms, trojans, and ransomware.
+
+* Phishing: Phishing attacks are social engineering attacks where attackers send emails, texts, or other messages that appear to be from a legitimate source, such as a bank or company, to trick users into providing sensitive information such as passwords or credit card numbers.
+
+* DDoS attacks: Distributed Denial of Service (DDoS) attacks are a type of cyber-attack that involve overwhelming a targeted system with traffic to make it unavailable to legitimate users.
+
+* Man-in-the-middle attacks: A man-in-the-middle (MITM) attack involves intercepting communication between two parties to steal sensitive information or manipulate the conversation.
+
+* Password attacks: Password attacks involve trying to guess or steal a user's password to gain access to a system or network. This includes brute-force attacks, dictionary attacks, and phishing attacks.
+
+* SQL injection: SQL injection attacks are a type of web application attack that involve exploiting vulnerabilities in SQL code to gain access to sensitive information or execute unauthorized commands.
+
+* Cross-site scripting (XSS): Cross-site scripting attacks are a type of web application attack where attackers inject malicious code into a website to steal sensitive information or execute unauthorized commands.
+
+* Eavesdropping: Eavesdropping attacks involve listening in on a network or communication channel to steal sensitive information.
