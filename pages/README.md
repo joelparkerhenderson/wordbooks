@@ -99,6 +99,8 @@
 * [Guerilla marketing](guerilla-marketing)
 * [Word-of-mouth marketing (WOMM)](word-of-mouth-marketing)
 * [Customer relationship management (CRM)](customer-relationship-management)
+* [Stealth mode](stealth-mode)
+* [Brand recognition](brand-recognition)
 
 
 ## Growth options
@@ -110,6 +112,7 @@
 ## Planning
 
 * [North Star](north-star)
+
 * [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
 * [Objectives and Key Results (OKRs)](objectives-and-key-results)
 * [Key Performance Indicators (KPIs)](key-performance-indicators)
@@ -117,9 +120,12 @@
 * [Critical Success Factors (CSF)](critical-success-factors)
 * [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
 * [SPADE decision framework](spade-decision-framework)
+* [SMART criteria](smart-criteria)
 * [Intent plan](intent-plan)
 * [Oblique strategies](oblique-strategies)
 * [Issue tracker](issue-tracker)
+* [Mind map](mind-map)
+* [ADKAR change management model](adkar-change-management-model)
 
 
 ## Consulting
@@ -161,6 +167,12 @@
 * [Y Combinator (YC)](y-combinator)
 
 
+## Website
+
+* [Landing page](landing-page)
+* [Site map](site-map)
+
+
 ## Book lists
 
 * [Executive management books](executive-management-books)
@@ -199,6 +211,12 @@
 * [“You Are a Badass at Making Money” by Jen Sincero](you-are-a-badass-at-making-money-by-jen-sincero)
 
 
+## [Software engineering books]
+
+* [“The Phoenix Project” by Gene Kim et al.](the-phoenix-project-by-gene-kim-et-al)
+* [“The Mythical Man-Month” by Fred Brooks](the-mythical-man-month-by-fred-brooks)
+
+
 ## Design Development
 
 * [Big design up front (BDUF)](big-design-up-front)
@@ -217,7 +235,11 @@
 * [RACI matrix](raci-matrix)
 * [PARIS matrix](paris-matrix)
 * [Icebreaker questions](icebreaker-questions)
-  
+* [Pizza team](pizza-team)
+* [Squad team](squad-team)
+* [Community of Practice (CoP)](community-of-practice)
+* [The Spotify Model](the-spotify-model)
+   
 
 ## Teamwork
 
@@ -335,7 +357,7 @@
 * [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
 
 
-## Design UI/UX
+## Design & UI/UX
 
 * [Mockups](mockups)
 * [Wireframes](wireframes)
@@ -345,6 +367,11 @@
 * [User stories](user-stories)
 * [Use cases versus user stories](use-cases-and-user-stories)
 * [Design charrette](design-charrette)
+* [Design thinking](design-thinking)
+* [Gamification](gamification)
+* [Thinking hats](thinking-hats)
+* [Low-fidelity prototype](low-fidelity-prototype)
+* [High-fidelity prototype](high-fidelity-prototype)
 
 
 ## Financing
@@ -372,6 +399,7 @@
 
 ## So-called laws & principles
 
+* [Brooks' Law](brooks-law)
 * [Conway's Law](conways-law)
 * [Gresham’s Law](greshhams-law)
 * [Hyrum’s Law](hyrums-law)
@@ -479,15 +507,20 @@
 * [Tree data structure](tree-data-structure)
 
 
+## Data tactics
+
+* [Data schema](data-schema)
+* [Data warehouse](data-warehouse)
+* [Data lake](data-lake)
+* [Extract, Transform, Load (ETL)](extract-transform-load)
+* [Batch processing](batch-processing)
+
+
 ## Technology tactics
 
 * [Constraint satisfaction](constraint-satisfaction)
-* [Data warehouse](data-warehouse)
-* [Data lake](data-lake)
 * [Design patterns](design-patterns)
 * [Event-Driven Architecture (EDA)](event-driven-architecture)
-* [Extract, Transform, Load (ETL)](extract-transform-load)
-* [Batch processing](batch-processing)
 * [MapReduce](map-reduce)
 * [Coordinated disclosure](coordinated-disclosure)
 * Responsible disclosure: see coordinated disclosure
@@ -527,4 +560,5 @@
 * [Performance testing](performance-testing)
 * [Benchmark testing](benchmark-testing)
 * [Security testing](security-testing)
+* [Penetration testing](penetration-testing)
 * [Shift-left testing](shift-left-testing)
