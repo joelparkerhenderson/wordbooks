@@ -1,8 +1,43 @@
 
-<!--
 
-TODO
 
+    ADKAR change management model
+    Agile assessment
+    Always improving: book summaries
+    Architecture Decision Record (ADR)
+    Code of conduct guidelines
+    Company culture
+    Crucial conversations
+    Decision Record (DR) template
+    Discovery assessment
+    Enterprise architecture assessment
+    Feedback request template
+    Issues
+    Key Performance Indicator (KPI)
+    Key Risk Indicator (KRI)
+    Leadership: selected notes & advice
+    Lean business lists
+    Maturity models (MMs)
+    Metrics: ideas & examples
+    Milestones: ideas & examples
+    Pitch deck quick start
+    Powerful questions: insight, innovation, action
+    Project management checklist
+    Queueing theory
+    SMART criteria
+    Software development methodologies
+    Stakeholder analysis
+    Strategic Balanced Scorecard (SBS)
+    System quality attributes (SQAs)
+    Thought leadership writing
+    Wordbooks: glossaries, lexicons, terminology
+    Confidentiality agreement
+    Consulting agreement
+
+
+squad (spotify)
+pizza team
+community of practice
 stakeholders
 subcontracting
 freelancing
@@ -22,48 +57,18 @@ Ready:
 * [ADKAR change management model](adkar-change-management-model)
 
 
-### Management books
 
-There are numerous management books that have been written over the years, each with its unique approach and perspective on how to effectively lead and manage teams. Here are some of the best management books and what they cover:
-
-    "The One Minute Manager" by Ken Blanchard and Spencer Johnson: This book focuses on the idea that effective management can be done in just a few minutes a day. The authors offer practical tips on how to communicate with team members, give feedback, and manage performance.
-
-    "Good to Great" by Jim Collins: This book explores what separates good companies from great ones. Collins and his team conducted extensive research into companies that have achieved sustained success and identify key factors such as leadership, focus, and culture.
-
-    "The 7 Habits of Highly Effective People" by Stephen Covey: This book is a classic in the field of personal development and provides guidance on how to be an effective leader. Covey emphasizes the importance of self-awareness, communication, and goal-setting.
-
-    "First, Break All the Rules" by Marcus Buckingham and Curt Coffman: This book challenges conventional management wisdom and offers a new perspective on how to manage people. The authors argue that effective management requires focusing on individual strengths rather than trying to fix weaknesses.
-
-    "Leaders Eat Last" by Simon Sinek: This book explores the role of leadership in creating a culture of trust and cooperation. Sinek argues that leaders who prioritize the well-being of their team members are more likely to achieve long-term success.
-
-    "Drive" by Daniel Pink: This book challenges traditional views on motivation and argues that people are motivated by more than just financial incentives. Pink suggests that people are motivated by autonomy, mastery, and purpose.
-
-    "High Output Management" by Andy Grove: This book is a classic in the field of management and provides practical advice on how to manage teams effectively. Grove emphasizes the importance of setting clear goals, communicating effectively, and providing feedback.
-
-    "The Effective Executive" by Peter Drucker: This book provides guidance on how to be an effective manager and leader. Drucker emphasizes the importance of focus, time management, and decision-making.
-
-#### 
 Getting to Yes (book)
 
 
-Leadership books:
-
-
-* "The 7 Habits of Highly Effective People" by Stephen Covey - Covey's book is a classic in the field of leadership and self-improvement. He presents seven habits that can help individuals become more effective leaders and lead more fulfilling lives. The habits include being proactive, beginning with the end in mind, putting first things first, thinking win-win, seeking first to understand, then to be understood, synergizing, and sharpening the saw.
-
-* "Good to Great" by Jim Collins - Collins spent years researching the factors that separate good companies from great ones. He identified several key characteristics that distinguish great companies, including level 5 leadership, disciplined people, disciplined thought, and disciplined action, the hedgehog concept, and the flywheel and the doom loop.
-
-* "Start with Why" by Simon Sinek - Sinek argues that great leaders and companies start with a clear understanding of why they do what they do. He presents a framework for discovering your own "why" and communicating it to others in a way that inspires them to action.
-
-* "The One Minute Manager" by Ken Blanchard and Spencer Johnson - This book offers a simple and effective approach to leadership that emphasizes setting clear goals, praising good performance, and correcting poor performance. The authors present a three-part approach to leadership that involves one minute goal setting, one minute praising, and one minute reprimands.
-
-* "Leaders Eat Last" by Simon Sinek - In this book, Sinek argues that great leaders prioritize the well-being of their employees and create a sense of safety and belonging in the workplace. He presents several case studies and examples of leaders who have successfully implemented this approach.
-
-* "Drive" by Daniel Pink - Pink challenges traditional notions of what motivates people and presents a framework for creating a more effective and fulfilling workplace. He argues that people are motivated by autonomy, mastery, and purpose, and he presents several examples of companies that have successfully implemented these principles.
-
-
 managing-people-by-andreas-klinger.md
-
+focus group
+hackfest
+bug bounty
+call to action (CTA)
+pilot project
+privacy policy
+GDPR
 
 Bare:
 
@@ -77,7 +82,6 @@ Bare:
 * [contingengy-recruiter](contingengy-recruiter)
 * [conversion-rate-optimization](conversion-rate-optimization)
 * [crowdsourcing](crowdsourcing)
-* [customer-relationship-management](customer-relationship-management)
 * [decision-record](decision-record)
 * [dilution](dilution)
 * [domain-specific-langauge](domain-specific-langauge)
@@ -95,9 +99,7 @@ Bare:
 * [lean-software-development](lean-software-development)
 * [lifestyle-business](lifestyle-business)
 * [lifetime-value](lifetime-value)
-* [maturity-models](maturity-models)
 * [minimum-viable-product](minimum-viable-product)
-* [one-on-one-meeting](one-on-one-meeting)
 * [pay-per-click](pay-per-click)
 * [pivot](pivot)
 * [planning-poker-estimation](planning-poker-estimation)
@@ -130,6 +132,7 @@ Bare:
 * [virtuous-cycle](virtuous-cycle)
 * [winner-take-all](winner-take-all)
 
+agile manifesto
 
 ODMG Query Language (OQL), Object Query Language (OQL), and Java Persistence Query Language (JPQL).
 
@@ -137,23 +140,13 @@ data mesh
 technology radar
 spider diagram
 
-Books:
-How to Win Friends and Influence People by Dale Carnegie
-Building a Storybrand was an absolute game changer.
-Almanack of naval ravikant
-Build by Tony Fadell (creator of the iPod, the iPhone and the now called Google Nest)
-E-myth revisited. Creating a business vs just creating another J.O.B.
-Atomic Habits.
-High growth handbook 
-Turning the Flywheel by Jim Collins
-"Start with No" by Jim Camp 
- "Think Again" by Adam Grant
- Hooked
-Slicing Pie introduces a holistic model for assigning value to the many types of contributions we make when creating a high growth startup.
-Venture Deals is like a detailed behind the scenes tour of what investors and lawyers are thinking and talking about throughout the whole process. It’s written for founders, so that you can plan ahead and navigate fundraising gracefully.
-"Disciplined Entrepreneurship" by Bill Aulet. 
-'Who moved my cheese' by Spencer Johnson.
-
+serverless
+cloud
+lambda functions
+bitcoin
+blockchain
+distributed ledger
+consensus al
 
 11-fundamental-laws-of-software-development.md
 16-non-obvious-fundraising-lessons-on-pitching.md
@@ -260,8 +253,6 @@ measurement-anti-patterns.md
 measuring-an-engineering-organization.md
 mini-habits-by-stephen-guise.md
 move-fast-total-ownership-culture.md
-objectives-and-key-results-notes-by-google.md
-one-on-ones-with-executives.md
 product-market-fit.md
 product-positioning-exercise-by-april-dunford.md
 prospective-chart.md

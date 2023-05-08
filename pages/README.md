@@ -39,7 +39,7 @@
 * [Go-to-market strategy](go-to-market-strategy)
 * [Elevator pitch](elevator-pitch)
 * [Investment Readiness Level (IRL)](investment-readiness-level)
-* [OODAloop](ooda-loop)
+* [OODA loop](ooda-loop)
 
 
 ## [How to find startup help](how-to-find-startup-help)
@@ -78,7 +78,9 @@
 * [Global Reporting Initiative (GRI)](global-reporting-initiative)
 * [Human Development Index (HDI)](human-development-index)
 * [Seventh Generation Principle](seventh-generation-principle)
+* [Social value orientation (SVO)](social-value-orientation)
 * [Triple bottom line (TBL)](triple-bottom-line)
+* [Code of conduct](code-of-conduct)
 
 
 ## Market
@@ -96,6 +98,7 @@
 * [Content marketing](content-marketing)
 * [Guerilla marketing](guerilla-marketing)
 * [Word-of-mouth marketing (WOMM)](word-of-mouth-marketing)
+* [Customer relationship management (CRM)](customer-relationship-management)
 
 
 ## Growth options
@@ -113,6 +116,15 @@
 * [Key Risk Indicators (KRIs)](key-risk-indicators)
 * [Critical Success Factors (CSF)](critical-success-factors)
 * [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
+* [SPADE decision framework](spade-decision-framework)
+* [Intent plan](intent-plan)
+* [Oblique strategies](oblique-strategies)
+* [Issue tracker](issue-tracker)
+
+
+## Consulting
+
+* [Value-based funding model](value-based-funding-model)
 
 
 ## Project liftoff
@@ -125,10 +137,14 @@
 
 * [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
 * [Gantt chart](gantt-chart)
+* [Quad chart](quad-chart)
+* [Program Evaluation and Review Technique (PERT)](program-evaluation-and-review-technique)
 * [Resource leveling](resource-leveling)
 * [Critical chain project management](critical-chain-project-management)
 * [Critical path project management](critical-path-project-management)
+* [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
 * [Kanban](kanban)
+* [Scrum](scrum)
 * [Swimlanes](swimlanes)
 
 
@@ -194,10 +210,14 @@
 ## Teaming
 
 * [Organizational chart](organizational-chart)
+* [Chain of command](chain-of-command)
 * [Stakeholders](stakeholders)
 * [Roles and responsibilities](roles-and-responsibilities)
+* [Responsibility assignment matrix (RAM)](responsibility-assignment-matrix)
 * [RACI matrix](raci-matrix)
-
+* [PARIS matrix](paris-matrix)
+* [Icebreaker questions](icebreaker-questions)
+  
 
 ## Teamwork
 
@@ -205,6 +225,10 @@
 * [Futurespective](futurespective)
 * [TEAM FOCUS](team-focus)
 * [Ways Of Working (WOW)](ways-of-working)
+* [Pair programming](pair-programming)
+* [Standup meeting](standup-meeting)
+* [One-on-one meeting](one-on-one-meeting)
+* [Skip-level meeting](skip-level-meeting)
 
 
 ## [Company legal entities](company-legal-entities)
@@ -224,6 +248,8 @@
 * [Five Forces analysis](five-forces-analysis)
 * [PESTLE analysis](pestle-analysis)
 * [SWOT analysis](swot-analysis)
+* [Value stream mapping (VSM)](value-stream-mapping)
+* [Maturity models](maturity-models)
 
 
 ## Investors
@@ -233,6 +259,7 @@
 * [Angel investor](angel-investor)
 * [Seed investor](seed-investor)
 * [Series A investor](series-a-investor)
+* [Series B investor](series-b-investor)
 
 
 ## Investment vehicles
@@ -317,6 +344,7 @@
 * [Use cases](use-cases)
 * [User stories](user-stories)
 * [Use cases versus user stories](use-cases-and-user-stories)
+* [Design charrette](design-charrette)
 
 
 ## Financing
@@ -434,9 +462,26 @@
 * [Vector clock](vector-clock)
 
 
+## [Algorithms](algorithms)
+
+* [Sort algorithms](sort-algorithms)
+* [Search algorithms](search-algorithms)
+* [Graph algorithms](graph-algorithms)
+* [Dynamic programming algorithms](dynamic-programming-algorithms)
+* [Constraint satisfaction algorithms](constraint-satisfaction-algorithms)
+* [Consensus algorithms](consensus-algorithms)
+
+
+## [Data structures](data-structures)
+
+* [Array data structure](array-data-structure)
+* [Graph data structure](graph-data-structure)
+* [Tree data structure](tree-data-structure)
+
+
 ## Technology tactics
 
-* [Agile software development](agile-software-development)
+* [Constraint satisfaction](constraint-satisfaction)
 * [Data warehouse](data-warehouse)
 * [Data lake](data-lake)
 * [Design patterns](design-patterns)
@@ -444,7 +489,16 @@
 * [Extract, Transform, Load (ETL)](extract-transform-load)
 * [Batch processing](batch-processing)
 * [MapReduce](map-reduce)
-* [Scrum](scrum)
+* [Coordinated disclosure](coordinated-disclosure)
+* Responsible disclosure: see coordinated disclosure
+
+
+## [Software development methodologies](software-development-methodologies)
+
+* [Waterfall software development methodology](waterfall-software-development-methodology)
+* [Agile software development methodology](agile-software-development-methodology)
+* [Rapid Application Development (RAD)](rapid-application-development)
+* [Extreme Programming (XP)](extreme-programming)
 
 
 ## [Modeling diagrams](modeling-diagrams)
