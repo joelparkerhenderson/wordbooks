@@ -228,6 +228,7 @@
 * [Domain-Driven Design (DDD)](domain-driven-design)
 * [Behavior-Driven Development (BDD)](behavior-driven-development)
 * [Test-Driven Development (TDD)](test-driven-development)
+* [Voice of the Customer (VoC)](voice-of-the-customer)
 
 
 ## Teaming
@@ -505,6 +506,7 @@
 * [Dynamic programming algorithms](dynamic-programming-algorithms)
 * [Constraint satisfaction algorithms](constraint-satisfaction-algorithms)
 * [Consensus algorithms](consensus-algorithms)
+* [Sieve of Eratosthenes](sieve-of-eratosthenes)
 
 
 ## [Data structures](data-structures)
@@ -521,8 +523,17 @@
 * [Data schema](data-schema)
 * [Data warehouse](data-warehouse)
 * [Data lake](data-lake)
+* [Data mesh](data-mesh)
 * [Extract, Transform, Load (ETL)](extract-transform-load)
 * [Batch processing](batch-processing)
+
+
+## [Design patterns](design-patterns)
+
+* [Backpressure](backpressure)
+* [Circuit breaker](circuit-breaker)
+* [Dependency injection (DI)](dependency-injection)
+* [Inversion of Control (IoC)](inversion-of-control)
 
 
 ## Technology tactics
@@ -530,16 +541,29 @@
 * [Artificial intelligence (AI)](artificial-intelligence)
 * [Machine learning (ML)](machine-learning)
 * [Constraint satisfaction](constraint-satisfaction)
-* [Design patterns](design-patterns)
 * [Event-Driven Architecture (EDA)](event-driven-architecture)
+* [Network protocols](network-protocols)
 * [MapReduce](map-reduce)
 * [Coordinated disclosure](coordinated-disclosure)
 * Responsible disclosure: see coordinated disclosure
 * [Compression](compression)
+* [Caching](caching)
+* [Concurrency](concurrency)
 * [Encoding](encoding)
 * [Encryption](encryption)
 * [Recursion](recursion)
+* [Memoization](memoization)
+* [Parallelization](parallelization)
 * [Serialization](serialization)
+
+
+## Thought Problems
+
+* [Byzantine generals problem](byzantine-generals-problem)
+* [Knapsack problem](knapsack-problem)
+* [N-queens problem](n-queens-problem)
+* [Towers of Hanoi](towers-of-hanoi)
+* [Traveling salesman problem](traveling-salesman-problem)
 
 
 ## [Software development methodologies](software-development-methodologies)

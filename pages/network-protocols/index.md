@@ -1,0 +1,15 @@
+# Network protocols are a set of rules and procedures that govern the communication between different devices. These protocols define how devices communicate with each other, how data is transmitted and received, and how errors are handled.
+
+There are different types of network protocols that are used for different purposes, including:
+
+* Transmission Control Protocol/Internet Protocol (TCP/IP): TCP/IP is the most widely used protocol for networking. It is a suite of protocols that includes several different protocols for different purposes, including IP (Internet Protocol), TCP (Transmission Control Protocol), and UDP (User Datagram Protocol). TCP/IP is used to connect devices over the internet and allows for reliable data transfer.
+
+* HyperText Transfer Protocol (HTTP): HTTP is a protocol used for transmitting web pages and other content over the internet. It allows web browsers to request web pages from servers and receive the requested pages in return.
+
+* Simple Mail Transfer Protocol (SMTP): SMTP is a protocol used for sending and receiving email. It allows email clients to send messages to mail servers, which then forward the messages to the recipient's mail server.
+
+* File Transfer Protocol (FTP): FTP is a protocol used for transferring files between computers. It allows users to upload and download files to and from remote servers.
+
+* Secure Sockets Layer/Transport Layer Security (SSL/TLS): SSL/TLS is a protocol used for securing internet connections. It encrypts data transmitted between devices to prevent unauthorized access.
+
+Network protocols are an essential part of computer networks and allow devices to communicate with each other in a standardized way. Without network protocols, devices would be unable to exchange information, and computer networks would not be able to function.
