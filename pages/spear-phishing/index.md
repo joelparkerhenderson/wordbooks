@@ -1,6 +1,6 @@
-# Spear phish attack
+# Spear phishing
 
-A spear phish attack is a targeted form of phishing where an attacker sends a fraudulent email, text message, or other form of communication to a specific individual, often posing as a trustworthy entity, such as a company or organization, to trick the recipient into divulging sensitive information or performing an action that can compromise their security.
+Spear phishing is a targeted form of phishing where an attacker sends a fraudulent email, text message, or other form of communication to a specific individual, often posing as a trustworthy entity, such as a company or organization, to trick the recipient into divulging sensitive information or performing an action that can compromise their security.
 
 Unlike traditional phishing attacks that are often mass-mailed, spear phishing attacks are highly targeted and tailored to the recipient, making them more difficult to detect. Attackers conduct extensive research on their victims, using publically available information from social media, company websites, and other sources to craft convincing messages that appear legitimate.
 

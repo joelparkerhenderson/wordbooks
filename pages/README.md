@@ -137,6 +137,7 @@
 
 * [Statement Of Work (SOW)](statement-of-work)
 * [Functional specifications](functional-specifications)
+* [Software development life cycle (SDLC)](software-development-life-cycle)
 
 
 ## [Project management](project-management)
@@ -548,22 +549,25 @@
 * Responsible disclosure: see coordinated disclosure
 * [Compression](compression)
 * [Caching](caching)
+* [Cryptography](cryptography)
 * [Concurrency](concurrency)
 * [Encoding](encoding)
 * [Encryption](encryption)
+* [Homomorphic encryption](homomorphic-encryption)
 * [Recursion](recursion)
 * [Memoization](memoization)
 * [Parallelization](parallelization)
 * [Serialization](serialization)
 
 
-## Thought Problems
+## [Computer science thought problems](computer-science-thought-problems)
 
-* [Byzantine generals problem](byzantine-generals-problem)
-* [Knapsack problem](knapsack-problem)
-* [N-queens problem](n-queens-problem)
-* [Towers of Hanoi](towers-of-hanoi)
-* [Traveling salesman problem](traveling-salesman-problem)
+* [Traveling Salesman Problem](traveling-salesman-problem)
+* [Knapsack Problem](knapsack-problem)
+* [Tower of Hanoi Problem](towers-of-hanoi-problem)
+* [Dining Philosophers Problem](dining-philosophers-problem)
+* [N-queens Problem](n-queens-problem)
+* [Byzantine Generals Problem](byzantine-generals-problem)
 
 
 ## [Software development methodologies](software-development-methodologies)
@@ -608,4 +612,8 @@
 
 * [Social engineering](social-engineering)
 * [Piggyback attack](piggyback-attack)
-* [Spear phish attack](piggyback-attack)
+* [Phishing](phishing-attack)
+* [Spear phishing](spear-phishing-attack)
+* [Malware](malware)
+* [Ransomware](ransomware)
+* [SQL injection](sql-injection)
