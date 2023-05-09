@@ -8,17 +8,11 @@
 * [Values statement](values-statement) + [examples](values-statement-examples)
 
 
-## Discovery
+## [Startup discovery]
 
 * [Market discovery](market-discovery) + [questions](market-discovery-questions)
 * [Customer discovery](customer-discovery) + [questions](customer-discovery-questions)
 * [Product discovery](product-discovery) + [questions](product-discovery-questions)
-
-
-## Top goals
-
-* [Traction](traction)
-* [Valuation](valuation)
 
 
 ## [Business models](business-models)
@@ -32,15 +26,17 @@
 
 ## Tactical tools
 
-* [Business Model Canvas (BMC)](business-model-canvas)
-* [Business plan](business-plan)
-* [Balanced scorecard](balanced-scorecard)
-* [Pitch deck](pitch-deck)
-* [Go-to-market strategy](go-to-market-strategy)
 * [Elevator pitch](elevator-pitch)
+* [Pitch deck](pitch-deck)
+* [Business plan](business-plan)
+* [Business Model Canvas (BMC)](business-model-canvas)
+* [Balanced scorecard](balanced-scorecard)
+* [Strategy map](strategy-map)
+* [Go-to-market strategy](go-to-market-strategy)
 * [Investment Readiness Level (IRL)](investment-readiness-level)
 * [OODA loop](ooda-loop)
-
+* [Agile chartering](agile-chartering)
+  
 
 ## [How to find startup help](how-to-find-startup-help)
 
@@ -102,6 +98,12 @@
 * [Stealth mode](stealth-mode)
 * [Brand recognition](brand-recognition)
 
+## X-to-Y
+
+* [Business-to-Business (B2B)](business-to-business)
+* [Business-to-Consumer (B2C)](business-to-business)
+* [Peer-to-Peer (P2P)](peer-to-peer)
+
 
 ## Growth options
 
@@ -112,12 +114,12 @@
 ## Planning
 
 * [North Star](north-star)
-
 * [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
 * [Objectives and Key Results (OKRs)](objectives-and-key-results)
 * [Key Performance Indicators (KPIs)](key-performance-indicators)
 * [Key Risk Indicators (KRIs)](key-risk-indicators)
 * [Critical Success Factors (CSF)](critical-success-factors)
+* [Critical To Quality (CTQ)](critical-to-quality)
 * [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
 * [SPADE decision framework](spade-decision-framework)
 * [SMART criteria](smart-criteria)
@@ -126,11 +128,23 @@
 * [Issue tracker](issue-tracker)
 * [Mind map](mind-map)
 * [ADKAR change management model](adkar-change-management-model)
+* [Business continuity](business-continuity)
+* [Operational resilience](operational-resilience)
 
 
 ## Consulting
 
 * [Value-based funding model](value-based-funding-model)
+
+
+## [Technology sectors](technology-sectors)
+
+* [Biotech (Biological technology)](biotech)
+* [Edtech (Educational technology)](edtech)
+* [Fintech (Financial technology)](fintech)
+* [Govtech (Governmental techology)](govtech)
+* [Legtech (Legal technology)](legtech)
+* [Medtech (Medical technology)](medtech)
 
 
 ## Project liftoff
@@ -153,6 +167,16 @@
 * [Kanban](kanban)
 * [Scrum](scrum)
 * [Swimlanes](swimlanes)
+
+
+## Skills & Learning
+
+* [Microcredentials](microcredentials)
+* Digital badges: see microcredentials
+* [Masters in Business Administration (MBA)](masters-in-business-administration)
+* [Rubric](rubric)
+* [Formative assessment](formative-assessment)
+* [Summative assessment](summative-assessment)
 
 
 ## [Startup venture capital companies](startup-venture-capital-companies)
@@ -205,6 +229,7 @@
 * [“Crossing The Chasm” by Geoffrey Moore](crossing-the-chasm-by-geoffrey-moore)
 * [“Grit” by Angela Duckworth](grit-by-angela-duckworth)
 * [“Mastering the VC Game” by Jeffrey Bussgang](mastering-the-vc-game-by-jeffrey-bussgang)
+* [“Mini Habits” by Stephen Guise](mini-habits-by-stephen-guise)
 * [“Never Too Late to Startup” by Rob Kornblum](never-too-late-to-startup-by-rob-kornblum)
 * [“Outliers” by Malcom Gladwell](outliers-by-malcom-gladwell)
 * [“Start Something That Matters” by Blake Mycoskie](start-something-that-matters-by-blake-mycoskie)
@@ -280,6 +305,7 @@
 * [SWOT analysis](swot-analysis)
 * [Value stream mapping (VSM)](value-stream-mapping)
 * [Maturity models](maturity-models)
+* [Predictive analytics](predictive-analytics)
 
 
 ## Investors
@@ -357,6 +383,8 @@
 
 * [Annual Recurring Revenue (ARR)](annual-recurring-revenue)
 * [Burn rate](burn-rate)
+* [Traction](traction)
+* [Valuation](valuation)
 * [Churn rate](churn-rate)
 * [Customer Acquisition Cost (CAC)](customer-acquisition-cost)
 * [Discounted Cash Flow (DCF)](discounted-cash-flow)
@@ -451,6 +479,8 @@
 * [Root cause analysis (RCA)](root-cause-analysis)
 * [System Quality Attributes (SQAs)](system-quality-attributes)
 * [Quality of Service (QoS) for networks](quality-of-service-for-networks)
+* [Good Enough For Now (GEFN)](good-enough-for-now)
+* [Technical debt](technical-debt)
 
 
 ## [Software design approaches](software-design-approaches)
@@ -541,6 +571,7 @@
 
 * [Artificial intelligence (AI)](artificial-intelligence)
 * [Machine learning (ML)](machine-learning)
+* [Case-based reasoning (CBR)](case-based-reasoning)
 * [Constraint satisfaction](constraint-satisfaction)
 * [Event-Driven Architecture (EDA)](event-driven-architecture)
 * [Network protocols](network-protocols)
@@ -550,14 +581,26 @@
 * [Compression](compression)
 * [Caching](caching)
 * [Cryptography](cryptography)
-* [Concurrency](concurrency)
 * [Encoding](encoding)
 * [Encryption](encryption)
 * [Homomorphic encryption](homomorphic-encryption)
 * [Recursion](recursion)
+* [Federation](federation)
 * [Memoization](memoization)
-* [Parallelization](parallelization)
 * [Serialization](serialization)
+* [Message queue](message-queue)
+* [Tuple space](tuple-space)
+* [Asynchronous processing (asynchronicity)](asynchronous-processing)
+* [Parallel processing (parallelism)](parallel-processing)
+* [Concurrent processing (concurrency)](concurrent-processing)
+
+
+## [Software architecture](software-architecture)
+
+* [Service-oriented architecture (SOA)](service-oriented-architecture)
+* [Representational State Transfer (REST)](representational-state-transfer)
+* [Simple Object Access Protocol (SOAP)](simple-object-access-protocol)
+* [Remote procedure call (RPC)](remote-procedure-call)
 
 
 ## [Computer science thought problems](computer-science-thought-problems)
