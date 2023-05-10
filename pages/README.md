@@ -15,11 +15,22 @@
 * [Product discovery](product-discovery) + [questions](product-discovery-questions)
 
 
+## [How to find startup help](how-to-find-startup-help)
+
+* [How to find startup ideas](how-to-find-startup-ideas)
+* [How to find startup mentors](how-to-find-startup-mentors)
+* [How to find startup investors](how-to-find-startup-investors)
+* [How to find startup employees](how-to-find-startup-employees)
+* [How to find startup consultants](how-to-find-startup-consultants)
+* [How to find startup recruiters](how-to-find-startup-employees)
+* [How to find startup loans](how-to-find-startup-loans)
+
+
 ## [Business models](business-models)
 
-* [Direct sales busiess model](direct-sales-business-model)
-* [Subscription busiess model](subscription-business-model)
-* [Advertising busiess model](advertising-business-model)
+* [Direct sales business model](direct-sales-business-model)
+* [Subscription business model](subscription-business-model)
+* [Advertising business model](advertising-business-model)
 * [Marketplace business model](marketplace-business-model)
 * [Franchise business model](franchise-business-model)
 
@@ -37,17 +48,6 @@
 * [OODA loop](ooda-loop)
 * [Agile chartering](agile-chartering)
 * [Decision record](decision-record)
-
-
-## [How to find startup help](how-to-find-startup-help)
-
-* [How to find startup ideas](how-to-find-startup-ideas)
-* [How to find startup mentors](how-to-find-startup-mentors)
-* [How to find startup investors](how-to-find-startup-investors)
-* [How to find startup employees](how-to-find-startup-employees)
-* [How to find startup consultants](how-to-find-startup-consultants)
-* [How to find startup recruiters](how-to-find-startup-employees)
-* [How to find startup loans](how-to-find-startup-loans)
 
 
 ## [Company leadership roles](company-leadership-roles)
@@ -151,19 +151,18 @@
 * [Medtech (Medical technology)](medtech)
 
 
-## Project liftoff
+## [Project management](project-management)
 
+* [Inception](inception)
+* [Liftoff](liftoff)
+* [Project charter](project-charter)
 * [Statement Of Work (SOW)](statement-of-work)
 * [Functional specifications](functional-specifications)
 * [Software development life cycle (SDLC)](software-development-life-cycle)
-
-
-## [Project management](project-management)
-
 * [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
+* [Program Evaluation and Review Technique (PERT)](program-evaluation-and-review-technique)
 * [Gantt chart](gantt-chart)
 * [Quad chart](quad-chart)
-* [Program Evaluation and Review Technique (PERT)](program-evaluation-and-review-technique)
 * [Resource leveling](resource-leveling)
 * [Critical chain project management](critical-chain-project-management)
 * [Critical path project management](critical-path-project-management)
@@ -203,6 +202,8 @@
 
 * [Landing page](landing-page)
 * [Site map](site-map)
+* [Responsive design](responsive-design)
+* [Mobile-first design](mobile-first-design)
 
 
 ## [Enterprise companies]
@@ -324,7 +325,20 @@
 * [Maturity models](maturity-models)
 * [Predictive analytics](predictive-analytics)
 * [Stakeholder analysis](stakeholder-analysis)
+* [Feasibility analysis](feasibility-analysis)
+  
 
+## [Statistical analysis](statistical-analysis)
+
+* [Correlation](correlation)
+* [Causation](causation)
+* [Probability](probability)
+* [Variance](variance)
+* [Trend analysis](trend-analysis)
+* [Anomaly detection](anomaly-detection)
+* [Regression to the mean](regression-to-the-mean)
+* [Bayes' theorem](bayes-theorem)
+  
 
 ## Investors
 
@@ -549,38 +563,6 @@
 * [Refactoring](refactoring)
 
 
-## Software metrics
-
-* [DORA metrics](dora-metrics)
-* [Mean Time To Repair (MTTR)](mean-time-to-repair)
-  
-
-## [Access control](access-control)
-
-* [Authentication](authentication)
-* [Authorization](authorization)
-* [Access Control List (ACL)](access-control-list)
-* [Discretionary Access Control (DAC)](discretionary-access-control)
-* [Role-Based Access Control (RBAC)](role-based-access-control)
-* [Attribute-Based Access Control (ABAC)](attribute-based-access-control)
-
-
-## [Version control](version-control)
-
-* [Commit](commit)
-* [Topic branch](topic-branch)
-* [Pull request](pull-request)
-* [Gitflow](gitflow)
-* [Trunk-based development](trunk-based-development)
-
-
-## [DevOps](devops)
-
-* [Continuous delivery](continuous-delivery)
-* [Continuous deployment](continuous-deployment)
-* [Continuous integration](continuous-integration)
-
-
 ## [Software design approaches](software-design-approaches)
 
 * [Level-Oriented Design (LOD)](level-oriented-design)
@@ -625,6 +607,8 @@
 * [PACELC theorem](cap-theorem)
 * [Lamport timestamp](lamport-timestamp)
 * [Vector clock](vector-clock)
+* [Data-at-rest](data-at-rest)
+* [Data-in-motion](data-in-motion)
 
 
 ## [Algorithms](algorithms)
@@ -739,6 +723,23 @@
 * [Entity-relationship diagram (ERD)](entity-relationship-diagram)
 
 
+## Software metrics
+
+* [DORA metrics](dora-metrics)
+* [Mean Time To Repair (MTTR)](mean-time-to-repair)
+
+
+## [Access control](access-control)
+
+* [Authentication](authentication)
+* [Authorization](authorization)
+* [Authentication, Authorization, Accounting, Auditing (AAAA)](authentication-authorization-accounting-auditing)
+* [Access Control List (ACL)](access-control-list)
+* [Discretionary Access Control (DAC)](discretionary-access-control)
+* [Role-Based Access Control (RBAC)](role-based-access-control)
+* [Attribute-Based Access Control (ABAC)](attribute-based-access-control)
+
+
 ## [Software testing](software-testing)
 
 * [Unit testing](unit-testing)
@@ -756,6 +757,22 @@
 * [Bug bounty](bug-bounty)
 
 
+## [Version control](version-control)
+
+* [Commit](commit)
+* [Topic branch](topic-branch)
+* [Pull request](pull-request)
+* [Gitflow](gitflow)
+* [Trunk-based development](trunk-based-development)
+
+
+## [DevOps](devops)
+
+* [Continuous delivery](continuous-delivery)
+* [Continuous deployment](continuous-deployment)
+* [Continuous integration](continuous-integration)
+
+
 ## [Security attacks](security-attacks)
 
 * [Social engineering](social-engineering)
@@ -765,3 +782,16 @@
 * [Malware](malware)
 * [Ransomware](ransomware)
 * [SQL injection](sql-injection)
+* [Security by obscurity](security-by-obscurity)
+
+
+## [Security mitigations](security-mitigations)
+
+* [Defense in depth](defense-in-depth)
+* [Perfect Forward Secrecy (PFS)](perfect-forward-secrecy)
+* [Intrusion Detection System (IDS)](intrusion-detection-system)
+* [Security Information and Event Management (SIEM)](security-information-and-event-management)
+* [Transport Layer Security (TLS)](transport-layer-security)
+* [Secure Sockets Layer (SSL)](secure-sockets-layer)
+* [Digital certificate](digital-certificate)
+* [Certificate Authority (CA)](certificate-authority)
