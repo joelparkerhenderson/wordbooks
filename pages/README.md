@@ -8,7 +8,7 @@
 * [Values statement](values-statement) + [examples](values-statement-examples)
 
 
-## [Startup discovery]
+## [Startup discovery](startup-discovery)
 
 * [Market discovery](market-discovery) + [questions](market-discovery-questions)
 * [Customer discovery](customer-discovery) + [questions](customer-discovery-questions)
@@ -143,12 +143,17 @@
 
 ## [Technology sectors](technology-sectors)
 
+* [Adtech (Adversiting technology)](adtech)
+* [Agtech (Agricultural technology)](agtech)
+* [Cleantech (Clean technology)](cleantech)
 * [Biotech (Biological technology)](biotech)
 * [Edtech (Educational technology)](edtech)
 * [Fintech (Financial technology)](fintech)
 * [Govtech (Governmental techology)](govtech)
 * [Legtech (Legal technology)](legtech)
 * [Medtech (Medical technology)](medtech)
+* [Regtech (Regulatory technology)](regtech)
+* [Realtech (Real estate technology)](realtech)
 
 
 ## [Project management](project-management)
@@ -213,6 +218,14 @@
 * [Enterprise Change Management (ECM)](enterprise-change-management)
 * [Enterprise Architecture (EA)](enterprise-architecture)
 * [Enterprise software](enterprise-software)
+
+
+## Cryptocurrency
+
+* [Blockchain](blockchain)
+* [Bitcoin](bitcoin)
+* [Etherium](etherium)
+* [Smart contract](smart-contract)
 
 
 ## Book lists

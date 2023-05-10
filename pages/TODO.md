@@ -1,10 +1,29 @@
 
 
+Ad tech:
+* Demand-side platforms (DSPs): These are software platforms that allow advertisers to buy ad inventory across multiple ad exchanges and supply-side platforms (SSPs) in real-time. DSPs use sophisticated algorithms to evaluate ad inventory and target audiences based on factors such as demographics, location, behavior, and device.
+
+* Supply-side platforms (SSPs): These are software platforms that allow publishers to sell ad inventory across multiple ad exchanges and DSPs in real-time. SSPs use sophisticated algorithms to evaluate ad inventory and maximize revenue by optimizing the price and placement of ads.
+
+* Data management platforms (DMPs):
+
+* Property Management Software: This type of software can help property managers to manage their properties more efficiently by automating tasks such as rent collection, maintenance requests, and lease management.
+
+Virtual reality
+Augmented Reality
+Metaverse
+
+proof-of-work
+proof-of-stake
+
+Big Data
+
+Two-sided marketplace
+
 
     Agile assessment
     Always improving: book summaries
     Architecture Decision Record (ADR)
-    Code of conduct guidelines
     Company culture
     Crucial conversations
     Decision Record (DR) template
@@ -12,8 +31,6 @@
     Enterprise architecture assessment
     Feedback request template
     Issues
-    Key Performance Indicator (KPI)
-    Key Risk Indicator (KRI)
     Leadership: selected notes & advice
     Lean business lists
     Maturity models (MMs)
@@ -22,50 +39,35 @@
     Pitch deck quick start
     Powerful questions: insight, innovation, action
     Project management checklist
-    Queueing theory
-    SMART criteria
     Software development methodologies
-    Stakeholder analysis
     Strategic Balanced Scorecard (SBS)
-    System quality attributes (SQAs)
-    Thought leadership writing
     Wordbooks: glossaries, lexicons, terminology
-    Confidentiality agreement
-    Consulting agreement
 
+[Software architecture](software-architecture)
+    
 
-squad (spotify)
-community of practice
+international marketing
+
+Qualitative & quantitative
+
 stakeholders
 subcontracting
 freelancing
 constraint satistfaction
 simulated annealing
 neural networks
-inclusive language
-version control
 message-passing programming
 API, REST, GraphQL, SQL, etc.
-
-EBITA
-
-Ready:
-
-* [Acquihire](acquihire)
-
-
 
 Getting to Yes (book)
 
 
 managing-people-by-andreas-klinger.md
-focus group
 hackfest
-bug bounty
 call to action (CTA)
 pilot project
 privacy policy
-GDPR
+
 
 Bare:
 
@@ -184,7 +186,6 @@ steve-blank-startup-advice.md
 strategic-control.md
 strategic-management.md
 strategy-map.md
-strategy-markup-language.md
 systems-modeling-language.md
 technology-adoption-life-cycle.md
 the-beginners-guide-to-startup-analytics.md
@@ -209,7 +210,6 @@ better-than-free.md
 business-strategy-frameworks.md
 canvas.md
 crazy-and-good.md
-critical-to-quality-ctq.md
 customer-development-interview-questions-by-wrkshp.md
 daily-habits-of-high-achievers.md
 delight-your-users.md
@@ -241,7 +241,6 @@ lean-startup.md
 lessons-learned-as-a-software-developer-turned-project-manager.md
 measurement-anti-patterns.md
 measuring-an-engineering-organization.md
-mini-habits-by-stephen-guise.md
 move-fast-total-ownership-culture.md
 product-market-fit.md
 product-positioning-exercise-by-april-dunford.md
@@ -269,12 +268,12 @@ what-are-investors-looking-for.md
 what-i-wish-i-knew-about-onboarding-effectively.md
 what-silicon-valley-gets-right.md
 
+proof-of-work
+proof-of-stake
+
+https://en.wikipedia.org/wiki/Cognitive_bias
 
 Security attacks:
-
-* Malware: Malware is malicious software that is designed to infiltrate or damage a computer system. This includes viruses, worms, trojans, and ransomware.
-
-* Phishing: Phishing attacks are social engineering attacks where attackers send emails, texts, or other messages that appear to be from a legitimate source, such as a bank or company, to trick users into providing sensitive information such as passwords or credit card numbers.
 
 * DDoS attacks: Distributed Denial of Service (DDoS) attacks are a type of cyber-attack that involve overwhelming a targeted system with traffic to make it unavailable to legitimate users.
 
