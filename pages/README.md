@@ -36,7 +36,8 @@
 * [Investment Readiness Level (IRL)](investment-readiness-level)
 * [OODA loop](ooda-loop)
 * [Agile chartering](agile-chartering)
-  
+* [Decision record](decision-record)
+
 
 ## [How to find startup help](how-to-find-startup-help)
 
@@ -77,6 +78,7 @@
 * [Social value orientation (SVO)](social-value-orientation)
 * [Triple bottom line (TBL)](triple-bottom-line)
 * [Code of conduct](code-of-conduct)
+* [Inclusive language](inclusive-language)
 
 
 ## Market
@@ -96,7 +98,8 @@
 * [Word-of-mouth marketing (WOMM)](word-of-mouth-marketing)
 * [Customer relationship management (CRM)](customer-relationship-management)
 * [Stealth mode](stealth-mode)
-* [Brand recognition](brand-recognition)
+* [Thought leadership](thought-leadership)
+  
 
 ## X-to-Y
 
@@ -168,7 +171,7 @@
 * [Kanban](kanban)
 * [Scrum](scrum)
 * [Swimlanes](swimlanes)
-
+* [Global Supply Chain Management (GSCM)](global-supply-chain-management)
 
 ## Skills & Learning
 
@@ -273,6 +276,7 @@
 * [Community of Practice (CoP)](community-of-practice)
 * [The Spotify Model](the-spotify-model)
 * [Forming, Storming, Norming, Performing (FSNP)](forming-storming-norming-performing)
+* [Acquihire](acquihire)
 
 
 ## Teamwork
@@ -307,6 +311,7 @@
 * [Value stream mapping (VSM)](value-stream-mapping)
 * [Maturity models](maturity-models)
 * [Predictive analytics](predictive-analytics)
+* [Stakeholder analysis](stakeholder-analysis)
 
 
 ## Investors
@@ -333,6 +338,7 @@
 * [Product-market fit (PMF)](product-market-fit)
 * [Validated learning](validated-learning)
 * [Early evangelists](early-evangelists)
+* [Time-to-market (TTM)](time-to-market)
 
 
 ## Strategic insights
@@ -370,6 +376,7 @@
 ## [Legal agreements](legal-agreements)
 
 * [Employee agreement](employee-agreement)
+* [Consulting agreement](consulting-agreement)
 * [Service agreement](service-agreement)
 * [Confidentiality agreement](confidentiality-agreement)
 * [Non-disclosure agreement (NDA)](non-disclosure-agreement)
@@ -392,6 +399,19 @@
 * [Technical Assistance Agreement (TAA)](technical-assistance-agreement)
 
 
+## Work contracts
+
+* [Fixed-price contract](fixed-price-contract)
+* [Cost-plus contract](cost-plus-contract)
+* [Time and materials contract](time-and-materials-contract)
+
+
+## [Compliance](compliance)
+
+* [Americans with Disabilities Act (ADA)](americans-with-disabilities-act)
+* [General Data Protection Regulation (GDPR)](general-data-protection-regulation)
+
+
 ## Brand 
 
 * [Brand value](brand-value)
@@ -399,10 +419,14 @@
 * [Brand visibility](brand-visibility)
 * [Brand association](brand-association)
 * [Brand loyalty](brand-loyalty)
+* [Brand marketing](brand-marketing)
+* [Brand recognition](brand-recognition)
+* [Brand positioning](brand-positioning)
 
 
 ## Business metrics
 
+* [Earnings before interest, taxes, amortization (EBITA)](earnings-before-interest-taxes-amortization)
 * [Annual Recurring Revenue (ARR)](annual-recurring-revenue)
 * [Burn rate](burn-rate)
 * [Traction](traction)
@@ -421,6 +445,7 @@
 * [Wireframes](wireframes)
 * [Personas](personas)
 * [Journeys](journeys)
+* [Focus group](focus-group)
 * [Use cases](use-cases)
 * [User stories](user-stories)
 * [Use cases versus user stories](use-cases-and-user-stories)
@@ -455,7 +480,7 @@
 * [Profit sharing](profit-sharing)
 
 
-## So-called laws & principles
+## Laws & principles
 
 * [Brooks' Law](brooks-law)
 * [Conway's Law](conways-law)
@@ -504,6 +529,12 @@
 * [Good Enough For Now (GEFN)](good-enough-for-now)
 * [Technical debt](technical-debt)
 * [Refactoring](refactoring)
+
+
+## Software metrics
+
+* [DORA metrics](dora-metrics)
+* [Mean Time To Repair (MTTR)](mean-time-to-repair)
   
 
 ## [Access control](access-control)
@@ -514,6 +545,22 @@
 * [Discretionary Access Control (DAC)](discretionary-access-control)
 * [Role-Based Access Control (RBAC)](role-based-access-control)
 * [Attribute-Based Access Control (ABAC)](attribute-based-access-control)
+
+
+## [Version control](version-control)
+
+* [Commit](commit)
+* [Topic branch](topic-branch)
+* [Pull request](pull-request)
+* [Gitflow](gitflow)
+* [Trunk-based development](trunk-based-development)
+
+
+## [DevOps](devops)
+
+* [Continuous delivery](continuous-delivery)
+* [Continuous deployment](continuous-deployment)
+* [Continuous integration](continuous-integration)
 
 
 ## [Software design approaches](software-design-approaches)
@@ -578,6 +625,7 @@
 * [Array data structure](array-data-structure)
 * [Graph data structure](graph-data-structure)
 * [Tree data structure](tree-data-structure)
+* [Tagged union](tagged-union)
 * [Bloom filter](bloom-filter)
 * [Kalman filter](kalman-filter)
 
@@ -626,6 +674,8 @@
 * [Serialization](serialization)
 * [Message queue](message-queue)
 * [Tuple space](tuple-space)
+* [Checked exceptions](checked-exceptions)
+* [Queueing theory](queueing-theory)
 * [Asynchronous processing (asynchronicity)](asynchronous-processing)
 * [Parallel processing (parallelism)](parallel-processing)
 * [Concurrent processing (concurrency)](concurrent-processing)
@@ -685,6 +735,7 @@
 * [Security testing](security-testing)
 * [Penetration testing](penetration-testing)
 * [Shift-left testing](shift-left-testing)
+* [Bug bounty](bug-bounty)
 
 
 ## [Security attacks](security-attacks)
