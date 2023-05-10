@@ -171,7 +171,10 @@
 * [Kanban](kanban)
 * [Scrum](scrum)
 * [Swimlanes](swimlanes)
-* [Global Supply Chain Management (GSCM)](global-supply-chain-management)
+* [Supply chain management (SCM)](supply-chain-management)
+* [Global supply chain management (GSCM)](global-supply-chain-management)
+* [Business intelligence (BI)](business-intelligence)
+
 
 ## Skills & Learning
 
@@ -200,6 +203,15 @@
 
 * [Landing page](landing-page)
 * [Site map](site-map)
+
+
+## [Enterprise companies]
+
+* [Enterprise Portfolio Project Management (EPPM)](enterprise-portfolio-project-management)
+* [Enterprise Resource Planning (ERP)](enterprise-resource-planning)
+* [Enterprise Change Management (ECM)](enterprise-change-management)
+* [Enterprise Architecture (EA)](enterprise-architecture)
+* [Enterprise software](enterprise-software)
 
 
 ## Book lists
@@ -408,9 +420,15 @@
 
 ## [Compliance](compliance)
 
-* [Americans with Disabilities Act (ADA)](americans-with-disabilities-act)
+* [International Standard on Assurance Engagements 3000 (ISAE 3000)](international-standard-on-assurance-engagements-3000)
+* [Service Organization Control 2 (SOC 2)](service-organization-control-2)
+* [Sarbanes-Oxley Act (SOX)](sarbanes-oxley-act)
 * [General Data Protection Regulation (GDPR)](general-data-protection-regulation)
-
+* [Americans with Disabilities Act (ADA)](americans-with-disabilities-act)
+* [Health Insurance Portability and Accountability Act (HIPAA)](health-insurance-portability-and-accountability-act)
+* [Family Educational Rights and Privacy Act (FERPA)](family-educational-rights-and-privacy-act)
+* [Payment Card Industry Data Security Standard (PCI DSS)](payment-card-industry-data-security-standard)
+  
 
 ## Brand 
 
