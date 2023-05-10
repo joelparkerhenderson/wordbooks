@@ -127,6 +127,7 @@
 * [Oblique strategies](oblique-strategies)
 * [Issue tracker](issue-tracker)
 * [Mind map](mind-map)
+* [Decision tree](decision-tree)
 * [ADKAR change management model](adkar-change-management-model)
 * [Business continuity](business-continuity)
 * [Operational resilience](operational-resilience)
@@ -377,6 +378,27 @@
 * [Work-for-hire agreement](work-for-hire-agreement)
 * [Letter Of Intent (LOI)](letter-of-intent)
 * [Memorandum Of Understanding (MOU)](memorandum-of-understanding)
+* [Arbitration agreement](arbitration-agreement)
+
+
+## [Technology transfer agreements](technology-transfer-agreements)
+
+* [Licensing agreement (LA)](licensing-agreement)
+* [Joint development agreement (JDA)](joint-development-agreement)
+* [Assignment agreement (AA)](assignment-agreement)
+* [Cooperative Research and Development Agreement (CRADA)](cooperative-research-and-development-agreement)
+* [Facility Use/Service Agreement (FUSA)](facility-use-service-agreement)
+* [Material Transfer Agreement (MTA)](material-transfer-agreement)
+* [Technical Assistance Agreement (TAA)](technical-assistance-agreement)
+
+
+## Brand 
+
+* [Brand value](brand-value)
+* [Brand equity](brand-equity)
+* [Brand visibility](brand-visibility)
+* [Brand association](brand-association)
+* [Brand loyalty](brand-loyalty)
 
 
 ## Business metrics
@@ -481,6 +503,17 @@
 * [Quality of Service (QoS) for networks](quality-of-service-for-networks)
 * [Good Enough For Now (GEFN)](good-enough-for-now)
 * [Technical debt](technical-debt)
+* [Refactoring](refactoring)
+  
+
+## [Access control](access-control)
+
+* [Authentication](authentication)
+* [Authorization](authorization)
+* [Access Control List (ACL)](access-control-list)
+* [Discretionary Access Control (DAC)](discretionary-access-control)
+* [Role-Based Access Control (RBAC)](role-based-access-control)
+* [Attribute-Based Access Control (ABAC)](attribute-based-access-control)
 
 
 ## [Software design approaches](software-design-approaches)
@@ -572,10 +605,13 @@
 * [Artificial intelligence (AI)](artificial-intelligence)
 * [Machine learning (ML)](machine-learning)
 * [Case-based reasoning (CBR)](case-based-reasoning)
+* [Natural Language Processing (NLP)](natural-language-processing)
+* [Expert system](expert-system)
 * [Constraint satisfaction](constraint-satisfaction)
 * [Event-Driven Architecture (EDA)](event-driven-architecture)
 * [Network protocols](network-protocols)
 * [MapReduce](map-reduce)
+* [State machine](state-machine)
 * [Coordinated disclosure](coordinated-disclosure)
 * Responsible disclosure: see coordinated disclosure
 * [Compression](compression)
