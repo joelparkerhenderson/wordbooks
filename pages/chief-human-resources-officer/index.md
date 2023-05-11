@@ -2,7 +2,7 @@
 
 The Chief Human Resources Officer (CHRO) is a high-ranking executive in an organization who is responsible for managing and overseeing all aspects of the company's human resources functions. This individual typically reports directly to the CEO or COO and is a member of the senior leadership team.
 
-The CHRO is responsible for developing and executing strategies that ensure the organization attracts, develops, and retains the talent needed to achieve its business objectives. This includes overseeing a range of HR functions, such as recruitment and staffing, compensation and benefits, employee relations, training and development, performance management, and diversity and inclusion initiatives.
+The CHRO is responsible for developing and executing strategies that ensure the organization attracts, develops, and retains the talent needed to achieve its business objectives.
 
 Some of the key responsibilities of the CHRO may include:
 

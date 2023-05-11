@@ -1,3 +1,5 @@
+# Monopoly effects
+
 Monopoly effects refer to the economic and social consequences of a market dominated by a single company or group. When a company holds a monopoly, it has complete control over the supply of a particular product or service and can charge high prices to consumers without fear of competition.
 
 One of the primary negative effects of a monopoly is that it can lead to a lack of innovation. With no competition, the dominant company has little incentive to invest in research and development or to create new and improved products or services. This can result in a stagnation of the market, leaving consumers with limited choices and outdated offerings.

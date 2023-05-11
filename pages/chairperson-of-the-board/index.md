@@ -1,8 +1,8 @@
 # Chairperson of the Board (COB)
 
-The chairperson of the board (COB), also known as the board chair or board president, is responsible for leading the board of directors of an organization. The board chair is usually elected by the other board members and serves as the highest-ranking officer of the board.
+The chairperson of the board (COB), also known as the board chair or board president, is responsible for leading the board of directors of an organization. The board chair plays a critical role in the success of an organization, providing leadership, guidance, and oversight to the board of directors. The board chair is usually elected by the other board members.
 
-The role of the board chair varies depending on the organization, but some common responsibilities include:
+Typical COB responsibilities include:
 
 * Leading board meetings: The board chair is responsible for running board meetings, setting the agenda, and ensuring that all board members have an opportunity to participate.
 
@@ -15,5 +15,3 @@ The role of the board chair varies depending on the organization, but some commo
 * Overseeing board performance: The board chair is responsible for overseeing the performance of the board as a whole, ensuring that the board is functioning effectively and meeting its obligations.
 
 * Ensuring compliance: The board chair is responsible for ensuring that the organization is in compliance with relevant laws and regulations, and that the board is fulfilling its legal and ethical responsibilities.
-
-Overall, the board chair plays a critical role in the success of an organization, providing leadership, guidance, and oversight to the board of directors.

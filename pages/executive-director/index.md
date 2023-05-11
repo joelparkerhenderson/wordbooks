@@ -2,7 +2,7 @@
 
 The Executive Director (ED) is a senior leadership position in a non-profit or for-profit organization responsible for the overall strategic direction and operations of the organization. The ED reports to the board of directors and is accountable for implementing policies and decisions made by the board.
 
-The specific responsibilities of an ED can vary depending on the organization's size, mission, and goals. However, in general, the ED's main responsibilities include:
+The ED's main responsibilities include:
 
 * Strategic Planning: Developing and implementing strategic plans to achieve the organization's goals and objectives.
 

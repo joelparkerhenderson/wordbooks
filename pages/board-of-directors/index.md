@@ -1,6 +1,6 @@
 # Board of directors (BOD)
 
-The board of directors (BOD) is a group of individuals who oversee the management and direction of a company or organization. They are elected or appointed by the shareholders or members of the organization and are responsible for ensuring that the company is being run in a way that maximizes shareholder value while minimizing risk.
+The board of directors (BOD) is a group of individuals who oversee the management and direction of a company or organization. They are responsible for ensuring that the company is being run in a way that maximizes value and minimizes risk. They are elected or appointed by the shareholders or members of the organization. 
 
 The BOD has a number of key responsibilities, including:
 
@@ -16,4 +16,4 @@ The BOD has a number of key responsibilities, including:
 
 * Protecting shareholders' interests: The board represents the interests of shareholders and ensures that the company is being run in a way that maximizes shareholder value.
 
-The BOD typically meets several times a year, with additional meetings called as needed. Board members are expected to attend all meetings and actively participate in discussions and decision-making. They are also expected to maintain confidentiality about company information and to avoid conflicts of interest.
+The BOD typically meets several times a year, with additional meetings called as needed. Board members are expected to attend all meetings and actively participate in discussions and decision-making.

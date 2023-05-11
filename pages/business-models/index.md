@@ -15,5 +15,3 @@ There are many different types of business models, each with its own unique stre
 * Marketplace model: This model involves connecting buyers and sellers through a platform and taking a commission on each transaction, such as with online marketplaces like eBay or Etsy.
 
 * Franchise model: This model involves licensing a business model to third-party operators who pay a fee for the right to use the brand name and operating system.
-
-In addition to these models, there are many other variations and combinations of business models that companies can use to meet their unique needs and goals.

@@ -1,25 +1,31 @@
 # Mission statement examples
 
-Here are some examples of mission statements from various organizations.
+Amazon: We strive to offer our customers the lowest possible prices, the best available selection, and the utmost convenience.
 
-Tesla: "Accelerate the world's transition to sustainable energy."
+Airbnb: Help create a world where you can belong anywhere and where people can live in a place, instead of just traveling to it.
 
-Nike: "Bring inspiration and innovation to every body in the world."
+Disney: Be one of the world’s leading producers and providers of entertainment and information, using its portfolio of brands to differentiate its content, services and consumer products.
 
-Google: Organize the world's information and make it universally accessible and useful."
+Facebook: Give people the power to share and make the world more open and connected.
 
-Amazon: "Be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online."
+Google: Organize the world’s information and make it universally accessible and useful.
 
-Microsoft: "Empower every person and every organization on the planet to achieve more."
+Intel: Bring smart connected devices to every person on earth.
 
-Patagonia: "Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis."
+LinkedIn: Connect the world’s professionals to make them more productive and successful.
 
-Airbnb: "Help create a world where you can belong anywhere and where people can live in a place, instead of just traveling to it."
+TED: Spread ideas.
 
-Coca-Cola: "Refresh the world in mind, body and spirit. To inspire moments of optimism and happiness through our brands and actions."
+Zappos: Provide the best customer service possible. Deliver WOW through service.
 
-LinkedIn: "Connect the world's professionals to make them more productive and successful."
+Tesla: Accelerate the world's transition to sustainable energy.
 
-Starbucks: "Inspire and nurture the human spirit – one person, one cup and one neighborhood at a time."
+Nike: Bring inspiration and innovation to every body in the world.
 
-These are just a few examples of mission statements from successful organizations. A well-crafted mission statement can help to guide decision-making, inspire employees, and attract customers who share similar values.
+Microsoft: Empower every person and every organization on the planet to achieve more.
+
+Patagonia: Build the best product, cause no unnecessary harm, use business to inspire and implement solutions to the environmental crisis.
+
+Coca-Cola: Refresh the world in mind, body and spirit. To inspire moments of optimism and happiness through our brands and actions.
+
+Starbucks: Inspire and nurture the human spirit – one person, one cup and one neighborhood at a time.

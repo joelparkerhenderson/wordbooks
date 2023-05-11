@@ -1,6 +1,6 @@
 # DMAIC methodology
 
-DMAIC is a problem-solving methodology used in the Six Sigma approach to continuous improvement. The acronym stands for Define, Measure, Analyze, Improve, and Control. Each step of the process is designed to identify, analyze, and improve business processes to achieve a higher level of quality and efficiency.
+DMAIC is a problem-solving methodology used in the Six Sigma approach to continuous improvement. The acronym stands for Define, Measure, Analyze, Improve, and Control. Each step of the process is designed to achieve a higher level of quality and efficiency.
 
 1. Define: In this stage, the problem to be solved is clearly defined, and the goals for the project are established. A team is assembled to lead the effort, and a project charter is created to outline the scope of the project, objectives, timelines, and resources required.
 
@@ -11,5 +11,3 @@ DMAIC is a problem-solving methodology used in the Six Sigma approach to continu
 4. Improve: The fourth stage of DMAIC involves using the data collected to improve the process. The team develops and implements a plan to address the root cause of the problem. This step involves brainstorming ideas for process improvement and evaluating the potential solutions to select the best option.
 
 5. Control: The final stage of DMAIC is to ensure that the improvements made in the previous stage are sustainable. This step involves developing a plan to monitor the process and measure performance to ensure that the changes made are successful.
-
-DMAIC analysis can help organizations to improve their processes by identifying and addressing the root causes of problems. By following this methodology, businesses can achieve higher levels of quality, efficiency, and customer satisfaction.

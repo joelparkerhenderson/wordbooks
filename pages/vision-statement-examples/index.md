@@ -1,17 +1,31 @@
 # Vision statement examples
 
-Tesla: "Accelerate the world's transition to sustainable energy." This vision statement reflects Tesla's commitment to developing and producing electric vehicles and renewable energy technologies, and helping to reduce carbon emissions and combat climate change.
+Amazon: To be Earth’s most customer-centric company, where customers can find and discover anything they might want to buy online.
 
-Google: "Organize the world's information and make it universally accessible and useful." This vision statement reflects Google's mission to create innovative technologies and services that make it easier for people to find and use information online.
+Amnesty International: A world in which every person enjoys all of the human rights enshrined in the Universal Declaration of Human Rights and other international human rights instruments.
 
-Airbnb: "Belong anywhere." This mission statement reflects Airbnb's focus on creating a community-driven platform that connects people around the world and helps them feel at home, no matter where they are.
+Charles Schwab: Helping investors help themselves.
 
-Amazon: "Be Earth's most customer-centric company, where customers can find and discover anything they might want to buy online." This vision statement reflects Amazon's focus on delivering exceptional customer experiences and offering a wide range of products and services to customers around the world.
+Creative Commons:  Nothing less than realizing the full potential of the Internet — universal access to research and education, full participation in culture — to drive a new era of development, growth, and productivity.
 
-Nike: "Bring inspiration and innovation to every athlete in the world." This vision statement reflects Nike's commitment to developing and producing innovative sports apparel and footwear, and empowering athletes of all levels to achieve their goals and pursue their passions.
+Disney: To make people happy.
 
-Microsoft: "Empower every person and every organization on the planet to achieve more." This vision statement reflects Microsoft's mission to create innovative software and technology solutions that help people and businesses be more productive, efficient, and successful.
+Facebook: People use Facebook to stay connected with friends and family, to discover what’s going on in the world, and to share and express what matters to them.
 
-Coca-Cola: "Refresh the world in mind, body, and spirit. To inspire moments of optimism and happiness through our brands and actions." This vision statement reflects Coca-Cola's dedication to creating enjoyable and uplifting experiences for its customers and promoting happiness and positivity.
+Google: To provide access to the world’s information in one click.
 
-Unilever: "Make sustainable living commonplace." This vision statement reflects Unilever's commitment to integrating sustainability into all aspects of its business and promoting sustainable living among its customers and stakeholders.
+Intel: If it is smart and connected, it is best with Intel.
+
+LinkedIn: Create economic opportunity for every member of the global workforce.
+
+Samsung:  Inspire the world. Create the future.
+
+Sony: Our vision is to use our passion for technology, content and services to deliver kando, in ways that only Sony can.
+
+TED: We believe passionately in the power of ideas to change attitudes, lives and, ultimately, the world. 
+
+Whole Foods: Whole Foods, Whole People, Whole Planet.
+
+Wikipedia: Imagine a world in which every single person is given free access to the sum of all human knowledge.
+
+Zappos: Delivering happiness to customers, employees, and vendors.

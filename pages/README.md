@@ -55,7 +55,7 @@
 
 ## [Business models](business-models)
 
-* [Direct sales business model](direct-sales-business-model)
+* [Direct sales business model](direct-sales-business-model) + [pros & cons](direct-sales-business-model-pros-cons)
 * [Subscription business model](subscription-business-model)
 * [Advertising business model](advertising-business-model)
 * [Marketplace business model](marketplace-business-model)
@@ -75,7 +75,7 @@
 * [Free trial](free-trial)
 
 
-## Tactical tools
+## TODO
 
 * [Elevator pitch](elevator-pitch)
 * [Pitch deck](pitch-deck)
@@ -92,6 +92,7 @@
 * [DMAIC methodology](dmaic-methodology)
 * [Economic moat](economic-moat)
 * [Economies of scale](economies-of-scale)
+* [Winner-take-all](winner-take-all)
 
 
 ## [Company leadership roles](company-leadership-roles)
@@ -205,6 +206,7 @@
 * [Gantt chart](gantt-chart)
 * [Quad chart](quad-chart)
 * [Resource leveling](resource-leveling)
+* [Constraint satisfaction](constraint-satisfaction)
 * [Critical chain project management](critical-chain-project-management)
 * [Critical path project management](critical-path-project-management)
 * [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
@@ -455,9 +457,10 @@
 * [Non-compete agreement](non-compete-agreement)
 * [Non-solicitation agreement](non-solicitation-agreement)
 * [Work-for-hire agreement](work-for-hire-agreement)
+* [Arbitration agreement](arbitration-agreement)
 * [Letter Of Intent (LOI)](letter-of-intent)
 * [Memorandum Of Understanding (MOU)](memorandum-of-understanding)
-* [Arbitration agreement](arbitration-agreement)
+* [Power Of Attorney (POA)](power-of-attorney)
 
 
 ## [Technology transfer agreements](technology-transfer-agreements)
@@ -623,7 +626,7 @@
 * [Extensible Markup Language (XML)](extensible-markup-language)
 * [Financial Products Markup Language (FPML)](financial-products-markup-language)
 * [Graph Query Language (GraphQL)](graph-query-language)
-* [Geography Markup Language (GML)](geography-query-language)
+* [Geography Markup Language (GML)](geography-markup-language)
 * [Hypertext Markup Language (HTML)](hypertext-markup-language)
 * [SPARQL Protocol and RDF Query Language (SPARQL)](sparql-protocol-and-rdf-query-language)
 * [Strategy Markup Language (StratML)](strategy-markup-language)
@@ -668,7 +671,7 @@
 * [Object-Oriented Programming (OOP)](object-oriented-programming)
 * [Aspect-Oriented Programming (AOP)](aspect-oriented-programming)
 * [Message-Oriented Programming (MOP)](message-oriented-programming)
-* [Event-Driven Programming (EDP)](event-drivent-programming)
+* [Event-Driven Programming (EDP)](event-driven-programming)
 * [Functional Programming](functional-programming)
 * [Procedural Programming](procedural-programming)
 * [Logic Programming](logic-programming)
@@ -785,7 +788,7 @@
 
 * [Traveling Salesman Problem](traveling-salesman-problem)
 * [Knapsack Problem](knapsack-problem)
-* [Tower of Hanoi Problem](towers-of-hanoi-problem)
+* [Tower of Hanoi Problem](tower-of-hanoi-problem)
 * [Dining Philosophers Problem](dining-philosophers-problem)
 * [N-queens Problem](n-queens-problem)
 * [Byzantine Generals Problem](byzantine-generals-problem)
@@ -868,8 +871,8 @@
 
 * [Social engineering](social-engineering)
 * [Piggyback attack](piggyback-attack)
-* [Phishing](phishing-attack)
-* [Spear phishing](spear-phishing-attack)
+* [Phishing](phishing)
+* [Spear phishing](spear-phishing)
 * [Malware](malware)
 * [Ransomware](ransomware)
 * [SQL injection](sql-injection)

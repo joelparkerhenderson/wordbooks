@@ -11,5 +11,3 @@ The purpose of a strategy map is to help organizations:
 * Align resources: A strategy map can help organizations ensure that their resources, including people, processes, and technology, are aligned with their strategic objectives. By linking specific initiatives and KPIs to each objective, organizations can prioritize their resources and ensure that they are focused on the most important strategic goals.
 
 * Monitor progress: A strategy map can help organizations track their progress towards achieving their strategic objectives. By monitoring specific KPIs and measuring progress against predefined targets, organizations can identify areas where they are succeeding and areas where they need to improve.
-
-Overall, a strategy map is a valuable tool for any organization looking to define and communicate its strategy, align its resources, and monitor its progress towards achieving its goals. It provides a clear and concise way to communicate complex information, helps ensure that everyone in the organization is aligned with the strategy, and provides a framework for monitoring and improving performance over time.

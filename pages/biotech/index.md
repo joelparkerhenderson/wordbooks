@@ -1,4 +1,4 @@
-# Biotech
+# Biotech (Biological technology)
 
 Biotech, short for biological technology, refers to the use of living organisms, cells, and their molecular components to develop new products and technologies for a variety of industries. Biotechnology is a multidisciplinary field that combines aspects of biology, chemistry, physics, engineering, and computer science.
 

@@ -1,4 +1,4 @@
-# Agtech (agricultural technology)
+# Agtech (Agricultural technology)
 
 Agtech, short for agricultural technology, refers to the use of technology to improve various aspects of agriculture and farming practices, with the aim of increasing efficiency, sustainability, and profitability. Agtech has the potential to transform traditional farming methods by integrating modern technologies such as artificial intelligence, drones, precision farming, robotics, and the Internet of Things (IoT) into the agricultural sector.
 

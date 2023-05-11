@@ -13,5 +13,3 @@ Some of the key responsibilities of a CFO include:
 * Risk management: The CFO is responsible for identifying and mitigating financial risks, such as credit and market risks. They work with other executives to ensure that the company's financial policies and procedures comply with relevant laws and regulations.
 
 * Fundraising: The CFO is often responsible for managing the company's fundraising activities, including debt and equity offerings. They work with investors and lenders to secure financing for the company's operations and growth.
-
-The CFO is an essential member of the executive team and often reports directly to the CEO. They work closely with other executives and department heads to ensure that the company's financial strategy aligns with its overall business strategy. A CFO typically has a background in finance or accounting, and may hold a CPA or MBA degree.

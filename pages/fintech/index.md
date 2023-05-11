@@ -16,4 +16,5 @@ The fintech industry includes a wide range of businesses, from startups to estab
 
 * Online banking: These are digital banks that offer online banking services without a physical branch network.
 
-Fintech has the potential to disrupt traditional financial institutions by offering lower fees, faster transactions, and more personalized services. However, it also poses new challenges for regulators and raises concerns around security and data privacy. Overall, fintech is a rapidly evolving field that is transforming the way people interact with financial services.
+Fintech has the potential to disrupt traditional financial institutions by offering lower fees, faster transactions, and more personalized services. However, it also poses new challenges for regulators and raises concerns around security and data privacy.
+

@@ -1,8 +1,6 @@
 # Govtech (Government technology)
 
-Govtech, short for government technology, refers to the use of technology in the public sector to improve efficiency, accountability, and the delivery of services to citizens. It involves the use of modern technology, such as cloud computing, big data analytics, artificial intelligence, and blockchain, to transform traditional government services and make them more accessible, efficient, and effective.
-
-Govtech encompasses a wide range of services, including:
+Govtech, short for government technology, refers to the use of technology in the public sector to improve efficiency, accountability, and the delivery of services to citizens. Govtech encompasses a wide range of services, including:
 
 * Digital transformation of government services: This involves using technology to digitize government services, such as issuing and renewing passports, driving licenses, and birth certificates. Digital transformation aims to make government services more efficient, cost-effective, and accessible to citizens.
 

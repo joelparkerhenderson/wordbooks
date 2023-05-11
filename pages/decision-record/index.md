@@ -4,23 +4,7 @@ A decision record (DR) is a document that captures the decision-making process, 
 
 The purpose of a decision record is to provide a clear record of the decision-making process, which can be used for future reference, accountability, and transparency. Decision records are often used in project management, software development, and other collaborative environments where decisions are made by multiple people.
 
-A decision record typically includes the following information:
-
-* Decision title: A short, descriptive title that summarizes the decision.
-
-* Decision context: A brief summary of the situation or problem that led to the decision.
-
-* Decision description: A detailed description of the decision and the options considered.
-
-* Decision criteria: The criteria used to evaluate the options.
-
-* Decision rationale: The reason for selecting the chosen option, including any trade-offs or considerations.
-
-* Decision outcome: The decision that was made and any associated actions or next steps.
-
-* Decision stakeholders: The individuals or groups affected by the decision.
-
-* Decision date: The date the decision was made.
+A decision record typically includes the following information: a title, a date, a context summary, a description of the decision in depth, a list of stakeholders, and advice for implmentors. Decision record templates can help with creating this information.
 
 Decision records can be created in various formats, including documents, spreadsheets, and online tools. They can be shared with relevant stakeholders to ensure that everyone is aware of the decision and its implications.
 
