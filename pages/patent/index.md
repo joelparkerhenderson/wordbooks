@@ -1,4 +1,4 @@
-# Patents
+# Patent
 
 A patent is a form of intellectual property that grants an inventor the exclusive right to make, use, and sell their invention for a certain period of time, usually 20 years from the filing date of the patent application. A patent provides legal protection for an invention, preventing others from making, using, selling, or importing the invention without the permission of the patent holder.
 

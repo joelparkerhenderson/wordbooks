@@ -1,0 +1,30 @@
+---
+title: "Startup Super Terms"
+author: "By Joel Parker Henderson & ChatGPT"
+date: "2023-05-04"
+subtitle: "Strategy • Tactics • Concepts • Inspirations"
+#geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
+titlepage: true
+titlepage-color: "FFFFFF"
+titlepage-text-color: "000000"
+titlepage-rule-color: "CCCCCC"
+titlepage-rule-height: 4
+logo: "files/logo.png"
+logo-width: 100
+page-background:
+page-background-opacity:
+links-as-notes: false
+#lot: true
+#lof: true
+listings-disable-line-numbers: true
+listings-no-page-break: false
+disable-header-and-footer: false
+header-left:
+header-center:
+header-right:
+footer-left: "© Joel Parker Henderson"
+footer-center: "License: CC-BY-NC-SA-4.0"
+footer-right:
+subparagraph: true
+lang: en-US
+---

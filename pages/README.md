@@ -41,6 +41,18 @@
 * [Realtech (Real estate technology)](realtech)
 
 
+## [Strategic effects](strategic-effects)
+
+* [Network effects](network-effects)
+* [Platform effects](platform-effects)
+* [Flywheel effects](flywheel-effects)
+* [Viral effects](viral-effects)
+* [Moat effects](moat-effects)
+* [Scale effects](scale-effects)
+* [Leverage effects](leverage-effects))
+* [Monopoly effects](monopoly-effects)
+
+
 ## [Business models](business-models)
 
 * [Direct sales business model](direct-sales-business-model)
@@ -56,6 +68,7 @@
 * [Value-based pricing](value-based-pricing)
 * [Bundled pricing](bundled-pricing)
 * [Subscription pricing](subscription-pricing)
+* [Tiered pricing](tiered-pricing)
 * [Dynamic pricing](dynamic-pricing)
 * [Pay-what-you-want (PWYW)](pay-what-you-want)
 * [Freemium](freemium)
@@ -77,6 +90,8 @@
 * [Decision record](decision-record)
 * [Six Sigma methodology](six-sigma-methodology)
 * [DMAIC methodology](dmaic-methodology)
+* [Economic moat](economic-moat)
+* [Economies of scale](economies-of-scale)
 
 
 ## [Company leadership roles](company-leadership-roles)
@@ -369,6 +384,8 @@
 
 ## [Statistical analysis](statistical-analysis)
 
+* [Descriptive statistics](descriptive-statistics)
+* [Inferential statistics](inferential-statistics)
 * [Correlation](correlation)
 * [Causation](causation)
 * [Probability](probability)
@@ -377,7 +394,8 @@
 * [Anomaly detection](anomaly-detection)
 * [Regression to the mean](regression-to-the-mean)
 * [Bayes' theorem](bayes-theorem)
-  
+* [Chi-square analysis](chi-square-analysis)
+
 
 ## Investors
 
@@ -416,22 +434,13 @@
 * [Commoditization of trust](commoditization-of-trust)
 
 
-## Effects
-
-* [Network effects](network-effects)
-* [Platform effects](platform-effects)
-* [Flywheel effects](flywheel-effects)
-* [Viral effects](viral-effects)
-* [Economic moat](economic-moat)
-* [Economies of scale](economies-of-scale)
-
 
 ## [Intellectual Property (IP)](intellectual-property)
 
-* [Patents](patents)
-* [Copyrights](copyrights)
-* [Trademarks](trademarks)
-* [Trade secrets](trade-secrets)
+* [Patent](patent)
+* [Copyright](copyright)
+* [Trademark](trademark)
+* [Trade secret](trade-secret)
 * [Industrial design rights](industrial-design-rights)
 
 
@@ -481,7 +490,7 @@
 * [Payment Card Industry Data Security Standard (PCI DSS)](payment-card-industry-data-security-standard)
   
 
-## Brand 
+## [Brand management](brand-management)
 
 * [Brand value](brand-value)
 * [Brand equity](brand-equity)
@@ -491,6 +500,7 @@
 * [Brand marketing](brand-marketing)
 * [Brand recognition](brand-recognition)
 * [Brand positioning](brand-positioning)
+* [Brand ambassador](brand-ambassador)
 
 
 ## Business metrics
@@ -565,6 +575,8 @@
 * [Thinking hats](thinking-hats)
 * [Low-fidelity prototype](low-fidelity-prototype)
 * [High-fidelity prototype](high-fidelity-prototype)
+* [Internationalization (i18n)](internationalization)
+* [Localization (l10n)](localization)
 
 
 ## Financing
@@ -594,7 +606,7 @@
 
 * [Brooks' Law](brooks-law)
 * [Conway's Law](conways-law)
-* [Gresham’s Law](greshhams-law)
+* [Gresham’s Law](greshams-law)
 * [Hyrum’s Law](hyrums-law)
 * [Metcalfe's Law](metcalfes-law)
 * [Moore's Law](moores-law)
@@ -827,6 +839,7 @@
 * [Regression testing](regression-testing)
 * [Acceptance testing](acceptance-testing)
 * [Accessibility testing](accessibility-testing)
+* [Localization testing](localization-testing)
 * [Performance testing](performance-testing)
 * [Benchmark testing](benchmark-testing)
 * [Security testing](security-testing)
