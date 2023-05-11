@@ -15,6 +15,29 @@
 * [Product discovery](product-discovery) + [questions](product-discovery-questions)
 
 
+## [Market estimation](market-estimation)
+
+* [Total Addressable Market (TAM)](total-addressable-market)
+* [Service Addressable Market (SAM)](service-addressable-market)
+* [Service Obtainable Market (SOM)](service-obtainable-market)
+
+
+## Startup ramp
+
+* [Product-market fit (PMF)](product-market-fit)
+* [Continuous learning](continuous-learning)
+* [Validated learning](validated-learning)
+* [Minimum viable product (MVP)](minimum-viable-product)
+* [Minimum lovable product (MLP)](minimum-lovable-product)
+* [Minimum learnable product (MLnP)](minimum-learnable-product)
+* [First-mover advantage](first-mover-advantage)
+* [Early adopters](early-adopters)
+* [Early evangelists](early-evangelists)
+* [Time-to-market (TTM)](time-to-market)
+* [Aggregation theory](aggregation-theory)
+* [Commoditization of trust](commoditization-of-trust)
+
+
 ## [How to find startup help](how-to-find-startup-help)
 
 * [How to find startup ideas](how-to-find-startup-ideas)
@@ -41,18 +64,6 @@
 * [Realtech (Real estate technology)](realtech)
 
 
-## [Strategic effects](strategic-effects)
-
-* [Network effects](network-effects)
-* [Platform effects](platform-effects)
-* [Flywheel effects](flywheel-effects)
-* [Viral effects](viral-effects)
-* [Moat effects](moat-effects)
-* [Scale effects](scale-effects)
-* [Leverage effects](leverage-effects))
-* [Monopoly effects](monopoly-effects)
-
-
 ## [Business models](business-models)
 
 * [Direct sales business model](direct-sales-business-model) + [pros/cons](direct-sales-business-model-pros-cons)
@@ -73,6 +84,18 @@
 * [Pay-what-you-want (PWYW)](pay-what-you-want)
 * [Freemium](freemium)
 * [Free trial](free-trial)
+
+
+## [Strategic effects](strategic-effects)
+
+* [Network effects](network-effects)
+* [Platform effects](platform-effects)
+* [Flywheel effects](flywheel-effects)
+* [Viral effects](viral-effects)
+* [Moat effects](moat-effects)
+* [Scale effects](scale-effects)
+* [Leverage effects](leverage-effects))
+* [Monopoly effects](monopoly-effects)
 
 
 ## TODO
@@ -131,13 +154,6 @@
 * [Culture fit and values alignment](culture-fit-and-values-alignment)
 
 
-## Market
-
-* [Total Addressable Market (TAM)](total-addressable-market)
-* [Service Addressable Market (SAM)](service-addressable-market)
-* [Service Obtainable Market (SOM)](service-obtainable-market)
-
-
 ## Marketing
 
 * [Marketing channels](marketing-channels)
@@ -154,7 +170,7 @@
 ## X-to-Y
 
 * [Business-to-Business (B2B)](business-to-business)
-* [Business-to-Consumer (B2C)](business-to-business)
+* [Business-to-Consumer (B2C)](business-to-consumer)
 * [Peer-to-Peer (P2P)](peer-to-peer)
 
 
@@ -228,19 +244,6 @@
 * [Summative assessment](summative-assessment)
 
 
-## [Startup venture capital companies](startup-venture-capital-companies)
-
-* [500 Startups](500-startups)
-* [Accel](accel)
-* [Andreessen Horowitz (a16z)](andreessen-horowitz)
-* [Greylock Partners](greylock-partners)
-* [Index Ventures](index-ventures)
-* [Kleiner Perkins](kleiner-perkins)
-* [New Enterprise Associates (NEA)](new-enterprise-associates)
-* [Sequoia Capital](sequoia-capital)
-* [Y Combinator (YC)](y-combinator)
-
-
 ## Website
 
 * [Landing page](landing-page)
@@ -249,74 +252,13 @@
 * [Mobile-first design](mobile-first-design)
 
 
-## [Enterprise companies]
+## [Enterprise companies](enterprise-companies)
 
 * [Enterprise Portfolio Project Management (EPPM)](enterprise-portfolio-project-management)
 * [Enterprise Resource Planning (ERP)](enterprise-resource-planning)
 * [Enterprise Change Management (ECM)](enterprise-change-management)
 * [Enterprise Architecture (EA)](enterprise-architecture)
 * [Enterprise software](enterprise-software)
-
-
-## Cryptocurrency
-
-* [Blockchain](blockchain)
-* [Bitcoin](bitcoin)
-* [Etherium](etherium)
-* [Smart contract](smart-contract)
-* [Proof-of-work (PoW)](proof-of-work)
-* [Proof-of-stake (PoS)](proof-of-stake)
-  
-
-## Book lists
-
-* [Executive management books](executive-management-books)
-* [Military strategy books](military-strategy-books)
-* [Negotiation books](negotiation-books)
-* [Venture capital books](venture-capital-books)
-  
-
-## [Leadership books](leadership-books)
-
-* [“Founders at Work” by Jessica Livingston](founders-at-work-by-jessica-livingston)
-* [“How to Win Friends and Influence People” by Dale Carnegie](how-to-win-friends-and-influence-people-by-dale-carnegie)
-* [“Leading at the Speed of Growth” by Katherine Catlin and Jana Matthews](leading-at-the-speed-of-growth-by-katherine-catlin-and-jana-matthews)
-* [“Radical Candor” by Kim Scott](radical-candor-by-kim-scott)
-* [“Superbosses” by Sydney Finkelstein”](superbosses-by-sydney-finkelstein)
-
-
-## [Entrepreneurship books](entrepreneurship-books)
-
-* ["Blue Ocean Strategy" by W. Chan Kim and Renée Mauborgne](blue-ocean-strategy-by-w-chan-kim-and-renée-mauborgne)
-* [“Creativity, Inc.” by Ed Catmull and Amy Wallace](creativity-inc-by-ed-catmull-and-amy-wallace)
-* [“Disciplined Entrepreneurship” by Bill Aulet](disciplined-entrepreneurship-by-bill-aule)
-* [“The Hard Thing About Hard Things” by Ben Horowitz](the-hard-thing-about-hard-things-by-ben-horowitz)
-* [“You Are a Badass at Making Money” by Jen Sincero](you-are-a-badass-at-making-money-by-jen-sincero)
-* [“Grit” by Angela Duckworth](grit-by-angela-duckworth)
-
-
-## [Startup books](startup-books)
-
-* [“Crucial Conversations” by Kerry Patterson et al.](crucial-conversations-by-kerry-patterson-et-al)
-* [“Crossing The Chasm” by Geoffrey Moore](crossing-the-chasm-by-geoffrey-moore)
-* [“Mastering the VC Game” by Jeffrey Bussgang](mastering-the-vc-game-by-jeffrey-bussgang)
-* [“Mini Habits” by Stephen Guise](mini-habits-by-stephen-guise)
-* [“Never Too Late to Startup” by Rob Kornblum](never-too-late-to-startup-by-rob-kornblum)
-* [“Outliers” by Malcom Gladwell](outliers-by-malcom-gladwell)
-* [“Start Something That Matters” by Blake Mycoskie](start-something-that-matters-by-blake-mycoskie)
-* [“The Four Steps To The Epiphany” by Steve Blank](the-four-steps-to-the-epiphany-by-steve-blank)
-* [“The Lean Startup” by Eric Ries](the-lean-startup-by-eric-ries)
-* ["The Mom Test" by Rob Fitzpatrick](the-mom-test-by-rob-fitzpatrick)
-* [“The Startup Owners Manual” by Steve Blank](the-startup-owners-manual-by-steve-blank)
-* [“Thrive” by Arianna Huffington](thrive-by-arianna-huffington)
-* [“Zero To One” by Peter Thiel](zero-to-one-by-peter-thiel)
-* [“Who” by Geoff Smart and Randy Street](who-by-geoff-smart-and-randy-street)
-
-
-## [Software engineering books]
-
-* [“The Phoenix Project” by Gene Kim et al.](the-phoenix-project-by-gene-kim-et-al)
-* [“The Mythical Man-Month” by Fred Brooks](the-mythical-man-month-by-fred-brooks)
 
 
 ## Design Development
@@ -326,6 +268,69 @@
 * [Behavior-Driven Development (BDD)](behavior-driven-development)
 * [Test-Driven Development (TDD)](test-driven-development)
 * [Voice of the Customer (VoC)](voice-of-the-customer)
+
+## [Brand management](brand-management)
+
+* [Brand value](brand-value)
+* [Brand equity](brand-equity)
+* [Brand visibility](brand-visibility)
+* [Brand association](brand-association)
+* [Brand loyalty](brand-loyalty)
+* [Brand marketing](brand-marketing)
+* [Brand recognition](brand-recognition)
+* [Brand positioning](brand-positioning)
+* [Brand ambassador](brand-ambassador)
+
+
+## Business metrics
+
+* [Earnings before interest, taxes, amortization (EBITA)](earnings-before-interest-taxes-amortization)
+* [Annual Recurring Revenue (ARR)](annual-recurring-revenue)
+* [Burn rate](burn-rate)
+* [Traction](traction)
+* [Valuation](valuation)
+* [Churn rate](churn-rate)
+* [Customer Acquisition Cost (CAC)](customer-acquisition-cost)
+* [Discounted Cash Flow (DCF)](discounted-cash-flow)
+* [Net Present Value (NPV)](net-present-value)
+* [Net Promoter Score (NPS)](net-promoter-score)
+* [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
+
+
+## Design & UI/UX
+
+* [Mockups](mockups)
+* [Wireframes](wireframes)
+* [Personas](personas)
+* [Journeys](journeys)
+* [Focus group](focus-group)
+* [Use cases](use-cases)
+* [User stories](user-stories)
+* [Use cases versus user stories](use-cases-and-user-stories)
+* [Design charrette](design-charrette)
+* [Design thinking](design-thinking)
+* [Gamification](gamification)
+* [Thinking hats](thinking-hats)
+* [Low-fidelity prototype](low-fidelity-prototype)
+* [High-fidelity prototype](high-fidelity-prototype)
+* [Internationalization (i18n)](internationalization)
+* [Localization (l10n)](localization)
+
+
+## Quality analysis
+
+* [After-Action Report (AAR)](after-action-report)
+* [Cause-and-effect diagram](Cause-and-effect-diagram)
+* Fishbone diagram: see cause-and-effect diagram
+* [Five Whys analysis](five-whys-analysis)
+* Ishikawa diagram: see cause-and-effect diagram
+* Non-functional requirements: see system quality attributes
+* [Root cause analysis (RCA)](root-cause-analysis)
+* [System Quality Attributes (SQAs)](system-quality-attributes)
+* [Quality of Service (QoS) for networks](quality-of-service-for-networks)
+* [Good Enough For Now (GEFN)](good-enough-for-now)
+* [Technical debt](technical-debt)
+* [Refactoring](refactoring)
 
 
 ## Teaming
@@ -399,7 +404,7 @@
 * [Chi-square analysis](chi-square-analysis)
 
 
-## Investors
+## [Investors](investors)
 
 * [Friends and family investor](friends-and-family-investor)
 * [Venture capital investor](venture-capital-investor)
@@ -409,32 +414,46 @@
 * [Series B investor](series-b-investor)
 
 
-## Investment vehicles
+## [Startup venture capital companies](startup-venture-capital-companies)
 
+* [500 Startups](500-startups)
+* [Accel](accel)
+* [Andreessen Horowitz (a16z)](andreessen-horowitz)
+* [Greylock Partners](greylock-partners)
+* [Index Ventures](index-ventures)
+* [Kleiner Perkins](kleiner-perkins)
+* [New Enterprise Associates (NEA)](new-enterprise-associates)
+* [Sequoia Capital](sequoia-capital)
+* [Y Combinator (YC)](y-combinator)
+
+
+## [Financing](financing)
+
+* [Bootstrapping](bootstrapping)
+* [Crowdfunding](crowdfunding)
+* [Debt financing](debt-financing)
 * [Small business loan](small-business-loan)
 * [Bridge loan](bridge-loan)
 * [Convertible note](convertible-note)
+* [Equity financing](equity-financing)
 * [Simple Agreement For Future Equity (SAFE)](simple-agreement-for-future-equity)
 * [Private equity](private-equity)
-* [Crowdfunding](crowdfunding)
-* [Bootstrapping](bootstrapping)
 
 
-## Startup ramp
+## [Equity](equity)
 
-* [Product-market fit (PMF)](product-market-fit)
-* [Continuous learning](continuous-learning)
-* [Validated learning](validated-learning)
-* [Minimum viable product (MVP)](minimum-viable-product)
-* [Minimum lovable product (MLP)](minimum-lovable-product)
-* [Minimum learnable product (MLnP)](minimum-learnable-product)
-* [First-mover advantage](first-mover-advantage)
-* [Early adopters](early-adopters)
-* [Early evangelists](early-evangelists)
-* [Time-to-market (TTM)](time-to-market)
-* [Aggregation theory](aggregation-theory)
-* [Commoditization of trust](commoditization-of-trust)
-
+* [Capitalization table](capitalization-table)
+* [Term sheet](term-sheet)
+* [Startup equity division](startup-equity-division)
+* [Stock options](stock-options)
+* [Liquidation preference](liquidation-preference)
+* [Vesting schedule](vesting-schedule)
+* [Vesting cliff](vesting-cliff)
+* [Employee stock option pool](employee-stock-option-pool)
+* [Employee stock purchase plan (ESPP)](employee-stock-purchase-plan)
+* [Restricted stock units (RSUs)](restricted-stock-units)
+* [Sweat equity](sweat-equity)
+* [Profit sharing](profit-sharing)
 
 
 ## [Intellectual Property (IP)](intellectual-property)
@@ -493,32 +512,21 @@
 * [Payment Card Industry Data Security Standard (PCI DSS)](payment-card-industry-data-security-standard)
   
 
-## [Brand management](brand-management)
 
-* [Brand value](brand-value)
-* [Brand equity](brand-equity)
-* [Brand visibility](brand-visibility)
-* [Brand association](brand-association)
-* [Brand loyalty](brand-loyalty)
-* [Brand marketing](brand-marketing)
-* [Brand recognition](brand-recognition)
-* [Brand positioning](brand-positioning)
-* [Brand ambassador](brand-ambassador)
+## Laws & principles
 
-
-## Business metrics
-
-* [Earnings before interest, taxes, amortization (EBITA)](earnings-before-interest-taxes-amortization)
-* [Annual Recurring Revenue (ARR)](annual-recurring-revenue)
-* [Burn rate](burn-rate)
-* [Traction](traction)
-* [Valuation](valuation)
-* [Churn rate](churn-rate)
-* [Customer Acquisition Cost (CAC)](customer-acquisition-cost)
-* [Discounted Cash Flow (DCF)](discounted-cash-flow)
-* [Net Present Value (NPV)](net-present-value)
-* [Net Promoter Score (NPS)](net-promoter-score)
-* [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
+* [Brooks' Law](brooks-law)
+* [Conway's Law](conways-law)
+* [Gresham’s Law](greshams-law)
+* [Hyrum’s Law](hyrums-law)
+* [Metcalfe's Law](metcalfes-law)
+* [Moore's Law](moores-law)
+* [The Law of Demos (Kapor's Law)](the-law-of-demos)
+* [The Law of Supply and Demand](the-law-of-supply-and-demand)
+* [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
+* [The Pareto Principle (The 80/20 Rule)](the-principle-of-least-knowledge)
+* [The Principal of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
+* [Chesterton's fence](chestertons-fence)
 
 
 ## [Idioms](idioms)
@@ -562,330 +570,53 @@
 * [See things in the present, even if they are in the future](see-things-in-the-present-even-if-they-are-in-the-future)
 
 
-## Design & UI/UX
-
-* [Mockups](mockups)
-* [Wireframes](wireframes)
-* [Personas](personas)
-* [Journeys](journeys)
-* [Focus group](focus-group)
-* [Use cases](use-cases)
-* [User stories](user-stories)
-* [Use cases versus user stories](use-cases-and-user-stories)
-* [Design charrette](design-charrette)
-* [Design thinking](design-thinking)
-* [Gamification](gamification)
-* [Thinking hats](thinking-hats)
-* [Low-fidelity prototype](low-fidelity-prototype)
-* [High-fidelity prototype](high-fidelity-prototype)
-* [Internationalization (i18n)](internationalization)
-* [Localization (l10n)](localization)
-
-
-## Financing
-
-* [Capitalization table](capitalization-table)
-* [Term sheet](term-sheet)
-* [Small business loan](small-business-loan)
-* [Equity financing](equity-financing)
-* [Private equity](private-equity)
-* [Crowdfunding](crowdfunding)
-
-
-## Equity
-
-* [Startup equity division](startup-equity-division)
-* [Stock options](stock-options)
-* [Vesting schedule](vesting-schedule)
-* [Vesting cliff](vesting-cliff)
-* [Employee stock option pool](employee-stock-option-pool)
-* [Employee stock purchase plan (ESPP)](employee-stock-purchase-plan)
-* [Restricted stock units (RSUs)](restricted-stock-units)
-* [Sweat equity](sweat-equity)
-* [Profit sharing](profit-sharing)
-
-
-## Laws & principles
-
-* [Brooks' Law](brooks-law)
-* [Conway's Law](conways-law)
-* [Gresham’s Law](greshams-law)
-* [Hyrum’s Law](hyrums-law)
-* [Metcalfe's Law](metcalfes-law)
-* [Moore's Law](moores-law)
-* [The Law of Demos (Kapor's Law)](the-law-of-demos)
-* [The Law of Supply and Demand](the-law-of-supply-and-demand)
-* [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
-* [The Pareto Principle (The 80/20 Rule)](the-principle-of-least-knowledge)
-* [The Principal of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
-* [Chesterton's fence](chestertons-fence)
-
-
-## Markup/Modeling languages
-
-* [Extensible Markup Language (XML)](extensible-markup-language)
-* [Financial Products Markup Language (FPML)](financial-products-markup-language)
-* [Graph Query Language (GraphQL)](graph-query-language)
-* [Geography Markup Language (GML)](geography-markup-language)
-* [Hypertext Markup Language (HTML)](hypertext-markup-language)
-* [SPARQL Protocol and RDF Query Language (SPARQL)](sparql-protocol-and-rdf-query-language)
-* [Strategy Markup Language (StratML)](strategy-markup-language)
-* [Structured Query Language (SQL)](structured-query-language)
-* [Tom's Opinionated Markup Language (TOML)](toms-opinionated-markup-language)
-* [Unified Modeling Language (UML)](unified-modeling-language)
-* [YAML Ain't Markup Language (YAML)](yaml-aint-markup-language)
-* [Schema.org](schema-org)
-* [Resource Description Framework (RDF)](resource-description-framework)
-* [Web Ontology Language (OWL)](web-ontology-language)
-* [The Semantic Web](the-semantic-web)
-
-
-## Quality analysis
-
-* [After-Action Report (AAR)](after-action-report)
-* [Cause-and-effect diagram](Cause-and-effect-diagram)
-* Fishbone diagram: see cause-and-effect diagram
-* [Five Whys analysis](five-whys-analysis)
-* Ishikawa diagram: see cause-and-effect diagram
-* Non-functional requirements: see system quality attributes
-* [Root cause analysis (RCA)](root-cause-analysis)
-* [System Quality Attributes (SQAs)](system-quality-attributes)
-* [Quality of Service (QoS) for networks](quality-of-service-for-networks)
-* [Good Enough For Now (GEFN)](good-enough-for-now)
-* [Technical debt](technical-debt)
-* [Refactoring](refactoring)
-
-
-## [Software design approaches](software-design-approaches)
-
-* [Level-Oriented Design (LOD)](level-oriented-design)
-* [Data Flow-Oriented Design (DFD)](data-flow-oriented-design)
-* [Data Structure-Oriented Design (DSD)](data-structure-oriented-design)
-* [Object-Oriented Design (OOD)](object-oriented-design)
-
-
-## [Programming paradigms](programming-paradigms)
-
-* [Imperative Programming](imperative-programming)
-* [Declarative Programming](declarative-programming)
-* [Object-Oriented Programming (OOP)](object-oriented-programming)
-* [Aspect-Oriented Programming (AOP)](aspect-oriented-programming)
-* [Message-Oriented Programming (MOP)](message-oriented-programming)
-* [Event-Driven Programming (EDP)](event-driven-programming)
-* [Functional Programming](functional-programming)
-* [Procedural Programming](procedural-programming)
-* [Logic Programming](logic-programming)
-* [Actor Programming](actor-programming)
-
-
-## [Database paradigms](database-paradigms)
-
-* [Relational database](relational-database)
-* [Document database](document-database)
-* [Object database](object-database)
-* [Graph database](graph-database)
-* [Vector database](vector-database)
-* [Ledger database](ledger-database)
-* [Time-series database](time-series-database)
-
-
-## Database availability concepts
-
-* [Database sharding](database-sharding)
-* [Database replication](database-replication)
-* [Replica database](replica-database)
-* [Distributed database](distributed-database)
-* [Eventually-consistent database](eventually-consistent-database)
-* [CAP theorem](cap-theorem)
-* [PACELC theorem](cap-theorem)
-* [Lamport timestamp](lamport-timestamp)
-* [Vector clock](vector-clock)
-* [Data-at-rest](data-at-rest)
-* [Data-in-motion](data-in-motion)
-
-
-## [Algorithms](algorithms)
-
-* [Sort algorithms](sort-algorithms)
-* [Search algorithms](search-algorithms)
-* [Graph algorithms](graph-algorithms)
-* [Dynamic programming algorithms](dynamic-programming-algorithms)
-* [Constraint satisfaction algorithms](constraint-satisfaction-algorithms)
-* [Consensus algorithms](consensus-algorithms)
-* [Sieve of Eratosthenes](sieve-of-eratosthenes)
-
-
-## [Data structures](data-structures)
-
-* [Array data structure](array-data-structure)
-* [Graph data structure](graph-data-structure)
-* [Tree data structure](tree-data-structure)
-* [Tagged union](tagged-union)
-* [Bloom filter](bloom-filter)
-* [Kalman filter](kalman-filter)
-
-
-## Data tactics
-
-* [Data schema](data-schema)
-* [Data warehouse](data-warehouse)
-* [Data lake](data-lake)
-* [Data mesh](data-mesh)
-* [Extract, Transform, Load (ETL)](extract-transform-load)
-* [Batch processing](batch-processing)
-
-
-## [Design patterns](design-patterns)
-
-* [Backpressure](backpressure)
-* [Circuit breaker](circuit-breaker)
-* [Dependency injection (DI)](dependency-injection)
-* [Inversion of Control (IoC)](inversion-of-control)
-
-
-## Technology tactics
-
-* [Artificial intelligence (AI)](artificial-intelligence)
-* [Machine learning (ML)](machine-learning)
-* [Case-based reasoning (CBR)](case-based-reasoning)
-* [Natural Language Processing (NLP)](natural-language-processing)
-* [Expert system](expert-system)
-* [Constraint satisfaction](constraint-satisfaction)
-* [Event-Driven Architecture (EDA)](event-driven-architecture)
-* [Network protocols](network-protocols)
-* [MapReduce](map-reduce)
-* [State machine](state-machine)
-* [Coordinated disclosure](coordinated-disclosure)
-* Responsible disclosure: see coordinated disclosure
-* [Compression](compression)
-* [Caching](caching)
-* [Cryptography](cryptography)
-* [Encoding](encoding)
-* [Encryption](encryption)
-* [Homomorphic encryption](homomorphic-encryption)
-* [Recursion](recursion)
-* [Federation](federation)
-* [Memoization](memoization)
-* [Serialization](serialization)
-* [Message queue](message-queue)
-* [Tuple space](tuple-space)
-* [Checked exceptions](checked-exceptions)
-* [Queueing theory](queueing-theory)
-* [Asynchronous processing (asynchronicity)](asynchronous-processing)
-* [Parallel processing (parallelism)](parallel-processing)
-* [Concurrent processing (concurrency)](concurrent-processing)
-
-
-## [Software architecture](software-architecture)
-
-* [Service-oriented architecture (SOA)](service-oriented-architecture)
-* [Representational State Transfer (REST)](representational-state-transfer)
-* [Simple Object Access Protocol (SOAP)](simple-object-access-protocol)
-* [Remote procedure call (RPC)](remote-procedure-call)
-
-
-## [Computer science thought problems](computer-science-thought-problems)
-
-* [Traveling Salesman Problem](traveling-salesman-problem)
-* [Knapsack Problem](knapsack-problem)
-* [Tower of Hanoi Problem](tower-of-hanoi-problem)
-* [Dining Philosophers Problem](dining-philosophers-problem)
-* [N-queens Problem](n-queens-problem)
-* [Byzantine Generals Problem](byzantine-generals-problem)
-
-
-## [Software development methodologies](software-development-methodologies)
-
-* [Waterfall software development methodology](waterfall-software-development-methodology)
-* [Agile software development methodology](agile-software-development-methodology)
-* [Rapid Application Development (RAD)](rapid-application-development)
-* [Extreme Programming (XP)](extreme-programming)
-
-
-## [Modeling diagrams](modeling-diagrams)
-
-* [Sequence diagram](sequence-diagram)
-* [Use case diagram](use-case-diagram)
-* [Object diagram](object-diagram)
-* [Class diagram](class-diagram)
-* [Package diagram](package-diagram)
-* [Component diagram](component-diagram)
-* [Deployment diagram](deployment-diagram)
-* [State diagram](state-diagram)
-* [Timing diagram](timing-diagram)
-* [Entity-relationship diagram (ERD)](entity-relationship-diagram)
-
-
-## Software metrics
-
-* [DORA metrics](dora-metrics)
-* [Mean Time To Repair (MTTR)](mean-time-to-repair)
-
-
-## [Access control](access-control)
-
-* [Authentication](authentication)
-* [Authorization](authorization)
-* [Authentication, Authorization, Accounting, Auditing (AAAA)](authentication-authorization-accounting-auditing)
-* [Access Control List (ACL)](access-control-list)
-* [Discretionary Access Control (DAC)](discretionary-access-control)
-* [Role-Based Access Control (RBAC)](role-based-access-control)
-* [Attribute-Based Access Control (ABAC)](attribute-based-access-control)
-
-
-## [Software testing](software-testing)
-
-* [Unit testing](unit-testing)
-* [Integration testing](integration-testing)
-* [End-to-end testing](end-to-end-testing)
-* [System testing](system-testing)
-* [Regression testing](regression-testing)
-* [Acceptance testing](acceptance-testing)
-* [Accessibility testing](accessibility-testing)
-* [Localization testing](localization-testing)
-* [Performance testing](performance-testing)
-* [Benchmark testing](benchmark-testing)
-* [Security testing](security-testing)
-* [Penetration testing](penetration-testing)
-* [Shift-left testing](shift-left-testing)
-* [Bug bounty](bug-bounty)
-
-
-## [Version control](version-control)
-
-* [Commit](commit)
-* [Topic branch](topic-branch)
-* [Pull request](pull-request)
-* [Gitflow](gitflow)
-* [Trunk-based development](trunk-based-development)
-
-
-## [DevOps](devops)
-
-* [Continuous delivery (CD)](continuous-delivery)
-* [Continuous deployment (CD)](continuous-deployment)
-* [Continuous integration (CI)](continuous-integration)
-
-
-## [Security attacks](security-attacks)
-
-* [Social engineering](social-engineering)
-* [Piggyback attack](piggyback-attack)
-* [Phishing](phishing)
-* [Spear phishing](spear-phishing)
-* [Malware](malware)
-* [Ransomware](ransomware)
-* [SQL injection](sql-injection)
-* [Security by obscurity](security-by-obscurity)
-
-
-## [Security mitigations](security-mitigations)
-
-* [Defense in depth](defense-in-depth)
-* [Perfect Forward Secrecy (PFS)](perfect-forward-secrecy)
-* [Intrusion Detection System (IDS)](intrusion-detection-system)
-* [Security Information and Event Management (SIEM)](security-information-and-event-management)
-* [Transport Layer Security (TLS)](transport-layer-security)
-* [Secure Sockets Layer (SSL)](secure-sockets-layer)
-* [Digital certificate](digital-certificate)
-* [Certificate Authority (CA)](certificate-authority)
+## Book lists
+
+* [Executive management books](executive-management-books)
+* [Military strategy books](military-strategy-books)
+* [Negotiation books](negotiation-books)
+* [Venture capital books](venture-capital-books)
+  
+
+## [Leadership books](leadership-books)
+
+* [“Founders at Work” by Jessica Livingston](founders-at-work-by-jessica-livingston)
+* [“How to Win Friends and Influence People” by Dale Carnegie](how-to-win-friends-and-influence-people-by-dale-carnegie)
+* [“Leading at the Speed of Growth” by Katherine Catlin and Jana Matthews](leading-at-the-speed-of-growth-by-katherine-catlin-and-jana-matthews)
+* [“Radical Candor” by Kim Scott](radical-candor-by-kim-scott)
+* [“Superbosses” by Sydney Finkelstein”](superbosses-by-sydney-finkelstein)
+
+
+## [Entrepreneurship books](entrepreneurship-books)
+
+* ["Blue Ocean Strategy" by W. Chan Kim and Renée Mauborgne](blue-ocean-strategy-by-w-chan-kim-and-renée-mauborgne)
+* [“Creativity, Inc.” by Ed Catmull and Amy Wallace](creativity-inc-by-ed-catmull-and-amy-wallace)
+* [“Disciplined Entrepreneurship” by Bill Aulet](disciplined-entrepreneurship-by-bill-aule)
+* [“The Hard Thing About Hard Things” by Ben Horowitz](the-hard-thing-about-hard-things-by-ben-horowitz)
+* [“You Are a Badass at Making Money” by Jen Sincero](you-are-a-badass-at-making-money-by-jen-sincero)
+* [“Grit” by Angela Duckworth](grit-by-angela-duckworth)
+
+
+## [Startup books](startup-books)
+
+* [“Crucial Conversations” by Kerry Patterson et al.](crucial-conversations-by-kerry-patterson-et-al)
+* [“Crossing The Chasm” by Geoffrey Moore](crossing-the-chasm-by-geoffrey-moore)
+* [“Mastering the VC Game” by Jeffrey Bussgang](mastering-the-vc-game-by-jeffrey-bussgang)
+* [“Mini Habits” by Stephen Guise](mini-habits-by-stephen-guise)
+* [“Never Too Late to Startup” by Rob Kornblum](never-too-late-to-startup-by-rob-kornblum)
+* [“Outliers” by Malcom Gladwell](outliers-by-malcom-gladwell)
+* [“Start Something That Matters” by Blake Mycoskie](start-something-that-matters-by-blake-mycoskie)
+* [“The Four Steps To The Epiphany” by Steve Blank](the-four-steps-to-the-epiphany-by-steve-blank)
+* [“The Lean Startup” by Eric Ries](the-lean-startup-by-eric-ries)
+* ["The Mom Test" by Rob Fitzpatrick](the-mom-test-by-rob-fitzpatrick)
+* [“The Startup Owners Manual” by Steve Blank](the-startup-owners-manual-by-steve-blank)
+* [“Thrive” by Arianna Huffington](thrive-by-arianna-huffington)
+* [“Zero To One” by Peter Thiel](zero-to-one-by-peter-thiel)
+* [“Who” by Geoff Smart and Randy Street](who-by-geoff-smart-and-randy-street)
+
+
+## About the project
+
+* [About the author](about-the-author)
+* [About the ebook PDF](about-the-ebook-pdf)
+* [About related projects](about-related-projects)

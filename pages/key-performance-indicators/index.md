@@ -12,11 +12,7 @@ KPIs are chosen based on the organization's goals and objectives, and they shoul
 
 4. Conversion rate: This KPI measures the percentage of visitors to a website or landing page who take a specific action, such as making a purchase or filling out a form.
 
-5. Churn rate: This KPI measures the rate at which customers stop using a product or service over a specific period of time.
-
-6. Net Promoter Score: This KPI measures how likely customers are to recommend the organization's products or services to others.
-
-7. Cost per acquisition: This KPI measures the cost of acquiring a new customer.
+5. Cost per acquisition: This KPI measures the cost of acquiring a new customer.
 
 KPIs can be used to monitor and evaluate the performance of an organization, team, or individual over time. They can also be used to identify areas for improvement and make data-driven decisions.
 

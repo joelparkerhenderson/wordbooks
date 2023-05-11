@@ -1,4 +1,4 @@
-# Medtech (medical technology)
+# Medtech (Medical technology)
 
 Medtech, short for medical technology, refers to the use of technology to diagnose, monitor, and treat medical conditions. It encompasses a wide range of devices, equipment, software, and systems that are designed to improve the delivery of healthcare services, enhance patient outcomes, and reduce healthcare costs.
 

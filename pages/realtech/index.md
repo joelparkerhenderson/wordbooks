@@ -1,4 +1,4 @@
-# Realtech (real estate technology)
+# Realtech (Real estate technology)
 
 Realtech, short for real estate technology, refers to the integration of technology into the real estate industry to improve efficiency, accuracy, and transparency. Realtech can be used in different stages of the real estate lifecycle, including property management, buying and selling, leasing, and construction.
 

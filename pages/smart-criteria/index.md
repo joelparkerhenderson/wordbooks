@@ -2,7 +2,7 @@
 
 SMART criteria is a popular framework used for goal setting and project planning. It is an acronym that stands for Specific, Measurable, Achievable, Relevant, and Timely. The SMART criteria help to ensure that goals and objectives are well-defined and achievable.
 
-Here's a more in-depth explanation of each element of the SMART criteria:
+The SMART criteria in more detail:
 
 * Specific: The goal should be clearly defined and specific. This means that it should answer the questions of who, what, when, where, and why. A specific goal is one that is clearly defined and leaves no room for ambiguity.
 
@@ -14,4 +14,4 @@ Here's a more in-depth explanation of each element of the SMART criteria:
 
 * Timely: The goal should have be occuring at a favorable/useful/opportune time, and with a specific timeframe for completion. This helps with planning and accountability, and ensures that you stay focused and motivated.
 
-Using the SMART criteria helps to ensure that your goals and objectives are well-defined and achievable. By setting specific, measurable, achievable, relevant, and time-bound goals, you can create a clear roadmap for success and increase your chances of achieving your desired outcomes.
+Using SMART criteria helps ensure that your goals and objectives are well-defined, and helps enable clearer communication and collaboration among teammates.

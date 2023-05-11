@@ -1,4 +1,4 @@
-# Regtech (regulatory technology)
+# Regtech (Regulatory technology)
 
 Regtech, short for regulatory technology, refers to the use of innovative technology to address regulatory compliance challenges. Regtech is becoming increasingly important as regulations continue to become more complex and the pace of regulatory change accelerates.
 

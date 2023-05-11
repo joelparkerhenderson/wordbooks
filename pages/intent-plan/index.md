@@ -1,6 +1,6 @@
 # Intent plan
 
-An intent plan is a document or outline that outlines a person's or organization's intentions or goals for a particular project, task, or initiative. It is a roadmap that guides decision-making and helps to ensure that everyone involved in the project is working towards the same objectives.
+An intent plan is a document that describes a person's or organization's intentions or goals for a particular project, task, or initiative. It is a roadmap that guides decision-making and helps align everyone involved.
 
 Here are some key aspects of intent plans:
 
