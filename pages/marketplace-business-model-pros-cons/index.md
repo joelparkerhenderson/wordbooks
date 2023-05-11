@@ -1,4 +1,4 @@
-# Marketplace business model - pros & cons
+# Marketplace business model pros/cons
 
 The marketplace business model has several advantages for both buyers and sellers, including:
 

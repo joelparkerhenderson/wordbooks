@@ -1,12 +1,12 @@
 # Decision record (DR)
 
-A decision record (DR) is a document that captures the decision-making process, the rationale behind the decision, and any associated actions or next steps. It is used to communicate and document important decisions made within a team or organization.
+A decision record (DR) is a document that captures the decision-making process, the rationale behind the decision, and any associated actions or next steps. The purpose is to document and communicate decisions made within a team or organization.
 
-The purpose of a decision record is to provide a clear record of the decision-making process, which can be used for future reference, accountability, and transparency. Decision records are often used in project management, software development, and other collaborative environments where decisions are made by multiple people.
+A good DR provides a clear record of the decision-making process, which can be used for future reference, accountability, and transparency. DRs are often used in project management, software development, and other collaborative environments where decisions are made by multiple people.
 
-A decision record typically includes the following information: a title, a date, a context summary, a description of the decision in depth, a list of stakeholders, and advice for implmentors. Decision record templates can help with creating this information.
+A typical DR includes the following information: a title, a date, a context summary, a description of the decision in depth, a list of stakeholders, and advice for implmentors. DR templates can help with creating this information. DRs can use various formats, such as documents, spreadsheets, and online tools. 
 
-Decision records can be created in various formats, including documents, spreadsheets, and online tools. They can be shared with relevant stakeholders to ensure that everyone is aware of the decision and its implications.
+DRs are important to share with stakeholders to ensure eveyone is aware of the decision and any of its implications.
 
 Some benefits of using decision records include:
 

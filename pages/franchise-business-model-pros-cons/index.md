@@ -1,4 +1,4 @@
-# Franchise business model - pros & cons
+# Franchise business model pros/cons
 
 The franchise business model has several advantages for both the franchisor and franchisee, including:
 

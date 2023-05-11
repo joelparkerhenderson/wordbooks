@@ -1,4 +1,6 @@
-# Network protocols are a set of rules and procedures that govern the communication between different devices. These protocols define how devices communicate with each other, how data is transmitted and received, and how errors are handled.
+# Network protocols 
+
+Network protocols are a set of rules and procedures that govern the communication between different devices. These protocols define how devices communicate with each other, how data is transmitted and received, and how errors are handled.
 
 There are different types of network protocols that are used for different purposes, including:
 

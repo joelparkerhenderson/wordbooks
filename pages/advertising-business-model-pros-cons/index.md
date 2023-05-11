@@ -1,4 +1,4 @@
-# Advertising business model - pros & cons
+# Advertising business model pros/cons
 
 The advertising business model has several advantages for both companies and advertisers, including:
 

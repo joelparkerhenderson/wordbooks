@@ -1,4 +1,4 @@
-# Subscription business model - pros & cons
+# Subscription business model pros/cons
 
 The subscription business model has several advantages for companies, including:
 

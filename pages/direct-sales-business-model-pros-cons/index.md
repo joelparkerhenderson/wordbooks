@@ -1,4 +1,4 @@
-# Direct sales business model - pros & cons
+# Direct sales business model pros/cons
 
 The direct sales business model has several advantages for companies, including:
 

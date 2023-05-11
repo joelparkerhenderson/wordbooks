@@ -55,11 +55,11 @@
 
 ## [Business models](business-models)
 
-* [Direct sales business model](direct-sales-business-model) + [pros & cons](direct-sales-business-model-pros-cons)
-* [Subscription business model](subscription-business-model)
-* [Advertising business model](advertising-business-model)
-* [Marketplace business model](marketplace-business-model)
-* [Franchise business model](franchise-business-model)
+* [Direct sales business model](direct-sales-business-model) + [pros/cons](direct-sales-business-model-pros-cons)
+* [Subscription business model](subscription-business-model) + [pros/cons](subscription-sales-business-model-pros-cons)
+* [Advertising business model](advertising-business-model) + [pros/cons](advertising-sales-business-model-pros-cons)
+* [Marketplace business model](marketplace-business-model) + [pros/cons](marketplace-business-model-pros-cons)
+* [Franchise business model](franchise-business-model) + [pros/cons](franchise-sales-business-model-pros-cons)
 
 
 ## [Pricing models](pricing-models)
