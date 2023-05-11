@@ -26,6 +26,21 @@
 * [How to find startup loans](how-to-find-startup-loans)
 
 
+## [Technology sectors](technology-sectors)
+
+* [Adtech (Adversiting technology)](adtech)
+* [Agtech (Agricultural technology)](agtech)
+* [Cleantech (Clean technology)](cleantech)
+* [Biotech (Biological technology)](biotech)
+* [Edtech (Educational technology)](edtech)
+* [Fintech (Financial technology)](fintech)
+* [Govtech (Governmental techology)](govtech)
+* [Legtech (Legal technology)](legtech)
+* [Medtech (Medical technology)](medtech)
+* [Regtech (Regulatory technology)](regtech)
+* [Realtech (Real estate technology)](realtech)
+
+
 ## [Business models](business-models)
 
 * [Direct sales business model](direct-sales-business-model)
@@ -33,6 +48,18 @@
 * [Advertising business model](advertising-business-model)
 * [Marketplace business model](marketplace-business-model)
 * [Franchise business model](franchise-business-model)
+
+
+## [Pricing models](pricing-models)
+
+* [Cost-plus pricing](cost-plus-pricing)
+* [Value-based pricing](value-based-pricing)
+* [Bundled pricing](bundled-pricing)
+* [Subscription pricing](subscription-pricing)
+* [Dynamic pricing](dynamic-pricing)
+* [Pay-what-you-want (PWYW)](pay-what-you-want)
+* [Freemium](freemium)
+* [Free trial](free-trial)
 
 
 ## Tactical tools
@@ -48,6 +75,8 @@
 * [OODA loop](ooda-loop)
 * [Agile chartering](agile-chartering)
 * [Decision record](decision-record)
+* [Six Sigma methodology](six-sigma-methodology)
+* [DMAIC methodology](dmaic-methodology)
 
 
 ## [Company leadership roles](company-leadership-roles)
@@ -68,8 +97,13 @@
 * [Chairperson of the Board (COB)](chairperson-of-the-board)
 
 
-## Values frameworks
+## [Organizational values frameworks](organizational-values-frameworks)
 
+* [Code of conduct](code-of-conduct)
+* [Code of ethics](code-of-ethics)
+* [Membership values](membership-values)
+* [Leadership values](leadership-values)
+* [Cultural values](cultural-values)
 * [Corporate Social Responsibility (CSR)](corporate-social-responsibility)
 * [Diversity, Equity, Inclusion, Belonging (DEIB)](diversity-equity-inclusion-belonging)
 * [Global Reporting Initiative (GRI)](global-reporting-initiative)
@@ -77,8 +111,8 @@
 * [Seventh Generation Principle](seventh-generation-principle)
 * [Social value orientation (SVO)](social-value-orientation)
 * [Triple bottom line (TBL)](triple-bottom-line)
-* [Code of conduct](code-of-conduct)
 * [Inclusive language](inclusive-language)
+* [Culture fit and values alignment](culture-fit-and-values-alignment)
 
 
 ## Market
@@ -99,7 +133,7 @@
 * [Customer relationship management (CRM)](customer-relationship-management)
 * [Stealth mode](stealth-mode)
 * [Thought leadership](thought-leadership)
-  
+
 
 ## X-to-Y
 
@@ -124,6 +158,7 @@
 * [Critical Success Factors (CSF)](critical-success-factors)
 * [Critical To Quality (CTQ)](critical-to-quality)
 * [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
+* [Risks, Actions, Issues, Decisions (RAID)](risks-actions-issues-decisions)
 * [SPADE decision framework](spade-decision-framework)
 * [SMART criteria](smart-criteria)
 * [Intent plan](intent-plan)
@@ -140,20 +175,6 @@
 
 * [Value-based funding model](value-based-funding-model)
 
-
-## [Technology sectors](technology-sectors)
-
-* [Adtech (Adversiting technology)](adtech)
-* [Agtech (Agricultural technology)](agtech)
-* [Cleantech (Clean technology)](cleantech)
-* [Biotech (Biological technology)](biotech)
-* [Edtech (Educational technology)](edtech)
-* [Fintech (Financial technology)](fintech)
-* [Govtech (Governmental techology)](govtech)
-* [Legtech (Legal technology)](legtech)
-* [Medtech (Medical technology)](medtech)
-* [Regtech (Regulatory technology)](regtech)
-* [Realtech (Real estate technology)](realtech)
 
 
 ## [Project management](project-management)
@@ -226,7 +247,9 @@
 * [Bitcoin](bitcoin)
 * [Etherium](etherium)
 * [Smart contract](smart-contract)
-
+* [Proof-of-work (PoW)](proof-of-work)
+* [Proof-of-stake (PoS)](proof-of-stake)
+  
 
 ## Book lists
 
@@ -247,17 +270,18 @@
 
 ## [Entrepreneurship books](entrepreneurship-books)
 
+* ["Blue Ocean Strategy" by W. Chan Kim and Renée Mauborgne](blue-ocean-strategy-by-w-chan-kim-and-renée-mauborgne)
+* [“Creativity, Inc.” by Ed Catmull and Amy Wallace](creativity-inc-by-ed-catmull-and-amy-wallace)
 * [“Disciplined Entrepreneurship” by Bill Aulet](disciplined-entrepreneurship-by-bill-aule)
 * [“The Hard Thing About Hard Things” by Ben Horowitz](the-hard-thing-about-hard-things-by-ben-horowitz)
 * [“You Are a Badass at Making Money” by Jen Sincero](you-are-a-badass-at-making-money-by-jen-sincero)
+* [“Grit” by Angela Duckworth](grit-by-angela-duckworth)
 
 
 ## [Startup books](startup-books)
 
-* [“Creativity, Inc.” by Ed Catmull and Amy Wallace](creativity-inc-by-ed-catmull-and-amy-wallace)
 * [“Crucial Conversations” by Kerry Patterson et al.](crucial-conversations-by-kerry-patterson-et-al)
 * [“Crossing The Chasm” by Geoffrey Moore](crossing-the-chasm-by-geoffrey-moore)
-* [“Grit” by Angela Duckworth](grit-by-angela-duckworth)
 * [“Mastering the VC Game” by Jeffrey Bussgang](mastering-the-vc-game-by-jeffrey-bussgang)
 * [“Mini Habits” by Stephen Guise](mini-habits-by-stephen-guise)
 * [“Never Too Late to Startup” by Rob Kornblum](never-too-late-to-startup-by-rob-kornblum)
@@ -326,6 +350,8 @@
 * [S Corporation](s-corporation)
 * [B Corporation](b-corporation)
 * [Joint Venture Agreement (JVA)](joint-venture-agreement)
+* [Cottage business](cottage-business)
+* [Lifestyle business](lifestyle-business)
 
 
 ## Business analysis
@@ -366,31 +392,28 @@
 ## Investment vehicles
 
 * [Small business loan](small-business-loan)
+* [Bridge loan](bridge-loan)
 * [Convertible note](convertible-note)
 * [Simple Agreement For Future Equity (SAFE)](simple-agreement-for-future-equity)
 * [Private equity](private-equity)
 * [Crowdfunding](crowdfunding)
+* [Bootstrapping](bootstrapping)
 
 
 ## Startup ramp
 
 * [Product-market fit (PMF)](product-market-fit)
+* [Continuous learning](continuous-learning)
 * [Validated learning](validated-learning)
+* [Minimum viable product (MVP)](minimum-viable-product)
+* [Minimum lovable product (MLP)](minimum-lovable-product)
+* [Minimum learnable product (MLnP)](minimum-learnable-product)
+* [First-mover advantage](first-mover-advantage)
+* [Early adopters](early-adopters)
 * [Early evangelists](early-evangelists)
 * [Time-to-market (TTM)](time-to-market)
-
-
-## Strategic insights
-
 * [Aggregation theory](aggregation-theory)
 * [Commoditization of trust](commoditization-of-trust)
-* [Move fast and break things](move-fast-and-break-things)
-
-
-## Business metholodies
-
-* [Six Sigma methodology](six-sigma-methodology)
-* [DMAIC methodology](dmaic-methodology)
 
 
 ## Effects
@@ -415,8 +438,9 @@
 ## [Legal agreements](legal-agreements)
 
 * [Employee agreement](employee-agreement)
-* [Consulting agreement](consulting-agreement)
 * [Service agreement](service-agreement)
+* [Consulting agreement](consulting-agreement)
+* [Subcontracting agreement](subcontracting-agreement)
 * [Confidentiality agreement](confidentiality-agreement)
 * [Non-disclosure agreement (NDA)](non-disclosure-agreement)
 * [Non-compete agreement](non-compete-agreement)
@@ -492,7 +516,6 @@
 * [Buy-in](buy-in)
 * [Have a think](have-a-think)
 * [Think outside of the box](think-outside-of-the-box)
-* [A rising tide lifts all boats](a-rising-tide-lifts-all-boats)
 * [Unknown unknowns](unknown-unknowns)
 * [Stretch goal](stretch-goal)
 * [The proof is in the pudding](the-proof-is-in-the-pudding)
@@ -500,6 +523,8 @@
 * [On the radar](on-the-radar)
 * [The ball is in your court](the-ball-is-in-your-court)
 * [Get on the front foot](get-on-the-front-foot)
+* [Buy One, Get One (BOGO)](buy-one-get-one)  
+* [Skin in the game](skin-in-the-game)
 * [Put a pin in it](put-a-pin-in-it)
 * [Out of scope](out-of-scope)
 * [Over the horizon](over-the-horizon)
@@ -507,6 +532,21 @@
 * [Firefighting mode](firefighting-mode)
 * [Barking up the wrong tree](barking-up-the-wrong-tree)
 * [Swoop and poop](swoop-and-poop)
+
+
+## Quotations
+
+* [A rising tide lifts all boats](a-rising-tide-lifts-all-boats)
+* [Culture eats strategy for breakfast](culture-eats-strategy-for-breakfast)
+* [Execution eats strategy for lunch](execution-eats-strategy-for-lunch)
+* [A startup is a company that is confused](a-startup-is-a-company-that-is-confused)
+* [Move fast and break things](move-fast-and-break-things)
+* [Ideas are easy, implementation is hard](ideas-are-easy-implementation-is-hard)
+* [Learn early, learn often](learn-early-learn-often)
+* [Make mistakes faster](make-mistakes-faster)
+* [Data beats emotions](data-beats-emotions)
+* [Look for the people who want to change the world](look-for-the-people-who-want-to-change-the-world)
+* [See things in the present, even if they are in the future](see-things-in-the-present-even-if-they-are-in-the-future)
 
 
 ## Design & UI/UX
@@ -806,9 +846,9 @@
 
 ## [DevOps](devops)
 
-* [Continuous delivery](continuous-delivery)
-* [Continuous deployment](continuous-deployment)
-* [Continuous integration](continuous-integration)
+* [Continuous delivery (CD)](continuous-delivery)
+* [Continuous deployment (CD)](continuous-deployment)
+* [Continuous integration (CI)](continuous-integration)
 
 
 ## [Security attacks](security-attacks)

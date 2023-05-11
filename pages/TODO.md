@@ -16,7 +16,16 @@ Metaverse
 proof-of-work
 proof-of-stake
 
+cross-cultural communication
+
+MoSCoW
+Governance
+Sunset / EOL
 Big Data
+FTUX
+Wizard
+
+Onboard / Offboard
 
 Two-sided marketplace
 
@@ -268,8 +277,7 @@ what-are-investors-looking-for.md
 what-i-wish-i-knew-about-onboarding-effectively.md
 what-silicon-valley-gets-right.md
 
-proof-of-work
-proof-of-stake
+like X for Y
 
 https://en.wikipedia.org/wiki/Cognitive_bias
 
@@ -280,8 +288,6 @@ Security attacks:
 * Man-in-the-middle attacks: A man-in-the-middle (MITM) attack involves intercepting communication between two parties to steal sensitive information or manipulate the conversation.
 
 * Password attacks: Password attacks involve trying to guess or steal a user's password to gain access to a system or network. This includes brute-force attacks, dictionary attacks, and phishing attacks.
-
-* SQL injection: SQL injection attacks are a type of web application attack that involve exploiting vulnerabilities in SQL code to gain access to sensitive information or execute unauthorized commands.
 
 * Cross-site scripting (XSS): Cross-site scripting attacks are a type of web application attack where attackers inject malicious code into a website to steal sensitive information or execute unauthorized commands.
 
