@@ -14,4 +14,4 @@ The term "liftoff" is meant to convey the idea that the project is just getting 
 
 * Establish project governance: The team needs to establish the processes and procedures that will be used to manage the project, including roles and responsibilities, decision-making processes, and communication protocols.
 
-The liftoff process is typically facilitated by a Scrum Master or a project manager, who guides the team through the various activities and ensures that everyone is aligned and engaged. The liftoff process is a critical component of agile project management, as it helps to ensure that the project is set up for success from the very beginning.
+The liftoff process is typically facilitated by a project manager, who guides the team through activities and ensures that everyone is aligned and engaged. The liftoff process helps to ensure that the project is set up for success from the start.

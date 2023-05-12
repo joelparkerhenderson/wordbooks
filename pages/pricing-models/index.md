@@ -15,5 +15,3 @@ Pricing models refer to the various strategies and approaches that businesses us
 * Freemium pricing. Offer a basic version of a product or service for free, and charge for more features. The goal is to attract a users with the free version, then convert some users into paying customers.
 
 * Pay-what-you-want (PWYW) pricing. Allows customers to set their own price. The goal is to encourage customers to pay what they believe the product or service is worth, and to attract customers who might not otherwise purchase the product or service.
-
-There are many other pricing models that businesses can use, and the choice of pricing model depends on a variety of factors, including the nature of the product or service, the target market, and the competitive landscape.

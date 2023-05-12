@@ -1,8 +1,6 @@
 # Thought leadership
 
-Thought leadership refers to the process of establishing oneself or one's organization as a recognized authority in a specific field or industry. It involves developing and sharing innovative ideas, insights, and perspectives that can shape and influence the direction of the industry or field.
-
-Thought leadership is often associated with individuals or organizations who are at the forefront of their industry or field, and who are known for their expertise, vision, and ability to drive change. 
+Thought leadership refers to the process of establishing oneself or one's organization as a recognized authority in a specific field or industry. It involves developing and sharing innovative ideas, insights, and perspectives that can effect change in the industry or field.
 
 The key elements of thought leadership include:
 

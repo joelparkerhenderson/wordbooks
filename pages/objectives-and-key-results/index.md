@@ -1,6 +1,6 @@
 # Objectives and Key Results
 
-Objectives and Key Results (OKRs) is a goal-setting framework that is designed to help businesses and organizations to align their goals and strategies with their desired outcomes. 
+Objectives and Key Results (OKRs) is a goal-setting framework that helps organizations align goals with outcomes. 
 
 Here's how OKRs work:
 
@@ -12,7 +12,7 @@ Here's how OKRs work:
 
 4. Alignment: OKRs are most effective when they are aligned throughout the organization. This means that every employee should have OKRs that are aligned with the company's overall objectives and key results. This enables better collaboration.
 
-5. Review: OKRs should be reviewed regularly, usually on a quarterly basis. This allows companies to track progress towards their objectives and key results, and to adjust their strategies as necessary.
+5. Review: OKRs must be reviewed regularly, usually on a monthly basis, for tracking progress towards objectives and key results, and for adjusting as necessary.
 
 The benefits of OKRs include:
 

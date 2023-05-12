@@ -1,6 +1,6 @@
 # The Project Management Book of Knowledge (PMBOK)
 
-The Project Management Book of Knowledge, or PMBOK, is a widely recognized guidebook for project management published by the Project Management Institute (PMI). The PMBOK provides a framework for managing projects, including best practices, tools, and techniques used in the field of project management.
+The Project Management Book of Knowledge, or PMBOK, is a widely recognized guidebook for project management published by the Project Management Institute (PMI). The PMBOK provides a framework for managing projects, including best practices, tools, and techniques.
 
 The guidebook is organized into 10 knowledge areas, including:
 
@@ -17,7 +17,7 @@ The guidebook is organized into 10 knowledge areas, including:
 
 Each knowledge area covers a set of processes that are used to manage a project. For example, time management covers processes for developing a project schedule, monitoring project progress, and managing changes to the schedule.
 
-The PMBOK also outlines the five process groups of project management:
+The PMBOK outlines five process groups of project management:
 
 * Initiating
 * Planning

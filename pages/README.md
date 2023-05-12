@@ -24,12 +24,13 @@
 
 ## Startup ramp
 
-* [Product-market fit (PMF)](product-market-fit)
+* [Startup life cycle](startup-life-cycle)
 * [Continuous learning](continuous-learning)
 * [Validated learning](validated-learning)
 * [Minimum viable product (MVP)](minimum-viable-product)
 * [Minimum lovable product (MLP)](minimum-lovable-product)
 * [Minimum learnable product (MLnP)](minimum-learnable-product)
+* [Product-market fit (PMF)](product-market-fit)
 * [First-mover advantage](first-mover-advantage)
 * [Early adopters](early-adopters)
 * [Early evangelists](early-evangelists)
@@ -165,10 +166,6 @@
 * [Customer relationship management (CRM)](customer-relationship-management)
 * [Stealth mode](stealth-mode)
 * [Thought leadership](thought-leadership)
-
-
-## X-to-Y
-
 * [Business-to-Business (B2B)](business-to-business)
 * [Business-to-Consumer (B2C)](business-to-consumer)
 * [Peer-to-Peer (P2P)](peer-to-peer)
@@ -268,6 +265,7 @@
 * [Behavior-Driven Development (BDD)](behavior-driven-development)
 * [Test-Driven Development (TDD)](test-driven-development)
 * [Voice of the Customer (VoC)](voice-of-the-customer)
+
 
 ## [Brand management](brand-management)
 
@@ -510,7 +508,6 @@
 * [Health Insurance Portability and Accountability Act (HIPAA)](health-insurance-portability-and-accountability-act)
 * [Family Educational Rights and Privacy Act (FERPA)](family-educational-rights-and-privacy-act)
 * [Payment Card Industry Data Security Standard (PCI DSS)](payment-card-industry-data-security-standard)
-  
 
 
 ## Laws & principles

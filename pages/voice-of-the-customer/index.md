@@ -13,5 +13,3 @@ Some of the benefits of using a VoC approach include:
 * Enhanced product development: By using customer feedback to drive product development, organizations can create products that are more likely to meet customer needs and be successful in the market.
 
 * Better decision-making: By having a clear understanding of what their customers want, organizations can make more informed decisions about where to invest their resources and how to prioritize their efforts.
-
-Overall, the Voice of the Customer is a critical tool for organizations looking to improve their customer experience and build stronger relationships with their customers.

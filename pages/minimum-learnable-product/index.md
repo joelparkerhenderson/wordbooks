@@ -1,12 +1,12 @@
-# Minimum learnable product (MLnP)
+# Minimum Learnable Product (MLnP)
 
-Minimum learnable product (MLnP) is a product development approach that focuses on creating the smallest possible version of a product that is still able to provide value to users while also teaching them how to use it effectively. The goal is to create a product that not only satisfies users' immediate needs but also helps them develop the skills and knowledge necessary to fully benefit from the product.
+Minimum Learnable Product (MLnP) is a product development approach that focuses on creating the smallest possible version of a product that provides value to users while teaching them how to use it effectively. The goal is to help users develop the skills and knowledge necessary to fully benefit from the product.
 
 The MLnP approach is a variation of the minimum viable product (MVP) and minimum lovable product (MLP) approaches. While MVP focuses on creating the minimum set of features necessary to test a product idea and MLP focuses on creating a product that is emotionally engaging and lovable, MLnP emphasizes the importance of education and skill development.
 
-To create an MLnP, product teams need to focus on understanding the key skills and knowledge that users need to effectively use the product. This may involve identifying common user pain points, conducting user research, and mapping out the user journey to identify key learning moments.
+To create an MLnP, product teams need to focus on understanding the key skills and knowledge that users need to effectively use the product. 
 
-Once the key learning moments have been identified, product teams can work to create a product that not only satisfies users' immediate needs but also helps them develop the skills and knowledge necessary to use the product effectively. This may involve incorporating tutorials, tips, and other educational materials into the product, as well as designing the product in a way that guides users through the learning process.
+Once the key learning moments have been identified, product teams can create a product that satisfies users' immediate needs and also helps them develop the skills and knowledge necessary to use the product effectively. This may involve tutorials, tips, and other educational materials, as well as designing the product in a way that guides users through the learning process.
 
 Some key benefits of the MLnP approach include:
 

@@ -1,4 +1,4 @@
-# Customer Discovery
+# Customer discovery
 
 Customer discovery is a process that helps startups gain a deep understanding of their potential customers in order to validate and refine their business idea. The process involves engaging with potential customers to understand their needs, preferences, and pain points, and to gather feedback on the startup's product or service. By understanding their customers' needs, startups can create a product that people will actually use and pay for, which is essential for the success of the business.
 

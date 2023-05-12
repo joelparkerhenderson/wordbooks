@@ -18,10 +18,8 @@ The project charter includes several key components, which are as follows:
 
 * Risks: The risks are the potential events or circumstances that could negatively impact the project.
 
-* Milestones: The milestones are the major accomplishments or events that mark progress towards the completion of the project.
-
 * Budget: The budget is the estimated cost of the project.
 
 * Schedule: The schedule is the timeline for completing the project.
 
-The project charter serves as a guiding document for the project team, providing direction and clarity on the purpose, scope, and goals of the project. It helps to establish a common understanding among stakeholders and facilitates communication and collaboration. The project charter is a living document that may be updated as the project progresses and new information becomes available.
+The project charter serves as a guiding document for the project team and stakeholders. The project charter is a living document that may be updated as the project progresses and new information becomes available.

@@ -1,6 +1,6 @@
 # Software development life cycle (SDLC)
 
-The software development life cycle (SDLC) is a process used by software development teams to design, develop, and test software applications. The process follows a set of steps that ensure the final software product is efficient, reliable, and meets the users’ requirements. The stages of the SDLC typically include:
+The software development life cycle (SDLC) is a process used by software development teams to create software applications. The SLDC follows a set of steps that ensure the final software product is efficient, reliable, and meets the users’ requirements:
 
 * Planning: The planning phase is where the development team defines the scope of the project, the goals and objectives of the software, and the resources needed to complete the project. This stage is crucial in determining the feasibility of the project.
 
@@ -15,5 +15,3 @@ The software development life cycle (SDLC) is a process used by software develop
 * Deployment: The deployment stage involves deploying the software to the end-users. This stage can involve training, documentation, and support.
 
 * Maintenance: The maintenance phase is where the software is continually updated and maintained to ensure that it continues to meet the users’ needs. This can involve bug fixes, feature enhancements, and security updates.
-
-The SDLC process is iterative, meaning that the development team may need to revisit previous stages to make changes or adjustments. This process ensures that the software development process is efficient, reliable, and meets the needs of the users.

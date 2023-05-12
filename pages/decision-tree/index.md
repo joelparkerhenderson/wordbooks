@@ -2,15 +2,15 @@
 
 A decision tree is a decision-making model that is widely used in business, science, and engineering. It is a tree-like structure that represents a series of decisions and their potential consequences. Decision trees are useful when there are multiple possible outcomes or decision paths, and the best path is not immediately clear.
 
-At the top of the decision tree is the root node, which represents the initial decision. From there, each branch represents a possible outcome or decision. The branches are connected to additional nodes, which represent the decisions that lead to that outcome. The process continues until the final nodes, which represent the final outcomes.
+The top of the decision tree is the root node, which represents the initial decision. From there, each branch represents a possible outcome or decision. The branches are connected to additional nodes, which represent the decisions that lead to that outcome.
 
 Decision trees are used in a wide variety of areas, including:
 
-* Business: Managers can use decision trees to analyze different scenarios, such as the best marketing strategy, pricing strategies, and product development.
+* Business: Useful to analyze different scenarios, such as the best marketing strategy, pricing strategies, and product development.
 
-* Medicine: Doctors can use decision trees to diagnose diseases or conditions based on a patient's symptoms.
+* Medicine: Useful to diagnose diseases or conditions based on a patient's symptoms.
 
-* Finance: Bankers can use decision trees to evaluate different investment strategies or financial plans.
+* Finance: Useful to evaluate different investment strategies or financial plans.
 
 There are different types of decision trees, including:
 

@@ -1,4 +1,4 @@
-# Leadship books
+# Leadership books
 
 Leadership is a complex skill that requires both natural talent and learned knowledge. Leadership books offer valuable insights into leadership styles, techniques, and strategies that can help individuals become better leaders. In this answer, we'll explore some of the most popular and influential leadership books in depth.
 

@@ -3,7 +3,6 @@
 These projects by the author describe more about startup strategy, tactics, and tools. These are links to git repostories that are free libre open source.
 
 * <a href="https://github.com/joelparkerhenderson/adkar-change-management-model">ADKAR change management model</a>
-* <a href="https://github.com/joelparkerhenderson/agile-assessment">Agile assessment</a>
 * <a href="https://github.com/joelparkerhenderson/architecture-decision-record">Architecture Decision Record (ADR)</a>
 * <a href="https://github.com/joelparkerhenderson/business-model-canvas">Business model canvas (BMC)</a>
 * <a href="https://github.com/joelparkerhenderson/code-of-conduct-guidelines">Code of conduct guidelines</a>
@@ -12,7 +11,6 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/critical-success-factor">Critical success factor (CSF)</a>
 * <a href="https://github.com/joelparkerhenderson/crucial-conversations">Crucial conversations</a>
 * <a href="https://github.com/joelparkerhenderson/decision-record">Decision Record (DR) template</a>
-* <a href="https://github.com/joelparkerhenderson/discovery-assessment">Discovery assessment</a>
 * <a href="https://github.com/joelparkerhenderson/enterprise-architecture-assessment">Enterprise architecture assessment</a>
 * <a href="https://github.com/joelparkerhenderson/feedback-request-template">Feedback request template</a>
 * <a href="https://github.com/joelparkerhenderson/functional-specifications-template">Functional specifications template</a>
@@ -23,8 +21,6 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/issues">Issues</a>
 * <a href="https://github.com/joelparkerhenderson/key-performance-indicator">Key Performance Indicator (KPI)</a>
 * <a href="https://github.com/joelparkerhenderson/key-risk-indicator">Key Risk Indicator (KRI)</a>
-* <a href="https://github.com/joelparkerhenderson/leadership">Leadership: selected notes &amp; advice</a>
-* <a href="https://github.com/joelparkerhenderson/lean-business-lists">Lean business lists</a>
 * <a href="https://github.com/joelparkerhenderson/maturity-models">Maturity models (MMs)</a>
 * <a href="https://github.com/joelparkerhenderson/metrics">Metrics: ideas &amp; examples</a>
 * <a href="https://github.com/joelparkerhenderson/milestones">Milestones: ideas &amp; examples</a>
@@ -52,4 +48,3 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/value-stream-mapping">Value Stream Mapping (VSM)</a>
 * <a href="https://github.com/joelparkerhenderson/vision-statements">Vision statements &amp; mission statements</a>
 * <a href="https://github.com/joelparkerhenderson/ways-of-working">Ways of working for teams</a>
-* <a href="https://github.com/joelparkerhenderson/wordbooks">Wordbooks: glossaries, lexicons, terminology</a>

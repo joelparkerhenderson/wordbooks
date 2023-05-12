@@ -1,6 +1,6 @@
 # Economic moat
 
-An economic moat is a term used to describe a company's competitive advantage over its competitors. The term "moat" comes from a moat surrounding a castle to keep out intruders. An economic moat helps protect a company's market share, profitability, and growth prospects from external threats.
+An economic moat describes a company's competitive advantage over its competitors. The term "moat" comes from a moat surrounding a castle to keep out intruders. An economic moat protects a company's market share, profitability, and growth prospects from external threats.
 
 There are a variety of economic moats:
 
@@ -8,7 +8,7 @@ There are a variety of economic moats:
 
 * Network Moat. Companies with large strong networks have advantages. For example, social media companies can create a network moat because their value increases as more people join the platform.
 
-* Cost Moat. A company can have a significant cost advantage over its competitors. This could be due to economies of scale, proprietary technology, efficiency capabilties, or a unique business model.
+* Cost Moat. Companies can have a significant cost advantage over competitors. For example, due to economies of scale, proprietary technology, efficiency capabilties, or a unique business model.
 
 * Switching Moat. A switching moat is when customers can't, or won't, switch from one company's product or service to another. This could be because of contractual relationships, or data ownership, or because of customer loyalty.
 
