@@ -1,6 +1,6 @@
 # Angel investor
 
-An angel investor is an individual who provides financial backing to early-stage startups, typically in exchange for an equity stake in the company. Angel investors are typically wealthy individuals who have a high net worth and are interested in investing in high-growth potential startups.
+An angel investor is an individual who provides moeny to early-stage startups, typically in exchange for an equity stake in the company. Angel investors are typically wealthy individuals who enjoy investing in startups.
 
 Angel investors can provide several benefits to startups beyond just funding. They may have expertise in a particular industry, and can provide mentorship and advice to the startup. They may also have a network of contacts, including other investors and potential customers, that can help the startup grow.
 
@@ -12,4 +12,4 @@ In exchange for their investment, angel investors typically receive an equity st
 
 Angel investing is often considered a high-risk, high-reward activity, as not all startups will achieve the level of success needed to provide significant returns to investors. As such, angel investors should be prepared to invest in a portfolio of startups, diversifying their investments to reduce their overall risk.
 
-Overall, angel investors can provide a valuable source of funding and support to early-stage startups, helping them to grow and achieve their potential. For entrepreneurs seeking funding, angel investors can be a valuable source of capital, mentorship, and expertise, helping to increase their chances of success.
+Overall, angel investors can provide a valuable source of funding and support to early-stage startups, helping them to grow and achieve their potential. For entrepreneurs seeking funding, angel investors can be a valuable source of capital, mentorship, and expertise.

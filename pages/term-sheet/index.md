@@ -15,5 +15,3 @@ The key components of a term sheet may include:
 * Rights and preferences: The term sheet may also outline the investor's rights and preferences, such as anti-dilution protection, participation rights, and liquidation preferences.
 
 * Information rights: The term sheet may specify what information the investor is entitled to receive about the company, and how often they will receive it.
-
-It is important to note that a term sheet is a non-binding agreement, and is subject to change as negotiations progress. However, once the term sheet is agreed upon by both parties, it serves as a roadmap for the development of a more detailed and legally binding investment agreement.

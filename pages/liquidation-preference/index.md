@@ -1,8 +1,6 @@
 # Liquidation preference
 
-In the context of startup financing, liquidation preference refers to the order in which investors receive their share of the proceeds when a startup is acquired or goes public. Liquidation preference determines the order in which investors get paid in case of a liquidation event, such as a sale or merger.
-
-When a startup is sold, the proceeds are distributed among the shareholders. However, liquidation preference dictates the order in which shareholders receive their payout. Investors who have liquidation preference rights get paid first, before other shareholders. This means that if the proceeds from the sale are not enough to cover all the investors' investments, the ones with liquidation preference get paid first, leaving little or nothing for the others.
+In the context of startup financing, liquidation preference refers to the order in which investors receive their share of the proceeds when a startup is acquired or goes public. Investors who have liquidation preference rights get paid first, before other shareholders. 
 
 There are different types of liquidation preferences, such as:
 

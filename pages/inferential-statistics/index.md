@@ -6,14 +6,14 @@ Inferential statistics is often used in scientific research, medical studies, ma
 
 Inferential statistics involves several steps, including:
 
-* Formulating a hypothesis: The researcher must start by formulating a hypothesis that can be tested using statistical techniques.
+* Formulate a hypothesis: The researcher formulates a hypothesis that can be tested using statistical techniques.
 
-* Selecting a sample: The researcher must then select a representative sample of the population to study. The sample must be large enough and properly randomized to ensure that it is representative of the population.
+* Select a sample: The researcher selects a representative sample of the population to study. The sample must be large enough and properly randomized to ensure that it is representative of the population.
 
-* Collecting data: Once the sample has been selected, the researcher must collect data using appropriate methods.
+* Collect data: Once the sample has been selected, the researcher collects data using appropriate methods.
 
-* Analyzing the data: The researcher must then analyze the data using appropriate statistical techniques to test the hypothesis.
+* Analyze the data: The researcher analyzes the data using appropriate statistical techniques to test the hypothesis.
 
-* Drawing conclusions: Based on the results of the analysis, the researcher can draw conclusions about the population from which the sample was drawn.
+* Draw conclusions: Based on the results of the analysis, the researcher can draw conclusions about the population from which the sample was drawn.
 
 Inferential statistics can be used to test hypotheses, estimate population parameters, and make predictions about future events. It is important to note that inferential statistics can be subject to errors and biases, and it is important to use appropriate statistical techniques and to properly interpret the results.

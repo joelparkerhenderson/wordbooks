@@ -296,7 +296,7 @@
 * [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
 
 
-## Design & UI/UX
+## [Product design](product-design)
 
 * [Mockups](mockups)
 * [Wireframes](wireframes)
@@ -375,17 +375,19 @@
 * [Lifestyle business](lifestyle-business)
 
 
-## Business analysis
+## [Business analysis](business-analysis)
 
-* [EBFAS organizational climate](ebfas-organizational-climate)
-* [Five Forces analysis](five-forces-analysis)
-* [PESTLE analysis](pestle-analysis)
 * [SWOT analysis](swot-analysis)
-* [Value stream mapping (VSM)](value-stream-mapping)
-* [Maturity models](maturity-models)
-* [Predictive analytics](predictive-analytics)
+* [PESTLE analysis](pestle-analysis)
 * [Stakeholder analysis](stakeholder-analysis)
+* [Use case analysis](use-case-analysis)
+* [Process mapping](process-mapping)
+* [Value stream mapping (VSM)](value-stream-mapping)
+* [Predictive analytics](predictive-analytics)
 * [Feasibility analysis](feasibility-analysis)
+* [Five Forces analysis](five-forces-analysis)  
+* [Maturity models](maturity-models)
+* [EBFAS organizational climate](ebfas-organizational-climate)
   
 
 ## [Statistical analysis](statistical-analysis)
@@ -468,6 +470,7 @@
 
 * [Employee agreement](employee-agreement)
 * [Service agreement](service-agreement)
+* [Master agreement](master-agreement)
 * [Consulting agreement](consulting-agreement)
 * [Subcontracting agreement](subcontracting-agreement)
 * [Confidentiality agreement](confidentiality-agreement)
