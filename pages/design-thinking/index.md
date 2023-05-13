@@ -1,6 +1,6 @@
 # Design thinking
 
-Design thinking is a problem-solving approach that emphasizes understanding the needs of the end-user or customer in order to create innovative solutions. It is a human-centered approach to design that involves empathizing with the user, defining the problem, ideating potential solutions, prototyping and testing those solutions, and iterating until a final solution is achieved.
+Design thinking is a problem-solving approach that emphasizes empathizing with the end-user, to understand problems, ideate potential solutions, and iterate until a solution is achieved.
 
 The design thinking process typically involves five stages:
 

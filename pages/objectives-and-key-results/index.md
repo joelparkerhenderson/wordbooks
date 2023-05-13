@@ -2,17 +2,17 @@
 
 Objectives and Key Results (OKRs) is a goal-setting framework that helps organizations align goals with outcomes. 
 
-Here's how OKRs work:
+OKRs typically use these steps:
 
-1. Objectives: The first step in setting OKRs is to define the objectives. Objectives are the high-level goals that a company wants to achieve. Objectives should be challenging but achievable.
+1. Define Objectives. Objectives are the high-level goals that a company wants to achieve. Objectives should be challenging but achievable.
 
-2. Key Results: Once the objectives have been defined, the next step is to identify the key results. Key results are  specific, measurable, achievable, relevant, timely (SMART) outcomes that a company wants to achieve in order to reach its objectives.
+2. Define Key Results. Key results are  specific, measurable, achievable, relevant, timely (SMART) outcomes that a company wants to achieve in order to reach its objectives.
 
-3. Metrics: Metrics are the quantitative measures that are used to track progress towards achieving the key results. Metrics should be clear and relevant to the objectives and key results, and should be easy to track and report.
+3. Track Metrics. Metrics are the quantitative measures that are used to track progress towards achieving the key results. Metrics should be clear and relevant to the objectives and key results, and should be easy to track and report.
 
-4. Alignment: OKRs are most effective when they are aligned throughout the organization. This means that every employee should have OKRs that are aligned with the company's overall objectives and key results. This enables better collaboration.
+4. Create Alignment. OKRs are most effective when they are aligned throughout the organization. This means that every employee should have OKRs that are aligned with the company's overall objectives and key results. This enables better collaboration.
 
-5. Review: OKRs must be reviewed regularly, usually on a monthly basis, for tracking progress towards objectives and key results, and for adjusting as necessary.
+5. Review Quarterly. OKRs must be reviewed regularly, for tracking progress, and for adjusting as necessary.
 
 The benefits of OKRs include:
 

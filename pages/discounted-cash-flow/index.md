@@ -8,6 +8,6 @@ The first step in a DCF analysis is to estimate the future cash flows of the inv
 
 The discount rate used in a DCF analysis depends on the risk profile of the investment. For example, a high-risk investment would require a higher discount rate to account for the increased risk, while a low-risk investment would require a lower discount rate.
 
-The final step in a DCF analysis is to calculate the present value of the future cash flows and subtract the initial investment or purchase price to arrive at the net present value (NPV) of the investment. If the NPV is positive, the investment is considered to be potentially profitable, while a negative NPV indicates that the investment is not expected to be profitable.
+The final step in a DCF analysis is to calculate the present value of the future cash flows and subtract the initial investment or purchase price to arrive at the net present value (NPV) of the investment. Positive NPV means expect profit. Negative NPV means expect loss.
 
-DCF analysis is a useful tool for investors, businesses, and analysts because it provides a more accurate and objective assessment of the value of an investment or business than other valuation methods, such as market multiples or book value. However, DCF analysis has its limitations, including the reliance on accurate and realistic cash flow projections and the subjective nature of the discount rate.
+DCF analysis is a useful tool for analysis because it provides a more accurate and objective assessment of the value of an investment or business than other valuation methods, such as market multiples or book value. However, DCF analysis has its limitations, including the reliance on accurate and realistic cash flow projections and the subjective nature of the discount rate.

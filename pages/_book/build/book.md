@@ -226,7 +226,7 @@ What are the potential risks or downsides associated with using your product/ser
 How can you leverage customer feedback to improve and iterate on your product/service? What channels and processes do you have in place for customer feedback?
 
 
-## Customer Discovery
+## Customer discovery
 
 Customer discovery is a process that helps startups gain a deep understanding of their potential customers in order to validate and refine their business idea. The process involves engaging with potential customers to understand their needs, preferences, and pain points, and to gather feedback on the startup's product or service. By understanding their customers' needs, startups can create a product that people will actually use and pay for, which is essential for the success of the business.
 
@@ -356,17 +356,21 @@ The SOM is an important metric for companies because it helps them set realistic
 
 It's worth noting that the SOM is not a fixed figure and can vary over time as market conditions and competitive dynamics change. Therefore, it's important for companies to regularly reassess their SOM and adjust their strategies as needed to stay competitive and capitalize on emerging opportunities.
 
-## Product-market fit (PMF)
+## Startup life cycle
 
-Product-market fit (PMF) is a term used in the startup industry to describe the ideal relationship between a company's product and the market it serves. It refers to the point at which a product satisfies a genuine market need or solves a real problem, resulting in strong customer demand and adoption.
+The startup life cycle is a a framework for understanding the stages of a startup's growth and development. The model identifies five key stages that startups typically go through:
 
-PMF is crucial for startups because it indicates that a product has the potential for success in the marketplace. Without PMF, a startup may struggle to gain traction, retain customers, and generate revenue.
+1. Discovery: This stage is all about identifying a market opportunity and validating a business concept. Startups in this stage are focused on research, experimenting, and iterating on their ideas to find the best product-market fit. Founders are typically working on a shoestring budget, and the team is small.
 
-To achieve PMF, a startup must thoroughly understand its target market, including the needs and pain points of its potential customers. The startup must then create a product that addresses these needs and effectively communicates its value proposition to potential customers. This requires a deep understanding of the customer, continuous product iteration, and a willingness to pivot if the market demands it.
+2. Validation: In this stage, the startup has validated its business concept and has started to gain traction. The company has a few early adopters, and the team is working on expanding the customer base. The goal of this stage is to build a repeatable and scalable business model that can support growth.
 
-One of the key indicators of PMF is customer retention. A product that satisfies its customers and meets their needs is more likely to have loyal users who continue to use the product over time. Other indicators of PMF may include positive customer reviews, increased customer referrals, and a strong customer conversion rate.
+3. Efficiency: The startup has achieved product-market fit, has a solid customer base, and is generating revenue. At this stage, the focus is on optimizing processes and improving efficiency. The company may be hiring more employees, and the team is focused on scaling the business.
 
-Achieving PMF can take time and effort, and it often requires significant experimentation and iteration. However, it is a critical milestone for any startup looking to build a sustainable and successful business.
+4. Scale: At this stage, the startup has proven its ability to generate revenue and has a clear path to profitability. The focus is on scaling the business as quickly as possible. The company may be raising funds to fuel growth and is expanding into new markets.
+
+5. Harvest: The final stage is all about maximizing the value of the startup. The company may be looking to sell to a larger company, go public, or take other steps to cash out on the value created.
+
+This is a useful tool for founders and investors alike. By understanding the different stages of a startup's growth, founders can plan and execute their strategies more effectively. Investors can also use the model to evaluate startups and make better investment decisions.
 
 
 ## Continuous learning 
@@ -375,7 +379,7 @@ Continuous learning refers to the process of constantly seeking new knowledge an
 
 In today's fast-paced, rapidly changing world, continuous learning has become essential for staying competitive and relevant in the workforce. With new technologies and trends emerging at an ever-increasing pace, it is essential for individuals to continually upskill and reskill to remain employable and contribute to their organization's success.
 
-Continuous learning can take many forms, including formal education, on-the-job training, mentorship, networking, and self-directed learning through online resources such as blogs, podcasts, and online courses. It can also involve seeking feedback from colleagues and managers to identify areas for improvement and developing a plan to address these areas.
+Continuous learning can take many forms, including formal education, on-the-job training, mentorship, networking, feedback from peers, and self-directed learning through online resources such as blogs, podcasts, and online courses. 
 
 Benefits of continuous learning include:
 
@@ -388,8 +392,6 @@ Benefits of continuous learning include:
 * Personal growth: Learning new things can be personally fulfilling and contribute to overall personal growth and development.
 
 * Increased innovation: Continuously learning and staying current with industry trends can lead to new ideas and innovative solutions to challenges.
-
-Continuous learning is a mindset and a lifestyle, a commitment to ongoing personal and professional development that enables individuals to adapt to change and succeed in a rapidly evolving world.
 
 
 ## Validated learning
@@ -415,34 +417,32 @@ The MVP approach is particularly useful for startups and companies that are deve
 
 While the MVP approach emphasizes creating a basic version of a product with minimal features, it is important to note that an MVP should still be a quality product that is useful and solves a real problem for customers. The goal is to create a product that is viable enough to be released to early customers, while still being in the early stages of development and able to be refined based on feedback.
 
-## Minimum lovable product (MLP)
+## Minimum Lovable Product (MLP)
 
-Minimum lovable product (MLP) is a product development approach that focuses on creating the smallest possible version of a product that is still able to delight customers and provide value. The goal is to create a product that is not only functional but also emotionally engaging, creating a connection with users and making them want to use it repeatedly.
+Minimum Lovable Product (MLP) is a product development approach that focuses on creating the smallest possible version of a product that is still able to delight customers and provide value. The goal is to create a product that is not only functional but also emotionally engaging, creating a connection with users and making them want to use it repeatedly.
 
 The concept of MLP is a variation of the minimum viable product (MVP) approach, which involves creating a product with the minimum set of features necessary to satisfy early adopters and test the market. While MVP aims to test the viability of a product idea, MLP goes one step further by ensuring that the product is not only viable but also desirable and lovable.
 
 The key difference between MLP and MVP is that MLP prioritizes the emotional and experiential aspects of a product, rather than just its functionality. This means that MLP focuses on creating a product that is not only useful but also engaging, delightful, and easy to use.
 
-To create an MLP, product teams need to focus on understanding the needs and desires of their target users, identifying the key features that will create the most value and delight, and testing the product with real users to get feedback and iterate. The product development process is typically iterative, with product teams continuously refining and improving the product based on user feedback and testing.
-
 Some key benefits of the MLP approach include:
 
-* Faster time-to-market: By focusing on the minimum set of features necessary to create a lovable product, product teams can often get their product to market faster, which can be crucial in competitive industries.
+* Faster time-to-market: By focusing on the minimum set of features necessary to create a lovable product, product teams can often get their product to market faster, which can be crucial.
 
 * Greater user engagement: By creating a product that is emotionally engaging and easy to use, product teams can increase user engagement and retention, leading to higher customer lifetime value and increased revenue.
 
-* Reduced risk: By testing the product with real users early on in the development process, product teams can reduce the risk of building a product that does not meet customer needs or fails to generate sufficient demand.
+* Reduced risk: By testing the product with real users early on in the development process, product teams can reduce the risk of building a product that does not generate sufficient demand.
 
 
-## Minimum learnable product (MLnP)
+## Minimum Learnable Product (MLnP)
 
-Minimum learnable product (MLnP) is a product development approach that focuses on creating the smallest possible version of a product that is still able to provide value to users while also teaching them how to use it effectively. The goal is to create a product that not only satisfies users' immediate needs but also helps them develop the skills and knowledge necessary to fully benefit from the product.
+Minimum Learnable Product (MLnP) is a product development approach that focuses on creating the smallest possible version of a product that provides value to users while teaching them how to use it effectively. The goal is to help users develop the skills and knowledge necessary to fully benefit from the product.
 
 The MLnP approach is a variation of the minimum viable product (MVP) and minimum lovable product (MLP) approaches. While MVP focuses on creating the minimum set of features necessary to test a product idea and MLP focuses on creating a product that is emotionally engaging and lovable, MLnP emphasizes the importance of education and skill development.
 
-To create an MLnP, product teams need to focus on understanding the key skills and knowledge that users need to effectively use the product. This may involve identifying common user pain points, conducting user research, and mapping out the user journey to identify key learning moments.
+To create an MLnP, product teams need to focus on understanding the key skills and knowledge that users need to effectively use the product. 
 
-Once the key learning moments have been identified, product teams can work to create a product that not only satisfies users' immediate needs but also helps them develop the skills and knowledge necessary to use the product effectively. This may involve incorporating tutorials, tips, and other educational materials into the product, as well as designing the product in a way that guides users through the learning process.
+Once the key learning moments have been identified, product teams can create a product that satisfies users' immediate needs and also helps them develop the skills and knowledge necessary to use the product effectively. This may involve tutorials, tips, and other educational materials, as well as designing the product in a way that guides users through the learning process.
 
 Some key benefits of the MLnP approach include:
 
@@ -453,6 +453,19 @@ Some key benefits of the MLnP approach include:
 * Increased product adoption: By providing users with a clear learning path, MLnP can help to overcome the initial learning curve that often comes with new products, leading to increased adoption and usage.
 
 
+## Product-market fit (PMF)
+
+Product-market fit (PMF) is a term used in the startup industry to describe the ideal relationship between a company's product and the market it serves. It refers to the point at which a product satisfies a genuine market need or solves a real problem, resulting in strong customer demand and adoption.
+
+PMF is crucial for startups because it indicates that a product has the potential for success in the marketplace. Without PMF, a startup may struggle to gain traction, retain customers, and generate revenue.
+
+To achieve PMF, a startup must thoroughly understand its target market, including the needs and pain points of its potential customers. The startup must then create a product that addresses these needs and effectively communicates its value proposition to potential customers. This requires a deep understanding of the customer, continuous product iteration, and a willingness to pivot if the market demands it.
+
+One of the key indicators of PMF is customer retention. A product that satisfies its customers and meets their needs is more likely to have loyal users who continue to use the product over time. Other indicators of PMF may include positive customer reviews, increased customer referrals, and a strong customer conversion rate.
+
+Achieving PMF can take time and effort, and it often requires significant experimentation and iteration. However, it is a critical milestone for any startup looking to build a sustainable and successful business.
+
+
 ## First-mover advantage
 
 First-mover advantage is a concept in business strategy that refers to the competitive advantage a company gains by being the first to enter a market or introduce a new product or service. In general, the first mover has the opportunity to establish brand recognition, build customer loyalty, and capture a significant share of the market before competitors can catch up.
@@ -461,7 +474,7 @@ One of the key advantages of being a first mover is the ability to set the stand
 
 Another advantage of being a first mover is that it allows a company to establish relationships with suppliers and distributors before competitors can. This can help to secure better pricing and terms for the company, as well as ensure a more reliable supply chain. Additionally, by having established relationships with key suppliers and distributors, the first mover can make it more difficult for competitors to enter the market, as they may face greater barriers to entry.
 
-However, being a first mover also comes with risks. One of the key risks is that the market may not be ready for the product or service being offered, and the company may face significant obstacles in trying to establish a customer base. Additionally, being a first mover often requires significant investment in research and development, marketing, and distribution, which can be a significant financial burden for a company.
+However, being a first mover also comes with risks. One of the key risks is that the market may not be ready for the product or service being offered, and the company may face significant obstacles in trying to establish a customer base. Additionally, being a first mover often requires significant investment in research and development, marketing, and distribution, which can be a significant financial burden.
 
 Furthermore, once a first mover has established itself in a market, it may face challenges from competitors who are able to learn from the first mover's mistakes and improve upon their products or services. These competitors may be able to enter the market with lower costs, better products, or more effective marketing strategies, and may be able to capture market share from the first mover.
 
@@ -483,9 +496,13 @@ Overall, early adopters are an important part of the product adoption process, a
 
 ## Early evangelists
 
-Early evangelists are customers or users who are not only enthusiastic about a product or service but are also willing to promote it to others. They are typically among the first to adopt a new product, and they play a crucial role in helping to establish the product in the market. Early evangelists can be thought of as "superfans" who are passionate about a particular product and who are willing to spread the word to others.
+Early evangelists are customers or users who are not only enthusiastic about a product or service but are also willing to promote it to others. They are typically among the first to adopt a new product, and they play a crucial role in helping to establish the product in the market. 
 
-In the context of startups, early evangelists are particularly important because they can help to generate buzz and excitement around a new product or service. They are often willing to provide feedback on the product, which can be valuable for the startup in refining and improving the product over time. Early evangelists can also be important for startups because they can help to validate the product and demonstrate to other potential customers that the product has value.
+Early evangelists can be thought of as "superfans" who are passionate about a particular product and who are willing to spread the word to others.
+
+In the context of startups, early evangelists are particularly important because they can help to generate buzz and excitement around a new product or service. They are often willing to provide feedback on the product, which can be valuable for the startup in refining and improving the product over time. 
+
+Early evangelists can also be important for startups because they can help to validate the product and demonstrate to other potential customers that the product has value.
 
 There are several ways that startups can identify and engage with early evangelists:
 
@@ -498,25 +515,24 @@ There are several ways that startups can identify and engage with early evangeli
 
 ## Time-to-market (TTM)
 
-Time-to-market (TTM) is the amount of time it takes for a company to bring a new product or service to market, from the initial idea or concept to the launch of the product or service. It is a critical metric for businesses, particularly in fast-moving industries, as it can impact the success of a product or service in the marketplace.
+Time-to-market (TTM) is the amount of time it takes for a company to bring a new product or service to market, from the initial idea or concept to the launch of the product or service. 
 
-TTM can be influenced by a variety of factors, including the complexity of the product or service, the regulatory environment, supply chain constraints, manufacturing and production processes, and the speed and effectiveness of the development and testing process. TTM is often measured in weeks or months, and in some cases, it can take years for a product to be fully developed and launched.
+TTM can be influenced by a variety of factors, including the complexity of the product or service, the regulatory environment, supply chain constraints, manufacturing and production processes, the speed and effectiveness of the development and testing process, and the company's commitment to continuous learning and improvement.
 
 Shortening TTM is a key goal for many businesses, as it can provide a competitive advantage in the marketplace. By getting products or services to market more quickly, companies can respond more effectively to changes in customer demand, stay ahead of competitors, and capture market share before others do.
 
 To improve TTM, companies may adopt a range of strategies, such as:
 
-* Lean development processes: Adopting lean development processes, such as agile or DevOps, can help companies streamline the development and testing process, reducing the time it takes to bring products to market.
+* Lean development processes, such as agile or DevOps, can help companies streamline the development and testing process, reducing the time it takes to bring products to market.
 
-* Rapid prototyping: Rapid prototyping can help companies quickly develop and test new product concepts, allowing them to refine designs and features before investing in full-scale production.
+* Rapid prototyping can help companies quickly develop and test new product concepts, allowing them to refine designs and features before investing in full-scale production.
 
-* Supply chain optimization: Optimizing the supply chain can help companies reduce lead times for raw materials and components, improving manufacturing and production efficiency.
+* Supply chain optimization can help companies reduce lead times for raw materials and components, improving manufacturing and production efficiency.
 
-* Outsourcing: Outsourcing certain aspects of the development process, such as design or testing, can help companies speed up product development and reduce costs.
+* Outsourcing certain aspects of the development process, such as design or testing, can help companies speed up product development and reduce costs.
 
-* Regulatory compliance: Ensuring compliance with regulatory requirements can help companies avoid delays in getting products to market and reduce the risk of legal or financial penalties.
+* Regulatory compliance preparation can help companies avoid delays in getting products to market and reduce the risk of legal or financial penalties.
 
-Shortening TTM requires careful planning and execution, as well as a commitment to continuous improvement. Companies that successfully reduce TTM can gain a significant competitive advantage in the marketplace, boosting revenue and profitability.
 
 ## Aggregation theory
 
@@ -698,7 +714,7 @@ Technology sectors refer to specific areas of innovation and development in whic
 
 * Biotech (biological technology) focuses on using living organisms or biological systems to create or improve products and processes. This includes fields such as genetic engineering, bioinformatics, biopharmaceuticals, personalized medicine.
 
-* Fintech (financial technology) focuses on creating new financial services and products, and improving existing ones. This includes areas such as mobile payments, blockchain technology, digital banking, greater financial inclusion, and more efficient financial systems.
+* Fintech (financial technology) focuses on creating new financial services and products, and improving existing ones. This includes areas such as mobile payments, blockchain technology, digital banking, greater financial inclusion, and efficiency.
 
 * Medtech (medical technology) focuses on developing innovative medical devices, wearables, telemedicine, and artificial intelligence, diagnostic tools, and digital health solutions to improve patient outcomes and overall healthcare delivery.
 
@@ -706,7 +722,7 @@ Technology sectors refer to specific areas of innovation and development in whic
 
 * Govtech (governmental technology) focuses on improving government operations and public services. This includes digital civics, e-voting platforms, open data initiatives, smart city technologies, and ways to to make government more efficient, transparent, and responsive. 
 
-* Legtech (legal technology) focuses on the practice of law and the delivery of legal services. This includes legal research, document automation tools, e-discovery platforms, online dispute resolution systems, and ways to make legal services more efficient, accurate, and cost-effective.
+* Legtech (legal technology) focuses on the practice of law and legal services. This includes legal research, document automation tools, e-discovery platforms, online dispute resolution systems, and ways to make legal services more efficient, accurate, and cost-effective.
 
 
 
@@ -1093,7 +1109,6 @@ Pricing models refer to the various strategies and approaches that businesses us
 
 * Pay-what-you-want (PWYW) pricing. Allows customers to set their own price. The goal is to encourage customers to pay what they believe the product or service is worth, and to attract customers who might not otherwise purchase the product or service.
 
-There are many other pricing models that businesses can use, and the choice of pricing model depends on a variety of factors, including the nature of the product or service, the target market, and the competitive landscape.
 
 ## Cost-plus pricing
 
@@ -1604,7 +1619,7 @@ DMAIC is a problem-solving methodology used in the Six Sigma approach to continu
 
 ## Economic moat
 
-An economic moat is a term used to describe a company's competitive advantage over its competitors. The term "moat" comes from a moat surrounding a castle to keep out intruders. An economic moat helps protect a company's market share, profitability, and growth prospects from external threats.
+An economic moat describes a company's competitive advantage over its competitors. The term "moat" comes from a moat surrounding a castle to keep out intruders. An economic moat protects a company's market share, profitability, and growth prospects from external threats.
 
 There are a variety of economic moats:
 
@@ -1612,7 +1627,7 @@ There are a variety of economic moats:
 
 * Network Moat. Companies with large strong networks have advantages. For example, social media companies can create a network moat because their value increases as more people join the platform.
 
-* Cost Moat. A company can have a significant cost advantage over its competitors. This could be due to economies of scale, proprietary technology, efficiency capabilties, or a unique business model.
+* Cost Moat. Companies can have a significant cost advantage over competitors. For example, due to economies of scale, proprietary technology, efficiency capabilties, or a unique business model.
 
 * Switching Moat. A switching moat is when customers can't, or won't, switch from one company's product or service to another. This could be because of contractual relationships, or data ownership, or because of customer loyalty.
 
@@ -1972,24 +1987,24 @@ A code of ethics typically includes the following elements:
 
 * Mission and values: A statement of the organization's mission and values, which serves as the foundation for the code of ethics.
 
-* Professional responsibilities: A list of the specific ethical responsibilities and obligations of members of the profession or organization.
+* Professional responsibilities: A list of the specific ethical responsibilities and obligations of members of the organization.
 
 * Ethical principles: A set of ethical principles or values that members of the profession or organization are expected to uphold, such as honesty, integrity, respect, and fairness.
 
 * Standards of conduct: A set of standards for behavior and conduct that members of the profession or organization are expected to follow, including rules and guidelines for professional conduct and interactions with clients or customers.
 
-* Enforcement and accountability: A description of the process for enforcing the code of ethics, including disciplinary measures for violations of the code, and mechanisms for reporting violations or ethical concerns.
+* Enforcement and accountability: A description of the process for enforcing the code of ethics, including disciplinary measures for violations of the code, and mechanisms for reporting concerns.
 
 A code of ethics can promote accountability and transparency, and help prevent unethical or illegal behavior. Additionally, it can help build trust and credibility with clients, customers, and stakeholders.
 
-In order to be effective, a code of ethics must be regularly reviewed and updated to ensure that it remains relevant and effective over time. It must be communicated clearly and consistently throughout the organization, and members should be trained on its contents and implications. There must be mechanisms in place for reporting and addressing ethical concerns, and for enforcing the code through disciplinary measures if necessary.
+In order to be effective, a code of ethics must be regularly reviewed and updated to ensure that it remains relevant and effective over time. It must be communicated clearly and consistently throughout the organization, and members should be trained on its contents and implications. There must be mechanisms in place for reporting and addressing ethical concerns, and for enforcing the code.
 
 
 ## Membership values
 
 Membership values refer to the shared principles, beliefs, and expectations that guide the behavior and interactions of members within a particular group or community. These values can be explicit or implicit, and they help to create a sense of identity, belonging, and purpose among members.
 
-Membership values can vary widely depending on the group or community in question. For example, a professional association might prioritize values such as ethical behavior, collaboration, and continuing education.
+Membership values can vary widely depending on the group or community in question. For example, a professional association might prioritize ethical behavior, collaboration, and continuing education.
 
 Some common membership values include:
 
@@ -2003,7 +2018,7 @@ Some common membership values include:
 
 * Collaboration: Members are expected to work together collaboratively, sharing knowledge, resources, and expertise to achieve common goals.
 
-Membership values can help to create a sense of community and shared purpose among members, and can also provide a basis for decision-making and conflict resolution within the group. However, it's important to recognize that membership values can also be exclusionary, and may not reflect the perspectives or needs of all members equally. It's important to approach membership values with sensitivity and openness, and willingness to engage in ongoing dialogue.
+Membership values can help to create a sense of community and shared purpose among members, and can also provide a basis for decisions and conflict resolution within the group. However, it's important to recognize that membership values can also be exclusionary, and may not reflect the perspectives or needs of all members equally. It's important to approach membership values with sensitivity and openness, and willingness to engage in ongoing dialogue.
 
 
 ## Leadership values
@@ -2012,15 +2027,15 @@ Leadership values are the core beliefs and principles that guide the behavior an
 
 Here are some leadership values:
 
-* Integrity: This value involves being honest, ethical, and consistent in behavior and decision-making. Leaders are transparent and accountable for their actions, and inspire trust and confidence in others.
-
 * Vision: This value involves having a clear idea of where to go. Leaders are able to communicate this vision to others, to inspire and motivate people to work towards the vision.
 
 * Courage: This value involves taking risks, being resilient in the face of challenges. Leaders are able to stand up for what is right, make tough decisions, and take bold actions to achieve goals.
 
+* Integrity: This value involves being honest, ethical, and consistent in behavior and decision-making. Leaders are transparent and accountable for their actions, and inspire trust and confidence.
+
 * Empathy: This value inolves understanding and connecting with the needs and perspectives of others. Leaders are able to build strong relationships with their team members and stakeholders, and create a positive and inclusive culture.
 
-* Accountability: This value involves taking responsibility for one's actions and decisions, and holding others accountable for their actions. Leaders set clear expectations, and are able to address issues effectively.
+* Accountability: This value involves taking responsibility for one's actions and decisions, and holding others accountable for their actions. Leaders set clear expectations, and address issues effectively.
 
 * Continuous learning: This value inolves personal and professional growth. Leaders are open to feedback and new ideas, and seek out opportunities for development and improvement.
 
@@ -2305,9 +2320,7 @@ Stealth mode is not without its challenges, however. Operating in secret can mak
 
 ## Thought leadership
 
-Thought leadership refers to the process of establishing oneself or one's organization as a recognized authority in a specific field or industry. It involves developing and sharing innovative ideas, insights, and perspectives that can shape and influence the direction of the industry or field.
-
-Thought leadership is often associated with individuals or organizations who are at the forefront of their industry or field, and who are known for their expertise, vision, and ability to drive change. 
+Thought leadership refers to the process of establishing oneself or one's organization as a recognized authority in a specific field or industry. It involves developing and sharing innovative ideas, insights, and perspectives that can effect change in the industry or field.
 
 The key elements of thought leadership include:
 
@@ -2428,7 +2441,7 @@ Setting a BHAG can be a powerful tool for companies of all sizes, as it provides
 
 ## Objectives and Key Results
 
-Objectives and Key Results (OKRs) is a goal-setting framework that is designed to help businesses and organizations to align their goals and strategies with their desired outcomes. 
+Objectives and Key Results (OKRs) is a goal-setting framework that helps organizations align goals with outcomes. 
 
 Here's how OKRs work:
 
@@ -2440,7 +2453,7 @@ Here's how OKRs work:
 
 4. Alignment: OKRs are most effective when they are aligned throughout the organization. This means that every employee should have OKRs that are aligned with the company's overall objectives and key results. This enables better collaboration.
 
-5. Review: OKRs should be reviewed regularly, usually on a quarterly basis. This allows companies to track progress towards their objectives and key results, and to adjust their strategies as necessary.
+5. Review: OKRs must be reviewed regularly, usually on a monthly basis, for tracking progress towards objectives and key results, and for adjusting as necessary.
 
 The benefits of OKRs include:
 
@@ -2454,23 +2467,23 @@ The benefits of OKRs include:
 
 ## Key Performance Indicators (KPIs)
 
-Key Performance Indicators (KPIs) are a set of quantifiable metrics that are used to evaluate the performance of an organization, team, or individual against their strategic goals and objectives. KPIs are typically used in business, but they can also be used in other fields such as healthcare, education, and sports.
+Key Performance Indicators (KPIs) are a set of quantifiable metrics that are used to evaluate the performance of an organization, team, or individual against their strategic objectives. KPIs are typically used in business, but they can also be used in other fields such as healthcare, education, and sports.
 
 KPIs are chosen based on the organization's goals and objectives, and they should be specific, measurable, achievable, relevant, and time-bound. Here are some examples of KPIs:
 
-1. Revenue: This is a common KPI for businesses, which measures the amount of money generated by the organization over a specific period of time.
+1. Revenue: the amount of money generated by the organization over a specific period of time.
 
-2. Customer satisfaction: This KPI measures how satisfied customers are with the organization's products or services. It can be measured using surveys, feedback forms, or other methods.
+2. Customer satisfaction: how satisfied customers are with the organization's products or services. It can be measured using surveys, feedback forms, or other methods.
 
-3. Employee engagement: This KPI measures how engaged and motivated employees are. It can be measured using surveys, feedback forms, or other methods.
+3. Employee engagement: how engaged and motivated employees are. It can be measured using surveys, feedback forms, or other methods.
 
-4. Conversion rate: This KPI measures the percentage of visitors to a website or landing page who take a specific action, such as making a purchase or filling out a form.
+4. Conversion rate: the percentage of visitors to a website or landing page who take a specific action, such as making a purchase or filling out a form.
 
-5. Cost per acquisition: This KPI measures the cost of acquiring a new customer.
+5. Cost per acquisition: the cost of acquiring a new customer.
 
 KPIs can be used to monitor and evaluate the performance of an organization, team, or individual over time. They can also be used to identify areas for improvement and make data-driven decisions.
 
-However, it's important to choose KPIs carefully and not rely on them exclusively. KPIs should be used in conjunction with other measures, such as qualitative feedback and expert judgment. KPIs should also be reviewed regularly to ensure that they remain relevant and aligned with the organization's goals and objectives.
+It's important to choose KPIs carefully and not rely on them exclusively. KPIs should be used in conjunction with other measures, such as qualitative feedback and expert judgment. KPIs must be reviewed regularly to ensure that they remain relevant and aligned with the organization's objectives.
 
 
 ## Key Risk Indicators (KRIs)
@@ -2672,15 +2685,15 @@ To create a mind map, you will need a large piece of paper or a digital tool, su
 
 A decision tree is a decision-making model that is widely used in business, science, and engineering. It is a tree-like structure that represents a series of decisions and their potential consequences. Decision trees are useful when there are multiple possible outcomes or decision paths, and the best path is not immediately clear.
 
-At the top of the decision tree is the root node, which represents the initial decision. From there, each branch represents a possible outcome or decision. The branches are connected to additional nodes, which represent the decisions that lead to that outcome. The process continues until the final nodes, which represent the final outcomes.
+The top of the decision tree is the root node, which represents the initial decision. From there, each branch represents a possible outcome or decision. The branches are connected to additional nodes, which represent the decisions that lead to that outcome.
 
 Decision trees are used in a wide variety of areas, including:
 
-* Business: Managers can use decision trees to analyze different scenarios, such as the best marketing strategy, pricing strategies, and product development.
+* Business: Useful to analyze different scenarios, such as the best marketing strategy, pricing strategies, and product development.
 
-* Medicine: Doctors can use decision trees to diagnose diseases or conditions based on a patient's symptoms.
+* Medicine: Useful to diagnose diseases or conditions based on a patient's symptoms.
 
-* Finance: Bankers can use decision trees to evaluate different investment strategies or financial plans.
+* Finance: Useful to evaluate different investment strategies or financial plans.
 
 There are different types of decision trees, including:
 
@@ -2728,13 +2741,13 @@ Business continuity planning is critical to ensuring that an organization can su
 
 ## Operational resilience
 
-Operational resilience is the ability of an organization to continue operating even in the face of unexpected disruptions or failures, whether they are caused by cyber-attacks, natural disasters, human errors, or other events. The concept of operational resilience acknowledges that no organization is immune to disruptions, and that being resilient means being able to respond quickly and effectively to those disruptions, minimizing the impact on the organization and its customers.
+Operational resilience is the ability of an organization to continue operating even in the face of unexpected disruptions or failures.
 
-Operational resilience involves not only the ability to recover from disruptions, but also the ability to adapt and evolve in response to changing circumstances. This may include developing contingency plans, establishing redundant systems and processes, investing in technology and infrastructure, and cultivating a culture of resilience across the organization.
+Operational resilience involves the ability to recover from disruptions, and the ability to adapt and evolve in response to changing circumstances. This may include developing contingency plans, establishing redundant systems and processes, investing in technology and infrastructure, and cultivating a culture of resilience across the organization.
 
-Operational resilience is especially important in industries where even brief disruptions can have serious consequences, such as financial services, healthcare, and critical infrastructure. However, all organizations can benefit from a focus on operational resilience, as unexpected disruptions can happen to any organization at any time.
+Operational resilience is especially important in industries where even brief disruptions can have serious consequences, such as financial services, healthcare, and critical infrastructure. 
 
-To build operational resilience, organizations need to develop a comprehensive and holistic approach that includes the following steps:
+Operational resilience includes the following steps:
 
 * Risk assessment: Identifying potential sources of disruption, such as cyber threats, natural disasters, and human errors, and assessing the likelihood and potential impact of each.
 
@@ -2763,28 +2776,28 @@ The value-based funding model is designed to align the interests of providers an
 
 ## Project management 
 
-Project management is the process of planning, organizing, and executing a project in order to achieve specific goals and objectives within a specified timeframe, budget, and scope. It involves coordinating and managing the resources, tasks, and people involved in a project, as well as monitoring and controlling progress to ensure that the project is completed successfully.
+Project management is the process of planning, organizing, and executing a project in order to achieve specific results within a specified timeframe, budget, and scope. It involves coordinating and managing the resources, tasks, and people involved in a project, as well as controlling progress to ensure successful completion.
 
-The project management process typically includes the following phases:
+Project management typically includes the following phases:
 
 * Initiation: This is the first phase of the project, where the project manager defines the project scope, objectives, and stakeholders. This includes identifying the project team and resources required, as well as defining the timeline and budget.
 
 * Planning: In this phase, the project manager creates a detailed project plan, which includes a breakdown of tasks, timelines, and resources. The plan also identifies risks and issues that could arise during the project and outlines strategies to mitigate them.
 
-* Execution: This phase involves the actual implementation of the project plan. The project manager assigns tasks to team members, monitors progress, and manages any changes to the project scope or timeline.
+* Execution: This phase involves the actual implementation of the project plan. The project manager assigns tasks to team members, monitors progress, and manages any change requests.
 
 * Monitoring and Controlling: Throughout the project, the project manager must monitor progress and control the project to ensure that it stays on track. This includes monitoring the budget, timeline, and scope, as well as managing risks and issues as they arise.
 
 * Closing: This is the final phase of the project, where the project manager reviews the project outcomes and ensures that all deliverables have been completed. This includes obtaining sign-off from stakeholders and archiving project documents and records.
 
-Project management can be applied to a wide range of projects, including software development, construction, event planning, and more. Effective project management requires strong leadership, communication, and organizational skills, as well as an ability to adapt to changing circumstances and manage competing priorities.
+Project management can be applied to a wide range of projects, including software development, construction, event planning, and more. Effective project management requires strong leadership, communication, and organizational skills.
 
 
 ## Inception
 
-Inception is a term used in project management to describe the initial phase of a project. It is also known as the project initiation phase. The inception phase is crucial to the success of a project as it sets the tone for the entire project and provides the foundation for all future project activities.
+Inception is a term used in project management to describe the initial phase of a project. It is also known as project initiation. The inception sets the tone for the entire project and provides the foundation for all future project activities.
 
-During the inception phase, the project team works to define the scope of the project, identify the key stakeholders, establish the project goals and objectives, and create a high-level project plan. The team also works to identify any potential risks, dependencies, and constraints that may impact the project.
+During inception, the project team works to define the scope of the project, identify the key stakeholders, establish the project goals and objectives, and create a high-level project plan. The team also works to identify any potential risks, dependencies, and constraints.
 
 The inception phase typically involves several key activities, including:
 
@@ -2796,7 +2809,7 @@ The inception phase typically involves several key activities, including:
 
 * Feasibility Analysis: Evaluating the feasibility of the project in terms of budget, resources, and schedule is important to determine whether the project is viable.
 
-* High-Level Planning: Creating a high-level project plan that outlines the key milestones, deliverables, and resources required to complete the project.
+* High-Level Planning: Creating a high-level project plan that outlines the key milestones, deliverables, and resources required.
 
 The inception phase typically ends with the development of a project charter that outlines the key project objectives, scope, and assumptions. The project charter serves as a roadmap for the project and provides a clear direction for the project team. Once the inception phase is complete, the project can move into the planning phase.
 
@@ -2817,7 +2830,7 @@ The term "liftoff" is meant to convey the idea that the project is just getting 
 
 * Establish project governance: The team needs to establish the processes and procedures that will be used to manage the project, including roles and responsibilities, decision-making processes, and communication protocols.
 
-The liftoff process is typically facilitated by a Scrum Master or a project manager, who guides the team through the various activities and ensures that everyone is aligned and engaged. The liftoff process is a critical component of agile project management, as it helps to ensure that the project is set up for success from the very beginning.
+The liftoff process is typically facilitated by a project manager, who guides the team through activities and ensures that everyone is aligned and engaged. The liftoff process helps to ensure that the project is set up for success from the start.
 
 
 ## Project charter
@@ -2840,13 +2853,11 @@ The project charter includes several key components, which are as follows:
 
 * Risks: The risks are the potential events or circumstances that could negatively impact the project.
 
-* Milestones: The milestones are the major accomplishments or events that mark progress towards the completion of the project.
-
 * Budget: The budget is the estimated cost of the project.
 
 * Schedule: The schedule is the timeline for completing the project.
 
-The project charter serves as a guiding document for the project team, providing direction and clarity on the purpose, scope, and goals of the project. It helps to establish a common understanding among stakeholders and facilitates communication and collaboration. The project charter is a living document that may be updated as the project progresses and new information becomes available.
+The project charter serves as a guiding document for the project team and stakeholders. The project charter is a living document that may be updated as the project progresses and new information becomes available.
 
 
 ## Statement of Work (SOW)
@@ -2872,7 +2883,7 @@ Functional specifications are an important part of the project planning process 
 
 ## Software development life cycle (SDLC)
 
-The software development life cycle (SDLC) is a process used by software development teams to design, develop, and test software applications. The process follows a set of steps that ensure the final software product is efficient, reliable, and meets the users’ requirements. The stages of the SDLC typically include:
+The software development life cycle (SDLC) is a process used by software development teams to create software applications. The SLDC follows a set of steps that ensure the final software product is efficient, reliable, and meets the users’ requirements:
 
 * Planning: The planning phase is where the development team defines the scope of the project, the goals and objectives of the software, and the resources needed to complete the project. This stage is crucial in determining the feasibility of the project.
 
@@ -2888,12 +2899,10 @@ The software development life cycle (SDLC) is a process used by software develop
 
 * Maintenance: The maintenance phase is where the software is continually updated and maintained to ensure that it continues to meet the users’ needs. This can involve bug fixes, feature enhancements, and security updates.
 
-The SDLC process is iterative, meaning that the development team may need to revisit previous stages to make changes or adjustments. This process ensures that the software development process is efficient, reliable, and meets the needs of the users.
-
 
 ## The Project Management Book of Knowledge (PMBOK)
 
-The Project Management Book of Knowledge, or PMBOK, is a widely recognized guidebook for project management published by the Project Management Institute (PMI). The PMBOK provides a framework for managing projects, including best practices, tools, and techniques used in the field of project management.
+The Project Management Book of Knowledge, or PMBOK, is a widely recognized guidebook for project management published by the Project Management Institute (PMI). The PMBOK provides a framework for managing projects, including best practices, tools, and techniques.
 
 The guidebook is organized into 10 knowledge areas, including:
 
@@ -2910,7 +2919,7 @@ The guidebook is organized into 10 knowledge areas, including:
 
 Each knowledge area covers a set of processes that are used to manage a project. For example, time management covers processes for developing a project schedule, monitoring project progress, and managing changes to the schedule.
 
-The PMBOK also outlines the five process groups of project management:
+The PMBOK outlines five process groups of project management:
 
 * Initiating
 * Planning
@@ -2922,9 +2931,7 @@ These process groups are used to manage projects from start to finish, with each
 
 ## Program Evaluation and Review Technique (PERT)
 
-Program Evaluation and Review Technique (PERT) is a project management tool used to estimate the time required to complete a project. PERT was first developed by the United States Navy in the 1950s for the Polaris missile program.
-
-The PERT technique is based on the Critical Path Method (CPM), which is a method for identifying the longest path through a project network. PERT uses a probabilistic approach to estimate project completion time, taking into account the uncertainty and variability of individual tasks.
+Program Evaluation and Review Technique (PERT) is a project management tool used to estimate the time required to complete a project. The PERT technique is based on the Critical Path Method (CPM), which is a method for identifying the longest path through a project network. PERT uses a probabilistic approach to estimate project completion time, taking into account the uncertainty and variability of individual tasks.
 
 PERT involves the following steps:
 
@@ -2940,9 +2947,10 @@ PERT involves the following steps:
 
 PERT uses three time estimates for each task: optimistic, most likely, and pessimistic. These estimates are used to calculate the expected duration of each task, as well as the expected project completion time. PERT also takes into account the dependencies between tasks and the probability of completing each task on time.
 
-One of the main advantages of PERT is that it allows project managers to identify potential delays and take corrective action before they become critical. PERT also helps project managers to estimate the probability of completing the project on time and to allocate resources more effectively.
+PERT enables project managers to identify potential delays, estimate the probability of completing the project on time, and allocate resources more effectively.
 
-However, PERT also has some limitations. It can be time-consuming and complex to implement, and it relies heavily on accurate time estimates for each task. PERT is also less effective for projects with a large number of tasks or where the tasks are highly interdependent.
+However, PERT can be complex to implement, and it relies heavily on accurate time estimates for each task. PERT is also less effective for projects with a large number of tasks or where the tasks are highly interdependent.
+
 
 ## Gantt chart
 
@@ -2976,23 +2984,23 @@ Quad charts are commonly used in a variety of contexts, including project manage
 
 Resource leveling is a project management technique that involves adjusting the project schedule to optimize the use of available resources while keeping the project on track. It involves managing and balancing the workload of project resources, such as people, equipment, and materials, so that no one is overburdened or idle.
 
-The goal of resource leveling is to ensure that resources are used efficiently and effectively, and that the project is completed on time and within budget. To achieve this, project managers typically use resource leveling software to visualize the project schedule and allocate resources based on their availability and the project requirements.
+The goal of resource leveling is to ensure that resources are used efficiently and effectively, and that the project is completed on time and within budget. 
 
 Resource leveling involves several steps, including:
 
-* Identifying the available resources: Project managers need to identify the resources available for the project, including their skill sets, availability, and working hours.
+* Identifying the available resources, including people, their skill sets, availability, and working hours.
 
-* Developing a resource plan: Based on the project requirements and resource availability, project managers develop a resource plan that outlines how each resource will be used throughout the project.
+* Developing a resource plan that outlines how each resource will be used throughout the project.
 
-* Creating a project schedule: Once the resource plan is developed, project managers create a project schedule that includes all the project activities and the resources required for each activity.
+* Creating a project schedule that includes all the project activities and the resources required for each activity.
 
-* Identifying resource conflicts: Project managers use resource leveling software to identify any resource conflicts, such as overallocation or underallocation, that may affect the project schedule.
+* Identifying resource issues, such as overallocation, underallocation, or conflicts, that may affect the project schedule.
 
-* Resolving resource conflicts: To resolve resource conflicts, project managers can adjust the project schedule by delaying activities, adding resources, or reducing the scope of the project.
+* Resolving resource conflicts: To resolve resource conflicts, project managers can adjust the project schedule by delaying activities, adding resources, or reducing scope.
 
-* Monitoring the project progress: Project managers continually monitor the project progress to ensure that the project is on track and that resources are being used efficiently.
+* Monitoring progress: Project managers continually monitor the project progress to ensure that the project is on track and that resources are being used efficiently.
 
-Resource leveling is an essential technique for project managers who need to manage complex projects with limited resources. It helps ensure that resources are used effectively and efficiently, which can help increase project success rates and reduce the risk of project failure.
+Resource leveling is an essential technique to manage complex projects. It helps ensure that resources are used effectively and efficiently, which can help increase project success rates.
 
 
 ## Constraint satisfaction
@@ -3032,23 +3040,21 @@ The critical path scheduling technique is useful for project managers to identif
 
 Outputs and outcomes are two related but distinct concepts in project management.
 
-* Outputs refer to the tangible or intangible products, services, or deliverables that result from a project. They are the immediate or direct results of project activities, such as a new software application, a report, or a physical infrastructure. Outputs are generally easy to measure and are used to track project progress and ensure that activities are on track.
+* Outputs refer to the tangible or intangible products, services, or deliverables that result from a project. They are the immediate or direct results of project activities, such as a new software application, a report, or a physical infrastructure. 
 
-* Outcomes refer to the changes, benefits, or impacts that result from the project outputs. They are the longer-term or indirect results of project activities, such as improved customer satisfaction, increased revenue, or enhanced social well-being. Outcomes are more difficult to measure than outputs and may take time to materialize, but they are critical to assessing the overall success of a project.
+* Outcomes refer to the changes, benefits, or impacts that result from the project outputs. They are the longer-term or indirect results of project activities, such as improved customer satisfaction, increased revenue, or enhanced social well-being.
 
 Here are some key differences between outputs and outcomes:
 
-* Focus: Outputs focus on the products or services that a project produces, while outcomes focus on the changes or benefits that result from those outputs.
+* Focus: Outputs focus on the products or services that a project produces. Outcomes focus on the changes or benefits that result from those outputs.
 
-* Timeframe: Outputs are typically measured during or immediately after a project, while outcomes are usually measured over a longer period of time after the project is completed.
+* Timeframe: Outputs are typically measured during or immediately after a project. Outcomes are typically measured over a longer period of time after the project is completed.
 
-* Measurability: Outputs are typically easier to measure than outcomes since they are tangible and visible, while outcomes may require more sophisticated methods of evaluation, such as surveys or impact assessments.
+* Measurability: Outputs are typically easier to measure than outcomes since they are tangible and visible. Outcomes may require more sophisticated methods of evaluation, such as surveys or assessments.
 
-* Value: Outputs may have value in and of themselves, while outcomes create value by delivering benefits and achieving goals.
+* Value: Outputs may have value in and of themselves. Outcomes create value by delivering benefits and achieving goals.
 
 * Importance: Both outputs and outcomes are important, but outcomes are ultimately what matter most, as they represent the long-term benefits and impacts of a project.
-
-Understanding the difference between outputs and outcomes is critical to project management success. Outputs are the tangible or intangible products, services, or deliverables that result from a project, while outcomes are the changes, benefits, or impacts that result from those outputs. While outputs are important, outcomes ultimately determine the success or failure of a project, and tracking both is essential to achieving project goals and creating value.
 
 
 ## Kanban
@@ -3059,44 +3065,44 @@ The word "kanban" comes from Japanese and means "visual signal" or "card". In th
 
 In modern kanban systems, visual signals are still used, but they can take many different forms, including sticky notes, whiteboards, or digital tools. The goal is to provide a clear, real-time view of the status of work in progress, and to enable team members to collaborate and communicate more effectively.
 
-A typical kanban board consists of several columns, representing different stages in the workflow, such as "to do", "in progress", and "done". Each item of work, represented by a card or other visual element, is moved from column to column as it progresses through the process. This provides a clear visual representation of the work that needs to be done, and helps to identify bottlenecks and areas where work is piling up.
+A typical kanban board consists of several columns, representing different stages in the workflow, such as "to do", "in progress", and "done". Each item of work, represented by a card or other visual element, is moved from column to column as it progresses through the process. This provides a clear visual representation of the work that needs to be done, and helps to identify bottlenecks and areas of overload.
 
 One of the key principles of kanban is to limit the amount of work in progress at any one time. This helps to prevent team members from becoming overwhelmed and ensures that work is completed more quickly and efficiently. Another principle is to focus on continuous improvement, with regular reviews and retrospectives to identify ways to improve the process and eliminate waste.
 
-Kanban is often used in conjunction with other methodologies, such as Agile and Lean, and can be tailored to meet the needs of different teams and organizations. It is a flexible and adaptable approach to managing work that can help teams to be more productive, collaborative, and effective.
+Kanban is often used in conjunction with other methodologies, such as Agile and Lean, and can be tailored for different teams, to improve task management, collaboration, and productivity.
 
 
 ## Scrum
 
-Scrum is a widely used software development framework that aims to improve productivity, reduce time to market, and promote teamwork. It was initially introduced in the 1990s and has since been adopted by many software development teams across the world.
+Scrum is a widely used software development framework that aims to improve productivity, reduce time to market, and promote teamwork.
 
-At its core, Scrum is an iterative and incremental framework that focuses on delivering high-quality software products in a collaborative, flexible, and adaptive manner. Scrum relies on self-organizing and cross-functional teams that work in short cycles called "sprints." Each sprint is typically two to four weeks long and results in a potentially shippable product increment.
+Scrum is an iterative and incremental framework that focuses on delivering high-quality software products in a collaborative, flexible, and adaptive manner. Scrum relies on self-organizing and cross-functional teams that work in short cycles called "sprints", such as 1-4 weeks, resulting in a shippable product.
 
 Scrum roles:
 
-* Product Owner: The Product Owner is responsible for defining and prioritizing the features of the product, building and maintaining the product backlog, and ensuring that the team understands the product vision and goals.
+* Product Owner: Define and prioritize the features of the product; build and maintain the product backlog; ensure stakeholders understand the product vision and goals.
 
-* Scrum Master: The Scrum Master is responsible for ensuring that the Scrum framework is properly implemented and followed, facilitating team meetings, and helping the team identify and overcome obstacles.
+* Scrum Master: Ensure that Scrum is properly implemented and followed; facilitate team meetings; help the team identify and overcome obstacles.
 
-* Development Team: The Development Team is responsible for designing, building, and testing the product increment during each sprint.
+* Development Team: Design, build, and test the product.
 
 Scrum artifacts:
 
-* Product Backlog: The Product Backlog is a prioritized list of features, requirements, and changes that the product needs to deliver. The Product Owner is responsible for creating and maintaining the Product Backlog, while the team is responsible for estimating and planning the work that needs to be done.
+* Product Backlog: This is a prioritized list of features, requirements, and changes that the product needs to deliver. The Product Owner is responsible for creating and maintaining the Product Backlog, while the team is responsible for estimating and planning the work that needs to be done.
 
-* Sprint Backlog: The Sprint Backlog is a list of tasks that the team has committed to completing during a sprint. It is created during the Sprint Planning meeting and is updated daily during the Daily Scrum meeting.
+* Sprint Backlog: This is a list of tasks that the team has committed to completing during a sprint. It is created during the Sprint Planning meeting and is updated daily during the Daily Scrum meeting.
 
-* Increment: The Increment is the sum of all the completed Product Backlog items at the end of a sprint. It must be a potentially shippable product that meets the Definition of Done.
+* Increment: This is the sum of all the completed Product Backlog items at the end of a sprint. It must be a potentially shippable product that meets the Definition of Done.
 
 Scrum events:
 
-* Sprint Planning: The Sprint Planning meeting is held at the beginning of each sprint and is used to define the sprint goal and identify the tasks that need to be completed during the sprint.
+* A sprint planning meeting is held at the beginning of each sprint, to define the sprint goal and identify the tasks tto  complete.
 
-* Daily Scrum: The Daily Scrum meeting is held every day during a sprint and is used to keep the team members aligned, identify any obstacles, and adjust the Sprint Backlog if necessary.
+* A daily scrum meeting is held every day during a sprint and is used to keep the team members aligned, identify any obstacles, and adjust the Sprint Backlog if necessary.
 
-* Sprint Review: The Sprint Review meeting is held at the end of each sprint and is used to review the Increment with the stakeholders and receive feedback.
+* A sprint review meeting is held at the end of each sprint and is used to review the work with the stakeholders and receive feedback.
 
-* Sprint Retrospective: The Sprint Retrospective meeting is held at the end of each sprint and is used to reflect on the previous sprint, identify areas for improvement, and adjust the Scrum process if necessary.
+* A sprint retrospectiveive meeting is held at the end of each sprint and is used to reflect on the previous sprint, identify areas for improvement, and adjust the Scrum process if necessary.
 
 Scrum emphasizes teamwork, communication, and continuous improvement. It provides a structured approach to software development that helps teams deliver high-quality software products quickly and efficiently. However, it requires commitment and discipline from all team members to be successful.
 
@@ -3117,7 +3123,7 @@ Swimlanes can be created using a variety of tools, including whiteboards, post-i
 
 Supply chain management (SCM) is the process of designing, planning, executing, controlling, and monitoring the flow of goods, services, and information from suppliers to customers. It encompasses all activities involved in bringing products or services to market, including sourcing raw materials, manufacturing, transportation, warehousing, distribution, and customer service.
 
-SCM is a critical component of modern business operations, as it allows companies to streamline their processes and optimize their resources for maximum efficiency and profitability. Effective SCM can also help companies minimize risk, reduce costs, and improve customer satisfaction.
+SCM allows companies to streamline their processes and optimize their resources for maximum efficiency and profitability. SCM can also help companies minimize risk, reduce costs, and improve customer satisfaction.
 
 There are several key components of supply chain management:
 
@@ -3127,64 +3133,61 @@ There are several key components of supply chain management:
 
 * Manufacturing: This involves producing goods or services, managing inventory levels, and optimizing production processes.
 
-* Delivery: This involves managing transportation and logistics, including the movement of goods and services from suppliers to customers.
+* Delivery: This involves managing transportation and logistics, including moving goods and services from suppliers to customers.
 
 * Returns: This involves managing product returns, repairs, and other post-sale activities.
 
-SCM is a complex process that requires careful coordination and collaboration among multiple stakeholders, including suppliers, manufacturers, distributors, and customers. Effective SCM also requires the use of advanced technology and analytical tools, such as inventory management software, demand forecasting algorithms, and data analytics platforms.
+SCM requires careful coordination and collaboration among multiple stakeholders, including suppliers, manufacturers, distributors, and customers. Effective SCM also requires the use of advanced technology and analytical tools, such as inventory management software, demand forecasting algorithms, and data analytics platforms.
 
-SCM is a constantly evolving field, with new trends and technologies emerging all the time. Some of the key trends in SCM today include the use of automation and artificial intelligence, the adoption of sustainable and ethical practices, and the integration of digital technologies such as blockchain and the Internet of Things (IoT) into supply chain processes.
 
 ## Global supply chain management (GSCM)
 
-Global supply chain management (GSCM) is the process of planning, implementing, and controlling the flow of goods, services, and information from suppliers to customers across the globe. It involves managing all aspects of the supply chain, including procurement, production, inventory management, logistics, and distribution.
+Global supply chain management (GSCM) is the process of managing all aspects of the supply chain, including procurement, production, inventory management, logistics, and distribution, all worldwide.
 
 Global supply chains have become increasingly complex due to factors such as globalization, outsourcing, and the rise of e-commerce. As a result, GSCM has become a critical function for businesses to remain competitive in the global marketplace.
 
 The key elements of global supply chain management include:
 
-* Supplier management: This involves selecting and managing suppliers based on factors such as quality, cost, and reliability.
+* Supplier management: selecting and managing suppliers based on factors such as quality, cost, and reliability.
 
-* Procurement: This involves acquiring raw materials, goods, and services from suppliers in the most cost-effective manner.
+* Procurement: acquiring raw materials, goods, and services from suppliers in the most cost-effective manner.
 
-* Production planning: This involves coordinating production schedules and ensuring that production meets demand while minimizing inventory costs.
+* Production planning: coordinating production schedules and ensuring that production meets demand while minimizing inventory costs.
 
-* Inventory management: This involves managing inventory levels to ensure that there is sufficient stock to meet customer demand while minimizing excess inventory.
+* Inventory management: managing inventory levels to ensure that there is sufficient stock to meet customer demand while minimizing excess inventory.
 
-* Logistics: This involves managing the transportation and distribution of goods and services across the global supply chain.
+* Logistics: managing the transportation and distribution of goods and services across the global supply chain.
 
-* Performance monitoring: This involves monitoring key performance indicators such as on-time delivery, inventory turnover, and order accuracy to ensure that the global supply chain is operating effectively.
+* Performance monitoring: monitoring key performance indicators such as on-time delivery, inventory turnover, and order accuracy to ensure that the global supply chain is operating effectively.
 
 Effective GSCM can provide numerous benefits to businesses, including:
 
-* Improved efficiency: GSCM can help to streamline supply chain operations, reducing costs and improving efficiency.
+* Improved efficiency: streamline supply chain operations, reducing costs and improving efficiency.
 
-* Increased customer satisfaction: GSCM can help to improve product quality, reduce lead times, and ensure on-time delivery, leading to increased customer satisfaction.
+* Increased customer satisfaction: improve product quality, reduce lead times, and ensure on-time delivery, leading to increased customer satisfaction.
 
-* Greater flexibility: GSCM can help businesses to respond quickly to changing market conditions, such as fluctuations in demand or supply chain disruptions.
+* Greater flexibility: respond to changing market conditions, such as fluctuations in demand or supply chain disruptions.
 
-* Enhanced risk management: GSCM can help businesses to identify and mitigate supply chain risks, such as geopolitical instability or natural disasters.
-
-To implement effective GSCM, businesses must develop a comprehensive strategy that considers factors such as supplier selection, production planning, inventory management, logistics, and performance monitoring. They must also establish effective communication channels with suppliers and customers across the global supply chain.
+* Enhanced risk management: identify and mitigate supply chain risks, such as geopolitical instability or natural disasters.
 
 
 ## Business intelligence (BI)
 
-Business intelligence (BI) refers to the processes, tools, and technologies that businesses use to collect, analyze, and present data in a way that supports better decision-making. It encompasses a wide range of activities, including data mining, data warehousing, reporting, and analytics.
+Business intelligence (BI) refers to the processes, tools, and technologies that businesses use to collect, analyze, and present data for better decision-making. BI tools allow businesses to gather and analyze data from various sources, including sales, marketing, finance, and operations, to uncover patterns, trends, and anomalies that might otherwise go unnoticed.
 
-The goal of BI is to provide business leaders with insights into their organization's performance, so they can make informed decisions that drive growth and profitability. BI tools allow businesses to gather and analyze data from various sources, including sales, marketing, finance, and operations, to uncover patterns, trends, and anomalies that might otherwise go unnoticed.
+BI enables businesses to make data-driven decisions, rather than relying on intuition or guesswork. By using data to inform their decisions, businesses can reduce risk, optimize operations, and identify new opportunities for growth.
 
-One of the key advantages of BI is that it enables businesses to make data-driven decisions, rather than relying on intuition or guesswork. By using data to inform their decisions, businesses can reduce risk, optimize operations, and identify new opportunities for growth. There are many different examples of business intelligence (BI) in action across a wide range of industries and business functions, such as:
+Examples of BI:
 
-* Sales analysis: A company might use BI tools to analyze sales data from different regions, products, or sales channels to identify trends and patterns. They can use this information to adjust their sales strategies or focus on areas where they have the most potential for growth.
+* Sales analysis: analyze sales data from different regions, products, or sales channels to identify trends and patterns. They can use this information to adjust their sales strategies or focus on areas where they have the most potential for growth.
 
-* Financial reporting: BI tools can help businesses to consolidate financial data from different sources, such as accounting software, bank statements, and invoices. They can then use this information to generate financial reports, such as balance sheets, income statements, and cash flow statements.
+* Financial reporting: consolidate financial data from different sources, such as accounting software, bank statements, and invoices. They can then use this information to generate financial reports, such as balance sheets, income statements, and cash flow statements.
 
-* Customer analytics: BI tools can help businesses to analyze customer data, such as demographics, purchase history, and behavior, to identify customer preferences, needs, and pain points. They can use this information to develop more targeted marketing campaigns, improve customer service, and increase customer satisfaction.
+* Customer analytics: analyze customer data, such as demographics, purchase history, and behavior, to identify customer preferences, needs, and pain points. They can use this information to develop more targeted marketing campaigns, improve customer service, and increase customer satisfaction.
 
-* Supply chain management: BI tools can help businesses to track inventory levels, monitor supplier performance, and optimize shipping and logistics. They can use this information to reduce costs, minimize waste, and improve delivery times.
+* Supply chain management: track inventory levels, monitor supplier performance, and optimize shipping and logistics. They can use this information to reduce costs, minimize waste, and improve delivery times.
 
-* Human resources: BI tools can help businesses to track employee performance, analyze workforce demographics, and identify areas for improvement. They can use this information to optimize staffing, improve training and development programs, and increase employee engagement.
+* Human resources: track employee performance, analyze workforce demographics, and identify areas for improvement. They can use this information to optimize staffing, improve training and development programs, and increase employee engagement.
 
 BI tools come in many different forms, from simple dashboards and reports to more complex predictive analytics models. They may also include artificial intelligence and machine learning capabilities that enable businesses to automate data analysis and identify insights more quickly.
 
@@ -3247,9 +3250,9 @@ Therefore, it is important for educators to use a combination of both formative 
 
 ## Landing page
 
-A landing page is a standalone web page that is designed to persuade visitors to take a specific action, such as signing up for a newsletter, purchasing a product, or downloading a free trial. The goal of a landing page is to convert visitors into leads or customers by presenting them with a compelling offer and a clear call-to-action.
+A landing page is a standalone web page designed to persuade visitors to take a specific action, such as signing up for a newsletter, purchasing a product, or downloading a free trial. The goal is to convert visitors into leads or customers by presenting a compelling offer and a clear call-to-action.
 
-Landing pages typically have a simple and uncluttered design, with minimal distractions and a clear focus on the offer. They are often used in digital marketing campaigns, such as pay-per-click (PPC) advertising, email marketing, or social media marketing, to drive traffic to a specific offer or promotion.
+Landing pages are often used in digital marketing campaigns, such as pay-per-click (PPC) advertising, email marketing, or social media marketing, to drive traffic to a specific offer or promotion.
 
 A good landing page should have the following key elements:
 
@@ -3267,8 +3270,6 @@ A good landing page should have the following key elements:
 
 * Form: A form that collects the visitor's information, such as name and email address, in exchange for the offer.
 
-A landing page should be designed with a clear and specific goal in mind and should be optimized for conversions. By focusing on the key elements listed above and testing different variations, businesses can create landing pages that are highly effective at converting visitors into leads or customers.
-
 
 ## Site map
 
@@ -3276,25 +3277,21 @@ A site map is a visual representation of the hierarchical structure and organiza
 
 A site map typically includes the following elements:
 
-* Main sections: The primary sections or categories of the website, such as Home, About Us, Services, and Contact.
+* Sections: such as Products, Support, Contact, FAQ, etc.
 
-* Subsections: The subcategories or pages within each main section, such as Products, Pricing, and FAQs within the Services section.
+* Links: Hyperlinks that connect the different sections and pages of the website, making it easy for users to navigate.
 
-* Links: Hyperlinks that connect the different sections and pages of the website, making it easy for users to navigate from one page to another.
-
-* Page hierarchy: The hierarchical structure of the website's pages, showing how they relate to each other and how they fit into the overall structure of the site.
+* Page hierarchy: The hierarchical structure of the website's pages, showing how they relate to each other and to the overall structure of the site.
 
 Site maps can be presented in a variety of formats, including hierarchical diagrams, flowcharts, or lists. They can also be designed as interactive diagrams, allowing users to click on different sections and pages to navigate through the site.
 
 Site maps serve several important functions for website design and usability, including:
 
-* Helping users navigate the site: Site maps make it easy for users to find the information they are looking for by providing a clear and organized overview of the site's content.
+* Help users navigate the site: Site maps make it easy for users to find the information they are looking for by providing a clear and organized overview of the site's content.
 
-* Improving search engine optimization: Site maps provide search engines with a comprehensive overview of the site's structure and content, helping them to index and rank the site more accurately.
+* Improve search engine optimization: Site maps provide search engines with a comprehensive overview of the site's structure and content, helping them to index and rank the site more accurately.
 
-* Streamlining website design: Site maps help designers to plan and organize the site's content and structure, making it easier to create a user-friendly and intuitive website.
-
-A site map is an important tool for website design and navigation, providing a clear and organized overview of a site's content and structure. By creating a site map as part of the website design process, designers and developers can ensure that the site is well-organized and easy to navigate, improving user experience and search engine visibility.
+* Streamline website design: Site maps help designers to plan and organize the site's content and structure, making it easier to create a user-friendly and intuitive website.
 
 
 ## Responsive design
@@ -3337,19 +3334,19 @@ Enterprise companies typically have dedicated departments and specialized teams 
 
 Enterprise Portfolio Project Management (EPPM) is a methodology that helps organizations manage their project portfolios in a more efficient and strategic manner. EPPM focuses on aligning projects with the organization's goals and objectives, and ensuring that resources are allocated appropriately to achieve those goals.
 
-EPPM involves a structured approach to portfolio management, which typically includes the following steps:
+EPPM typically includes the following steps:
 
-* Project identification and prioritization: EPPM begins with identifying all potential projects and evaluating them based on strategic fit, potential ROI, and other relevant factors. This helps to prioritize the projects that should be pursued.
+* Project identification and prioritization: EPPM identifies all potential projects, and evaluates them based on strategic fit, potential ROI, and other relevant factors.
 
-* Resource allocation: EPPM involves allocating resources to the prioritized projects in a manner that ensures maximum ROI and strategic alignment. This may involve reallocating resources from low-priority projects to high-priority ones.
+* Resource allocation: EPPM allocates resources to the prioritized projects in a manner that maximizes ROI and strategic alignment. This may involve reallocation from low-priority projects to high-priority ones.
 
-* Risk management: EPPM involves identifying and managing risks associated with individual projects, as well as risks that may affect the overall portfolio.
+* Risk management: EPPM identifies and manages risks associated with individual projects, as well as with the total portfolio.
 
-* Performance tracking and reporting: EPPM involves tracking and reporting on the performance of individual projects and the overall portfolio. This allows stakeholders to monitor progress and make informed decisions about resource allocation and project prioritization.
+* Performance tracking and reporting: EPPM tracks and reports on the performance of individual projects and the total portfolio. This allows stakeholders to monitor progress and make informed decisions.
 
 * Continuous improvement: EPPM involves a continuous improvement process, where feedback from stakeholders is used to refine the portfolio management approach and improve project outcomes over time.
 
-EPPM is particularly useful for large organizations with complex project portfolios, where it can be difficult to ensure that resources are being allocated effectively and in alignment with organizational goals. By taking a more strategic approach to portfolio management, EPPM helps organizations make better use of their resources and achieve their strategic objectives more efficiently.
+EPPM is particularly useful for large organizations with complex project portfolios. By taking a more strategic approach to portfolio management, EPPM helps organizations make better use of their resources and achieve their strategic objectives more efficiently.
 
 
 ## Enterprise Resource Planning (ERP)
@@ -3365,7 +3362,7 @@ ERP systems can be customized to meet the specific needs of different organizati
 
 ## Enterprise Change Management (ECM)
 
-Enterprise Change Management (ECM) is a structured approach to managing the people, processes, and technology changes in an organization. ECM helps organizations to effectively plan, implement, and sustain changes, while minimizing disruption and maximizing benefits.
+Enterprise Change Management (ECM) is a structured approach to managing the people, processes, and technology changes in an organization. ECM helps organizations to effectively plan, implement, and sustain changes.
 
 ECM is a holistic process that addresses all aspects of change management, including communication, training, stakeholder engagement, and risk management. It involves the following key stages:
 
@@ -3375,28 +3372,25 @@ ECM is a holistic process that addresses all aspects of change management, inclu
 
 * Monitoring and evaluation: In this stage, the organization assesses the effectiveness of the change management activities, and makes any necessary adjustments to ensure that the change is sustainable.
 
-ECM requires the active participation and buy-in of all stakeholders, from senior executives to front-line employees. The success of ECM depends on effective communication and engagement with stakeholders, to ensure that they understand the need for change, the benefits of the change, and how they will be impacted.
+ECM requires the active participation and buy-in of all stakeholders, from senior executives to front-line employees. Success depends on effective communication and engagement with stakeholders, to ensure that they understand the need for change, the benefits of the change, and how they will be impacted.
 
-ECM also requires a focus on risk management, to ensure that the organization is aware of potential risks and has strategies in place to mitigate them. This may involve identifying and addressing resistance to change, managing cultural and organizational barriers to change, and addressing any technical or logistical challenges.
+ECM requires a focus on risk management, to ensure potential risks are identified and mitigated. This may involve identifying and addressing resistance to change, managing cultural and organizational barriers to change, and addressing any technical or logistical challenges.
 
-ECM is critical for organizations that are undergoing significant changes, such as mergers and acquisitions, reorganizations, or major technology implementations. It helps to ensure that the changes are implemented in a way that minimizes disruption to the business, and maximizes the benefits of the change.
-
+ECM is especially valuable for organizations that are undergoing significant changes, such as mergers and acquisitions, reorganizations, or major technology implementations.
 
 ## Enterprise Architecture (EA)
 
-Enterprise Architecture (EA) is a discipline that helps organizations align their business processes, information systems, and technology infrastructure to achieve their strategic goals. EA provides a strategic framework that enables organizations to manage complexity, optimize resources, and improve their overall performance.
+Enterprise Architecture (EA) is a discipline that helps organizations align their business processes, information systems, and technology infrastructure to achieve their strategic goals. EA provides a strategic framework to manage complexity, optimize resources, and improve performance.
 
-EA involves the creation and maintenance of an enterprise architecture framework that describes the organization's business functions, information flows, and technology infrastructure. The framework typically includes:
+EA typically includes:
 
-* Business architecture: This defines the organization's business processes, organization structure, and operational goals.
+* Business architecture: the organization's business processes, organization structure, and operational goals.
 
-* Information architecture: This describes the organization's data assets, information flows, and information systems.
+* Information architecture: the organization's data assets, information flows, and information systems.
 
-* Technology architecture: This defines the organization's hardware, software, and network infrastructure.
+* Technology architecture: the organization's hardware, software, and network infrastructure.
 
-* Application architecture: This describes the organization's software applications and how they support the business processes and information flows.
-
-EA is an iterative process that involves continuous assessment and refinement of the architecture framework. The EA team works closely with the business and IT stakeholders to identify the organization's strategic goals, assess the current state of the enterprise architecture, and develop a roadmap for implementing the desired changes.
+* Application architecture: the organization's software applications and how they support the business processes and information flows.
 
 One of the primary benefits of EA is that it helps organizations improve their agility, responsiveness, and innovation. By having a clear understanding of the organization's business processes, information flows, and technology infrastructure, EA enables organizations to identify areas for improvement, optimize resources, and quickly adapt to changing business requirements.
 
@@ -3426,21 +3420,19 @@ Enterprise software is typically more complex and expensive than other types of 
 
 ## Big design up front (BDUF)
 
-Big design up front (BDUF) is an approach to software development where the entire system design is completed before any code is written. In this approach, developers work on detailed requirements, design documents, and specifications that outline the entire project before any coding begins. This approach is in contrast to other agile methodologies such as Scrum or Kanban, which favor a more iterative approach to development.
+Big design up front (BDUF) is an approach to software development where developers work on detailed requirements, design documents, and specifications that outline the entire project before any coding begins. BDUF contrasts with agile methodologies, which favor iterative approaches.
 
-The BDUF approach is often used in large-scale software development projects, where there are many stakeholders and dependencies that need to be managed. By completing the design phase before any coding begins, the hope is that the development process will be more efficient and that the final product will be of higher quality. Proponents of the BDUF approach argue that it reduces the risk of failure by providing a clear roadmap for development and minimizing the need for changes later in the process.
+The BDUF approach is often used in large-scale software development projects, where there are many stakeholders and dependencies that need to be managed. By completing the design phase before any coding begins, the hope is that the development process will be more efficient and that the final product will be of higher quality. Proponents of the BDUF approach argue that it provides a clear roadmap, minimizes the need for later changes, and increases the probability of success.
 
 However, there are several criticisms of the BDUF approach. One of the main criticisms is that it can be time-consuming and costly. By spending a lot of time on design upfront, there is a risk that the development team will invest resources in creating a design that ultimately does not meet the needs of stakeholders or the market. Additionally, because the entire system is designed before any coding begins, it can be difficult to make changes or pivot the project if new information or requirements emerge during the development process.
-
-Another criticism of the BDUF approach is that it assumes that requirements and designs can be fully understood and defined at the beginning of a project. In reality, software development is often complex and unpredictable, and requirements can change as the project progresses. The BDUF approach may not be well-suited for projects that require flexibility and adaptability.
 
 The BDUF approach can be a useful tool in certain software development projects, but it is not a one-size-fits-all solution. The key is to understand the strengths and limitations of the approach and determine whether it is appropriate for a particular project based on factors such as scope, budget, timeline, and stakeholder requirements
 
 ## Domain-Driven Design (DDD) 
 
-Domain-Driven Design (DDD) is a software development approach that aims to help teams create software that is closely aligned with a business's needs and requirements. DDD focuses on breaking down complex business domains into smaller and more manageable components, which can then be more easily implemented in software. It was first introduced by Eric Evans in his book "Domain-Driven Design: Tackling Complexity in the Heart of Software" in 2004.
+Domain-Driven Design (DDD) is a software development approach that aims to help teams create software that is closely aligned with a business's needs and requirements. DDD focuses on breaking down complex business domains into smaller and more manageable components, which can then be more easily implemented in software.
 
-At its core, DDD is about building software that is centered around the business domain, which can be defined as the subject matter and context in which a particular business operates. To achieve this, DDD proposes a set of practices, concepts, and patterns that can help developers build software that accurately reflects the business domain. Some of the key concepts and patterns used in DDD include:
+DDD is about building software that is centered around the business domain, which can be defined as the subject matter and context in which a particular business operates. To achieve this, DDD proposes a set of practices, concepts, and patterns that can help developers build software that accurately reflects the business domain. Key concepts and patterns used in DDD include:
 
 * Ubiquitous Language: This refers to a shared language and vocabulary used by both the business stakeholders and the development team. By using the same language, everyone involved in the project can have a better understanding of the requirements and goals of the project.
 
@@ -3507,7 +3499,6 @@ Some of the benefits of using a VoC approach include:
 
 * Better decision-making: By having a clear understanding of what their customers want, organizations can make more informed decisions about where to invest their resources and how to prioritize their efforts.
 
-Overall, the Voice of the Customer is a critical tool for organizations looking to improve their customer experience and build stronger relationships with their customers.
 
 ## Brand management
 
@@ -3528,17 +3519,18 @@ Brand value can be broken down into two main components: brand equity and brand 
 
 There are several factors that contribute to brand value, including:
 
-* Brand recognition: This is the level of familiarity that consumers have with a brand. The more recognizable a brand is, the higher its brand value.
+* Brand recognition: the level of familiarity that consumers have with a brand. The more recognizable a brand is, the higher its brand value.
 
-* Brand loyalty: This refers to the degree of customer loyalty to a brand. Strong customer loyalty translates into a higher brand value.
+* Brand loyalty: the degree of customer loyalty to a brand. Strong customer loyalty translates into a higher brand value.
 
 * Brand reputation: A brand's reputation can significantly impact its value. Brands with a good reputation tend to have a higher value, while brands with a bad reputation may have a lower value.
 
-* Market share: The size of a brand's market share can also influence its value. Brands with a larger market share tend to be more valuable.
+* Market share: A brand's market share can influence its value. Brands with a larger market share tend to be more valuable.
 
 * Marketing efforts: A brand's marketing efforts, such as advertising, promotions, and sponsorships, can also impact its value. Effective marketing can increase brand recognition and customer loyalty, which can lead to higher brand value.
 
 Overall, brand value is an important metric for businesses as it can impact their financial performance, market share, and overall success. By focusing on building and maintaining a strong brand, businesses can increase their brand value and stay competitive in their respective markets.
+
 
 
 ## Brand equity
@@ -7070,7 +7062,7 @@ Venture capital is an important part of the startup ecosystem, and there are a n
 * "The New Business Road Test" by John Mullins: This book offers a framework for evaluating business opportunities, including how to identify market needs, assess competition, and evaluate the potential for success.
 
 
-## Leadship books
+## Leadership books
 
 Leadership is a complex skill that requires both natural talent and learned knowledge. Leadership books offer valuable insights into leadership styles, techniques, and strategies that can help individuals become better leaders. In this answer, we'll explore some of the most popular and influential leadership books in depth.
 
@@ -7545,7 +7537,7 @@ I advocate for chariable donations to help improve our world. Some of my favorit
 
 ## About the ebook PDF
 
-The Rust Guideposts ebook PDF is generated from the repository markdown files. The process uses custom book build tools, fonts thanks to Adobe, our open source tools, and the program `pandoc`.
+This ebook PDF is generated from the repository markdown files. The process uses custom book build tools, fonts thanks to Adobe, our open source tools, and the program `pandoc`.
 
 
 ### Book build tools
@@ -7577,7 +7569,6 @@ This is a command-line pandoc tool that we maintain. The tool providers our pref
 These projects by the author describe more about startup strategy, tactics, and tools. These are links to git repostories that are free libre open source.
 
 * <a href="https://github.com/joelparkerhenderson/adkar-change-management-model">ADKAR change management model</a>
-* <a href="https://github.com/joelparkerhenderson/agile-assessment">Agile assessment</a>
 * <a href="https://github.com/joelparkerhenderson/architecture-decision-record">Architecture Decision Record (ADR)</a>
 * <a href="https://github.com/joelparkerhenderson/business-model-canvas">Business model canvas (BMC)</a>
 * <a href="https://github.com/joelparkerhenderson/code-of-conduct-guidelines">Code of conduct guidelines</a>
@@ -7586,7 +7577,6 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/critical-success-factor">Critical success factor (CSF)</a>
 * <a href="https://github.com/joelparkerhenderson/crucial-conversations">Crucial conversations</a>
 * <a href="https://github.com/joelparkerhenderson/decision-record">Decision Record (DR) template</a>
-* <a href="https://github.com/joelparkerhenderson/discovery-assessment">Discovery assessment</a>
 * <a href="https://github.com/joelparkerhenderson/enterprise-architecture-assessment">Enterprise architecture assessment</a>
 * <a href="https://github.com/joelparkerhenderson/feedback-request-template">Feedback request template</a>
 * <a href="https://github.com/joelparkerhenderson/functional-specifications-template">Functional specifications template</a>
@@ -7597,8 +7587,6 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/issues">Issues</a>
 * <a href="https://github.com/joelparkerhenderson/key-performance-indicator">Key Performance Indicator (KPI)</a>
 * <a href="https://github.com/joelparkerhenderson/key-risk-indicator">Key Risk Indicator (KRI)</a>
-* <a href="https://github.com/joelparkerhenderson/leadership">Leadership: selected notes &amp; advice</a>
-* <a href="https://github.com/joelparkerhenderson/lean-business-lists">Lean business lists</a>
 * <a href="https://github.com/joelparkerhenderson/maturity-models">Maturity models (MMs)</a>
 * <a href="https://github.com/joelparkerhenderson/metrics">Metrics: ideas &amp; examples</a>
 * <a href="https://github.com/joelparkerhenderson/milestones">Milestones: ideas &amp; examples</a>
@@ -7626,5 +7614,4 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/value-stream-mapping">Value Stream Mapping (VSM)</a>
 * <a href="https://github.com/joelparkerhenderson/vision-statements">Vision statements &amp; mission statements</a>
 * <a href="https://github.com/joelparkerhenderson/ways-of-working">Ways of working for teams</a>
-* <a href="https://github.com/joelparkerhenderson/wordbooks">Wordbooks: glossaries, lexicons, terminology</a>
 

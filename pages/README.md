@@ -212,7 +212,7 @@
 * [Liftoff](liftoff)
 * [Project charter](project-charter)
 * [Statement Of Work (SOW)](statement-of-work)
-* [Functional specifications](functional-specifications)
+* [Functional specifications](functional-specifications) + [steps](functional-specifications-steps)
 * [Software development life cycle (SDLC)](software-development-life-cycle)
 * [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
 * [Program Evaluation and Review Technique (PERT)](program-evaluation-and-review-technique)
@@ -227,7 +227,6 @@
 * [Scrum](scrum)
 * [Swimlanes](swimlanes)
 * [Supply chain management (SCM)](supply-chain-management)
-* [Global supply chain management (GSCM)](global-supply-chain-management)
 * [Business intelligence (BI)](business-intelligence)
 
 
@@ -287,9 +286,11 @@
 * [Burn rate](burn-rate)
 * [Traction](traction)
 * [Valuation](valuation)
+* [Valuation approaches](valuation-approaches)
+* [Valuation approaches for startups](valuation-approaches-for-startups)
+* [Discounted Cash Flow (DCF)](discounted-cash-flow)
 * [Churn rate](churn-rate)
 * [Customer Acquisition Cost (CAC)](customer-acquisition-cost)
-* [Discounted Cash Flow (DCF)](discounted-cash-flow)
 * [Net Present Value (NPV)](net-present-value)
 * [Net Promoter Score (NPS)](net-promoter-score)
 * [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
@@ -311,8 +312,8 @@
 * [Thinking hats](thinking-hats)
 * [Low-fidelity prototype](low-fidelity-prototype)
 * [High-fidelity prototype](high-fidelity-prototype)
-* [Internationalization (i18n)](internationalization)
-* [Localization (l10n)](localization)
+* [Internationalization and localization](internationalization-and-localization)
+* [Internationalization and localization - steps](internationalization-and-localization-steps)
 
 
 ## Quality analysis

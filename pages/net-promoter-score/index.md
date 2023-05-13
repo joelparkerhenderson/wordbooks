@@ -1,6 +1,6 @@
 # Net Promoter Score (NPS)
 
-Net Promoter Score (NPS) is a metric used by businesses to measure customer loyalty and satisfaction. It is based on the question, "How likely are you to recommend our product/service to a friend or colleague?" Customers are asked to rate their likelihood of recommending the product/service on a scale of 0-10, with 0 being "not at all likely" and 10 being "extremely likely."
+Net Promoter Score (NPS) is a metric used by businesses to measure customer loyalty and satisfaction. NPS asks the question "How likely are you to recommend our product/service to a friend or colleague?", with a scale of 0-10, with 0 being "not at all likely" and 10 being "extremely likely".
 
 Based on their response, customers are grouped into three categories:
 

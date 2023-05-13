@@ -14,4 +14,4 @@ Finding the right mentor can be a critical step for the success of a startup. He
 
 * Look for local business organizations: Local business organizations like chambers of commerce, small business associations, and industry groups may have mentorship programs or resources available.
 
-Finding a mentor takes time and effort. It's important to identify someone who shares your vision and values and has experience in areas that are relevant to your startup. It's also essential to maintain a good relationship with your mentor and be open to their feedback and advice.
+It's important to identify someone who shares your vision and values and has experience in areas that are relevant to your startup. It's also essential to maintain a good relationship with your mentor and be open to their feedback and advice.

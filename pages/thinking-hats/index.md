@@ -1,8 +1,6 @@
 # Thinking Hats
 
-Thinking Hats is a decision-making and problem-solving technique developed by Edward de Bono that uses the metaphor of hats to encourage different perspectives and ways of thinking. Each hat represents a different type of thinking, and by wearing a particular hat, individuals are encouraged to think in a particular way.
-
-There are six different hats in the Thinking Hats technique, each of which represents a different mode of thinking:
+Thinking Hats is a decision-making and problem-solving technique that uses the metaphor of hats to encourage different perspectives and ways of thinking. Each hat represents a different type of thinking, and by wearing a particular hat, individuals are encouraged to think in a particular way.
 
 * White Hat: This hat represents objective, factual thinking. When wearing this hat, individuals focus on what information is available and what information is needed to make a decision.
 

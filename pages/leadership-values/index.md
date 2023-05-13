@@ -6,8 +6,6 @@ Here are some leadership values:
 
 * Vision: This value involves having a clear idea of where to go. Leaders are able to communicate this vision to others, to inspire and motivate people to work towards the vision.
 
-* Courage: This value involves taking risks, being resilient in the face of challenges. Leaders are able to stand up for what is right, make tough decisions, and take bold actions to achieve goals.
-
 * Integrity: This value involves being honest, ethical, and consistent in behavior and decision-making. Leaders are transparent and accountable for their actions, and inspire trust and confidence.
 
 * Empathy: This value inolves understanding and connecting with the needs and perspectives of others. Leaders are able to build strong relationships with their team members and stakeholders, and create a positive and inclusive culture.

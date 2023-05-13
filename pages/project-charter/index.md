@@ -4,22 +4,22 @@ A project charter is a formal document that outlines the purpose, scope, objecti
 
 The project charter includes several key components, which are as follows:
 
-* Project Purpose: The project purpose outlines the reason for initiating the project, its benefits and how it aligns with the organization's strategic goals.
+* Purpose: Describe the reason for initiating the project, its benefits and how it aligns with the organization's strategic goals.
 
-* Project Scope: The project scope outlines the boundaries of the project and what is included and excluded.
+* Scope: Detail the boundaries of the project, and what is included and excluded.
 
-* Objectives: The objectives define the desired outcomes of the project in specific, measurable, achievable, relevant and time-bound terms.
+* Objectives: Define the desired outcomes of the project in specific, measurable, achievable, relevant and timely terms.
 
 * Deliverables: The deliverables are the tangible products or services that the project will produce.
 
-* Stakeholders: The stakeholders are the individuals, groups or organizations that are impacted by or can impact the project.
+* Stakeholders: Define the individuals, groups, and organizations that are impacted by or can impact the project.
 
-* Assumptions: The assumptions are the factors that are taken for granted and not validated.
+* Assumptions: Detail factors that are taken for granted and not validated.
 
-* Risks: The risks are the potential events or circumstances that could negatively impact the project.
+* Risks: List potential events or circumstances that could negatively impact the project.
 
-* Budget: The budget is the estimated cost of the project.
+* Budget: Estimate the cost of the project.
 
-* Schedule: The schedule is the timeline for completing the project.
+* Schedule: Show the timeline for completing milestones.
 
-The project charter serves as a guiding document for the project team and stakeholders. The project charter is a living document that may be updated as the project progresses and new information becomes available.
+The project charter is a guiding document for the project team and stakeholders, and should be updated as new information becomes available.

@@ -14,4 +14,4 @@ Finding startup investors can be a challenging task, but here are some ways to g
 
 * Approach venture capital firms: If your startup has the potential for high growth, you may want to consider approaching venture capital firms. However, keep in mind that venture capital firms usually invest in startups that have a proven track record of success, so you may need to show some traction before approaching them.
 
-Finding the right investor takes time and effort. Don't be afraid to reach out to as many people as possible and keep refining your pitch until you find the right fit.
+Don't be afraid to reach out to as many people as possible and keep refining your pitch until you find the right fit.

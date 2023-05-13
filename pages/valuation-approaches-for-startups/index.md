@@ -1,0 +1,11 @@
+# Valuation frameworks for startups
+
+Startup valuation is the process of estimating the current or potential value of a startup. This process is important for entrepreneurs and investors as it provides a basis for decision making, such as how much equity to give up in exchange for funding, or how much to invest in a startup. There are different frameworks and methods for startup valuation, each with its own strengths and weaknesses. Here are some commonly used frameworks:
+
+* Market approach: This approach looks at the market value of similar startups or companies. It relies on comparable sales, industry benchmarks, and other market data to estimate the value of the startup. This approach is often used for startups that have already generated revenue, but it can be difficult to find truly comparable companies.
+
+* Income approach: This approach looks at the startup's expected future earnings and cash flow. It can be based on a discounted cash flow (DCF) analysis or a capitalization of earnings model. DCF involves estimating the expected cash flows of the startup and discounting them to their present value, while the capitalization of earnings model involves dividing the expected earnings by the capitalization rate. The income approach is often considered the most reliable method of startup valuation, but it can be difficult to estimate future earnings accurately.
+
+* Scorecard method: This approach is a hybrid of the market and income approaches. It involves looking at various factors such as the startup's stage of development, market size, competition, and team experience, and assigning a score to each factor. These scores are then used to estimate the startup's overall value. The scorecard method is often used for early-stage startups that don't have a lot of revenue or market data.
+
+* Berkus method: This approach was developed by angel investor Dave Berkus and involves assigning a value to the startup based on five factors: soundness of the idea, quality of the management team, size of the market, level of competition, and stage of development. Each factor is assigned a dollar value, and the sum of these values is used to estimate the startup's overall value. The Berkus method is often used for early-stage startups that don't have a lot of revenue or market data.

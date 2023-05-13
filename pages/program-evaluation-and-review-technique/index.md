@@ -1,6 +1,6 @@
 # Program Evaluation and Review Technique (PERT)
 
-Program Evaluation and Review Technique (PERT) is a project management tool used to estimate the time required to complete a project. The PERT technique is based on the Critical Path Method (CPM), which is a method for identifying the longest path through a project network. PERT uses a probabilistic approach to estimate project completion time, taking into account the uncertainty and variability of individual tasks.
+Program Evaluation and Review Technique (PERT) is a project management tool used to estimate the time required to complete a project. PERT is based on the Critical Path Method (CPM), which identifies the longest path of a project. PERT uses a probabilistic approach to estimate project completion time, taking into account the uncertainty and variability of individual tasks.
 
 PERT involves the following steps:
 
@@ -14,8 +14,6 @@ PERT involves the following steps:
 
 5. Analyze the results: This involves analyzing the project timeline and identifying any potential bottlenecks or delays.
 
-PERT uses three time estimates for each task: optimistic, most likely, and pessimistic. These estimates are used to calculate the expected duration of each task, as well as the expected project completion time. PERT also takes into account the dependencies between tasks and the probability of completing each task on time.
+PERT uses three time estimates for each task: optimistic, most likely, and pessimistic. PERT calculates the expected duration of each task, and the expected project completion time. PERT takes into account dependencies between tasks, and the probability of completing each task on time.
 
-PERT enables project managers to identify potential delays, estimate the probability of completing the project on time, and allocate resources more effectively.
-
-However, PERT can be complex to implement, and it relies heavily on accurate time estimates for each task. PERT is also less effective for projects with a large number of tasks or where the tasks are highly interdependent.
+PERT enables project managers to identify potential delays, estimate the probability of completing the project on time, and allocate resources more effectively. However, PERT can be complex to implement, and it relies heavily on accurate time estimates for each task. PERT is also less effective for projects with a large number of tasks or where the tasks are highly interdependent.

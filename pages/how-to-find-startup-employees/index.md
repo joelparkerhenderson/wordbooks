@@ -14,4 +14,4 @@ Finding the right employees for a startup is a crucial step towards building a s
 
 * Offer incentives: Offering incentives like equity, flexible work hours, and other perks can attract top talent to your startup.
 
-Finding the right employees for your startup requires a mix of strategies and patience. It's important to take your time and find the right fit for your business to increase your chances of success.
+Finding the right employees requires a mix of strategies and patience. Take your time and find the right fit for your business to increase your chances of success.
