@@ -8,4 +8,4 @@
 
 3. How to make money: highlights the challenge of monetizing the product or service. Startups often have limited resources and may struggle to identify the best revenue model for their product. This process often involves experimenting with different pricing strategies and revenue models.
 
-McClure's quote highlights the uncertainty and ambiguity that are inherent in the early stages of a startup. It also highlights the importance of quickly iterating and experimenting to find the right product-market fit and revenue model.
+The quote highlights the uncertainty and ambiguity that are inherent in the early stages of a startup. It also highlights the importance of quickly iterating and experimenting to find the right product-market fit and revenue model.

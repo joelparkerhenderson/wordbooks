@@ -12,6 +12,4 @@ There are several types of fixed-price contracts:
 
 * Fixed-Price Incentive Fee (FPIF) Contract: This type of contract includes a fixed price and an incentive fee that is paid to the seller if certain performance targets are met. The incentive fee provides an additional reward to the seller for delivering the project on time, under budget, or meeting other performance targets.
 
-Fixed-price contracts offer several advantages to both buyers and sellers. For buyers, fixed-price contracts provide cost certainty, which helps them budget for the project and manage their financial risks. For sellers, fixed-price contracts offer a predictable revenue stream and provide an incentive to control costs and deliver the project on time.
-
-However, fixed-price contracts can also present some risks for both parties. For sellers, there is the risk of underestimating the actual costs of the project, which can result in reduced profits or even losses. For buyers, there is the risk that the fixed price may not reflect changes in market conditions or unexpected events, which can result in a project that is not completed on time or within budget.
+For buyers, fixed-price contracts provide cost certainty, which helps them budget for the project and manage their financial risks. For sellers, fixed-price contracts offer a predictable revenue stream and provide an incentive to control costs and deliver the project on time.

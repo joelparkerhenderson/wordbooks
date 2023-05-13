@@ -9,5 +9,3 @@ The idea of "skin in the game" is often applied in business and finance, where i
 Having "skin in the game" is also important in entrepreneurship, where founders often invest their own money and time in their startups, rather than relying solely on outside investors or funding sources. This can help to align the interests of the founder with those of the company and its stakeholders, and ensure that the founder is motivated to work hard and make sound decisions.
 
 In addition to business and finance, "skin in the game" can also be applied to other areas of life, such as politics and social justice. For example, politicians who are personally affected by the policies they enact, such as healthcare or tax reform, may be more motivated to make decisions that benefit their constituents, rather than their own interests or those of their donors.
-
-The concept of "skin in the game" emphasizes the importance of personal investment and accountability in decision-making, and highlights the potential benefits of aligning personal interests with those of larger organizations or societies.

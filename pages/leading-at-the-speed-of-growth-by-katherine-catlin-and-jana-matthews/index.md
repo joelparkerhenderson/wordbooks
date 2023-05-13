@@ -13,5 +13,3 @@ In the scale-up stage, the focus is on maintaining the company's growth while ma
 In the maturity stage, the focus is on sustaining the company's success over the long term. The authors recommend that leaders in this stage be able to innovate and adapt to changing market conditions, maintain a customer-centric focus, and develop a strong pipeline of future leaders.
 
 Throughout the book, the authors emphasize the importance of leadership and culture in driving growth. They provide practical advice on topics such as hiring, managing cash flow, and building a strong network of advisors and mentors.
-
-Overall, "Leading at the Speed of Growth" offers valuable insights and strategies for entrepreneurs and business leaders who are looking to grow and scale their companies.

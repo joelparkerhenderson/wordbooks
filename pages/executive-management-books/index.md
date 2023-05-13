@@ -1,6 +1,6 @@
 # Executive management books
 
-There are numerous executive management books that have been written over the years, each with its unique approach and perspective on how to effectively lead and manage teams. Here are some of the best management books and what they cover:
+There are numerous executive management books that have been written over the years, each with its unique approach and perspective on how to effectively lead and manage teams. Here are some of the best.
 
 * "The One Minute Manager" by Ken Blanchard and Spencer Johnson: This book focuses on the idea that effective management can be done in just a few minutes a day. The authors offer practical tips on how to communicate with team members, give feedback, and manage performance.
 

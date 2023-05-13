@@ -4,9 +4,7 @@ Military strategy books have long been a valuable source of knowledge for busine
 
 * "The Art of War" by Sun Tzu: This ancient Chinese military treatise is still widely read and studied today. It offers valuable insights into strategy, tactics, and leadership, and emphasizes the importance of knowing oneself, one's enemy, and the terrain of the battlefield.
 
-* "On War" by Carl von Clausewitz: Written in the 19th century, this classic work on military strategy is still considered one of the most important books on the subject. It explores the nature of war, the role of politics in military decision-making, and the importance of adapting to changing circumstances.
-
-* "The Campaigns of Alexander" by Arrian: This historical account of Alexander the Great's military campaigns in the 4th century BCE offers valuable lessons in leadership, strategy, and tactics. It also provides insights into the importance of logistics, intelligence gathering, and diplomacy.
+* "On War" by Carl von Clausewitz: Written in the 19th century, this classic work explores the nature of war, the role of politics in military decision-making, and the importance of adapting to changing circumstances.
 
 * "The 33 Strategies of War" by Robert Greene: This modern classic draws on the lessons of history and offers practical advice on how to apply them to contemporary situations. It covers topics such as deception, unconventional warfare, and the importance of maintaining morale.
 

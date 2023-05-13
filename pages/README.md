@@ -470,9 +470,9 @@
 
 * [Employee agreement](employee-agreement)
 * [Service agreement](service-agreement)
-* [Master agreement](master-agreement)
 * [Consulting agreement](consulting-agreement)
 * [Subcontracting agreement](subcontracting-agreement)
+* [Framework agreement](framework-agreement)
 * [Confidentiality agreement](confidentiality-agreement)
 * [Non-disclosure agreement (NDA)](non-disclosure-agreement)
 * [Non-compete agreement](non-compete-agreement)
@@ -480,8 +480,9 @@
 * [Work-for-hire agreement](work-for-hire-agreement)
 * [Arbitration agreement](arbitration-agreement)
 * [Letter Of Intent (LOI)](letter-of-intent)
-* [Memorandum Of Understanding (MOU)](memorandum-of-understanding)
 * [Power Of Attorney (POA)](power-of-attorney)
+* Memorandum Of Understanding (MOU): see Letter Of Intent (LOI)
+* Master Services Agreement (MSA): see Framework agreement
 
 
 ## [Technology transfer agreements](technology-transfer-agreements)
@@ -525,7 +526,7 @@
 * [The Law of Demos (Kapor's Law)](the-law-of-demos)
 * [The Law of Supply and Demand](the-law-of-supply-and-demand)
 * [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
-* [The Pareto Principle (The 80/20 Rule)](the-principle-of-least-knowledge)
+* [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
 * [The Principal of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
 * [Chesterton's fence](chestertons-fence)
 
@@ -574,9 +575,10 @@
 ## Book lists
 
 * [Executive management books](executive-management-books)
-* [Military strategy books](military-strategy-books)
+* [Teamwork books](teamwork-books)
 * [Negotiation books](negotiation-books)
 * [Venture capital books](venture-capital-books)
+* [Military strategy books](military-strategy-books)
   
 
 ## [Leadership books](leadership-books)

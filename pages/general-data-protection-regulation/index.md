@@ -1,10 +1,10 @@
 # General Data Protection Regulation (GDPR)
 
-General Data Protection Regulation (GDPR) is a comprehensive data privacy regulation that was introduced by the European Union (EU) in May 2018. The regulation is intended to harmonize data protection laws across the EU and to provide individuals with greater control over their personal data.
+General Data Protection Regulation (GDPR) is a comprehensive data privacy regulation by the European Union (EU). GDPR is intended to harmonize data protection laws across the EU, and to provide individuals with greater control over their personal data.
 
 The GDPR applies to all organizations, regardless of their location, that process the personal data of individuals within the EU. Personal data is defined as any information that can be used to directly or indirectly identify an individual, such as a name, email address, or IP address.
 
-The GDPR places a number of obligations on organizations that process personal data. These include:
+Key areas of the GDPR:
 
 * Obtaining consent: Organizations must obtain explicit and informed consent from individuals before collecting and processing their personal data.
 
