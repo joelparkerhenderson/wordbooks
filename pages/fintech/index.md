@@ -1,6 +1,6 @@
 # Fintech (financial technology)
 
-Fintech, short for financial and technology, refers to the use of technology to provide financial services. It involves the use of innovative technologies to create new financial products and services, as well as to improve existing ones. Fintech has been transforming the financial industry by making financial services more accessible, affordable, and convenient to a wider range of consumers.
+Fintech, short for financial technology, refers to the use of technology to provide financial services. It involves the use of innovative technologies to create new financial products and services, as well as to improve existing ones. Fintech has been transforming the financial industry by making financial services more accessible, affordable, and convenient to a wider range of consumers.
 
 The fintech industry includes a wide range of businesses, from startups to established companies, that offer a variety of financial services. Some of the areas of fintech innovation include:
 

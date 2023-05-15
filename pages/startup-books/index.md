@@ -16,3 +16,6 @@ Specifics:
 
 * "The Lean Startup" by Eric Ries - Ries presents a methodology for starting and running a successful startup that emphasizes rapid experimentation, customer feedback, and continuous improvement. He emphasizes the importance of creating a minimum viable product (MVP) and iterating on it based on feedback from customers.
 
+* "Zero to One" by Peter Thiel: This book argues that true innovation comes from creating something new rather than copying something that already exists. Thiel provides a number of examples of companies that have successfully done this and offers insights into how entrepreneurs can do the same.
+
+* "The Hard Thing About Hard Things" by Ben Horowitz: This book provides a candid and practical look at the challenges of building and scaling a startup. It covers topics such as managing employees, raising capital, and making tough decisions.

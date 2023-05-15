@@ -1,6 +1,6 @@
-# "Blue Ocean Strategy" by W. Chan Kim and Renée Mauborgne
+# Blue Ocean Strategy
 
-Blue Ocean Strategy is a business strategy framework that seeks to create uncontested market space and make competition irrelevant by creating new demand and targeting new customers. The concept was introduced by W. Chan Kim and Renée Mauborgne in their book "Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant" in 2005.
+Blue Ocean Strategy is a business strategy framework that seeks to create uncontested market space and make competition irrelevant by creating new demand and targeting new customers. The concept was introduced by W. Chan Kim and Renée Mauborgne in their book "Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant".
 
 The traditional business strategy is based on competition, where companies compete in the same industry for the same customers, resulting in a "red ocean" of bloody competition. In contrast, Blue Ocean Strategy focuses on creating a "blue ocean" of uncontested market space where competition is irrelevant.
 

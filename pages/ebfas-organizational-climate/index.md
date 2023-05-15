@@ -1,9 +1,15 @@
 # EBFAS Organizational Climate
 
-EBFAS Organizational Climate is a framework for understanding and improving the overall work environment of an organization. The acronym EBFAS stands for the six factors that the framework identifies as critical to the organizational climate: empowerment, belonging, flexibility, achievement, support, and structure.
+"EBFAS" is a German abbreviation of six elements of organizational climate: Einheit (oneness), Behendigkeit (agility), Fingerspitzengefühl (fingertip feeling), Auftragstaktik (task tactic), Schwerpunkt (main point).
 
-Empowerment refers to the degree to which employees are given the autonomy and authority to make decisions and take action. Belonging is the sense of connection and community that employees feel within the organization. Flexibility refers to the organization's ability to adapt and change in response to shifting circumstances. Achievement is the degree to which employees feel a sense of accomplishment and progress in their work. Support refers to the resources, assistance, and encouragement that employees receive from their colleagues and superiors. Finally, structure refers to the degree to which the organization is formalized, hierarchical, and rules-driven.
+* Einheit (oneness): Means unity, or unit. This is a shared outlook possessed by a group of leaders, and represents a unifying theme that can be used to simultaneously encourage subordinate initiative yet realize superior intent.
 
-The EBFAS Organizational Climate framework is based on the idea that each of these six factors is important to the overall health and success of the organization, and that they are interconnected and interdependent. For example, an organization that is highly structured but lacks flexibility may struggle to adapt to changing circumstances, while an organization that is highly supportive but lacks empowerment may have a hard time fostering innovation and creativity.
+* Behendigkeit (agility). Means nimbleness, quickness, swiftness. This is the ability to break out of longstanding patterns, even if they have been successful.
 
-The framework can be used by leaders and managers to assess the current state of their organization's climate and identify areas for improvement. By focusing on each of the six factors in turn, they can develop strategies and initiatives to strengthen the overall work environment and create a more positive and productive culture.
+* Fingerspitzengefühl (fingertip feeling). Means intuitive flair or instinct. It describes a great situational awareness, and the ability to respond appropriately and tactfully, such as a superior ability to respond to an escalated situation.
+
+* Auftragstaktik (task tactic). This is a form of military tactics where the emphasis is on the outcome of a mission rather than the specific means of achieving it. 
+  
+* Schwerpunkt (main point). Means the center of gravity, focus of main effort, focus and direction. This is a heuristic to make decisions from tactics to strategy about priority. Everyone from leaders to supports should know the schwerpunkt i.e. know what is most important and why.
+  
+  

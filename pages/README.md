@@ -87,6 +87,7 @@
 * [Free trial](free-trial)
 
 
+
 ## [Strategic effects](strategic-effects)
 
 * [Network effects](network-effects)
@@ -103,21 +104,29 @@
 
 * [Elevator pitch](elevator-pitch)
 * [Pitch deck](pitch-deck)
+* [Pitch competition](pitch-competition)
 * [Business plan](business-plan)
 * [Business Model Canvas (BMC)](business-model-canvas)
 * [Balanced scorecard](balanced-scorecard)
 * [Strategy map](strategy-map)
 * [Go-to-market strategy](go-to-market-strategy)
+* [Demo day](demo-day)
 * [Investment Readiness Level (IRL)](investment-readiness-level)
+* [DMAIC methodology](dmaic-methodology)
+* [Plan-Do-Check-Act (PDCA)](plan-do-check-act)
 * [OODA loop](ooda-loop)
+* [OODA loop v DMAIC cycle v PDCA spiral](ooda-loop-v-dmaic-cycle-v-pdca-spiral)
+* [Kaizen](kaizen)
+* [EBFAS organizational climate](ebfas-organizational-climate)
 * [Agile chartering](agile-chartering)
 * [Decision record](decision-record)
 * [Six Sigma methodology](six-sigma-methodology)
-* [DMAIC methodology](dmaic-methodology)
 * [Economic moat](economic-moat)
 * [Economies of scale](economies-of-scale)
 * [Winner-take-all](winner-take-all)
-
+* [Sales funnel](sales-funnel)
+* [Build-Measure-Learn](build-measure-learn)
+  
 
 ## [Company leadership roles](company-leadership-roles)
 
@@ -133,8 +142,24 @@
 * [Chief Security Officer (CSO)](chief-security-officer)
 * [Chief Risk Officer (CSO)](chief-risk-officer)
 * [Executive Director (ED)](executive-director)
-* [Board of Directors (BOD)](board-of-directors)
 * [Chairperson of the Board (COB)](chairperson-of-the-board)
+* [Board of Directors (BOD)](board-of-directors)
+* [Board of Advisors (BOA)](board-of-advisors)
+
+
+## [Company departments](company-departments)
+
+* [Sales department](sales-department)
+* [Marketing department](marketing-department)
+* [Engineering department](engineering-department)
+* [Operations department](operations-department)
+* [Customer service department](customer-service-department)
+* [Finance department](finance-resources-department)
+* [Legal department](legal-resources-department)
+* [Human resources (HR) department](human-resources-department)
+* [Risk Management (RM) department](risk-management-department)
+* [General and Administrative (G&A) department](general-and-administrative-department)
+* [Research and Development (R&D) department](research-and-development-department)
 
 
 ## [Organizational values frameworks](organizational-values-frameworks)
@@ -288,10 +313,8 @@
 * [Valuation](valuation)
 * [Valuation approaches](valuation-approaches)
 * [Valuation approaches for startups](valuation-approaches-for-startups)
-* [Discounted Cash Flow (DCF)](discounted-cash-flow)
 * [Churn rate](churn-rate)
 * [Customer Acquisition Cost (CAC)](customer-acquisition-cost)
-* [Net Present Value (NPV)](net-present-value)
 * [Net Promoter Score (NPS)](net-promoter-score)
 * [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
 
@@ -347,7 +370,9 @@
 * [Community of Practice (CoP)](community-of-practice)
 * [The Spotify Model](the-spotify-model)
 * [Forming, Storming, Norming, Performing (FSNP)](forming-storming-norming-performing)
-* [Acquihire](acquihire)
+* [Outsourcing](outsourcing)
+* [Offshoring](offshoring)
+* [Nearshoring](nearshoring)
 
 
 ## Teamwork
@@ -387,7 +412,6 @@
 * [Feasibility analysis](feasibility-analysis)
 * [Five Forces analysis](five-forces-analysis)  
 * [Maturity models](maturity-models)
-* [EBFAS organizational climate](ebfas-organizational-climate)
   
 
 ## [Statistical analysis](statistical-analysis)
@@ -403,11 +427,33 @@
 * [Regression to the mean](regression-to-the-mean)
 * [Bayes' theorem](bayes-theorem)
 * [Chi-square analysis](chi-square-analysis)
+* [Monte Carlo methods](monte-carlo-methods)
 
+
+# Financials
+
+* [Profit and loss (P&L)](profit-and-loss)
+* [Assets and liabilities](assets-and-liabilities)
+* [Balance sheet](balance-sheet)
+* [Cost of goods sold (COGS)](cost-of-goods-sold)
+* [Unit cost](unit-cost)
+* [Inventory turnover](inventory-turnover)
+* [Carrying costs](carrying-costs)
+* [Earned income](earned-income)
+* [Internal Rate of Return (IRR)](internal-rate-of-return)
+* [Return On Investment (ROI)](return-on-investment)
+* [Total Cost of Ownership (TCO)](total-cost-of-ownership)
+* [Discounted Cash Flow (DCF)](discounted-cash-flow)
+* [Net Present Value (NPV)](net-present-value)
+* [Fixed costs](fixed-costs)
+* [Gross profit and net profit](gross-profit-and-net-profit)
+* [Generally Accepted Accounting Principles (GAAP)](generally-accepted-accounting-principles)
+  
 
 ## [Investors](investors)
 
 * [Friends and family investor](friends-and-family-investor)
+* [Accredited investor](accredited-investor)
 * [Venture capital investor](venture-capital-investor)
 * [Angel investor](angel-investor)
 * [Seed investor](seed-investor)
@@ -441,6 +487,23 @@
 * [Private equity](private-equity)
 
 
+## Exits
+
+* [Initial Public Offering (IPO)](initial-public-ffering)
+* [Mergers and Acquisitions (M&A)](mergers-and-acquisitions)
+* [Acquihire](acquihire)
+* [Zombie](zombie)
+
+
+## Hosting??
+
+* [Incubator](incubator)
+* [Accelerator](accelerator)
+* [Coworking](coworking)
+* [Skunkworks](skunkworks)
+* [Spinoff](spinoff)  
+
+
 ## [Equity](equity)
 
 * [Capitalization table](capitalization-table)
@@ -455,6 +518,7 @@
 * [Restricted stock units (RSUs)](restricted-stock-units)
 * [Sweat equity](sweat-equity)
 * [Profit sharing](profit-sharing)
+* [Stock buyback](stock-buyback)
 
 
 ## [Intellectual Property (IP)](intellectual-property)
@@ -485,6 +549,15 @@
 * Master Services Agreement (MSA): see Framework agreement
 
 
+## Global issues
+
+* [The Americas](the-americas)
+* [Europe, Middle East, Africa (EMEA)](europe-middle-east-africa)
+* [Asia-Pacific (APAC)](asia-pacific)
+* [Visa sponsorship](visa-sponsorship)
+* [Cross-border controls](cross-border-controls)
+
+
 ## [Technology transfer agreements](technology-transfer-agreements)
 
 * [Licensing agreement (LA)](licensing-agreement)
@@ -513,7 +586,7 @@
 * [Health Insurance Portability and Accountability Act (HIPAA)](health-insurance-portability-and-accountability-act)
 * [Family Educational Rights and Privacy Act (FERPA)](family-educational-rights-and-privacy-act)
 * [Payment Card Industry Data Security Standard (PCI DSS)](payment-card-industry-data-security-standard)
-
+  
 
 ## Laws & principles
 
@@ -526,6 +599,7 @@
 * [The Law of Demos (Kapor's Law)](the-law-of-demos)
 * [The Law of Supply and Demand](the-law-of-supply-and-demand)
 * [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
+* [The Law of Large Numbers](the-law-of-large-numbers)
 * [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
 * [The Principal of Least Knowledge (The Law of Demeter)](the-principle-of-least-knowledge)
 * [Chesterton's fence](chestertons-fence)
@@ -555,7 +629,8 @@
 * [Firefighting mode](firefighting-mode)
 * [Barking up the wrong tree](barking-up-the-wrong-tree)
 * [Swoop and poop](swoop-and-poop)
-
+* [The Tragedy of the Commons](the-tragedy-of-the-commons)
+ 
 
 ## Quotations
 
