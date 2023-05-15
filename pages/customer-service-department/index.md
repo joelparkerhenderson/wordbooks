@@ -8,8 +8,6 @@ Here are some of the main functions of a customer service department:
 
 * Complaints handling: The department is also responsible for handling customer complaints about the company's products or services. This includes investigating the issues raised by customers and providing a resolution.
 
-* Issue resolution: Customer service representatives are trained to help customers resolve their issues with the company's products or services. They must have a deep understanding of the company's products or services to provide accurate and effective solutions.
-
 * Order processing: In many cases, the customer service department is responsible for processing orders, including taking orders over the phone or through other channels, tracking orders, and handling returns or exchanges.
 
 * Feedback collection: The customer service department is often responsible for collecting feedback from customers to help the company improve its products or services. This could be done through surveys, phone calls, or social media.

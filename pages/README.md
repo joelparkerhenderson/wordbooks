@@ -46,7 +46,7 @@
 * [How to find startup investors](how-to-find-startup-investors)
 * [How to find startup employees](how-to-find-startup-employees)
 * [How to find startup consultants](how-to-find-startup-consultants)
-* [How to find startup recruiters](how-to-find-startup-employees)
+* [How to find startup recruiters](how-to-find-startup-recruiters)
 * [How to find startup loans](how-to-find-startup-loans)
 
 
@@ -87,7 +87,6 @@
 * [Free trial](free-trial)
 
 
-
 ## [Strategic effects](strategic-effects)
 
 * [Network effects](network-effects)
@@ -102,10 +101,12 @@
 
 ## TODO
 
+* [Value proposition](value-proposition)
 * [Elevator pitch](elevator-pitch)
 * [Pitch deck](pitch-deck)
 * [Pitch competition](pitch-competition)
 * [Business plan](business-plan)
+* [Business plan competition](business-plan-competition)
 * [Business Model Canvas (BMC)](business-model-canvas)
 * [Balanced scorecard](balanced-scorecard)
 * [Strategy map](strategy-map)
@@ -126,7 +127,8 @@
 * [Winner-take-all](winner-take-all)
 * [Sales funnel](sales-funnel)
 * [Build-Measure-Learn](build-measure-learn)
-  
+* [Vendor lock-in](vendor-lock-in)
+
 
 ## [Company leadership roles](company-leadership-roles)
 
@@ -154,13 +156,20 @@
 * [Engineering department](engineering-department)
 * [Operations department](operations-department)
 * [Customer service department](customer-service-department)
-* [Finance department](finance-resources-department)
-* [Legal department](legal-resources-department)
+* [Finance department](finance-department)
+* [Legal department](legal-department)
 * [Human resources (HR) department](human-resources-department)
 * [Risk Management (RM) department](risk-management-department)
 * [General and Administrative (G&A) department](general-and-administrative-department)
 * [Research and Development (R&D) department](research-and-development-department)
 
+
+## Company adjuncts
+
+* [Fractional consulting](fractional-consulting)
+* [Contingengy recruiter](contingengy-recruiter)
+* [Human Resources as a Service](human-resources-as-a-service)
+  
 
 ## [Organizational values frameworks](organizational-values-frameworks)
 
@@ -193,13 +202,17 @@
 * [Thought leadership](thought-leadership)
 * [Business-to-Business (B2B)](business-to-business)
 * [Business-to-Consumer (B2C)](business-to-consumer)
+* [Business-to-Business-to-Consumer (B2B2C)](business-to-business-to-consumer)
 * [Peer-to-Peer (P2P)](peer-to-peer)
+* [Social proof](social-proof)
 
 
 ## Growth options
 
 * [Product-led growth (PLG)](product-led-growth)
 * [Sales-led growth (SLG)](sales-led-growth)
+* [Growth hacking](growth-hacking)
+* [Hockey-stick growth](hockey-stick-growth)
 
 
 ## Planning
@@ -220,9 +233,12 @@
 * [Issue tracker](issue-tracker)
 * [Mind map](mind-map)
 * [Decision tree](decision-tree)
+* [Change management](change-management)
 * [ADKAR change management model](adkar-change-management-model)
 * [Business continuity](business-continuity)
 * [Operational resilience](operational-resilience)
+* [Crowdsourcing](crowdsourcing)
+* [Planning poker estimation](planning-poker-estimation)
 
 
 ## Consulting
@@ -311,8 +327,11 @@
 * [Burn rate](burn-rate)
 * [Traction](traction)
 * [Valuation](valuation)
+* [Lifetime Value (LTV)](lifetime-value)
 * [Valuation approaches](valuation-approaches)
 * [Valuation approaches for startups](valuation-approaches-for-startups)
+* [409A valuation](409a-valuation)
+* [83(b) election](83-b-election)
 * [Churn rate](churn-rate)
 * [Customer Acquisition Cost (CAC)](customer-acquisition-cost)
 * [Net Promoter Score (NPS)](net-promoter-score)
@@ -373,6 +392,7 @@
 * [Outsourcing](outsourcing)
 * [Offshoring](offshoring)
 * [Nearshoring](nearshoring)
+* [Solopreneur](solopreneur)
 
 
 ## Teamwork
@@ -424,6 +444,7 @@
 * [Variance](variance)
 * [Trend analysis](trend-analysis)
 * [Anomaly detection](anomaly-detection)
+* [Quantitative fallacy](quantitative-fallacy)
 * [Regression to the mean](regression-to-the-mean)
 * [Bayes' theorem](bayes-theorem)
 * [Chi-square analysis](chi-square-analysis)
@@ -485,13 +506,19 @@
 * [Equity financing](equity-financing)
 * [Simple Agreement For Future Equity (SAFE)](simple-agreement-for-future-equity)
 * [Private equity](private-equity)
+* [Priced round](priced-round)
+* [Drag-along rights](drag-along-rights)
+* [Carried interest](carried-interest)
+* [Due dilligence](due-dilligence)
 
 
 ## Exits
 
-* [Initial Public Offering (IPO)](initial-public-ffering)
+* [Initial Public Offering (IPO)](initial-public-offering)
 * [Mergers and Acquisitions (M&A)](mergers-and-acquisitions)
+* [Special Purpose Acquisition Company (SPAC)](special-purpose-acquisition-company)
 * [Acquihire](acquihire)
+* [Unicorn](unicorn)
 * [Zombie](zombie)
 
 
@@ -501,7 +528,8 @@
 * [Accelerator](accelerator)
 * [Coworking](coworking)
 * [Skunkworks](skunkworks)
-* [Spinoff](spinoff)  
+* [Spinoff](spinoff)
+* [Spinoout](spinoff)
 
 
 ## [Equity](equity)
@@ -519,7 +547,11 @@
 * [Sweat equity](sweat-equity)
 * [Profit sharing](profit-sharing)
 * [Stock buyback](stock-buyback)
-
+* [Full Ratchet](full-ratchet)
+* [Pay-to-play](pay-to-play)
+* [Liquidity event](liquidity-event)
+* [Lock-up](lock-up)
+  
 
 ## [Intellectual Property (IP)](intellectual-property)
 
@@ -567,6 +599,7 @@
 * [Facility Use/Service Agreement (FUSA)](facility-use-service-agreement)
 * [Material Transfer Agreement (MTA)](material-transfer-agreement)
 * [Technical Assistance Agreement (TAA)](technical-assistance-agreement)
+* [Technology Transfer Office (TTO)](technology-transfer-office)
 
 
 ## Work contracts

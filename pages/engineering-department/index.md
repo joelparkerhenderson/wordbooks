@@ -1,8 +1,6 @@
 # Engineering department
 
-The engineering department is responsible for designing, developing, and maintaining a company's products, services, and systems. It is a critical part of any organization involved in manufacturing, construction, software development, or any other field that involves creating or improving products.
-
-The engineering department is usually headed by a Chief Technology Officer (CTO) or a Chief Engineer. The department is responsible for the following functions:
+The engineering department is responsible for designing, developing, and maintaining a company's products, services, and systems. The engineering department is usually headed by a Chief Technology Officer (CTO) or a Chief Engineer. The department is responsible for the following functions:
 
 * Research and Development (R&D): This function is responsible for developing new products, improving existing products, and identifying new technologies that can be used by the company.
 

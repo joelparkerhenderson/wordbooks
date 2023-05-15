@@ -1,6 +1,6 @@
 # Business intelligence (BI)
 
-Business intelligence (BI) refers to the processes, tools, and technologies that businesses use to collect, analyze, and present data for better decision-making. BI enables businesses to make data-driven decisions, rather than relying on intuition or guesswork. By using data to inform their decisions, businesses can reduce risk, optimize operations, and identify new opportunities for growth.
+Business intelligence (BI) refers to the processes, tools, and technologies that businesses use to collect, analyze, and present data for better decision-making. BI enables businesses to make data-driven decisions, rather than relying on intuition or guesswork. BI can reduce risk, optimize operations, and identify new opportunities for growth.
 
 Examples of BI:
 
@@ -14,4 +14,5 @@ Examples of BI:
 
 * Human resources: Track employee performance, analyze workforce demographics, and identify areas for improvement. Optimize staffing, improve training and development programs, and increase employee engagement.
 
-BI tools come in many different forms, from simple dashboards and reports to more complex predictive analytics models. They may also include artificial intelligence and machine learning capabilities that enable businesses to automate data analysis and identify insights more quickly.
+BI tools come in many different forms, from simple dashboards and reports to more complex predictive analytics models. They may include AI/ML and automatic data analysis and identify insights more quickly.
+

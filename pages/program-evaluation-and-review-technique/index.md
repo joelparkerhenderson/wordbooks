@@ -14,6 +14,6 @@ PERT involves the following steps:
 
 5. Analyze the results: This involves analyzing the project timeline and identifying any potential bottlenecks or delays.
 
-PERT uses three time estimates for each task: optimistic, most likely, and pessimistic. PERT calculates the expected duration of each task, and the expected project completion time. PERT takes into account dependencies between tasks, and the probability of completing each task on time.
+PERT uses three time estimates for each task: optimistic, most likely, and pessimistic. PERT calculates the expected duration of each task and the project. PERT takes into account dependencies between tasks, and the probability of completing each task on time.
 
-PERT enables project managers to identify potential delays, estimate the probability of completing the project on time, and allocate resources more effectively. However, PERT can be complex to implement, and it relies heavily on accurate time estimates for each task. PERT is also less effective for projects with a large number of tasks or where the tasks are highly interdependent.
+PERT enables project managers to identify potential delays, estimate the probability of completing the project on time, and allocate resources more effectively. However, PERT can be complex to implement, and it relies heavily on accurate time estimates for each task.

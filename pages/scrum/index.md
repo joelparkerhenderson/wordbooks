@@ -1,6 +1,6 @@
 # Scrum
 
-Scrum is a widely used software development framework that aims to improve productivity, reduce time to market, and promote teamwork. Scrum relies on self-organizing and cross-functional teams that work in short cycles called "sprints", such as 1-4 weeks, resulting in a shippable product. Scrum emphasizes teamwork, communication, and continuous improvement.
+Scrum is a widely used software development framework that aims to improve productivity, reduce time to market, and promote teamwork. Scrum relies on self-organizing and cross-functional teams that work in short cycles called sprints. Scrum emphasizes teamwork, communication, and continuous improvement.
 
 Scrum roles:
 
@@ -25,5 +25,3 @@ Scrum events:
 * A daily scrum meeting keeps the team members aligned, identify any obstacles, and adjust the Sprint Backlog if necessary.
 
 * A sprint ends with a review meeting to show the work to stakeholders for feedback, and a retrospectiveive meeting to identify areas for improvement.
-
-Scrum provides a structured approach to software development that helps teams deliver high-quality software products quickly and efficiently. However, it requires commitment and discipline from all team members to be successful.
