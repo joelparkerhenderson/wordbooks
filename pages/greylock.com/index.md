@@ -1,6 +1,6 @@
 # Greylock Partners
 
-Greylock Partners is a venture capital firm based in Menlo Park, California, with additional offices in San Francisco and Boston. Founded in 1965, Greylock has been one of the most successful venture firms in Silicon Valley, investing in some of the most successful technology companies in history.
+Greylock Partners (<https://greylock.com>) is a venture capital firm based in Menlo Park, California, with additional offices in San Francisco and Boston. Founded in 1965, Greylock has been one of the most successful venture firms in Silicon Valley, investing in some of the most successful technology companies in history.
 
 Greylock invests primarily in early-stage companies in the enterprise and consumer technology sectors. They are known for their focus on long-term partnerships with entrepreneurs and their commitment to helping companies build great products and scale their businesses.
 

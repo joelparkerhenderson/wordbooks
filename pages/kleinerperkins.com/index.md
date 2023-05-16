@@ -1,6 +1,6 @@
 # Kleiner Perkins
 
-Kleiner Perkins is a venture capital firm that was founded in 1972 by Eugene Kleiner and Tom Perkins in Menlo Park, California. It has become one of the most well-known and successful venture capital firms in Silicon Valley, with a strong track record of investing in innovative technology companies.
+Kleiner Perkins (<https://kleinerperkins.com>) is a venture capital firm that was founded in 1972 by Eugene Kleiner and Tom Perkins in Menlo Park, California. It has become one of the most well-known and successful venture capital firms in Silicon Valley, with a strong track record of investing in innovative technology companies.
 
 Over the years, Kleiner Perkins has invested in some of the most successful tech companies of all time, including Amazon, Google, Genentech, Netscape, and more recently, Twitter, Snapchat, and Slack. The firm has been involved in more than 850 investments since its inception, with a focus on early-stage and growth-stage companies.
 

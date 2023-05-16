@@ -1,6 +1,6 @@
 # Index Ventures
 
-Index Ventures is a venture capital firm that was founded in Geneva, Switzerland in 1996. It is currently headquartered in London, UK with additional offices in San Francisco and Geneva. The firm is focused on investing in technology-driven companies at all stages of development, from seed to growth.
+Index Ventures (<https://indexventures.com>) is a venture capital firm that was founded in Geneva, Switzerland in 1996. It is currently headquartered in London, UK with additional offices in San Francisco and Geneva. The firm is focused on investing in technology-driven companies at all stages of development, from seed to growth.
 
 Index Ventures invests in a variety of sectors including enterprise software, consumer technology, fintech, healthcare, and biotech. The firm has invested in well-known companies such as Dropbox, Slack, Roblox, Robinhood, and Glossier. Index Ventures typically invests in companies that have a strong and experienced management team, a scalable business model, and a large market opportunity.
 

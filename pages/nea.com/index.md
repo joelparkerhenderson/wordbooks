@@ -1,6 +1,6 @@
 # New Enterprise Associates (NEA)
 
-New Enterprise Associates (NEA) is a venture capital firm that was founded in 1977. It is headquartered in Menlo Park, California, with additional offices in San Francisco, New York, Boston, and India. NEA invests in companies at all stages of growth, from seed-stage startups to established businesses.
+New Enterprise Associates (NEA) (<https://nea.com>) is a venture capital firm that was founded in 1977. It is headquartered in Menlo Park, California, with additional offices in San Francisco, New York, Boston, and India. NEA invests in companies at all stages of growth, from seed-stage startups to established businesses.
 
 NEA has invested in many successful companies over the years, including Salesforce, Uber, Tableau, Workday, and Jet.com. The firm typically invests in companies that are working on innovative technologies, such as artificial intelligence, blockchain, cloud computing, and cybersecurity.
 

@@ -1,6 +1,6 @@
 # 500 Startups
 
-500 Startups is a global venture capital firm and startup accelerator that provides seed funding, mentorship, and access to a vast network of investors and entrepreneurs to help early-stage companies grow and succeed. Founded in 2010 by Dave McClure, 500 Startups has its headquarters in San Francisco, California.
+500 Startups (<https://500.co>) is a global venture capital firm and startup accelerator that provides seed funding, mentorship, and access to a vast network of investors and entrepreneurs to help early-stage companies grow and succeed. Founded in 2010 by Dave McClure, 500 Startups has its headquarters in San Francisco, California.
 
 The firm invests in a wide range of sectors, including consumer and enterprise software, financial technology, health and wellness, and e-commerce. It has made over 2,500 investments in companies across more than 75 countries and has helped companies raise more than $15 billion in follow-on funding.
 

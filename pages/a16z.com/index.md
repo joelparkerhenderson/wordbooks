@@ -1,6 +1,6 @@
 # Andreessen Horowitz (a16z)
 
-Andreessen Horowitz (also known as "a16z") is a prominent venture capital firm founded in 2009 by Marc Andreessen and Ben Horowitz. The firm is headquartered in Menlo Park, California and has additional offices in San Francisco, New York City, and Washington, D.C.
+Andreessen Horowitz (a16z) (<https://a16z.com>) is a prominent venture capital firm founded in 2009 by Marc Andreessen and Ben Horowitz. The firm is headquartered in Menlo Park, California and has additional offices in San Francisco, New York City, and Washington, D.C.
 
 The firm has invested in many high-profile startups, including Airbnb, Lyft, Coinbase, Instacart, Slack, and many others. As of 2021, the firm has over $18 billion in assets under management and has made more than 1,000 investments.
 

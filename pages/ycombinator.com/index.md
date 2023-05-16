@@ -1,6 +1,6 @@
 # Y Combinator (YC)
 
-Y Combinator (also known as "YC") is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. It was founded in March 2005 by Paul Graham, Robert Morris, Trevor Blackwell, and Jessica Livingston.
+Y Combinator (YC) (<https://ycombinator.com>) is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. It was founded in March 2005 by Paul Graham, Robert Morris, Trevor Blackwell, and Jessica Livingston.
 
 The program typically lasts for three months and provides startups with funding, office space, and access to a network of advisors and potential investors. The program culminates in a demo day, where the companies present their products to a room full of investors and media.
 

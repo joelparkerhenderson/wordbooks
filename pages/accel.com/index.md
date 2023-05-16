@@ -1,6 +1,6 @@
 # Accel
 
-Accel is a global venture capital firm that was founded in 1983 in Palo Alto, California. The firm has since expanded to include offices in the United States, Europe, Israel, India, and China. Accel primarily invests in early-stage startups in the technology sector, particularly in enterprise software, cloud computing, cybersecurity, and fintech.
+Accel (<https://accel.com>) is a global venture capital firm that was founded in 1983 in Palo Alto, California. The firm has since expanded to include offices in the United States, Europe, Israel, India, and China. Accel primarily invests in early-stage startups in the technology sector, particularly in enterprise software, cloud computing, cybersecurity, and fintech.
 
 Accel has a history of investing in successful companies, such as Facebook, Dropbox, Slack, and Etsy. The firm typically invests between $10 million to $50 million in each portfolio company and aims to partner with entrepreneurs who have a clear vision for their business and are building disruptive products that solve real-world problems.
 

@@ -1,0 +1,7 @@
+# Laws and principles
+
+Laws and principles are two concepts that are often used in science, mathematics, and other fields to describe fundamental rules and relationships that govern how things work. While these terms are often used interchangeably, they have distinct meanings.
+
+* A law is a statement or description of a relationship or phenomenon that is based on observations, experiments, or mathematical models. Laws are often expressed as equations or formulas that describe the relationship between different variables. For example, Newton's laws of motion describe the relationship between force, mass, and acceleration. Laws are typically considered to be universal and apply under a wide range of conditions. They are also often quantitative, meaning that they involve numerical values or units of measurement.
+
+* A principle is a fundamental truth or concept that explains why things work the way they do. Principles are often more general than laws and provide a framework for understanding a wide range of phenomena. Principles may not necessarily be quantitative and may not be expressed as equations or formulas. Examples of principles include the principle of conservation of energy, which states that energy cannot be created or destroyed, only converted from one form to another, and the principle of natural selection, which explains how species evolve over time through the process of adaptation.

@@ -1,13 +1,6 @@
 # Startup Starters
 
 
-## [Vision, Mission, Values](vision-mission-values)
-
-* [Vision statement](vision-statement) + [examples](vision-statement-examples)
-* [Mission statement](mission-statement) + [examples](mission-statement-examples)
-* [Values statement](values-statement) + [examples](values-statement-examples)
-
-
 ## [Startup discovery](startup-discovery)
 
 * [Market discovery](market-discovery) + [questions](market-discovery-questions)
@@ -15,28 +8,57 @@
 * [Product discovery](product-discovery) + [questions](product-discovery-questions)
 
 
-## [Market estimation](market-estimation)
+## [Pitching](pitching)
 
-* [Total Addressable Market (TAM)](total-addressable-market)
-* [Service Addressable Market (SAM)](service-addressable-market)
-* [Service Obtainable Market (SOM)](service-obtainable-market)
+* [Value proposition](value-proposition)
+* [Elevator pitch](elevator-pitch)
+* [Pitch deck](pitch-deck)
+* [Pitch competition](pitch-competition)
+* [Business plan](business-plan)
+* [Business plan competition](business-plan-competition)
+* [Business Model Canvas (BMC)](business-model-canvas)
+* [Go-to-market strategy](go-to-market-strategy)
+* [Strategy map](strategy-map)
+* [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
+* [Demo day](demo-day)
 
 
-## Startup ramp
+## [Startup life cycle](startup-life-cycle)
 
-* [Startup life cycle](startup-life-cycle)
 * [Continuous learning](continuous-learning)
 * [Validated learning](validated-learning)
 * [Minimum viable product (MVP)](minimum-viable-product)
 * [Minimum lovable product (MLP)](minimum-lovable-product)
 * [Minimum learnable product (MLnP)](minimum-learnable-product)
+* [Build-Measure-Learn](build-measure-learn)
 * [Product-market fit (PMF)](product-market-fit)
 * [First-mover advantage](first-mover-advantage)
 * [Early adopters](early-adopters)
 * [Early evangelists](early-evangelists)
 * [Time-to-market (TTM)](time-to-market)
-* [Aggregation theory](aggregation-theory)
-* [Commoditization of trust](commoditization-of-trust)
+* [Investment Readiness Level (IRL)](investment-readiness-level)
+* [EBFAS organizational climate](ebfas-organizational-climate)
+
+
+## [Strategic effects](strategic-effects)
+
+* [Network effects](network-effects)
+* [Platform effects](platform-effects)
+* [Flywheel effects](flywheel-effects)
+* [Viral effects](viral-effects)
+* [Moat effects](moat-effects)
+* [Scale effects](scale-effects)
+* [Leverage effects](leverage-effects))
+* [Monopoly effects](monopoly-effects)
+  
+
+## [Valuation](valuation)
+
+* [Valuation approaches](valuation-approaches)
+* [Valuation approaches for startups](valuation-approaches-for-startups)
+* [Pre-money valuation and post-money valuation](pre-money-valuation-and-post-money-valuation)
+* [409A valuation](409a-valuation)
+* [83(b) election](83-b-election)
 
 
 ## [How to find startup help](how-to-find-startup-help)
@@ -50,6 +72,22 @@
 * [How to find startup loans](how-to-find-startup-loans)
 
 
+## [Vision, Mission, Values](vision-mission-values)
+
+* [Vision statement](vision-statement) + [examples](vision-statement-examples)
+* [Mission statement](mission-statement) + [examples](mission-statement-examples)
+* [Values statement](values-statement) + [examples](values-statement-examples)
+
+
+## [Business models](business-models)
+
+* [Direct sales business model](direct-sales-business-model) + [pros/cons](direct-sales-business-model-pros-cons)
+* [Subscription business model](subscription-business-model) + [pros/cons](subscription-business-model-pros-cons)
+* [Advertising business model](advertising-business-model) + [pros/cons](advertising-business-model-pros-cons)
+* [Marketplace business model](marketplace-business-model) + [pros/cons](marketplace-business-model-pros-cons)
+* [Franchise business model](franchise-business-model) + [pros/cons](franchise-business-model-pros-cons)
+
+
 ## [Technology sectors](technology-sectors)
 
 * [Adtech (Adversiting technology)](adtech)
@@ -60,18 +98,17 @@
 * [Fintech (Financial technology)](fintech)
 * [Govtech (Governmental techology)](govtech)
 * [Legtech (Legal technology)](legtech)
+* [Martech (Marketing technology)](martech)
 * [Medtech (Medical technology)](medtech)
 * [Regtech (Regulatory technology)](regtech)
 * [Realtech (Real estate technology)](realtech)
 
 
-## [Business models](business-models)
+## [Market estimation](market-estimation)
 
-* [Direct sales business model](direct-sales-business-model) + [pros/cons](direct-sales-business-model-pros-cons)
-* [Subscription business model](subscription-business-model) + [pros/cons](subscription-business-model-pros-cons)
-* [Advertising business model](advertising-business-model) + [pros/cons](advertising-business-model-pros-cons)
-* [Marketplace business model](marketplace-business-model) + [pros/cons](marketplace-business-model-pros-cons)
-* [Franchise business model](franchise-business-model) + [pros/cons](franchise-business-model-pros-cons)
+* [Total Addressable Market (TAM)](total-addressable-market)
+* [Service Addressable Market (SAM)](service-addressable-market)
+* [Service Obtainable Market (SOM)](service-obtainable-market)
 
 
 ## [Pricing models](pricing-models)
@@ -87,38 +124,13 @@
 * [Free trial](free-trial)
 
 
-## [Strategic effects](strategic-effects)
+## ??
 
-* [Network effects](network-effects)
-* [Platform effects](platform-effects)
-* [Flywheel effects](flywheel-effects)
-* [Viral effects](viral-effects)
-* [Moat effects](moat-effects)
-* [Scale effects](scale-effects)
-* [Leverage effects](leverage-effects))
-* [Monopoly effects](monopoly-effects)
-
-
-## TODO
-
-* [Value proposition](value-proposition)
-* [Elevator pitch](elevator-pitch)
-* [Pitch deck](pitch-deck)
-* [Pitch competition](pitch-competition)
-* [Business plan](business-plan)
-* [Business plan competition](business-plan-competition)
-* [Business Model Canvas (BMC)](business-model-canvas)
-* [Balanced scorecard](balanced-scorecard)
-* [Strategy map](strategy-map)
-* [Go-to-market strategy](go-to-market-strategy)
-* [Demo day](demo-day)
-* [Investment Readiness Level (IRL)](investment-readiness-level)
 * [DMAIC methodology](dmaic-methodology)
 * [Plan-Do-Check-Act (PDCA)](plan-do-check-act)
 * [OODA loop](ooda-loop)
 * [OODA loop v DMAIC cycle v PDCA spiral](ooda-loop-v-dmaic-cycle-v-pdca-spiral)
 * [Kaizen](kaizen)
-* [EBFAS organizational climate](ebfas-organizational-climate)
 * [Agile chartering](agile-chartering)
 * [Decision record](decision-record)
 * [Six Sigma methodology](six-sigma-methodology)
@@ -126,8 +138,9 @@
 * [Economies of scale](economies-of-scale)
 * [Winner-take-all](winner-take-all)
 * [Sales funnel](sales-funnel)
-* [Build-Measure-Learn](build-measure-learn)
 * [Vendor lock-in](vendor-lock-in)
+* [Aggregation theory](aggregation-theory)
+* [Commoditization of trust](commoditization-of-trust)
 
 
 ## [Company leadership roles](company-leadership-roles)
@@ -241,44 +254,27 @@
 * [Planning poker estimation](planning-poker-estimation)
 
 
-## Consulting
-
-* [Value-based funding model](value-based-funding-model)
-
-
 
 ## [Project management](project-management)
 
 * [Inception](inception)
 * [Liftoff](liftoff)
 * [Project charter](project-charter)
+* [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
 * [Statement Of Work (SOW)](statement-of-work)
 * [Functional specifications](functional-specifications) + [steps](functional-specifications-steps)
 * [Software development life cycle (SDLC)](software-development-life-cycle)
 * [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
 * [Program Evaluation and Review Technique (PERT)](program-evaluation-and-review-technique)
-* [Gantt chart](gantt-chart)
-* [Quad chart](quad-chart)
-* [Resource leveling](resource-leveling)
-* [Constraint satisfaction](constraint-satisfaction)
 * [Critical chain project management](critical-chain-project-management)
 * [Critical path project management](critical-path-project-management)
-* [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
+* [Constraint satisfaction](constraint-satisfaction)
+* [Resource leveling](resource-leveling)
+* [Gantt chart](gantt-chart)
+* [Quad chart](quad-chart)
 * [Kanban](kanban)
 * [Scrum](scrum)
 * [Swimlanes](swimlanes)
-* [Supply chain management (SCM)](supply-chain-management)
-* [Business intelligence (BI)](business-intelligence)
-
-
-## Skills & Learning
-
-* [Microcredentials](microcredentials)
-* Digital badges: see microcredentials
-* [Masters in Business Administration (MBA)](masters-in-business-administration)
-* [Rubric](rubric)
-* [Formative assessment](formative-assessment)
-* [Summative assessment](summative-assessment)
 
 
 ## Website
@@ -326,12 +322,7 @@
 * [Annual Recurring Revenue (ARR)](annual-recurring-revenue)
 * [Burn rate](burn-rate)
 * [Traction](traction)
-* [Valuation](valuation)
 * [Lifetime Value (LTV)](lifetime-value)
-* [Valuation approaches](valuation-approaches)
-* [Valuation approaches for startups](valuation-approaches-for-startups)
-* [409A valuation](409a-valuation)
-* [83(b) election](83-b-election)
 * [Churn rate](churn-rate)
 * [Customer Acquisition Cost (CAC)](customer-acquisition-cost)
 * [Net Promoter Score (NPS)](net-promoter-score)
@@ -354,24 +345,6 @@
 * [Thinking hats](thinking-hats)
 * [Low-fidelity prototype](low-fidelity-prototype)
 * [High-fidelity prototype](high-fidelity-prototype)
-* [Internationalization and localization](internationalization-and-localization)
-* [Internationalization and localization - steps](internationalization-and-localization-steps)
-
-
-## Quality analysis
-
-* [After-Action Report (AAR)](after-action-report)
-* [Cause-and-effect diagram](Cause-and-effect-diagram)
-* Fishbone diagram: see cause-and-effect diagram
-* [Five Whys analysis](five-whys-analysis)
-* Ishikawa diagram: see cause-and-effect diagram
-* Non-functional requirements: see system quality attributes
-* [Root cause analysis (RCA)](root-cause-analysis)
-* [System Quality Attributes (SQAs)](system-quality-attributes)
-* [Quality of Service (QoS) for networks](quality-of-service-for-networks)
-* [Good Enough For Now (GEFN)](good-enough-for-now)
-* [Technical debt](technical-debt)
-* [Refactoring](refactoring)
 
 
 ## Teaming
@@ -407,17 +380,20 @@
 * [Skip-level meeting](skip-level-meeting)
 
 
-## [Company legal entities](company-legal-entities)
+## Quality analysis
 
-* [Sole proprietorship](sole-proprietorship)
-* [Partnership company](partnership-company)
-* [Limited Liability Company (LLC)](limited-liability-company)
-* [C Corporation](c-corporation)
-* [S Corporation](s-corporation)
-* [B Corporation](b-corporation)
-* [Joint Venture Agreement (JVA)](joint-venture-agreement)
-* [Cottage business](cottage-business)
-* [Lifestyle business](lifestyle-business)
+* [After-Action Report (AAR)](after-action-report)
+* [Cause-and-effect diagram](Cause-and-effect-diagram)
+* Fishbone diagram: see cause-and-effect diagram
+* [Five Whys analysis](five-whys-analysis)
+* Ishikawa diagram: see cause-and-effect diagram
+* Non-functional requirements: see system quality attributes
+* [Root cause analysis (RCA)](root-cause-analysis)
+* [System Quality Attributes (SQAs)](system-quality-attributes)
+* [Quality of Service (QoS) for networks](quality-of-service-for-networks)
+* [Good Enough For Now (GEFN)](good-enough-for-now)
+* [Technical debt](technical-debt)
+* [Refactoring](refactoring)
 
 
 ## [Business analysis](business-analysis)
@@ -432,7 +408,8 @@
 * [Feasibility analysis](feasibility-analysis)
 * [Five Forces analysis](five-forces-analysis)  
 * [Maturity models](maturity-models)
-  
+* [Demand forecasting](demand-forecasting)
+
 
 ## [Statistical analysis](statistical-analysis)
 
@@ -449,6 +426,19 @@
 * [Bayes' theorem](bayes-theorem)
 * [Chi-square analysis](chi-square-analysis)
 * [Monte Carlo methods](monte-carlo-methods)
+
+
+## [Company legal entities](company-legal-entities)
+
+* [Sole proprietorship](sole-proprietorship)
+* [Partnership company](partnership-company)
+* [Limited Liability Company (LLC)](limited-liability-company)
+* [C Corporation](c-corporation)
+* [S Corporation](s-corporation)
+* [B Corporation](b-corporation)
+* [Joint Venture Agreement (JVA)](joint-venture-agreement)
+* [Cottage business](cottage-business)
+* [Lifestyle business](lifestyle-business)
 
 
 # Financials
@@ -484,15 +474,17 @@
 
 ## [Startup venture capital companies](startup-venture-capital-companies)
 
-* [500 Startups](500-startups)
-* [Accel](accel)
-* [Andreessen Horowitz (a16z)](andreessen-horowitz)
-* [Greylock Partners](greylock-partners)
-* [Index Ventures](index-ventures)
-* [Kleiner Perkins](kleiner-perkins)
-* [New Enterprise Associates (NEA)](new-enterprise-associates)
-* [Sequoia Capital](sequoia-capital)
-* [Y Combinator (YC)](y-combinator)
+* [500 Startups](500.co)
+* [Accel](accel.com)
+* [Andreessen Horowitz (a16z)](a16z.com)
+* [Antler](antler.co)
+* [Bethnal Green Ventures](bethnalgreenventures.com)
+* [Greylock Partners](greylock.com)
+* [Index Ventures](indexventures.com)
+* [Kleiner Perkins](kleinerperkins.com)
+* [New Enterprise Associates (NEA)](nea.com)
+* [Sequoia Capital](sequoiacap.com)
+* [Y Combinator (YC)](ycombinator.com)
 
 
 ## [Financing](financing)
@@ -581,13 +573,17 @@
 * Master Services Agreement (MSA): see Framework agreement
 
 
-## Global issues
+## [Global business](global-business)
 
-* [The Americas](the-americas)
-* [Europe, Middle East, Africa (EMEA)](europe-middle-east-africa)
-* [Asia-Pacific (APAC)](asia-pacific)
+* [Global business](global-business)
+* [The Americas region](the-americas-region)
+* [Latin America (LATAM) region](latin-america-region)
+* [Europe, Middle East, Africa (EMEA) region](europe-middle-east-africa-region)
+* [Asia-Pacific (APAC) region](asia-pacific-region)
 * [Visa sponsorship](visa-sponsorship)
 * [Cross-border controls](cross-border-controls)
+* [Internationalization and localization](internationalization-and-localization)
+* [Internationalization and localization - steps](internationalization-and-localization-steps)
 
 
 ## [Technology transfer agreements](technology-transfer-agreements)
@@ -665,7 +661,7 @@
 * [The Tragedy of the Commons](the-tragedy-of-the-commons)
  
 
-## Quotations
+## [Entrepreneurial inspirational quotations](entrepreneurial-inspiration-quotations)
 
 * [A rising tide lifts all boats](a-rising-tide-lifts-all-boats)
 * [Culture eats strategy for breakfast](culture-eats-strategy-for-breakfast)
@@ -678,52 +674,6 @@
 * [Data beats emotions](data-beats-emotions)
 * [Look for the people who want to change the world](look-for-the-people-who-want-to-change-the-world)
 * [See things in the present, even if they are in the future](see-things-in-the-present-even-if-they-are-in-the-future)
-
-
-## Book lists
-
-* [Executive management books](executive-management-books)
-* [Teamwork books](teamwork-books)
-* [Negotiation books](negotiation-books)
-* [Venture capital books](venture-capital-books)
-* [Military strategy books](military-strategy-books)
-  
-
-## [Leadership books](leadership-books)
-
-* [“Founders at Work” by Jessica Livingston](founders-at-work-by-jessica-livingston)
-* [“How to Win Friends and Influence People” by Dale Carnegie](how-to-win-friends-and-influence-people-by-dale-carnegie)
-* [“Leading at the Speed of Growth” by Katherine Catlin and Jana Matthews](leading-at-the-speed-of-growth-by-katherine-catlin-and-jana-matthews)
-* [“Radical Candor” by Kim Scott](radical-candor-by-kim-scott)
-* [“Superbosses” by Sydney Finkelstein”](superbosses-by-sydney-finkelstein)
-
-
-## [Entrepreneurship books](entrepreneurship-books)
-
-* ["Blue Ocean Strategy" by W. Chan Kim and Renée Mauborgne](blue-ocean-strategy-by-w-chan-kim-and-renée-mauborgne)
-* [“Creativity, Inc.” by Ed Catmull and Amy Wallace](creativity-inc-by-ed-catmull-and-amy-wallace)
-* [“Disciplined Entrepreneurship” by Bill Aulet](disciplined-entrepreneurship-by-bill-aule)
-* [“The Hard Thing About Hard Things” by Ben Horowitz](the-hard-thing-about-hard-things-by-ben-horowitz)
-* [“You Are a Badass at Making Money” by Jen Sincero](you-are-a-badass-at-making-money-by-jen-sincero)
-* [“Grit” by Angela Duckworth](grit-by-angela-duckworth)
-
-
-## [Startup books](startup-books)
-
-* [“Crucial Conversations” by Kerry Patterson et al.](crucial-conversations-by-kerry-patterson-et-al)
-* [“Crossing The Chasm” by Geoffrey Moore](crossing-the-chasm-by-geoffrey-moore)
-* [“Mastering the VC Game” by Jeffrey Bussgang](mastering-the-vc-game-by-jeffrey-bussgang)
-* [“Mini Habits” by Stephen Guise](mini-habits-by-stephen-guise)
-* [“Never Too Late to Startup” by Rob Kornblum](never-too-late-to-startup-by-rob-kornblum)
-* [“Outliers” by Malcom Gladwell](outliers-by-malcom-gladwell)
-* [“Start Something That Matters” by Blake Mycoskie](start-something-that-matters-by-blake-mycoskie)
-* [“The Four Steps To The Epiphany” by Steve Blank](the-four-steps-to-the-epiphany-by-steve-blank)
-* [“The Lean Startup” by Eric Ries](the-lean-startup-by-eric-ries)
-* ["The Mom Test" by Rob Fitzpatrick](the-mom-test-by-rob-fitzpatrick)
-* [“The Startup Owners Manual” by Steve Blank](the-startup-owners-manual-by-steve-blank)
-* [“Thrive” by Arianna Huffington](thrive-by-arianna-huffington)
-* [“Zero To One” by Peter Thiel](zero-to-one-by-peter-thiel)
-* [“Who” by Geoff Smart and Randy Street](who-by-geoff-smart-and-randy-street)
 
 
 ## About the project
