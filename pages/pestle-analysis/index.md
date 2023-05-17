@@ -15,5 +15,3 @@ Here is a brief explanation of each of the six factors of PESTLE analysis:
 5. Legal: This factor refers to the laws and regulations that businesses must comply with. Examples include labor laws, intellectual property laws, and data protection laws.
 
 6. Environmental: This factor refers to the physical and natural environment that can affect a business. Examples include climate change, natural disasters, and the availability of natural resources.
-
-By conducting a PESTLE analysis, businesses can identify opportunities and threats that they may face in the future. This can help them develop strategies to address potential risks and capitalize on emerging trends.

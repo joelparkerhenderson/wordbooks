@@ -1,21 +1,23 @@
 # Human resources (HR) department
 
-The human resources (HR) department of a company is responsible for managing its workforce and ensuring that the company's policies and practices align with the interests of its employees. The HR department performs a wide range of functions, some of which include:
+The human resources (HR) department of a company is responsible for managing its workforce and ensuring that the company's policies and practices align with the interests of its employees. 
 
-* Recruitment and hiring: HR is responsible for attracting, sourcing, and selecting candidates for open positions in the company.
+Key functions include:
 
-* Onboarding: Once a new employee is hired, HR is responsible for ensuring they have the necessary training and information to succeed in their role.
+* Recruitment and hiring: Attract, source, and select candidates for open positions.
 
-* Performance management: HR is responsible for monitoring employee performance, providing feedback and guidance, and implementing performance improvement plans if necessary.
+* Onboarding: Once a new employee is hired, ensure they have all necessary training and information.
 
-* Compensation and benefits: HR is responsible for managing employee compensation and benefits programs, including salary, bonuses, healthcare benefits, retirement plans, and other perks.
+* Performance management: Monitor employee performance, provide feedback and guidance, and implement performance improvement plans if necessary.
 
-* Employee relations: HR is responsible for managing employee relations issues, including conflicts between employees, harassment complaints, and other workplace issues.
+* Compensation and benefits: Managing employee compensation and benefits programs, including salary, bonuses, healthcare benefits, retirement plans, and other perks.
 
-* Compliance: HR is responsible for ensuring that the company complies with all applicable labor laws and regulations, such as anti-discrimination laws and minimum wage laws.
+* Employee relations: Manage employee relations issues, including conflicts between employees, harassment complaints, and other workplace issues.
 
-* Training and development: HR is responsible for providing training and development opportunities for employees to enhance their skills and knowledge.
+* Compliance: Ensure the company complies with all applicable labor laws and regulations, such as anti-discrimination laws and minimum wage laws.
 
-* Culture and engagement: HR is responsible for fostering a positive workplace culture and promoting employee engagement and satisfaction.
+* Training and development: Provide training and development opportunities for employees to enhance their skills and knowledge.
 
-* Personnel recordkeeping: HR is responsible for maintaining employee records, including personal information, employment history, and performance data.
+* Culture and engagement: Foster a positive workplace culture, and promote employee engagement and satisfaction.
+
+* Personnel recordkeeping: Maintain employee records, including personal information, employment history, and performance data.

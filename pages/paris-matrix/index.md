@@ -12,8 +12,6 @@ A PARIS matrix is a variation of a Responsibility Assignment Matrix (RAM). PARIS
 
 * Sign-off: The team member who has the authority to sign off on the completion of the task or activity. They ensure that all work has been completed to the required quality standards and that any necessary approvals have been obtained.
 
-The PARIS matrix is a useful tool for clarifying roles and responsibilities on a project and ensuring that everyone knows what they need to do to contribute to the project's success. By expanding on the RACI model, the PARIS matrix provides more detail and granularity, which can be helpful in complex projects with many stakeholders.
+The PARIS matrix is a useful tool for clarifying roles and responsibilities on a project and ensuring that everyone knows what they need to do to contribute to the project's success.
 
-The PARIS matrix expands on the RACI model (Responsible, Accountable, Consulted, and Informed) and adds two additional roles - Participate and Sign-off. Each role is represented by a letter in the acronym PARIS.
-
-Like the RACI model, the PARIS matrix should be communicated to all team members and stakeholders, and reviewed regularly to ensure that it remains accurate and up-to-date. By doing so, the matrix can help to ensure that the project stays on track and that everyone is working together effectively to achieve the project's goals.
+The PARIS matrix should be communicated to all team members and stakeholders, reviewed regularly, and updated as needed.

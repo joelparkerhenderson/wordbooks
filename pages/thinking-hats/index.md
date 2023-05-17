@@ -1,6 +1,6 @@
 # Thinking Hats
 
-Thinking Hats is a decision-making and problem-solving technique that uses the metaphor of hats to encourage different perspectives and ways of thinking. Each hat represents a different type of thinking, and by wearing a particular hat, individuals are encouraged to think in a particular way.
+Thinking Hats is a decision-making problem-solving technique that uses a metaphor of hats to encourage different ways of thinking. Each hat represents a different type of thinking. By wearing a particular hat, individuals are encouraged to think in a particular way.
 
 * White Hat: This hat represents objective, factual thinking. When wearing this hat, individuals focus on what information is available and what information is needed to make a decision.
 
@@ -14,4 +14,4 @@ Thinking Hats is a decision-making and problem-solving technique that uses the m
 
 * Blue Hat: This hat represents meta-cognitive thinking. When wearing this hat, individuals focus on the overall process, structure, and organization of the decision-making or problem-solving session.
 
-The Thinking Hats technique can be used in a variety of settings, from individual problem-solving to group decision-making. By using different hats to represent different ways of thinking, individuals can approach a problem from multiple perspectives and generate a variety of ideas and solutions. The Thinking Hats technique can be a valuable tool for improving communication, creativity, and decision-making in both personal and professional settings.
+The Thinking Hats technique can be used in a variety of settings, from individual problem-solving to group decision-making. Different hats help individuals approach a problem from different perspectives, to generate ideas. The Thinking Hats technique can help improve communication, creativity, and decision-making in personal and professional settings.

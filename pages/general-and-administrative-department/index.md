@@ -1,8 +1,8 @@
 # General and Administrative (G&A) department
 
-The General and Administrative (G&A) department is responsible for the administrative functions of a company, ensuring that the company's operations are running smoothly and efficiently. In general, the G&A department's primary functions are to manage the day-to-day administrative tasks, oversee financial management, ensure legal compliance, and provide human resources and employee support services.
+The General and Administrative (G&A) department is responsible for the administrative functions of a company, to ensure operations are running smoothly. 
 
-Some of the most common functions include:
+Typical functions include:
 
 * Financial Management: The G&A department is responsible for managing the company's financial activities, such as budgeting, forecasting, accounting, financial reporting, and internal auditing.
 
@@ -15,5 +15,3 @@ Some of the most common functions include:
 * Information Technology: The G&A department manages the company's information technology (IT) systems and infrastructure, including hardware, software, networks, and security.
 
 * Administrative Services: The G&A department provides administrative support services, such as reception, mailroom, and office management.
-
-* Strategic Planning: The G&A department is involved in the company's strategic planning process, providing input and analysis on business decisions and potential risks.

@@ -1,6 +1,8 @@
 # System quality attributes
 
-System quality attributes, also known as non-functional requirements or quality attributes, refer to the characteristics or qualities of a software system that determine its overall quality and usability. These attributes are critical to ensuring the system meets user expectations and performs as intended. Common examples of system quality attributes include:
+System quality attributes refer to the characteristics of software or hardware that determine overall quality. The attributes are critical to ensuring the system meets user expectations and performs as intended. 
+
+Examples:
 
 * Usability: Usability refers to the system's ease of use and the degree to which it meets user needs and expectations. A usable system is one that is intuitive, easy to navigate, and provides users with a positive experience.
 
@@ -12,4 +14,4 @@ System quality attributes, also known as non-functional requirements or quality 
 
 * Compatibility: Compatibility refers to the system's ability to work with other systems, hardware, and software applications. A compatible system is one that can integrate with other systems and operate seamlessly in a larger ecosystem.
 
-By focusing on system quality attributes, organizations can develop software that meets the needs of its users and performs as intended. By understanding these attributes, businesses can prioritize development efforts, allocate resources more effectively, and ultimately deliver better software products.
+Explicit system quality attributes enable organizations to prioritize work, allocate resources, and create better products.

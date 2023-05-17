@@ -16,14 +16,3 @@ Statistical analysis involves several steps, including:
 
 * Interpreting and presenting results: This involves interpreting the findings and presenting them in a way that is clear and meaningful to the intended audience.
 
-Some common statistical techniques used in statistical analysis include:
-
-* Regression analysis: This is used to analyze the relationship between two or more variables.
-
-* Hypothesis testing: This involves testing a hypothesis to determine if there is a significant difference between two groups.
-
-* ANOVA (analysis of variance): This is used to compare means between three or more groups.
-
-* T-tests: This is used to compare means between two groups.
-
-* Chi-square analysis: This is used to determine if there is a significant association between two categorical variables.

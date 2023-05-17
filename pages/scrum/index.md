@@ -6,7 +6,7 @@ Scrum roles:
 
 * Product Owner: Define and prioritize the features of the product; build and maintain the product backlog; ensure stakeholders understand the product vision and goals.
 
-* Scrum Master: Ensure that Scrum is properly implemented and followed; facilitate team meetings; help the team identify and overcome obstacles.
+* Scrum Master: Ensure that Scrum is properly implemented; facilitate meetings; help the team identify and overcome obstacles.
 
 * Development Team: Design, build, and test the product.
 
@@ -20,7 +20,7 @@ Scrum artifacts:
 
 Scrum events:
 
-* A sprint starts with a planning meeting defines the sprint's goal and its tasks.
+* A sprint starts with a sprint planning meeting that defines the sprint's goal and its tasks.
 
 * A daily scrum meeting keeps the team members aligned, identify any obstacles, and adjust the Sprint Backlog if necessary.
 

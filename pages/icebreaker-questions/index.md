@@ -1,6 +1,6 @@
 # Icebreaker questions
 
-Icebreaker questions are a type of conversation starter used to help people connect and get to know each other in a new or unfamiliar group setting. These questions are designed to break the ice, ease tension, and encourage people to share a bit about themselves in a safe and comfortable environment.
+Icebreaker questions are a type of conversation starter used to help people connect and get to know each other in a new or unfamiliar group setting. These questions are designed to encourage people to share a bit about themselves in a safe and comfortable environment.
 
 Here are some key aspects of icebreaker questions:
 
@@ -13,6 +13,4 @@ Here are some key aspects of icebreaker questions:
 * Facilitation: Icebreaker questions are often facilitated by a group leader or facilitator. The facilitator can help to guide the conversation and ensure that everyone has an opportunity to share.
 
 * Appropriateness: It is important to consider the appropriateness of icebreaker questions when using them in a group setting. Questions should be respectful and inclusive, and should not make anyone feel uncomfortable or singled out.
-
-Icebreaker questions can be a valuable tool for promoting open communication and creating a sense of community in a group setting. By providing a safe and comfortable space for people to share a bit about themselves, icebreaker questions can help to foster positive relationships and encourage collaboration.
 

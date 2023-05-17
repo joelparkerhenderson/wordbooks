@@ -12,6 +12,4 @@ Some common variations of a RAM include:
 
 The RAM is a useful tool for ensuring that everyone on the team understands their roles and responsibilities and is clear on what they need to do to contribute to the project's success. It can also help to identify any gaps or overlaps in responsibilities and ensure that all tasks are covered.
 
-In addition to creating a RAM, it's important to communicate the matrix to all team members and stakeholders and to review it regularly to ensure that it remains accurate and up-to-date. This can help to ensure that the project stays on track and that everyone is working together effectively to achieve the project's goals.
-
-In conclusion, a Responsibility Assignment Matrix (RAM) is a tool used in project management to define and clarify the roles and responsibilities of team members for specific tasks or activities. The matrix uses symbols or letters to indicate the level of responsibility for each team member for each task or activity. The RAM is a useful tool for ensuring that everyone on the team understands their roles and responsibilities and is clear on what they need to do to contribute to the project's success.
+In addition to creating a RAM, it's important to communicate it to all stakeholders, and to review it regularly to ensure that it is updated as needed.

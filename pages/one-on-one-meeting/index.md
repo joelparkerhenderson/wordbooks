@@ -8,7 +8,7 @@ Here are some key aspects of one-on-one meetings:
 
 * Preparation: Both the manager and the employee should come prepared for the meeting. The manager should review the employee's work and any relevant data, while the employee should come prepared with any questions or concerns they may have.
 
-* Communication: The meeting should be an open and honest discussion. The manager should provide constructive feedback, offer guidance, and listen to the employee's input. The employee should be encouraged to ask questions and provide feedback as well.
+* Communication: The meeting should be an open and honest discussion. The manager should provide constructive feedback, offer guidance, and listen to the employee's input. The employee should be encouraged to ask questions and provide feedback.
 
 * Follow-up: The manager should follow up on any action items or feedback discussed during the meeting. This can help to demonstrate that the manager is invested in the employee's success and that their concerns and feedback are being taken seriously.
 

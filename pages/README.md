@@ -3,12 +3,6 @@
 
 ## Launch
 
-* **[Vision, Mission, Values](vision-mission-values)**
-
-  * [Vision statement](vision-statement) + [examples](vision-statement-examples)
-  * [Mission statement](mission-statement) + [examples](mission-statement-examples)
-  * [Values statement](values-statement) + [examples](values-statement-examples)
-
 * **[Pitching](pitching)**
 
   * [Value proposition](value-proposition)
@@ -36,7 +30,7 @@
 * **[Time-to-market (TTM)](time-to-market)**
 
   * [First-mover advantage](first-mover-advantage)
-  * [Crossing the chasm](crossing-the-chasm)
+  * [Crossing the chasm](crossing-the-chasm-by-geoffrey-moore)
   * [Early adopters](early-adopters)
   * [Early evangelists](early-evangelists)
 
@@ -52,6 +46,12 @@
 
 
 ## Strategy
+
+* **[Vision, Mission, Values](vision-mission-values)**
+
+  * [Vision statement](vision-statement) + [examples](vision-statement-examples)
+  * [Mission statement](mission-statement) + [examples](mission-statement-examples)
+  * [Values statement](values-statement) + [examples](values-statement-examples)
 
 * **[Business models](business-models)**
 
@@ -89,21 +89,6 @@
 
 ## Companies in general
 
-* **[Technology sectors](technology-sectors)**
-
-  * [Adtech (Adversiting technology)](adtech)
-  * [Agtech (Agricultural technology)](agtech)
-  * [Cleantech (Clean technology)](cleantech)
-  * [Biotech (Biological technology)](biotech)
-  * [Edtech (Educational technology)](edtech)
-  * [Fintech (Financial technology)](fintech)
-  * [Govtech (Governmental techology)](govtech)
-  * [Legtech (Legal technology)](legtech)
-  * [Martech (Marketing technology)](martech)
-  * [Medtech (Medical technology)](medtech)
-  * [Regtech (Regulatory technology)](regtech)
-  * [Realtech (Real estate technology)](realtech)
-
 * **[Company leadership roles](company-leadership-roles)**
 
   * [Chief Executive Officer (CEO)](chief-executive-officer)
@@ -136,6 +121,30 @@
   * [General and Administrative (G&A) department](general-and-administrative-department)
   * [Research and Development (R&D) department](research-and-development-department)
 
+** **Company roles**
+
+  * [Account Executive (AE)](account-executive)
+  * [Account Manager (AM)](account-manager)
+  * [Sales Engineer (SE)](sales-engineer)
+  * [Customer Service Representative (CSR)](customer-service-representative)
+  * [Product Manager](product-manager)
+  * [Project Manager (PM)](project-manager)
+
+* **[Technology sectors](technology-sectors)**
+
+  * [Adtech (Adversiting technology)](adtech)
+  * [Agtech (Agricultural technology)](agtech)
+  * [Cleantech (Clean technology)](cleantech)
+  * [Biotech (Biological technology)](biotech)
+  * [Edtech (Educational technology)](edtech)
+  * [Fintech (Financial technology)](fintech)
+  * [Govtech (Governmental techology)](govtech)
+  * [Legtech (Legal technology)](legtech)
+  * [Martech (Marketing technology)](martech)
+  * [Medtech (Medical technology)](medtech)
+  * [Regtech (Regulatory technology)](regtech)
+  * [Realtech (Real estate technology)](realtech)
+
 * **[Organizational values frameworks](organizational-values-frameworks)**
 
   * [Code of conduct](code-of-conduct)
@@ -157,7 +166,7 @@
 ## Sales
 
 
-* **[Growth](?)**
+* **Growth**
 
   * [Sales-led growth (SLG)](sales-led-growth)
   * [Product-led growth (PLG)](product-led-growth)
@@ -176,10 +185,17 @@
   * [Freemium](freemium)
   * [Free trial](free-trial)
 
+* **Sale direction**
+  
+  * [Business-to-Business (B2B)](business-to-business)
+  * [Business-to-Consumer (B2C)](business-to-consumer)
+  * [Business-to-Business-to-Consumer (B2B2C)](business-to-business-to-consumer)
+  * [Peer-to-Peer (P2P)](peer-to-peer)
+
 
 ## Marketing
 
-* **[Marketing](?)**
+* **[Marketing](marketing)**
 
   * [Marketing channels](marketing-channels)
   * [Affiliate marketing](affiliate-marketing)
@@ -191,13 +207,6 @@
   * [Stealth mode](stealth-mode)
   * [Thought leadership](thought-leadership)
   * [Social proof](social-proof)
-
-* ??
-  
-  * [Business-to-Business (B2B)](business-to-business)
-  * [Business-to-Consumer (B2C)](business-to-consumer)
-  * [Business-to-Business-to-Consumer (B2B2C)](business-to-business-to-consumer)
-  * [Peer-to-Peer (P2P)](peer-to-peer)
 
 * **[Market estimation](market-estimation)**
 
@@ -287,25 +296,25 @@
 * [Employee Net Promoter Score (eNPS)](employee-net-promoter-score)
 
 
-## [Product design](product-design)
+* **[Product design](product-design)**
 
-* [Mockups](mockups)
-* [Wireframes](wireframes)
-* [Personas](personas)
-* [Journeys](journeys)
-* [Focus group](focus-group)
-* [Use cases](use-cases)
-* [User stories](user-stories)
-* [Use cases versus user stories](use-cases-and-user-stories)
-* [Design charrette](design-charrette)
-* [Design thinking](design-thinking)
-* [Gamification](gamification)
-* [Thinking hats](thinking-hats)
-* [Low-fidelity prototype](low-fidelity-prototype)
-* [High-fidelity prototype](high-fidelity-prototype)
+  * [Mockups](mockups)
+  * [Wireframes](wireframes)
+  * [Personas](personas)
+  * [Journeys](journeys)
+  * [Focus group](focus-group)
+  * [Use cases](use-cases)
+  * [User stories](user-stories)
+  * [Use cases versus user stories](use-cases-and-user-stories)
+  * [Design charrette](design-charrette)
+  * [Design thinking](design-thinking)
+  * [Gamification](gamification)
+  * [Thinking hats](thinking-hats)
+  * [Low-fidelity prototype](low-fidelity-prototype)
+  * [High-fidelity prototype](high-fidelity-prototype)
 
 
-## Teams
+## Teamwork
 
 * **[Roles and responsibilities](roles-and-responsibilities)**
 
@@ -333,8 +342,6 @@
   * [Outsourcing](outsourcing)
   * [Offshoring](offshoring)
   * [Nearshoring](nearshoring)
-  * [Work from home (WFH)](working-from-home)
-  * [Work from anywhere (WFA)](working-remote)
 
 * **[Ways Of Working (WOW)](ways-of-working)**
 
@@ -343,11 +350,10 @@
   * [Blameless retrospective](blameless-retrospective)
   * [Pair programming](pair-programming)
 
-* **[Meetings](?)**
+* **Meetings**
 
   * [All-hands meeting](all-hands-meeting)
   * [Standup meeting](standup-meeting)
-  * [Standdown meeting](standdown-meeting)
   * [One-on-one meeting](one-on-one-meeting)
   * [Skip-level meeting](skip-level-meeting)
 
@@ -368,8 +374,6 @@
 * [Refactoring](refactoring)
 
 
-
-
 ## [Statistical analysis](statistical-analysis)
 
 * [Descriptive statistics](descriptive-statistics)
@@ -385,9 +389,10 @@
 * [Bayes' theorem](bayes-theorem)
 * [Chi-square analysis](chi-square-analysis)
 * [Monte Carlo methods](monte-carlo-methods)
+* [Statistical analysis techniques](statistical-analysis-techniques)
 
 
-* **[Accounting](?)**
+* **Accounting**
   
   * [Generally Accepted Accounting Principles (GAAP)](generally-accepted-accounting-principles)
   * [Profit and loss (P&L)](profit-and-loss)
@@ -395,7 +400,7 @@
   * [Assets and liabilities](assets-and-liabilities)
   * [Balance sheet](balance-sheet)
 
-* **[Accounting metrics](?)**
+* **Accounting metrics**
 
   * [Internal Rate of Return (IRR)](internal-rate-of-return)
   * [Return On Investment (ROI)](return-on-investment)
@@ -424,16 +429,16 @@
   * [Carried interest](carried-interest)
   * [Due dilligence](due-dilligence)
 
-* **[Entrances](?)**
+* **Entrances**
 
   * [Incubator](incubator)
   * [Accelerator](accelerator)
   * [Coworking](coworking)
   * [Skunkworks](skunkworks)
   * [Spinoff](spinoff)
-  * [Spinoout](spinoff)
+  * [Spinout](spinout)
 
-* **[Exits](??)**
+* **Exits**
 
   * [Initial Public Offering (IPO)](initial-public-offering)
   * [Mergers and Acquisitions (M&A)](mergers-and-acquisitions)
@@ -441,7 +446,6 @@
   * [Acquihire](acquihire)
   * [Unicorn](unicorn)
   * [Zombie](zombie)
-
 
 
 ## Fundraising areas
@@ -456,14 +460,6 @@
   * [Series A investor](series-a-investor)
   * [Series B investor](series-b-investor)
 
-* **[Valuation](valuation)**
-
-  * [Valuation approaches](valuation-approaches)
-  * [Valuation approaches for startups](valuation-approaches-for-startups)
-  * [Pre-money valuation and post-money valuation](pre-money-valuation-and-post-money-valuation)
-  * [409A valuation](409a-valuation)
-  * [83(b) election](83-b-election)
-
 * **[Equity](equity)**
 
   * [Capitalization table](capitalization-table)
@@ -475,6 +471,14 @@
   * [Profit sharing](profit-sharing)
   * [Full Ratchet](full-ratchet)
   * [Pay-to-play](pay-to-play)
+
+* **[Valuation](valuation)**
+
+  * [Valuation approaches](valuation-approaches)
+  * [Valuation approaches for startups](valuation-approaches-for-startups)
+  * [Pre-money valuation and post-money valuation](pre-money-valuation-and-post-money-valuation)
+  * [409A valuation](409a-valuation)
+  * [83(b) election](83-b-election)
 
 * **[Stock options](stock-options)**
   
@@ -550,7 +554,7 @@
   * [Technical Assistance Agreement (TAA)](technical-assistance-agreement)
   * [Technology Transfer Office (TTO)](technology-transfer-office)
 
-* **[Work contracts](?)**
+* **Work contracts**
 
   * [Fixed-price contract](fixed-price-contract)
   * [Cost-plus contract](cost-plus-contract)
@@ -587,7 +591,7 @@
 
 * **[Visa sponsorship](visa-sponsorship)**
   
-  * [US H-1B Visa](h-1b-visa)
+  * [US H-1B Visa](us-h-1b-visa)
   * [UK Global Talen Visa](uk-global-talent-visa)
   * [EU Blue Card](eu-blue-card)
 
@@ -600,6 +604,7 @@
   * [Enterprise Change Management (ECM)](enterprise-change-management)
   * [Enterprise Architecture (EA)](enterprise-architecture)
   * [Enterprise software](enterprise-software)
+
 
 ## Lore
 

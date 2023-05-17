@@ -1,21 +1,25 @@
 # TEAM FOCUS
 
-"TEAM FOCUS" is a framework developed by the global management consulting firm McKinsey & Company to help organizations improve their team effectiveness. The framework is based on McKinsey's research into what makes high-performing teams successful and how organizations can replicate that success.
+"TEAM FOCUS" is a framework developed by the global management consulting firm McKinsey & Company to help organizations improve their team effectiveness. 
 
-The "TEAM FOCUS" framework consists of seven key elements that are essential for effective teamwork:
+TEAM guidance is interpersonal:
 
-* Task: The team must have a clear and well-defined task or goal that is aligned with the organization's overall strategy and objectives.
+* Talk: Establish very effective channels of communication.
 
-* Empathy: Team members must have a deep understanding and appreciation of each other's skills, strengths, and perspectives. This includes being able to communicate effectively, build trust, and demonstrate empathy.
+* Evaluate: Assess performance and adapt accordingly.
 
-* Accountability: Each team member must be accountable for their individual contributions to the team's overall success. This includes setting clear expectations, tracking progress, and holding each other accountable.
+* Assist: Help each other. Strategic leverage of unique capabilities is an underlying component of all "special forces" organizations.
 
-* Mindset: Team members must share a common mindset that is focused on continuous improvement, learning, and growth. This includes being open to feedback, embracing change, and staying agile.
+* Motivate: Pay close attention to individuals' drivers. This will go a long way.
 
-* Focus: The team must have a laser-like focus on the most important priorities and outcomes. This includes being able to prioritize effectively, manage time efficiently, and avoid distractions.
+FOCUS guidance is analytical: 
 
-* Openness: Team members must be open to new ideas, perspectives, and feedback. This includes being able to challenge assumptions, learn from mistakes, and embrace diversity.
+* Frame: framing the problem, before you begin, involves identifying the key question that you are studying, drawing issue trees for potential investigation, and developing hypotheses for testing during the project.
 
-* Structure: The team must have a clear and effective structure that supports collaboration, communication, and decision-making. This includes having the right roles and responsibilities, communication channels, and decision-making processes in place.
+* Organize: a boring but necessary step in preparing the team for efficient problem solving. Organize around content hypotheses with the end in mind.
 
-The "TEAM FOCUS" framework is designed to help organizations assess their current team effectiveness and identify areas for improvement. By focusing on these seven key elements, organizations can build high-performing teams that are aligned with their strategic goals and objectives, and that are better equipped to tackle complex challenges and achieve outstanding results.
+* Collect: Find relevant data, and avoid overcollection of data that are not useful. 
+
+* Understand: Evaluate data for potential contribution to proving or disproving hypotheses. Ask "so what?"
+
+* Synthesize: Turn data into a compelling story. Here is where the well-known "pyramid principle" related to organizing a written report or slide deck comes into play.

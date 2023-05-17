@@ -1,4 +1,4 @@
-	# Change management
+# Change management
 
 Change management refers to the processes and strategies used by organizations to effectively manage changes to their operations, systems, structures, or strategies. It involves the careful planning, implementation, and management of changes to minimize disruption and ensure that the changes are adopted successfully.
 

@@ -1,6 +1,8 @@
 # Investors 
 
-Investors play a crucial role in the success of a startup. There are various types of investors who can provide funding to startups and businesses at different stages of their growth. Here are some common types:
+Investors play a crucial role in the success of a startup. There are various types of investors who can provide funding to startups and businesses at different stages of their growth.
+
+Typical types:
 
 * Friends and family investors: These are often the first funders of a startup. They can help get the business off the ground. They are often willing to invest based on personal relationships and trust, rather than a detailed business plan. However, there are risks involved, including potential conflicts and strained relationships.
 

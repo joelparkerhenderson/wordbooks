@@ -1,8 +1,6 @@
 # “Crossing the Chasm” by Geoffrey Moore
 
-"Crossing the Chasm" is a book written by Geoffrey Moore. Moore argues that there is a significant gap, or "chasm", between early adopters of a technology product and the majority of consumers who are more conservative in their purchasing decisions. This chasm represents a major obstacle for technology companies, as it can be difficult to convince mainstream consumers to adopt new technologies.
-
-The book outlines a framework for technology companies to successfully cross this chasm and achieve mainstream adoption of their products. The framework is based on understanding the needs and preferences of different customer segments and tailoring marketing strategies accordingly.
+"Crossing the Chasm" is a book written by Geoffrey Moore. Moore argues that there is a significant gap, or "chasm", between early adopters of a technology product and the majority of consumers who are more conservative in their purchasing decisions. This chasm represents a major obstacle for technology companies, as it can be difficult to convince mainstream consumers to adopt new technologies. 
 
 Moore identifies five main customer segments:
 
