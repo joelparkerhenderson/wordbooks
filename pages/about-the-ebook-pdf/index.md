@@ -8,9 +8,11 @@ This ebook PDF is generated from the repository markdown files. The process uses
 The book build tools are in the repository, in the directory `book/build`. The tools select all the documentation links, merge all the markdown files, then process everything into a PDF file.
 
 
-## Book fonts
+## Fonts
 
-The book fonts are Source Serif Pro, Source Sans Pro, and Source Code Pro. The fonts are by Adobe and are free open source. 
+<https://github.com/sixarm/sixarm-fonts>
+
+The book fonts are Source Serif Pro, Source Sans Pro, and Source Code Pro. The fonts are by Adobe and free open source. THe book can also be built with Bitstream Vera fonts or Liberation fonts.
 
 
 ## markdown-text-to-link-urls
@@ -24,4 +26,4 @@ This is a command-line parsing tool that we maintain. The tool reads markdown te
 
 <https://github.com/sixarm/pandoc-from-markdown-to-pdf>
 
-This is a command-line pandoc tool that we maintain. The tool providers our preferred pandoc settings in order to convert from an input markdown text file to an output PDF file. The tool adds a table of contents, loads our preferred fonts, configures source code syntax highlighting, sets the page size and margins, and more.
+This is a command-line tool that uses our preferred pandoc settings to convert from an input markdown text file to an output PDF file. The tool adds a table of contents, fonts, highlighting, sizing, and more.

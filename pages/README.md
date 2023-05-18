@@ -27,12 +27,29 @@
   * [Minimum lovable product (MLP)](minimum-lovable-product)
   * [Minimum learnable product (MLnP)](minimum-learnable-product)
 
-* **[Time-to-market (TTM)](time-to-market)**
+* **[Startup entrances](startup-entrances)**
 
-  * [First-mover advantage](first-mover-advantage)
-  * [Crossing the chasm](crossing-the-chasm-by-geoffrey-moore)
-  * [Early adopters](early-adopters)
-  * [Early evangelists](early-evangelists)
+  * [Incubator](incubator)
+  * [Accelerator](accelerator)
+  * [Skunkworks](skunkworks)
+  * [Spinoff](spinoff)
+  * [Spinout](spinout)
+  * [Technology transfer](technology-transfer)
+
+* **[Startup step-ups](startup-step-ups)**
+
+  * [Solopreneur](solopreneur)
+  * [Cottage business](cottage-business)
+  * [Lifestyle business](lifestyle-business)
+
+* **[Startup exits](startup-exits)**
+
+  * [Initial Public Offering (IPO)](initial-public-offering)
+  * [Mergers and Acquisitions (M&A)](mergers-and-acquisitions)
+  * [Special Purpose Acquisition Company (SPAC)](special-purpose-acquisition-company)
+  * [Acquihire](acquihire)
+  * [Unicorn](unicorn)
+  * [Zombie](zombie)
 
 * **[How to find startup help](how-to-find-startup-help)**
 
@@ -86,6 +103,13 @@
   * [Demand forecasting](demand-forecasting)
   * [Predictive analytics](predictive-analytics)
 
+* **[Time-to-market (TTM)](time-to-market)**
+
+  * [First-mover advantage](first-mover-advantage)
+  * [Crossing the chasm](crossing-the-chasm-by-geoffrey-moore)
+  * [Early adopters](early-adopters)
+  * [Early evangelists](early-evangelists)
+
 
 ## Companies in general
 
@@ -121,14 +145,14 @@
   * [General and Administrative (G&A) department](general-and-administrative-department)
   * [Research and Development (R&D) department](research-and-development-department)
 
-** **Company roles**
+** **[Company roles and responsibilities](company-roles-and-responsibilities)**
 
   * [Account Executive (AE)](account-executive)
   * [Account Manager (AM)](account-manager)
   * [Sales Engineer (SE)](sales-engineer)
-  * [Customer Service Representative (CSR)](customer-service-representative)
   * [Product Manager](product-manager)
   * [Project Manager (PM)](project-manager)
+  * [Customer Service Representative (CSR)](customer-service-representative)
 
 * **[Technology sectors](technology-sectors)**
 
@@ -229,29 +253,34 @@
 
 ## Planning
 
-* [North Star](north-star)
-* [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
-* [Objectives and Key Results (OKRs)](objectives-and-key-results)
-* [Key Performance Indicators (KPIs)](key-performance-indicators)
-* [Key Risk Indicators (KRIs)](key-risk-indicators)
-* [Critical Success Factors (CSF)](critical-success-factors)
-* [Critical To Quality (CTQ)](critical-to-quality)
-* [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
-* [Risks, Actions, Issues, Decisions (RAID)](risks-actions-issues-decisions)
-* [SPADE decision framework](spade-decision-framework)
-* [SMART criteria](smart-criteria)
-* [Intent plan](intent-plan)
-* [Oblique strategies](oblique-strategies)
-* [Issue tracker](issue-tracker)
-* [Mind map](mind-map)
-* [Decision tree](decision-tree)
-* [Change management](change-management)
-* [ADKAR change management model](adkar-change-management-model)
-* [Business continuity](business-continuity)
-* [Operational resilience](operational-resilience)
-* [Crowdsourcing](crowdsourcing)
-* [Planning poker estimation](planning-poker-estimation)
+* **Where are you going?**
 
+  * [North Star](north-star)
+  * [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
+  * [Futurespective](futurespective)
+  * [Oblique strategies](oblique-strategies)
+
+* **How will you proceed?**
+
+  * [Objectives and Key Results (OKRs)](objectives-and-key-results)
+  * [Key Performance Indicators (KPIs)](key-performance-indicators)
+  * [Key Risk Indicators (KRIs)](key-risk-indicators)
+  * [Critical Success Factors (CSF)](critical-success-factors)
+  * [Critical To Quality (CTQ)](critical-to-quality)
+  * [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
+  * [Risks, Actions, Issues, Decisions (RAID)](risks-actions-issues-decisions)
+  * [SPADE decision framework](spade-decision-framework)
+  * [Intent plan](intent-plan)
+  * [SMART criteria](smart-criteria)
+  * [Issue tracker](issue-tracker)
+  * [Mind map](mind-map)
+  * [Decision tree](decision-tree)
+  * [Change management](change-management)
+  * [ADKAR change management model](adkar-change-management-model)
+  * [Business continuity](business-continuity)
+  * [Operational resilience](operational-resilience)
+  * [Crowdsourcing](crowdsourcing)
+  * [Planning poker estimation](planning-poker-estimation)
 
 * **[Project management](project-management)**
 
@@ -342,11 +371,11 @@
   * [Outsourcing](outsourcing)
   * [Offshoring](offshoring)
   * [Nearshoring](nearshoring)
+  * [Coworking](coworking)
 
 * **[Ways Of Working (WOW)](ways-of-working)**
 
   * [TEAM FOCUS](team-focus)
-  * [Futurespective](futurespective)
   * [Blameless retrospective](blameless-retrospective)
   * [Pair programming](pair-programming)
 
@@ -402,6 +431,7 @@
 
 * **Accounting metrics**
 
+  * [Financial ratios](financial-ratios)
   * [Internal Rate of Return (IRR)](internal-rate-of-return)
   * [Return On Investment (ROI)](return-on-investment)
   * [Total Cost of Ownership (TCO)](total-cost-of-ownership)
@@ -429,23 +459,6 @@
   * [Carried interest](carried-interest)
   * [Due dilligence](due-dilligence)
 
-* **Entrances**
-
-  * [Incubator](incubator)
-  * [Accelerator](accelerator)
-  * [Coworking](coworking)
-  * [Skunkworks](skunkworks)
-  * [Spinoff](spinoff)
-  * [Spinout](spinout)
-
-* **Exits**
-
-  * [Initial Public Offering (IPO)](initial-public-offering)
-  * [Mergers and Acquisitions (M&A)](mergers-and-acquisitions)
-  * [Special Purpose Acquisition Company (SPAC)](special-purpose-acquisition-company)
-  * [Acquihire](acquihire)
-  * [Unicorn](unicorn)
-  * [Zombie](zombie)
 
 
 ## Fundraising areas
