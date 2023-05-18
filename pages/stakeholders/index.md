@@ -1,8 +1,6 @@
 # Stakeholders 
 
-In the context of business, stakeholders refer to individuals or groups who have a stake in the operations, decisions, and outcomes of a company or organization. These can include customers, employees, investors, suppliers, agencies, communities, and others who are directly or indirectly impacted by the activities of the company.
-
-Stakeholders are important for businesses to identify and engage with, as they can have a significant influence on the success or failure of the company. Understanding their needs, expectations, and concerns can help companies make more informed decisions and create strategies that are in alignment with their interests.
+In a business context, stakeholders are individuals and groups who have roles in the operations, decisions, and outcomes of a project or organization. These can include customers, employees, investors, suppliers, agencies, communities, and others who are impacted by the activities of the project or organization.
 
 There are types of stakeholders in a business:
 
@@ -10,7 +8,7 @@ There are types of stakeholders in a business:
 
 * External stakeholders: These are individuals or groups outside of the organization who are impacted by its actions, such as customers, suppliers, investors, and the local community.
 
-Also there are randings:
+Also there are rankings:
 
 * Primary stakeholders: These are stakeholders who have a direct stake in the company, such as employees and customers.
 

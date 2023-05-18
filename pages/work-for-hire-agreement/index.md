@@ -1,16 +1,14 @@
 # Work-for-hire agreement
 
-A work-for-hire agreement is a type of legal contract that outlines the terms of a creative work or project that is commissioned by one party to be completed by another party, typically a freelancer or independent contractor. The agreement specifies that the work produced is owned by the hiring party, rather than the individual or company who created it.
+A work-for-hire agreement is a type of legal contract that outlines the terms of a creative work or project that is commissioned by one party to be completed by another party, typically a freelancer or independent contractor. The agreement specifies that the work produced is owned by the hiring party, rather than the individual or company who created it. The agreement is often used when a company needs a specific project completed, such as a software development project, a marketing campaign, or a graphic design project.
 
-The purpose is to ensure that the hiring party has full control over the resulting work, including ownership of any intellectual property rights, such as copyrights, patents, or trademarks. It is often used when a company needs a specific project completed, such as a software development project, a marketing campaign, or a graphic design project.
-
-Key elements of a work-for-hire agreement include:
+Typical aspects:
 
 * Identification of the parties involved: the names, contact information, and any other relevant details.
 
 * Scope of work: the specific work or project that the contractor is being hired to complete, including any specifications or requirements.
 
-* Compensation: the payment terms for the project, including the amount of compensation, payment schedule, and any other details related to payment.
+* Compensation: the payment terms for the project, including the amount of compensation, payment schedule, and other details.
 
 * Ownership of intellectual property: who will own the rights to the work produced, including any copyrights, patents, or trademarks.
 

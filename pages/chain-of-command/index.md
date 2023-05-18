@@ -1,8 +1,8 @@
 # Chain of command 
 
-A chain of command is a hierarchical structure that outlines the reporting relationships, responsibilities, and authority within an organization. It establishes a clear line of communication and decision-making, ensuring that all employees understand their roles and responsibilities and who they report to.
+A chain of command is a hierarchical structure that outlines the reporting relationships, responsibilities, and authority within an organization. It establishes clear lines of communication and decision-making.
 
-Brief overview of the key components:
+Key components:
 
 * Hierarchy: The chain of command establishes a clear hierarchy, outlining who reports to whom within an organization. Each employee knows who their supervisor is and who they should go to if they need to escalate an issue.
 
@@ -10,7 +10,7 @@ Brief overview of the key components:
 
 * Communication: The chain of command establishes clear lines of communication within an organization. Employees know who to report to and who they can communicate with to receive information and guidance.
 
-* Accountability: The chain of command establishes accountability within an organization. Each employee is responsible for their own tasks and duties, and supervisors and managers are responsible for ensuring that their subordinates are fulfilling their responsibilities.
+* Accountability: The chain of command establishes accountability within an organization. Each employee is responsible for their own tasks and duties, and supervisors and managers are responsible for subordinates.
 
 The chain of command is important in ensuring that an organization functions efficiently and effectively. It helps to minimize confusion, streamline decision-making, and ensure that everyone is working together towards common goals. 
 

@@ -1,8 +1,6 @@
 # Business analysis
 
-Business analysis refers to the process of evaluating an organization's operations, procedures, and systems to identify areas for improvement and growth. It involves analyzing and synthesizing data to create meaningful insights that can inform business decisions.
-
-The main goal of business analysis is to bridge the gap between business needs and technology solutions. It helps organizations to identify areas of inefficiency and develop strategies to improve business processes, products, and services.
+Business analysis refers to the process of evaluating an organization's operations, procedures, and systems to identify areas for improvement and growth. It synthesizes data to create meaningful insights, to inform business decisions. It helps organizations develop strategies to improve business processes, products, and services.
 
 There are several techniques and methodologies that can be useful:
 

@@ -2,9 +2,9 @@
 
 A fixed-price contract is a type of contract in which a buyer agrees to pay a seller a predetermined price for a specific product or service. The price remains fixed, regardless of any changes in the seller's costs, profits, or other factors that may affect the seller's expenses.
 
-In a fixed-price contract, the seller bears the risk of any cost increases or overruns, as they have committed to delivering the product or service at a fixed price. This type of contract is often used in projects with well-defined requirements and scope, where the buyer can accurately estimate the costs and the seller can provide a competitive price for the work.
+This is for projects with well-defined requirements and scope, where the buyer can accurately estimate the costs and the seller can provide a competitive price for the work. The seller bears the risk of any cost increases or overruns.
 
-There are several types of fixed-price contracts:
+There are several types:
 
 * Firm Fixed-Price (FFP) Contract: In this type of contract, the seller agrees to deliver the product or service at a fixed price, regardless of the actual costs incurred. The seller assumes all the risks associated with the project, including cost overruns, delays, and other unforeseen events.
 

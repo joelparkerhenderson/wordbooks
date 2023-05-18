@@ -1,8 +1,8 @@
 # Maturity models
 
-Maturity models are frameworks used to evaluate and improve the effectiveness of processes, systems, or organizations. A maturity model provides a benchmark for the current state of the process, and also provides a roadmap for how to improve it. Maturity models are often used in the areas of quality management, process improvement, and IT service management.
+Maturity models are frameworks used to evaluate and improve the effectiveness of processes, systems, or organizations. The models provide benchmarks for the current state and guidance on how to improve it. The models are often used in the areas of quality management, process improvement, and IT service management.
 
-The essential idea of a maturity model is that an organization can improve its processes and capabilities by moving through a series of maturity levels. Each level represents a higher degree of capability and maturity in terms of processes, practices, tools, and resources. 
+The essential idea is that an organization can improve its capabilities by moving through a series of maturity levels. Each level represents a higher degree of capability and maturity in terms of processes, practices, tools, and resources. 
 
 Typical maturity model levels:
 

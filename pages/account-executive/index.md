@@ -14,8 +14,6 @@ Key responsbilities:
 
 * Presentations: Prepare and deliver sales presentations and demonstrations. Tailor presentations to address client needs and highlight value propositions.
 
-* Sales Pipeline Management: Track and prioritize leads, opportunities, and deals throughout the sales cycle, such as by using customer relationship management (CRM) tools. Identify bottlenecks, prioritize tasks, and focus work on high-potential opportunities.
+* Sales Pipeline Management: Track and prioritize leads, opportunities, and deals. Identify bottlenecks, prioritize tasks, and focus work on high-potential opportunities.
 
 * Negotiation and Closing: Negotiate with clients to finalize terms, pricing, and contracts. Use persuasive skills, market knowledge, and understanding of client needs to reach mutually-beneficial outcomes.
-
-* Sales Analysis: Provide regular reports on performance, areas for improvement, forecasts, win/loss ratios, and other key metrics to gain insights into sales trends, customer preferences, and market dynamics.

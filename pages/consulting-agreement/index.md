@@ -1,8 +1,8 @@
 # Consulting agreement
 
-A consulting agreement is a legal contract between a consultant or consulting firm and a client. The agreement outlines the terms and conditions of the consulting engagement.
+A consulting agreement is a legal contract between a consultant,or consulting firm, and a client. They are typically used when a client requires specialized expertise or assistance in a particular area, but does not want to hire a full-time employee. Consulting agreements are widely used for management consulting, legal consulting, financial consulting, and IT consulting.
 
-The key components of a consulting agreement typically include:
+Typical components:
 
 * Scope: Describe the specific services that the consultant will provide to the client, including the deliverables and timelines.
 
@@ -19,5 +19,3 @@ The key components of a consulting agreement typically include:
 * Governing law: Specify the jurisdiction and governing law that will apply to the consulting agreement.
 
 Some other important provisions that may be included in a consulting agreement include liability, insurance, indemnification, and non-compete clauses.
-
-Consulting agreements are used in a wide range of industries and fields, including management consulting, legal consulting, financial consulting, and IT consulting. They are typically used when a client requires specialized expertise or assistance in a particular area, but does not want to hire a full-time employee.

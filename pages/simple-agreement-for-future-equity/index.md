@@ -1,6 +1,6 @@
 # Simple agreement for future equity (SAFE)
 
-A Simple Agreement for Future Equity (SAFE) is a financial instrument used for startup financing. SAFE is an agreement where an investor provides capital to a startup, in exchange for the right to convert their investment into equity in the future, typically during the next equity financing round or the sale of the company.
+A Simple Agreement for Future Equity (SAFE) is an agreement where an investor provides capital to a startup in exchange for the right to convert the investment into equity in the future, typically during the next equity financing round.
 
 The key feature of a SAFE is that it allows startups to raise capital without having to establish a valuation at the time of the investment. This can be advantageous for both the investor and the startup, as it enables the investor to participate in the potential upside of the company without having to make a specific valuation judgment, and it allows the startup to avoid the complications and expenses associated with a traditional equity financing round.
 

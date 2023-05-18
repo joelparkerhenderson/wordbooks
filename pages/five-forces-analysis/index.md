@@ -1,12 +1,12 @@
 # Five Forces analysis
 
-The Five Forces analysis is a business framework developed by Michael Porter. This framework is used to analyze the competitive landscape of an industry, and help businesses understand the competitive dynamics that shape profitability in the market.
+The Five Forces analysis is a business framework developed by Michael Porter. This framework is used to analyze the competitive landscape of an industry, and the competitive dynamics that shape profitability.
 
 The five forces are:
 
 1. Threat of New Entrants: This factor refers to the level of competition in the industry and the ease of entry for new businesses. A high level of competition and a low barrier to entry can make it difficult for businesses to succeed.
 
-2. Bargaining Power of Suppliers: Refers to the power that suppliers have over the businesses they supply. Suppliers with significant bargaining power can raise prices, which can decrease profit margins for businesses.
+2. Bargaining Power of Suppliers: Refers to the power that suppliers have over the businesses they supply. Suppliers with significant bargaining power can raise prices, which can decrease profit margins.
 
 3. Bargaining Power of Buyers: Refers to the power that buyers have over businesses. Buyers with significant bargaining power can negotiate lower prices, which can decrease profit margins for businesses.
 

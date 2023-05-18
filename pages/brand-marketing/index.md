@@ -1,6 +1,6 @@
 # Brand marketing
 
-Brand marketing is a marketing strategy that focuses on building and promoting a brand's reputation, awareness, and loyalty. It involves creating a unique identity and personality for a brand, communicating its values and promises, and establishing an emotional connection with its target audience. The goal is a strong and positive association between a brand and its target audience, which can result in increased brand loyalty, customer engagement, and sales.
+Brand marketing focuses on building and promoting a brand's reputation, awareness, and loyalty. It involves creating a unique identity for a brand, communicating its values and promises, and establishing an emotional connection with its target audience. The goal is a strong and positive association between a brand and its target audience, which results in increased brand loyalty, customer engagement, and ultimately sales.
 
 Typical aspects:
 
@@ -12,6 +12,6 @@ Typical aspects:
 
 * Brand experience: This refers to the overall experience that customers have with a brand. A positive brand experience helps to create loyal customers and positive word-of-mouth.
 
-Brand marketing is typically implemented through various marketing channels and tactics, such as advertising, public relations, social media, content marketing, and experiential marketing. The specific tactics used will depend on the brand's target audience, budget, and goals.
+Brand marketing is typically implemented through various marketing channels and tactics, such as advertising, public relations, social media, content marketing, and experiential marketing. 
 
 Some benefits of effective brand marketing include increased brand awareness thus increased sales, differentiation thus competitive advantage, emotional connection thus increased loyalty, and increased customer lifetime value.

@@ -10,4 +10,4 @@ Another benefit of nearshoring is the reduced risk of cultural and language barr
 
 Other potential benefits of nearshoring include lower transportation costs and reduced shipping times, as well as a lower risk of geopolitical and economic instability that can sometimes impact more distant outsourcing locations.
 
-However, there are also some potential challenges associated with nearshoring. Labor costs in nearby countries may not be as low as in more distant locations, which can limit cost savings. Additionally, there may be less availability of specialized skills or expertise in certain industries, which can make it more difficult to find suitable outsourcing partners.
+However, there are challenges associated with nearshoring. Labor costs in nearby countries may not be as low as in more distant locations, which can limit cost savings. Additionally, there may be less availability of specialized skills or expertise in certain industries, which can make it more difficult to find suitable outsourcing partners.
