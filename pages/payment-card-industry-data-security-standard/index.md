@@ -10,7 +10,7 @@ The standard includes 12 requirements:
 
 * Protect stored cardholder data.
 
-* Encrypt transmission of cardholder data across open, public networks.
+* Encrypt transmission of cardholder data.
 
 * Use and regularly update anti-virus software.
 
@@ -28,4 +28,4 @@ The standard includes 12 requirements:
 
 * Maintain a policy that addresses information security.
 
-PCI DSS compliance can be achieved through self-assessment or by engaging with a qualified security assessor (QSA) to conduct a formal audit. Failure to comply can result in fines, increased transaction fees, and the loss of the ability to process credit card payments. Additionally, data breaches resulting from non-compliance can cause damage to the reputation of the affected organization and result in legal action by customers and regulatory authorities.
+PCI DSS compliance can be achieved through self-assessment or via a qualified security assessor (QSA) formal audit. Failure to comply can result in fines and bans. Additionally, data breaches resulting from non-compliance can cause damage to the reputation of the affected organization and result in legal action by customers and regulatory authorities.

@@ -8,12 +8,12 @@ A FUSA typically covers the following aspects:
 
 * Compensation. Specify fees and payments for use. The fees could be one-time, periodic, or variable based on usage or duration. Specify payment terms and conditions, methods, due dates, and late penalties.
 
-* Duration and Termination: Specify the start and end dates of the FUSA and the conditions for terminating the agreement by either party. The reasons for termination, notice periods, and the consequences of termination are also mentioned.
+* Duration: Specify the dates of the FUSA and the conditions for terminating the agreement by either party. Describe any  notice periods, and the consequences of termination.
 
-* Responsibilities: Specify the obligations of parties, including the provider's duties to maintain the facility or provide the services, and the customer's duties to comply with rules and regulations to use the facility responsibly.
+* Responsibilities: Specify the obligations of parties, such as the provider's duties to maintain the facility, and the customer's duties to use the facility responsibly.
 
-* Liability: Specify actions for any damages, losses, or injuries arising from the use of the facility or provision of services. Include needs for insurance, the type of insurance, and the amount of coverage.
+* Liability: Specify actions for any damages, losses, or injuries arising from the use. Include needs for insurance, the type of insurance, and the amount of coverage.
 
-* Confidentiality and Intellectual Property: Specify rights of both parties for non-disclosure of sensitive information, protection of proprietary information, and ownership of any intellectual property created during FUSA.
+* Intellectual Property: Specify rights of both parties for non-disclosure of sensitive information, protection of proprietary information, and ownership of any intellectual property created during FUSA.
 
-* Dispute Resolution: Specify methods for resolving any disputes between the parties, such as mediation or arbitration, and the jurisdiction and venue for any legal proceedings.
+* Dispute Resolution: Specify methods for resolving any disputes between the parties, such as mediation or arbitration, and jurisdiction and venue.

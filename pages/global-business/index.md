@@ -4,13 +4,13 @@ Global business refers to the economic activities and operations conducted by co
 
 Key drivers include:
 
-* Technological Advancements: Advances in transportation, communication, and information technologies have greatly facilitated global business operations. Companies can now transport goods more efficiently, communicate instantaneously across borders, and access information on global markets and opportunities.
+* Technology: Advances in transportation, communication, and information technologies have greatly facilitated global business operations, including transportion, communication, and information access.
 
-* Market Liberalization: The reduction of trade barriers, the signing of free trade agreements, and the liberalization of markets have opened up opportunities for companies to expand their operations globally. This has led to increased trade flows and the globalization of supply chains.
+* Liberalization: The reduction of trade barriers, the signing of free trade agreements, and the liberalization of markets have opened opportunities for companies to expand. This has led to increased trade flows and global supply chains.
 
-* Access to Resources and Talent: Global business allows companies to access resources, such as raw materials, capital, and skilled labor, that may be scarce or more cost-effective in other countries. It enables businesses to tap into a diverse pool of talent, expertise, and innovation from around the world.
+* Access to Resources: Global business allows companies to access resources, such as raw materials, capital, and skilled labor, that may be scarce or more cost-effective in other countries. 
 
-* Economies of Scale and Scope: Operating globally often provides companies with economies of scale and scope. By accessing larger markets and spreading fixed costs over a wider customer base, businesses can achieve cost efficiencies and increased profitability.
+* Economies of Scale and Scope: Global business often provides companies with economies of scale and scope. By accessing larger markets, and spreading fixed costs over more customers, businesses can achieve cost efficiencies.
 
 Challenges and considerations include cultural differences, legal and regulatory compliance, currency and exchange rate risk, and logistics and supply chain management (SCM) both intra-country and inter-country.
 

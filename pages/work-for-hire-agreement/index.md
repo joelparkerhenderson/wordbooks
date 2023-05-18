@@ -1,18 +1,18 @@
 # Work-for-hire agreement
 
-A work-for-hire agreement is a type of legal contract that outlines the terms of a creative work or project that is commissioned by one party to be completed by another party, typically a freelancer or independent contractor. The agreement specifies that the work produced is owned by the hiring party, rather than the individual or company who created it. The agreement is often used when a company needs a specific project completed, such as a software development project, a marketing campaign, or a graphic design project.
+A work-for-hire agreement is a type of legal contract that outlines the terms of a creative work or project that is commissioned by one party to be completed by another party, typically a freelancer or independent contractor. The agreement specifies that the work produced is owned by the hiring party, rather than the individual or company who created it. The agreement is often used when a company needs a specific project completed.
 
 Typical aspects:
 
-* Identification of the parties involved: the names, contact information, and any other relevant details.
+* Identification: Provide the parties' names, contact information, and any other relevant details.
 
-* Scope of work: the specific work or project that the contractor is being hired to complete, including any specifications or requirements.
+* Scope: Explain what the worker is being hired to complete, including any specifications or requirements.
 
-* Compensation: the payment terms for the project, including the amount of compensation, payment schedule, and other details.
+* Compensation: Describe the payment terms, including the amount, schedule, and other details.
 
-* Ownership of intellectual property: who will own the rights to the work produced, including any copyrights, patents, or trademarks.
+* Ownership of intellectual property: who will own the rights to the work produced, including any patents, copyrights, trademarks, and the like.
 
-* Confidentiality: such as non-disclosure agreements that must be signed by the contractor, to protect any proprietary information that may be shared during the course of the project.
+* Confidentiality: Protect any proprietary information that may be shared during the course of the project.
 
 * Termination: the circumstances under which the agreement may be terminated by either party, and any other relevant details related to termination.
 

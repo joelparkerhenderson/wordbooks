@@ -8,7 +8,7 @@ Key areas of the GDPR:
 
 * Obtaining consent: Organizations must obtain explicit and informed consent from individuals before collecting and processing their personal data.
 
-* Transparency: Organizations must provide individuals with clear and concise information about how their personal data is being processed.
+* Transparency: Organizations must provide individuals with clear concise information about how their data is being processed.
 
 * Data portability: Individuals have the right to receive a copy of their personal data and to transfer it to another organization.
 
@@ -18,4 +18,4 @@ Key areas of the GDPR:
 
 * Accountability: Organizations must be able to demonstrate compliance with the GDPR and implement appropriate technical and organizational measures to protect personal data.
 
-The GDPR also includes strict penalties for non-compliance, with fines of up to €20 million or 4% of a company's global annual revenue, whichever is greater.
+The GDPR also includes strict penalties for non-compliance, with fines of up to €20 million or 4% of a company's global annual revenue.

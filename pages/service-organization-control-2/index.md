@@ -14,6 +14,6 @@ The SOC 2 framework is based on the Trust Services Criteria (TSC) developed by t
 
 * Privacy: Personal information is collected, used, retained, and disclosed in conformity with the commitments in the entity's privacy notice.
 
-To obtain a SOC 2 report, a service organization must engage an independent auditor to perform an examination of its controls over a period of time. The auditor provides an opinion on whether the controls are suitably designed and operating effectively to meet the TSC criteria. The resulting SOC 2 report provides stakeholders with assurance that the organization has implemented appropriate controls to protect sensitive information.
+SOC 2 reports can be of two types: Type I and Type II. A Type I report assesses the design of the controls at a point in time, while a Type II report assesses both the design and operating effectiveness of the controls over a period of time (usually 6-12 months).
 
-SOC 2 reports can be of two types - Type I and Type II. A Type I report assesses the design of the controls at a point in time, while a Type II report assesses both the design and operating effectiveness of the controls over a period of time (usually 6-12 months).
+To get a SOC 2 report, an organization engages an independent auditor to examine the controls. The auditor provides opinions on whether the controls are suitably designed and operating effectively to meet TSC criteria. The auditor's report provides assurances that the controls are appropriate.

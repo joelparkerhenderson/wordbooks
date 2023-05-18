@@ -4,7 +4,7 @@ Family Educational Rights and Privacy Act (FERPA) is a United States federal law
 
 Under FERPA, educational institutions are required to:
 
-* Obtain written consent from students or their parents (if the students are under 18 years old) before disclosing any personally identifiable information from education records, with certain exceptions.
+* Obtain written consent from students or their parents before disclosing any personally identifiable information from education records, with certain exceptions.
 
 * Allow students or their parents to inspect and review their education records within 45 days of the request.
 
@@ -12,8 +12,8 @@ Under FERPA, educational institutions are required to:
 
 * Limit access to education records to only those who have a legitimate educational interest in them.
 
-FERPA defines education records as any records that are directly related to a student and maintained by an educational institution or its representatives. Examples of education records include grades, transcripts,  records, and financial information.
+FERPA defines education records as any records that are directly related to a student and maintained by an educational institution or its representatives. Examples: grades, transcripts, records, and financial information.
 
-FERPA provides exceptions to the consent requirement. For example, educational institutions may disclose education records without consent to other school officials with a legitimate educational interest, to education authorities for auditing or enforcing legal obligations, or in response to a court order or subpoena.
+FERPA provides exceptions to the consent requirement. For example, educational institutions may disclose education records without consent to some officials and authorities, if they have a legitimate interest.
 
 FERPA violations can result in the loss of federal funding for an educational institution, as well as reputational damage and legal liability.
