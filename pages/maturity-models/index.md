@@ -16,6 +16,4 @@ Typical maturity model levels:
 
 5. Optimizing: The organization is focused on continuous improvement and innovation. Processes are adapted and refined based on feedback and data analysis.
 
-Other examples of maturity models include the Project Management Maturity Model (PMMM), which focuses on project management processes and practices, and the IT Infrastructure Library (ITIL), which focuses on IT service management.
-
 Maturity models provide a roadmap for improvement and a framework for measuring progress. However, it's important to remember that maturity models are not a one-size-fits-all solution; each organization must adapt the model to fit its unique needs and circumstances.

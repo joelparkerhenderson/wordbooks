@@ -1,8 +1,8 @@
 # Carrying costs
 
-Carrying costs, also known as holding costs, are the expenses that a company incurs to hold and maintain its inventory over a period of time. These costs can include expenses such as storage, insurance, maintenance, taxes, and the opportunity cost of tying up capital in inventory.
+Carrying costs, also known as holding costs, are the expenses that a company incurs to hold and maintain its inventory over a period of time. Carrying costs can be a significant expense for businesses, particularly those with large or slow-moving inventory.
 
-The main components of carrying costs are:
+Example costs:
 
 * Storage costs: e.g. renting or owning a warehouse or storage space to hold inventory.
 
@@ -13,8 +13,6 @@ The main components of carrying costs are:
 * Taxes: e.g. cost of property taxes and other taxes related to holding inventory.
 
 * Opportunity cost: e.g. tying up capital in inventory that could have been invested in other areas, such as research and development, marketing, or expansion.
-
-Carrying costs can be a significant expense for businesses, particularly those with large or slow-moving inventory.
 
 To reduce carrying costs, businesses can take a number of steps, such as:
 

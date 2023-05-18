@@ -1,23 +1,19 @@
 # Project Manager (PM)
 
-A Project Manager (PM) is a professional responsible for planning, executing, and overseeing the successful completion of a project within defined constraints of scope, time, cost, and quality. PMs are responsible for leading teams, managing resources, and ensuring project objectives are met. 
+A Project Manager (PM) is company role responsible for overseeing a project within defined constraints of scope, time, cost, and quality. 
 
 Key responsbilities can include:
 
-* Project Planning: Initiate projects by defining project objectives, scope, and deliverables. Work with stakeholders to identify project requirements and create a detailed project plan that outlines tasks, risks, timelines, and dependencies. 
+* Project Planning: Initiate projects by defining objectives, scope, schedule, budget, outputs, and outcomes. Work with stakeholders to create a project plan with tasks, risks, timelines, and dependencies. 
 
-* Team Leadership: Facilitate collaboration, assign responsibilities, set expectations, and provide guidance to ensure everyone understands their roles and project goals. Promote team culture, motivate team members, and manage conflicts.
+* Team Leadership: Facilitate teamwork, assign roles and goals, promote team culture, motivate members, and manage conflicts.
 
-* Scope Management: Ensure project scope stays aligned with objectives. Manage change management processes and impacts of changes on resources, timelines, and deliverables. Negotiate trade-offs with stakeholders.
+* Scope/Schedule/Budget Management: Ensure these stay aligned with objectives and resource utilization. Manage any changes. Take corrective actions as needed. Negotiate trade-offs with stakeholders.
 
-* Schedule Management: Develop project schedules, create timelines, and set milestones to track progress. Monitor project activities, identify potential delays, and take corrective actions to keep the project on track.
+* Risk Management: Identify potential risks that could affect the project and stakeholders. Conduct risk assessments, create contingencies, and establish mitigations.
 
-* Budget Management: Develop project budgets, estimate costs, and track project expenditures. Manage project finances, optimize project budget utilization, and allocate resources efficiently.
+* Quality Management: Define quality standards, ensure deliverables are acceptable, and address any gaps.
 
-* Risk Management: Identify potential risks and develop risk management strategies to mitigate their impact on the project and stakeholders. Conduct risk assessments, update RAID log, create contingencies, and establish mitigations.
+* Stakeholder Management: Serve as the point of contact for project communication. Engage stakeholders throughout the project. Address any issues promptly.
 
-* Quality Management: Define quality standards, ensure that project deliverables meet these standards, and address any quality issues.
-
-* Stakeholder Management: Serve as the primary point of contact for project communication and reporting. Engage stakeholders throughout the project, and address any concerns or issues promptly.
-
-* Project Completion: Ensure that all project deliverables are completed, accepted, and documented. Conduct project evaluations, gather feedback from team members and stakeholders, and identify lessons learned for future projects.
+* Project Completion: Ensure deliverables are completed and accepted. Conduct project evaluations and retrospectives, then document lessons learned.

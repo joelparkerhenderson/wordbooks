@@ -1,6 +1,6 @@
 # Bethnal Green Ventures (BGV)
 
-Bethnal Green Ventures (BGV) (<https://www.bethnalgreenventures.com/>) is an early-stage venture capital fund and accelerator based in the United Kingdom. Founded in 2012, BGV focuses on supporting startups that aim to create positive social and environmental impact through technology and innovation. It provides funding, mentorship, and a structured program to help startups develop their ideas, scale their businesses, and make a meaningful difference in society.
+Bethnal Green Ventures (BGV) (<https://www.bethnalgreenventures.com/>) is an early-stage venture capital fund and accelerator based in the United Kingdom. Founded in 2012, BGV focuses on supporting startups that aim to create positive social and environmental impact. It provides funding, mentorship, and a structured program to help startups develop their ideas and make meaningful improvements in society.
 
 Investment Focus: BGV invests in startups that address societal and environmental challenges using technology-driven solutions. The fund has a broad impact focus, encompassing areas such as health, education, climate change, sustainability, civic engagement, and social justice.
 

@@ -4,12 +4,12 @@ A Sales Engineer, also known as a Technical Sales Engineer or a Pre-Sales Engine
 
 Key responsibilties include:
 
-* Customer Engagement: Engage with potential customers to understand their business requirements, challenges, and objectives. Conduct in-depth research to assess how the company's products or services can address customer needs. Act as trusted advisors, to provide consultative support.
+* Customer Engagement: Engage with potential customers to understand their business objectives and challenges. Research to how the company's products or services can address customer needs. Act as a trusted advisor for consultative support.
 
-* Relationship Building: Foster strong relationships with customers, acting as a liaison between the technical and sales teams. Collaborate with internal stakeholders, such as sales representatives, product managers, and engineers, to gather insights, address customer inquiries, and ensure the successful implementation of solutions. Provide ongoing technical support throughout the sales process and act as the main point of contact for technical queries and clarifications.
+* Relationship Building: Foster strong relationships with customers and internal stakeholders, such as sales representatives, product managers, and engineers, to drive sales. Act as the point of contact for sales technical needs.
 
-* Solution Design: Collaborate with customers to create solutions that meet their specific needs. Analyze customer requirements, assess feasibility, and develop proposals. Work closely with the company's engineering team or product team to ensure customer expectations are met.
+* Solution Design: Collaborate with customers to create solutions that meet their specific needs. Work closely with the company's engineering team or product team to ensure customer expectations are met.
 
-* Technical Documentation: Prepare solution proposals, specifications, diagrams, and pricing details. Translate complex technical concepts into clear, concise, and persuasive documents that effectively communicate the value of the proposed solution. Collaborate with the sales and marketing teams to create compelling proposals that address customer pain points and differentiate the company's offerings.
+* Documentation: Prepare solution proposals, specifications, diagrams, and pricing details. Work with the sales team and marketing team to create compelling proposals with engineering-related information.
 
-* Competitive Analysis: Stay informed about competitor products and industry trends. They conduct competitive analysis, comparing features, functionalities, and technical specifications. Leverage this knowledge to effectively position their company's products or services against competitors and highlight unique selling points and advantages.
+* Competitive Analysis: Conduct competitive analysis, including technical research, then leverage this knowledge to position the company's products or services against competitors.

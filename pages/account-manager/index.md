@@ -1,6 +1,6 @@
 # Account Manager (AM)
 
-An Account Manager (AM) is a company role typically found in sales, customer success, or client services departments. The primary responsibility of an Account Manager is to nurture and maintain relationships with existing clients to ensure their satisfaction, retention, and long-term success. 
+An Account Manager (AM) is a company role typically found in sales, customer success, or client services departments. The  Account Manager nurtures relationships with existing clients to ensure their satisfaction, retention, and long-term success. 
 
 Key responsibilities:
 
@@ -8,7 +8,7 @@ Key responsibilities:
 
 * Client Success: Engage with clients to understand their goals, provide ongoing support, and monitor their progress. Track client satisfaction, usage, and outcomes. Advocate for the client within the company, ensuring their voice is heard and their needs are met.
 
-* Account Planning: Develop account plans to maximize client value and achieve mutual business objectives. Analyze client data, market trends, and industry insights to identify opportunities, risks, and competitive factors. Create tailored account strategies, including upsell plans, retention initiatives, and customer roadmaps.
+* Account Planning: Develop account plans to maximize client value and achieve mutual business objectives. Analyze client data, market trends, and industry insights, to identify opportunities, risks, and other factors. Create account strategies, including upsell plans, retention initiatives, and client roadmaps.
 
 * Conflict Management: Handle client concerns or complaints. Seek resolutions that align with the client's best interests and company policies. Act as problem solvers. Coordinate internal resources, and escalate issues, to ensure satisfactory resolutions.
 

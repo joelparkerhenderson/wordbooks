@@ -1124,9 +1124,7 @@ Overall, while monopolies may be profitable for the companies that hold them, th
 
 ## Business analysis
 
-Business analysis refers to the process of evaluating an organization's operations, procedures, and systems to identify areas for improvement and growth. It involves analyzing and synthesizing data to create meaningful insights that can inform business decisions.
-
-The main goal of business analysis is to bridge the gap between business needs and technology solutions. It helps organizations to identify areas of inefficiency and develop strategies to improve business processes, products, and services.
+Business analysis refers to the process of evaluating an organization's operations, procedures, and systems to identify areas for improvement and growth. It synthesizes data to create meaningful insights, to inform business decisions. It helps organizations develop strategies to improve business processes, products, and services.
 
 There are several techniques and methodologies that can be useful:
 
@@ -1145,13 +1143,13 @@ There are several techniques and methodologies that can be useful:
 
 ## Five Forces analysis
 
-The Five Forces analysis is a business framework developed by Michael Porter. This framework is used to analyze the competitive landscape of an industry, and help businesses understand the competitive dynamics that shape profitability in the market.
+The Five Forces analysis is a business framework developed by Michael Porter. This framework is used to analyze the competitive landscape of an industry, and the competitive dynamics that shape profitability.
 
 The five forces are:
 
 1. Threat of New Entrants: This factor refers to the level of competition in the industry and the ease of entry for new businesses. A high level of competition and a low barrier to entry can make it difficult for businesses to succeed.
 
-2. Bargaining Power of Suppliers: Refers to the power that suppliers have over the businesses they supply. Suppliers with significant bargaining power can raise prices, which can decrease profit margins for businesses.
+2. Bargaining Power of Suppliers: Refers to the power that suppliers have over the businesses they supply. Suppliers with significant bargaining power can raise prices, which can decrease profit margins.
 
 3. Bargaining Power of Buyers: Refers to the power that buyers have over businesses. Buyers with significant bargaining power can negotiate lower prices, which can decrease profit margins for businesses.
 
@@ -1184,37 +1182,35 @@ Here is a brief explanation of each of the six factors of PESTLE analysis:
 
 ## SWOT analysis
 
-SWOT analysis is a strategic planning tool that helps businesses identify their strengths, weaknesses, opportunities, and threats. It is a simple and effective way to evaluate the internal and external factors that can affect the success of a business. SWOT analysis is often used by businesses to assess their current position, develop a strategy, and make informed decisions about their future direction.
+SWOT analysis is a strategic planning tool that helps businesses identify their strengths, weaknesses, opportunities, and threats. SWOT analysis is often used by businesses to assess their current position, develop a strategy, and make informed decisions.
 
-1. Strengths: These are the internal factors that give a business an advantage over its competitors. Examples of strengths can include a strong brand, loyal customer base, unique product or service, talented employees, and efficient processes.
+1. Strengths: These are the internal factors that give a business an advantage over its competitors. Examples: a strong brand, loyal customers, unique product, talented employees, and efficient processes.
 
-2. Weaknesses: These are the internal factors that can hinder the success of a business. Examples of weaknesses can include poor management, outdated technology, lack of resources, and low employee morale.
+2. Weaknesses: These are the internal factors that can hinder the success of a business. Examples: outdated technology, poor controls, insufficient resources, and low morale.
 
-3. Opportunities: These are external factors that a business can capitalize on to grow and succeed. Examples of opportunities can include emerging markets, changes in consumer behavior, technological advancements, and partnerships with other businesses.
+3. Opportunities: These are external factors that a business can capitalize on to succeed. Examples: emerging markets, changes in consumer behavior, technological advancements, and new partnerships.
 
-4. Threats: These are external factors that can negatively affect the success of a business. Examples of threats can include increased competition, changes in government regulations, economic downturns, and natural disasters.
-
-To conduct a SWOT analysis, a business typically starts by identifying its internal strengths and weaknesses. This can involve analyzing the company's financial performance, marketing strategies, products or services, management structure, and other internal factors. Next, the business will identify external opportunities and threats, such as changes in the industry, emerging trends, and competitive forces.
+4. Threats: These are external factors that can negatively affect a business. Examples: increased competition, economic downturns, obstructionist regulation, and natural disasters.
 
 Once the SWOT analysis is complete, the business can use the insights gained to develop a strategy that capitalizes on its strengths, addresses its weaknesses, takes advantage of opportunities, and mitigates threats. This can include implementing new marketing campaigns, investing in new technologies, improving employee training programs, and more.
 
 ## Feasibility analysis
 
-Feasibility analysis is a systematic approach to assess the viability of a proposed project or solution. It is a process that examines whether the project or solution can be realized. The analysis helps stakeholders make informed decisions about whether to move forward with the project or solution, and if so, how to proceed with its implementation.
+Feasibility analysis assesses the viability of a proposed project or solution. The analysis helps stakeholders make informed decisions about whether to move forward with work, and if so, how to proceed with its implementation.
 
-Key aspects of feasibility analysis:
+Key aspects:
 
-* Technical feasibility: This assesses whether the proposed solution can be implemented using available technology or whether new technology needs to be developed. It considers factors such as the complexity of the project, the availability of required resources, and the existing infrastructure.
+* Technical feasibility: Assess whether the proposed solution can be implemented using available technology or whether new technology needs to be developed. Consider factors such as the complexity of the project, the availability of required resources, and the existing infrastructure.
 
-* Economic feasibility: This evaluates the cost-effectiveness of the project. It involves analyzing the expected costs and benefits associated with the project, including the initial investment, operating costs, and expected returns.
+* Economic feasibility: Analyze the expected costs and benefits associated with the project, including the initial investment, operating costs, and expected returns.
 
-* Legal feasibility: This examines whether the proposed project complies with applicable laws and regulations. It considers issues such as permits, licenses, zoning regulations, and intellectual property rights.
+* Legal feasibility: Examine whether the proposed project complies with applicable laws and regulations, such as permits, licenses, zoning regulations, and intellectual property rights.
 
-* Environmental feasibility: This evaluates the impact of the proposed project on the environment. It considers factors such as air and water quality, wildlife habitats, and the potential for environmental damage.
+* Environmental feasibility: Evaluate the impact of the proposed project on the environment. Consider factors such as air and water quality, wildlife habitats, and the potential for environmental damage.
 
-* Social feasibility: This assesses the impact of the proposed project on the community and society as a whole. It considers issues such as employment opportunities, social well-being, and community development.
+* Social feasibility: Assess the impact of the proposed project on the community and society as a whole. Consider issues such as employment opportunities, community development, and population well-being.
 
-* Operational feasibility: This evaluates whether the proposed solution can be integrated into existing systems and processes. It considers factors such as the availability of skilled personnel, training needs, and the impact on existing workflows.
+* Operational feasibility: Evaluate whether the proposed solution can be integrated into existing systems and processes. Consider factors such as the availability of personnel, training needs, and impact on existing workflows.
 
 
 ## Stakeholder analysis 
@@ -1259,7 +1255,7 @@ Use case analysis helps to identify the key features and requirements of a syste
 
 ## Process Mapping 
 
-Process Mapping is a technique used in business analysis to visually represent the flow of work or processes within an organization. It is a tool that helps to identify bottlenecks, inefficiencies, and redundancies in processes, and to find ways to improve them. It is often used in conjunction with other business analysis tools and techniques such as workflow diagrams, swimlane diagrams, and value stream maps. The goals are a clear view of a process, and identification of opportunities for improvement. 
+Process Mapping is a technique used in business analysis to visually represent the flow of work or processes within an organization. It helps identify bottlenecks, inefficiencies, and redundancies in processes. It finds ways to improve them. It is often used in conjunction with other business analysis tools and techniques such as workflow diagrams, swimlane diagrams, and value stream maps. The goal is clear view of a process.
 
 Typical steps:
 
@@ -1280,30 +1276,28 @@ Typical steps:
 
 ## Value Stream Mapping (VSM)
 
-Value Stream Mapping (VSM) is a lean manufacturing technique used to analyze, visualize, and improve the flow of materials and information through a manufacturing process or value stream. It is a tool used to identify waste and inefficiencies in a process and to develop solutions to improve efficiency and reduce costs.
-
-The value stream is defined as the sequence of activities required to transform raw materials or information into a finished product or service that is of value to the customer. 
+Value Stream Mapping (VSM) is a lean manufacturing technique used to analyze, visualize, and improve the flow of materials and information through a process. The value stream is defined as the sequence of activities required to transform raw materials or information into a finished product or service that is of value to the customer. 
 
 Creating this involves several steps:
 
-* Define the scope: The first step is to define the boundaries of the process or value stream being analyzed. This involves identifying the start and end points of the process, as well as the inputs and outputs.
+1. Define the scope: Define the boundaries of the process or value stream being analyzed. Identify the start and end points of the process, as well as the inputs and outputs.
 
-* Map the current state: The next step is to create a visual representation of the current process, including all the steps, the time required to complete each step, and the value added by each step. This map helps to identify areas of waste and inefficiency.
+2. Map the current state: Create a visual representation of the current process, including all the steps, the time required to complete each step, and the value added by each step. This map helps to identify areas of waste and inefficiency.
 
-* Analyze the current state: Once the current state map is complete, the next step is to analyze it to identify areas of waste and inefficiency. This analysis involves looking for opportunities to eliminate waste, improve efficiency, and reduce costs.
+3. Analyze the current state: Analyze areas of waste and inefficiency. Look for opportunities to eliminate waste, improve efficiency, and reduce costs.
 
-* Design the future state. Based on the analysis of the current state map, design a future state map that represents an ideal process. Include all the changes and improvements that have been identified to eliminate waste, improve efficiency, and reduce costs.
+* Design the future state. Based on the analysis, design a future state map that represents an ideal process. Include all the changes and improvements that have been identified to eliminate waste, improve efficiency, and reduce costs.
 
-* Implement the changes. This may involves streamlining the process, reorganizing resources, training employees, and implementing new processes and procedures.
+* Implement the changes. This may involve streamlining the process, reorganizing resources, training employees, and implementing new processes and procedures.
 
 The process of creating a value stream map involves collaboration between all stakeholders in the process, including operators, supervisors, and management, which helps to build consensus and support for the changes that are needed to improve the process.
 
 
 ## Maturity models
 
-Maturity models are frameworks used to evaluate and improve the effectiveness of processes, systems, or organizations. A maturity model provides a benchmark for the current state of the process, and also provides a roadmap for how to improve it. Maturity models are often used in the areas of quality management, process improvement, and IT service management.
+Maturity models are frameworks used to evaluate and improve the effectiveness of processes, systems, or organizations. The models provide benchmarks for the current state and guidance on how to improve it. The models are often used in the areas of quality management, process improvement, and IT service management.
 
-The essential idea of a maturity model is that an organization can improve its processes and capabilities by moving through a series of maturity levels. Each level represents a higher degree of capability and maturity in terms of processes, practices, tools, and resources. 
+The essential idea is that an organization can improve its capabilities by moving through a series of maturity levels. Each level represents a higher degree of capability and maturity in terms of processes, practices, tools, and resources. 
 
 Typical maturity model levels:
 
@@ -1316,8 +1310,6 @@ Typical maturity model levels:
 4. Quantitatively Managed: Processes are measured and analyzed using quantitative data. There is a focus on statistical process control and continuous improvement.
 
 5. Optimizing: The organization is focused on continuous improvement and innovation. Processes are adapted and refined based on feedback and data analysis.
-
-Other examples of maturity models include the Project Management Maturity Model (PMMM), which focuses on project management processes and practices, and the IT Infrastructure Library (ITIL), which focuses on IT service management.
 
 Maturity models provide a roadmap for improvement and a framework for measuring progress. However, it's important to remember that maturity models are not a one-size-fits-all solution; each organization must adapt the model to fit its unique needs and circumstances.
 
@@ -1915,26 +1907,24 @@ Key responsbilities:
 
 * Presentations: Prepare and deliver sales presentations and demonstrations. Tailor presentations to address client needs and highlight value propositions.
 
-* Sales Pipeline Management: Track and prioritize leads, opportunities, and deals throughout the sales cycle, such as by using customer relationship management (CRM) tools. Identify bottlenecks, prioritize tasks, and focus work on high-potential opportunities.
+* Sales Pipeline Management: Track and prioritize leads, opportunities, and deals. Identify bottlenecks, prioritize tasks, and focus work on high-potential opportunities.
 
 * Negotiation and Closing: Negotiate with clients to finalize terms, pricing, and contracts. Use persuasive skills, market knowledge, and understanding of client needs to reach mutually-beneficial outcomes.
-
-* Sales Analysis: Provide regular reports on performance, areas for improvement, forecasts, win/loss ratios, and other key metrics to gain insights into sales trends, customer preferences, and market dynamics.
 
 
 ## Account Manager (AM)
 
-An Account Manager (AM) is a company role typically found in sales, customer success, or client services departments. The primary responsibility of an Account Manager is to nurture and maintain relationships with existing clients or accounts to ensure their satisfaction, retention, and long-term success. 
+An Account Manager (AM) is a company role typically found in sales, customer success, or client services departments. The  Account Manager nurtures relationships with existing clients to ensure their satisfaction, retention, and long-term success. 
 
 Key responsibilities:
 
 * Client Relationship Management: Serve as the main point of contact for assigned client accounts. Establish a deep understanding of the client's business goals, needs, and challenges to provide personalized solutions and support.
 
-* Client Success: Engage with clients to understand their goals, provide ongoing support, and monitor their progress. By establishing key performance indicators (KPIs) and success metrics, Account Managers track client satisfaction, usage, and outcomes. Act as advocates for the client within the company, ensuring their voice is heard and their needs are met.
+* Client Success: Engage with clients to understand their goals, provide ongoing support, and monitor their progress. Track client satisfaction, usage, and outcomes. Advocate for the client within the company, ensuring their voice is heard and their needs are met.
 
-* Account Planning: Develop account plans to maximize client value and achieve mutual business objectives. Analyze client data, market trends, and industry insights to identify opportunities, risks, and competitive factors. Create tailored account strategies, including upsell plans, retention initiatives, and customer success roadmaps.
+* Account Planning: Develop account plans to maximize client value and achieve mutual business objectives. Analyze client data, market trends, and industry insights, to identify opportunities, risks, and other factors. Create account strategies, including upsell plans, retention initiatives, and client roadmaps.
 
-* Conflict Management: Handle client concerns or complaints. Seek resolutions that align with the client's best interests and company policies. Act as problem solvers. Coordinate internal resources and escalate issues as necessary to ensure timely satisfactory resolutions.
+* Conflict Management: Handle client concerns or complaints. Seek resolutions that align with the client's best interests and company policies. Act as problem solvers. Coordinate internal resources, and escalate issues, to ensure satisfactory resolutions.
 
 * Client Communication: Maintain regular communication with clients through various channels, such as email, phone calls, and meetings. Provide updates, share insights, and deliver value-added information relevant to the client's business. 
 
@@ -1943,21 +1933,19 @@ Key responsibilities:
 
 ## Sales Engineer
 
-A Sales Engineer, also known as a Technical Sales Engineer or a Pre-Sales Engineer, supports the sales process of complex products and services. Sales Engineers bridge the gap between a company's technical offerings and the needs of potential customers. 
+A Sales Engineer, also known as a Technical Sales Engineer or a Pre-Sales Engineer, supports the sales process of complex products and services. Sales Engineers bridge the gap between the needs of potential customers and the company's technical offerings. 
 
 Key responsibilties include:
 
-* Customer Engagement and Consultation: Engage with potential customers to understand their business requirements, challenges, and objectives. Conduct in-depth discussions and gather information to assess how the company's products or services can address customer needs. Act as trusted advisors, to provide consultative support and solutions that align with the customer's goals.
+* Customer Engagement: Engage with potential customers to understand their business objectives and challenges. Research to how the company's products or services can address customer needs. Act as a trusted advisor for consultative support.
 
-* Product Demonstrations and Presentations: Present and demonstrate the technical capabilities and benefits of the products or services. Showcase key features, use cases, and value propositions to potential customers. Tailor presentations to address customer-specific requirements and effectively communicate the technical aspects in a clear and understandable manner.
+* Relationship Building: Foster strong relationships with customers and internal stakeholders, such as sales representatives, product managers, and engineers, to drive sales. Act as the point of contact for sales technical needs.
 
-* Solution Design and Customization: Collaborate with customers to design solutions that meet their specific needs. Analyze customer requirements, assess feasibility, and develop customized proposals or configurations. Work closely with the company's engineering or product teams to ensure that customer expectations are met and any necessary modifications or customizations are properly communicated and implemented.
+* Solution Design: Collaborate with customers to create solutions that meet their specific needs. Work closely with the company's engineering team or product team to ensure customer expectations are met.
 
-* Technical Documentation and Proposals: Prepare technical documentation, including solution proposals, specifications, diagrams, and pricing details. Translate complex technical concepts into clear, concise, and persuasive documents that effectively communicate the value of the proposed solution. Collaborate with the sales and marketing teams to create compelling proposals that address customer pain points and differentiate the company's offerings.
+* Documentation: Prepare solution proposals, specifications, diagrams, and pricing details. Work with the sales team and marketing team to create compelling proposals with engineering-related information.
 
-* Relationship Building and Collaboration: Foster strong relationships with customers, acting as a liaison between the technical and sales teams. Collaborate with internal stakeholders, such as sales representatives, product managers, and engineers, to gather insights, address customer inquiries, and ensure the successful implementation of solutions. Provide ongoing technical support throughout the sales process and act as the main point of contact for technical queries and clarifications.
-
-* Competitive Analysis: Stay informed about competitor products and industry trends. They conduct competitive analysis, comparing features, functionalities, and technical specifications. Leverage this knowledge to effectively position their company's products or services against competitors and highlight unique selling points and advantages.
+* Competitive Analysis: Conduct competitive analysis, including technical research, then leverage this knowledge to position the company's products or services against competitors.
 
 
 ## Customer Service Representative (CSR)
@@ -1966,63 +1954,57 @@ A Customer Service Representative (CSR) is a company role that involves interact
 
 Key reponsibilities:
 
-* Support: Help customers by addressing their inquiries, concerns, and issues. Respond to phone calls, emails, live chats, or social media messages from customers. Listen to customers, empathize with their concerns, and work towards solutions. Provide information, troubleshoot problems, and escalate complex issues.
+* Support: Help customers by addressing their inquiries, concerns, and issues. Listen to customers, empathize with their concerns, and work towards solutions. Provide information, troubleshoot problems, and escalate complex issues.
 
-* Customer Relationship Management: Build positive relationships with customers. Create a friendly and personalized experience by addressing customers by name, showing genuine interest in their needs, and proactively engaging in follow-up communication. Foster customer loyalty and advocacy.
+* Customer Relationship Management: Build positive relationships with customers. Create a friendly and personalized experience showing genuine interest in their needs, and proactively engaging in follow-up communication.
 
-* Order Processing and Account Management: Help customers place orders, track shipments, and manage their accounts. Ensure accurate and timely order processing. Verify customer information, and update account details as needed. Process returns, refunds, or exchanges, adhering to company policies and procedures.
+* Order Processing: Help customers place orders, track shipments, and manage their accounts. Ensure accurate and timely order processing. Verify customer account details as needed. Process returns, refunds, or exchanges.
 
-* Knowledge Base and Documentation: Document common customer inquiries, frequently encountered issues, and their resolutions to create a resource for both customers and fellow team members. Improve processes by identifying areas for enhancement and providing feedback on customer pain points.
+* Knowledge Base: Document customer inquiries, issues, and resolutions, to create a resource for both customers and team members. Improve processes by identifying areas for enhancement and providing feedback on customer pain points.
 
-* Conflict Resolution and Customer Retention: Handle customer complaints, conflicts, or dissatisfaction with the aim of achieving resolution and customer retention. They employ conflict resolution techniques, actively listening to customers' concerns, apologizing for any inconvenience caused, and providing suitable solutions. CSRs may offer incentives, discounts, or other forms of compensation when appropriate to retain customers and restore their confidence.
-
-CSRs are often measured based on key performance indicators (KPIs) related to customer satisfaction, response time, issue resolution, and productivity. They strive to meet or exceed these metrics while continuously seeking opportunities for improvement. CSRs participate in ongoing training and development programs to enhance their skills and stay up to date with customer service best practices.
+* Conflict Resolution: Handle customer complaints, conflicts, or dissatisfaction, with the aim of achieving resolution and customer retention. Work to restore customer confidence, satisfaction, and loyalty.
 
 
 ## Product Manager (PM)
 
-A Product Manager (PM) is a company role responsible for the strategy, development, and management of a product or a product line throughout its lifecycle. PMs work closely with cross-functional teams, including engineering, design, marketing, and sales, to ensure the successful creation and delivery of a product that meets customer needs and aligns with the company's goals. 
+A Product Manager (PM) is a company role responsible for the strategy, development, and management of a product or a product line throughout its lifecycle. PMs work with cross-functional teams, including engineering, design, marketing, and sales, to ensure the successful delivery of a product that provides customer value and aligns with company goals. 
 
 Typical responsbilities:
 
-* Product Vision/Strategy/Plan: Develop a vision, considering market trends, customer insights, and business goals. Define the value proposition, target market, and differentiation strategy. Conduct market research, competitive analysis, and customer feedback analysis to inform product direction and identify opportunities for innovation and growth.
+* Product Vision/Strategy/Plan: Develop product objectives and evolution roadmap. Consider market trends, customer priorities, engineering capabilties, resource availability, and business goals.
 
-* Product Roadmap: Create and maintain a product roadmap that outlines the product's future development and evolution. Prioritize features, enhancements, and bug fixes based on customer needs, business objectives, and resource availability. Collaborate with engineering and design teams to define project timelines, milestones, and deliverables.
+* User-Centric Requirements: Work with design teams to define user stories and use cases, based on customer insights, user research, and usability testing.
 
-* User-Centric Design and Requirements: Work closely with design teams to ensure a user-centric approach to product development. Define product requirements, user stories, and acceptance criteria based on customer insights, user research, and usability testing. Advocate for an exceptional user experience and collaborate with designers to create intuitive and visually appealing interfaces.
+* Cross-Functional Collaboration: Work with sales teams and marketing teams to develop go-to-market strategies, positioning, and messaging, as well as product training, sales collateral, and customer support guidance.
 
-* Cross-Functional Collaboration: Work with engineering teams to clarify technical requirements, provide guidance, and ensure the product is developed according to specifications. Work with marketing teams to develop go-to-market strategies, positioning, and messaging. Work with sales teams to provide product training, sales collateral, and support during the sales process.
+* Product Uptake: Orchestrate launches, monitor product adoption rates, collect feedback, and iterate on the product.
 
-* Product Launch and Adoption: Orchestrate product launches, working closely with marketing and sales teams. Develop product positioning, messaging, and pricing strategies. Collaborate with marketing teams to create promotional materials, conduct product training, and generate awareness. Monitor product adoption rates, collect feedback, and iterate on the product to drive user engagement and satisfaction.
-
-* Data Analysis: Analyze user behavior, metrics, and market trends to identify opportunities for improvement and growth. PMs leverage analytics tools, conduct A/B testing, and gather user feedback to make informed decisions about product enhancements, optimizations, and new features.
-
-* Stakeholder Management: Interact with executives, customers, partners, and internal teams. Communicate product updates, gather feedback, and align stakeholders around the product vision and roadmap. Manage expectations, address concerns, and negotiate priorities to ensure successful product outcomes.
+* Stakeholder Management: Interact with executives, customers, partners, and internal teams. Align stakeholders with the product vision/strategy/plan. Manage expectations, negotiate priorities, and address concerns, to ensure good products.
 
 
 ## Project Manager (PM)
 
-A Project Manager (PM) is a professional responsible for planning, executing, and overseeing the successful completion of a project within defined constraints of scope, time, cost, and quality. PMs are responsible for leading teams, managing resources, and ensuring project objectives are met. 
+A Project Manager (PM) is company role responsible for overseeing a project within defined constraints of scope, time, cost, and quality. 
 
 Key responsbilities can include:
 
-* Project Planning: Initiate projects by defining project objectives, scope, and deliverables. Work with stakeholders to identify project requirements and create a detailed project plan that outlines tasks, timelines, and dependencies. Assess risks, develop mitigation strategies, and allocate resources to ensure efficient project execution.
+* Project Planning: Initiate projects by defining objectives, scope, outputs, and outcomes. Work with stakeholders to create a project plan with tasks, risks, timelines, and dependencies. 
 
-* Team Leadership: Lead cross-functional teams and facilitate collaboration among team members. Assign responsibilities, set expectations, and provide guidance to ensure everyone understands their roles and project goals. Promote a positive team culture, foster communication, and manage conflicts that may arise. Motivate team members, provide support, and recognize achievements.
+* Team Leadership: Facilitate collaboration, assign the team roles and goals, promote team culture, motivate team members, and manage conflicts.
 
-* Scope and Change Management: Ensure that project scope remains aligned with the defined objectives. Establish a change management process to evaluate and address scope changes requested during the project lifecycle. Assess the impact of changes on resources, timelines, and deliverables and communicate with stakeholders to obtain necessary approvals or negotiate trade-offs.
+* Scope Management: Ensure the scope stays aligned with objectives. Manage any change impact on resources, timelines, and deliverables. Negotiate trade-offs with stakeholders.
 
-* Time and Schedule Management: Develop project schedules, create timelines, and set milestones to track progress. Monitor project activities, identify potential delays, and take corrective actions to keep the project on track. Use project management software and tools to manage schedules, dependencies, and critical paths. Communicate updates and manage stakeholder expectations regarding project timelines.
+* Schedule Management: Develop project schedules and track progress. Monitor activities and delays, and take corrective actions to keep on track.
 
-* Cost and Budget Management: Develop project budgets, estimate costs, and track project expenditures. Manage project finances, monitor budget utilization, and ensure spending is within approved limits. Collaborate with financial teams to forecast costs, allocate resources efficiently, and optimize project budget utilization.
+* Budget Management: Develop project budgets, estimate costs, and track expenditures. Manage project finances and optimize resource utilization.
 
-* Risk Management: Identify potential risks and develop risk management strategies to mitigate their impact on the project. Conduct risk assessments, create contingency plans, and establish risk response strategies. Monitor risks throughout the project lifecycle, update risk registers, and communicate with stakeholders about potential risks and mitigation measures.
+* Risk Management: Identify potential risks that could affect the project and stakeholders. Conduct risk assessments, create contingencies, and establish mitigations.
 
-* Quality Management: Define quality standards, ensure that project deliverables meet these standards, and address any quality issues.
+* Quality Management: Define quality standards, ensure deliverables are acceptable, and address any gaps.
 
-* Communication and Stakeholder Management: Serve as the primary point of contact for project communication. Establish effective communication channels, conduct regular project status meetings, and provide progress reports to stakeholders. Manage stakeholder expectations, engage stakeholders throughout the project, and address any concerns or issues promptly.
+* Stakeholder Management: Serve as the point of contact for project communication. Engage stakeholders throughout the project. Address any issues promptly.
 
-* Project Closure and Evaluation: Oversee the closure of the project by ensuring that all project deliverables are completed, accepted, and properly documented. Conduct project evaluations, gather feedback from team members and stakeholders, and identify lessons learned for future projects. Update documentation, archive project files, and facilitate post-project reviews to capture best practices and identify areas for improvement.
+* Project Completion: Ensure deliverables are completed and accepted. Conduct project evaluations and retrospectives, then document lessons learned.
 
 
 ## Technology sectors 
@@ -2715,27 +2697,25 @@ Overall, P2P networks have had a significant impact on the development of decent
 
 ## Marketing
 
-Marketing is a comprehensive business function that involves understanding customer needs and wants, creating and delivering value, and building strong customer relationships. It encompasses various activities aimed at promoting products, services, or brands to a target audience and ultimately driving customer acquisition, retention, and satisfaction. Here is an in-depth explanation of marketing:
+Marketing is a comprehensive business function that involves understanding customer needs and wants, creating and delivering value, and building strong customer relationships. It aims to promote products, services, or brands to a target audience, and ultimate drive customer acquisition, retention, and satisfaction.
 
-Market Research: Gather and analyze data about customers, competitors, and the overall market. Identify customer needs, market trends, and opportunities. Understand customer demographics, behaviors, preferences, and purchasing patterns, which informs the development of effective marketing strategies.
+Key areas:
 
-Target Market Segmentation: Based on market research,  segment the target market into distinct groups with similar characteristics and needs. Tailor marketing efforts to specific segments, and create targeted messaging that resonates with the intended audience.
+Market Research: Gather and analyze data about customers, competitors, and the overall market. Identify customer needs, market trends, and opportunities. Use customer demographics, behaviors, and preferences to inform marketing strategy.
 
-Marketing Strategy: Develop the overall approach and direction for reaching the target market and achieving business goals. Set objectives, identify target segments, position the brand or product, and determine the marketing mix (the 4 Ps: product, price, place, promotion). 
+Marketing Strategy: Develop strategy to reach the target market and achieving business goals. Set objectives, identify target segments, creating positioning, and determine the marketing mix (the 4 Ps: product, price, place, promotion). 
 
-Product Development and Management: Collaborate with product teams to ensure the creation of products or services that align with customer needs and preferences. Conduct market analysis to identify product gaps, define product features, and determine pricing strategies. Monitor product performance, gather customer feedback, and make improvements to enhance customer satisfaction and competitive advantage.
+Product Development and Management: Collaborate with product teams to align with customer preferences. Identify product gaps, define product features, and determine pricing strategies. Monitor product performance and customer feedback.
 
-Pricing Strategy: Establish pricing strategies that consider various factors such as production costs, competition, target market's willingness to pay, and desired profit margins. Pricing decisions can be based on cost-plus pricing, value-based pricing, competitor-based pricing, or market penetration strategies. 
+Channel Management: Manage the best distribution channels to reach the target markets efficiently. Distribution channels can include direct sales, retail stores, e-commerce platforms, distribution partners, and others.
 
-Distribution and Channel Management: Determine the best distribution channels to reach the target market efficiently. This involves selecting and managing various distribution channels, such as direct sales, retail stores, e-commerce platforms, or distribution partners. 
+Promotion: Create awareness, generate interest, and persuade customers. Develop promotional campaigns using a mix of communication tools, such as advertising, public relations, sales promotions, direct marketing, and digital marketing. 
 
-Promotion and Communication: Create awareness, generate interest, and persuade customers. Develop promotional campaigns using a mix of communication tools, such as advertising, public relations, sales promotions, direct marketing, and digital marketing. 
+Branding: Build and manage brand identity and positioning to differentiate products or services in the marketplace. Create brand strategies that define the brand's values, personality, assets, and positioning relative to competitors. 
 
-Branding and Positioning: Build and manage brand identity and positioning to differentiate products or services in the marketplace. Create brand strategies that define the brand's values, personality, and positioning relative to competitors. Develop brand elements like logos, taglines, and visual assets to create brand recognition and build emotional connections with customers.
+Customer Relationship: Nurture customer relationships throughout the customer journey. Employ strategies such as customer loyalty programs, personalized marketing communications, and customer feedback systems.
 
-Customer Relationship Management: Nurture customer relationships throughout the customer journey. Employ strategies such as customer loyalty programs, personalized marketing communications, and customer feedback systems. Aim to create positive customer experiences, foster customer loyalty, and generate repeat business.
-
-Marketing Analytics and Performance Measurement: Analyze campaign results, customer behavior, market trends, and ROI to optimize marketing strategies and allocate resources effectively. Marketing analytics provides insights into customer preferences, campaign success, and areas for improvement.
+Marketing Analytics: Analyze campaign results, customer behavior, market trends, and ROI to optimize marketing strategies and allocate resources effectively. Provide insights into customer preferences, campaign success, and areas for improvement.
 
 
 ## Marketing channels
@@ -3055,7 +3035,7 @@ Building brand loyalty is crucial for the long-term success of a business. Loyal
 
 ## Brand marketing
 
-Brand marketing is a marketing strategy that focuses on building and promoting a brand's reputation, awareness, and loyalty. It involves creating a unique identity and personality for a brand, communicating its values and promises, and establishing an emotional connection with its target audience. The goal is a strong and positive association between a brand and its target audience, which can result in increased brand loyalty, customer engagement, and sales.
+Brand marketing focuses on building and promoting a brand's reputation, awareness, and loyalty. It involves creating a unique identity for a brand, communicating its values and promises, and establishing an emotional connection with its target audience. The goal is a strong and positive association between a brand and its target audience, which results in increased brand loyalty, customer engagement, and ultimately sales.
 
 Typical aspects:
 
@@ -3067,7 +3047,7 @@ Typical aspects:
 
 * Brand experience: This refers to the overall experience that customers have with a brand. A positive brand experience helps to create loyal customers and positive word-of-mouth.
 
-Brand marketing is typically implemented through various marketing channels and tactics, such as advertising, public relations, social media, content marketing, and experiential marketing. The specific tactics used will depend on the brand's target audience, budget, and goals.
+Brand marketing is typically implemented through various marketing channels and tactics, such as advertising, public relations, social media, content marketing, and experiential marketing. 
 
 Some benefits of effective brand marketing include increased brand awareness thus increased sales, differentiation thus competitive advantage, emotional connection thus increased loyalty, and increased customer lifetime value.
 
@@ -4338,9 +4318,9 @@ Org charts can be created using a variety of software tools, such as Microsoft P
 
 ## Chain of command 
 
-A chain of command is a hierarchical structure that outlines the reporting relationships, responsibilities, and authority within an organization. It establishes a clear line of communication and decision-making, ensuring that all employees understand their roles and responsibilities and who they report to.
+A chain of command is a hierarchical structure that outlines the reporting relationships, responsibilities, and authority within an organization. It establishes clear lines of communication and decision-making.
 
-Brief overview of the key components:
+Key components:
 
 * Hierarchy: The chain of command establishes a clear hierarchy, outlining who reports to whom within an organization. Each employee knows who their supervisor is and who they should go to if they need to escalate an issue.
 
@@ -4348,7 +4328,7 @@ Brief overview of the key components:
 
 * Communication: The chain of command establishes clear lines of communication within an organization. Employees know who to report to and who they can communicate with to receive information and guidance.
 
-* Accountability: The chain of command establishes accountability within an organization. Each employee is responsible for their own tasks and duties, and supervisors and managers are responsible for ensuring that their subordinates are fulfilling their responsibilities.
+* Accountability: The chain of command establishes accountability within an organization. Each employee is responsible for their own tasks and duties, and supervisors and managers are responsible for subordinates.
 
 The chain of command is important in ensuring that an organization functions efficiently and effectively. It helps to minimize confusion, streamline decision-making, and ensure that everyone is working together towards common goals. 
 
@@ -4359,9 +4339,7 @@ Therefore, organizations must strike a balance between having a clear chain of c
 
 ## Stakeholders 
 
-In the context of business, stakeholders refer to individuals or groups who have a stake in the operations, decisions, and outcomes of a company or organization. These can include customers, employees, investors, suppliers, agencies, communities, and others who are directly or indirectly impacted by the activities of the company.
-
-Stakeholders are important for businesses to identify and engage with, as they can have a significant influence on the success or failure of the company. Understanding their needs, expectations, and concerns can help companies make more informed decisions and create strategies that are in alignment with their interests.
+In a business context, stakeholders are individuals and groups who have roles in the operations, decisions, and outcomes of a project or organization. These can include customers, employees, investors, suppliers, agencies, communities, and others who are impacted by the activities of the project or organization.
 
 There are types of stakeholders in a business:
 
@@ -4369,7 +4347,7 @@ There are types of stakeholders in a business:
 
 * External stakeholders: These are individuals or groups outside of the organization who are impacted by its actions, such as customers, suppliers, investors, and the local community.
 
-Also there are randings:
+Also there are rankings:
 
 * Primary stakeholders: These are stakeholders who have a direct stake in the company, such as employees and customers.
 
@@ -4451,7 +4429,7 @@ Here are some key aspects of icebreaker questions:
 
 ## Forming, Storming, Norming, Performing (FSNP)
 
-Forming, Storming, Norming, Performing (FSNP) is a model that describes the stages of group development, which was introduced by Bruce Tuckman in 1965. It is a widely used model in the field of organizational psychology to understand how teams evolve and develop over time.
+Forming, Storming, Norming, Performing (FSNP) is a model that describes the stages of group development. It is a widely used model in the field of organizational psychology to understand how teams evolve and develop over time.
 
 The four stages of group development:
 
@@ -4461,7 +4439,7 @@ The four stages of group development:
 
 3. Norming: Group members begin to develop a sense of cohesion and teamwork. Group members start to appreciate each other's strengths and weaknesses, develop norms and rules for interaction, and establish a sense of group identity. At this stage, the group is beginning to work effectively towards its goals.
 
-4. Performing: The group is fully functional, and members work together effectively to achieve the group's goals. The group has established a clear identity and norms, and there is a high level of trust, cooperation, and communication among group members. The group is now focused on achieving its objectives and delivering results.
+4. Performing: The group is fully functional, and members work together effectively to achieve the group's goals. The group has established a clear identity and norms, and there is a high level of trust, cooperation, and communication among members. The group focuses on achieving objectives and delivering results.
 
 The FSNP model is widely used, but it is not always linear: groups can go back and forth between stages, skip stages, or remain in a stage for an extended period. Additionally, different groups may experience each stage differently based on their goals, members, and context.
 
@@ -4533,7 +4511,7 @@ Typical benefits:
 
 * Outsourcing can allow businesses to focus on their core competencies, while leaving non-core functions to external providers who can perform them more efficiently and effectively. 
 
-* Outsourcing can provide access to specialized expertise that may not be available in-house. For example, a business may not have the necessary resources or expertise to develop complex software applications, but can outsource this function to a specialized IT services provider.
+* Outsourcing can provide access to specialized expertise not available in-house. For example, a business may lack resources or skills for in-house software applications, but can outsource function to a software consultancy.
 
 * Some outsourcing providers cost less than in-house employees. 
 
@@ -4568,7 +4546,7 @@ Another benefit of nearshoring is the reduced risk of cultural and language barr
 
 Other potential benefits of nearshoring include lower transportation costs and reduced shipping times, as well as a lower risk of geopolitical and economic instability that can sometimes impact more distant outsourcing locations.
 
-However, there are also some potential challenges associated with nearshoring. Labor costs in nearby countries may not be as low as in more distant locations, which can limit cost savings. Additionally, there may be less availability of specialized skills or expertise in certain industries, which can make it more difficult to find suitable outsourcing partners.
+However, there are challenges associated with nearshoring. Labor costs in nearby countries may not be as low as in more distant locations, which can limit cost savings. Additionally, there may be less availability of specialized skills or expertise in certain industries, which can make it more difficult to find suitable outsourcing partners.
 
 
 ## Ways of working
@@ -4783,7 +4761,7 @@ Once the root cause of the problem has been identified, the team can then develo
 
 ## Root cause analysis (RCA)
 
-Root cause analysis (RCA) is a problem-solving technique used to identify the underlying causes of an event, rather than just treating the symptoms. It is a methodical approach to identify the origin of a problem and solve it, in order to prevent similar problems from happening in the future. RCA is widely used in a variety of fields, including engineering, manufacturing, healthcare, software development, and business management. 
+Root cause analysis (RCA) is a problem-solving technique used to identify the underlying causes of an event, rather than just treating symptoms. RCA is a methodical approach to identify the origin of a problem and solve it, in order to prevent similar problems from happening in the future. RCA is widely used in engineering, manufacturing, healthcare, software development, and business management.
 
 Steps:
 
@@ -4799,7 +4777,7 @@ Steps:
 
 6. Implement the plan. This may involve changes to policies and procedures, training programs, equipment modifications, or other measures.
 
-RCA can be used to address a wide range of problems, from minor issues to major disasters. By identifying the root cause of a problem, organizations can implement targeted solutions that address the underlying issue, rather than just treating symptoms.
+RCA can be used to address a wide range of problems, from minor issues to major disasters. Identifying the root cause of a problem enables teams to implement targeted solutions, rather than just treating symptoms.
 
 
 ## System quality attributes
@@ -4856,7 +4834,7 @@ The term "technical debt" was coined by Ward Cunningham, one of the pioneers of 
 
 ## Refactoring
 
-Refactoring is the process of improving the design of existing code without changing its functionality. It involves making code more readable, maintainable, and extensible by restructuring it in a way that is easier to understand and modify. The goal is better code quality, without altering the behavior of the code.
+Refactoring is the process of improving the design of existing code without changing its functionality. It involves making code more readable, maintainable, and extensible by restructuring it in a way that is easier to understand and modify. The goal is better code quality.
 
 Refactoring is done for various reasons:
 
@@ -4870,13 +4848,11 @@ There are many techniques for refactoring code, including:
 
 * Rename: Change the name of a variable, method, or class to better reflect its purpose.
 
-* Extract method: Break a large method into smaller, more focused methods that perform specific tasks.
+* Extract: Break up a large component, method, function, or class, into smaller ones.
 
-* Extract class: Extract a subset of functionality from a larger class into a new more-specialized smaller class.
+* Replace conditionals: Change from if/else or switch/case into polymorphic objects that perform the same behavior.
 
-* Replace conditional with polymorphism: Change from long if/else or switch statements into polymorphic objects perform the same behavior.
-
-Refactoring is an important practice in software development because it helps to maintain and improve the quality of code over time. It allows developers to continuously improve the design of their code without having to start from scratch or introduce new bugs. By making code easier to read, maintain, and extend, refactoring helps to reduce technical debt and improve the overall efficiency and quality of software systems.
+Refactoring is an important practice in software development because it helps improve code quality over time. It allows developers to continuously improve the design of their code without having to start from scratch or introduce new bugs. By making code easier to read, maintain, and extend, refactoring reduces technical debt and improves technical opportunities.
 
 ## Statistical analysis
 
@@ -5333,25 +5309,23 @@ Carrying costs, also known as holding costs, are the expenses that a company inc
 
 The main components of carrying costs are:
 
-    Storage costs: This includes the cost of renting or owning a warehouse or storage space to hold inventory.
+* Storage costs: e.g. renting or owning a warehouse or storage space to hold inventory.
 
-    Insurance costs: This includes the cost of insuring inventory against theft, damage, or other risks.
+* Insurance costs: e.g. insuring inventory against theft, damage, or other risks.
 
-    Maintenance costs: This includes the cost of maintaining inventory, such as cleaning, repairing, or updating products to prevent obsolescence.
+* Maintenance costs: e.g. cleaning, repairing, or updating products to prevent obsolescence.
 
-    Taxes: This includes the cost of property taxes and other taxes related to holding inventory.
+* Taxes: e.g. cost of property taxes and other taxes related to holding inventory.
 
-    Opportunity cost: This includes the cost of tying up capital in inventory that could have been invested in other areas of the business, such as research and development, marketing, or expansion.
+* Opportunity cost: e.g. tying up capital in inventory that could have been invested in other areas, such as research and development, marketing, or expansion.
 
 Carrying costs can be a significant expense for businesses, particularly those with large or slow-moving inventory.
 
 To reduce carrying costs, businesses can take a number of steps, such as:
 
-    Optimizing inventory levels: By maintaining an optimal inventory level, businesses can reduce the amount of excess inventory they hold, which can help to minimize carrying costs.
+* Improving inventory management practices: By implementing better inventory management practices, such as forecasting demand, improving order accuracy, and reducing lead times, businesses can reduce the amount of inventory they need to hold, which can help to lower carrying costs.
 
-    Improving inventory management practices: By implementing better inventory management practices, such as forecasting demand, improving order accuracy, and reducing lead times, businesses can reduce the amount of inventory they need to hold, which can help to lower carrying costs.
-
-    Negotiating better supplier terms: By negotiating better terms with suppliers, such as longer payment terms or discounts for early payment, businesses can reduce the amount of capital tied up in inventory, which can help to reduce carrying costs.
+* Negotiating better supplier terms: By negotiating better terms with suppliers, such as longer payment terms or discounts for early payment, businesses can reduce the amount of capital tied up in inventory, which can help to reduce carrying costs.
 
 
 ## Financing
@@ -5482,7 +5456,7 @@ Overall, equity financing can be a viable option for companies that need to rais
 
 ## Simple agreement for future equity (SAFE)
 
-A Simple Agreement for Future Equity (SAFE) is a financial instrument used for startup financing. SAFE is an agreement where an investor provides capital to a startup, in exchange for the right to convert their investment into equity in the future, typically during the next equity financing round or the sale of the company.
+A Simple Agreement for Future Equity (SAFE) is an agreement where an investor provides capital to a startup in exchange for the right to convert the investment into equity in the future, typically during the next equity financing round.
 
 The key feature of a SAFE is that it allows startups to raise capital without having to establish a valuation at the time of the investment. This can be advantageous for both the investor and the startup, as it enables the investor to participate in the potential upside of the company without having to make a specific valuation judgment, and it allows the startup to avoid the complications and expenses associated with a traditional equity financing round.
 
@@ -5694,40 +5668,37 @@ While zombie companies or zombie projects may be able to continue operating for 
 
 ## Investors 
 
-Investors play a crucial role in the success of a startup. There are various types of investors who can provide funding to startups and businesses at different stages of their growth.
+Investors play a crucial role in the success of a startup. There are various types of investors who can provide funding to startups and businesses.
 
 Typical types:
 
-* Friends and family investors: These are often the first funders of a startup. They can help get the business off the ground. They are often willing to invest based on personal relationships and trust, rather than a detailed business plan. However, there are risks involved, including potential conflicts and strained relationships.
+* Friends and family investors: These are often the first funders, and invest based on personal relationships, rather than a business plan. However, there are risks of conflicts and strained relationships.
 
-* Venture capital investors: These are professional investors who provide funding to startups with high growth potential. They invest in businesses that are in the early stages of development and need significant funding to scale up. They are typically looking for a very high return on their investment.
+* Angel investors: Angel investors are high net worth individuals who provide funding in the early stages of development, before a proven track record. They typically invest less than venture capital firms. They provide valuable mentorship. 
 
-* Angel investors: Angel investors are high net worth individuals who provide funding to businesses in the early stages of development, that may not yet have a proven track record. They typically invest smaller amounts than venture capital firms. They typically provide valuable mentorship to startups.
+* Venture capital investors: These are professional investors who provide funding to startups with high growth potential. They are typically looking for a very high return on their investment.
 
 * Seed investors: For startups that did not have an angel round, seed funding rounds are the first major outside investment they receive. The money received is usually used to cover the costs of product development and marketing.
 
-* Series A investors: Series A investors provide funding to startups that have already established a track record of success and are looking to scale up their operations. These investors look for companies that have a proven business model and path to profitability.
+* Series A investors: They provide funding to startups that have a track record of success and are looking to scale up their operations. These investors look for companies that have a proven business model and path to profitability.
 
-* Series B investors: Series B investors provide funding to startups that have already achieved significant growth and are looking to expand into new markets or product lines. These investors look for companies with a solid revenue stream and path to continuing growth.
+* Series B investors: They provide funding to startups that have achieved significant growth and are looking to expand into new markets or product lines. These investors look for companies with a solid revenue stream and paths to continuing growth.
 
 
 ## Friends and family investor
 
-A friends and family investor refers to individuals within an entrepreneur's personal network, such as friends, family members, or close acquaintances, who provide financial support for a business venture. These individuals invest their personal funds into the venture, typically in the early stages when other sources of funding may be limited or unavailable. 
+A friends and family investor refers to individuals within an entrepreneur's personal network, who can provide financial support for a business venture. These individuals invest their personal funds into the venture, typically in the early stages when other sources of funding may be limited or unavailable. 
 
 More in-depth explanation:
 
-* Relationship-based Investment: The people have a personal connection or relationship with the entrepreneur. They are often willing to invest in the venture based on their trust, belief in the entrepreneur's abilities, and their desire to support their loved one's endeavors. The relationship factor differentiates them from other types of investors, such as angel investors or venture capitalists.
+* Relationship-based: These people invest because of a personal connection with the entrepreneur. The relationship factor differentiates these investos from other types of investors, such as angel investors or venture capitalists.
 
-* Early-stage Funding: The people typically contribute capital during the early stages of a business when it is in the concept or seed stage. At this point, the entrepreneur may not have a track record or significant assets to secure financing from traditional sources like banks or venture capital firms.
+* Early-stage Funding: These people typically contribute capital during the early stages of a business when it is in the concept stage. At this point, the entrepreneur may not have a track record or significant assets to secure financing.
 
-* Informal Structure: Investments from friends and family tend to have a less formal structure compared to institutional investors. The investment terms may be more flexible and less stringent, allowing for customized arrangements that suit the parties involved. Fo
+* Non-financial Support: Friends and family investors may provide help to the entrepreneur and the business, such as advice, mentorship, business expertise, networking connections, or operational assistance.
 
-* Non-financial Support: Beyond financial investment, friends and family investors may provide additional non-financial support to the entrepreneur and the business. This support can come in the form of advice, mentorship, business expertise, networking connections, or even operational assistance.
+For entrepreneurs seeking investment from friends and family, it is important to approach these arrangements with professionalism and transparency. Mixing personal relationships with business transactions can sometimes lead to strained relationships or conflicts if the business does not perform as expected. It is crucial for both parties to have clear expectations, communication channels, and a thorough understanding of the risks involved.
 
-While friends and family investors can be a valuable source of early-stage funding, there are potential challenges and risks associated with this type of investment. Mixing personal relationships with business transactions can sometimes lead to strained relationships or conflicts if the business does not perform as expected. It is crucial for both parties to have clear expectations, communication channels, and a thorough understanding of the risks involved.
-
-For entrepreneurs seeking investment from friends and family, it is important to approach these arrangements with professionalism and transparency. Clear documentation, formal agreements, and open communication are essential to protect the entrepreneur's interests and the investors' funds.
 
 
 ## Accredited investor
@@ -5944,9 +5915,9 @@ Ultimately, valuation is a complex process that requires careful consideration. 
 
 ## Valuation approaches
 
-Valuation approaches are methods used to estimate the worth or value of an asset, such as a company or a project. They are used to determine how much a company is worth, which is important for investors, lenders, and other stakeholders.
+Valuation approaches are methods used to estimate the worth or value of an asset, such as a company or a project. They are used to determine how much a company is worth, which is important for investors.
 
-There are various valuation frameworks used by businesses and investors, and each has its own set of assumptions, strengths, and weaknesses. Some of the most common valuation frameworks include:
+Typical valuation frameworks include:
 
 * Discounted Cash Flow (DCF) Model: This framework calculates the present value of future cash flows expected to be generated by a company or an investment. It takes into account the time value of money and the risk associated with the investment. DCF models can be complex and require a lot of assumptions, but they are widely used by investors and analysts.
 
@@ -5958,20 +5929,20 @@ There are various valuation frameworks used by businesses and investors, and eac
 
 * First Chicago Method: This framework is used to value early-stage startups and involves estimating the company's future earnings potential based on a set of assumptions. The valuation is then based on a multiple of the projected earnings.
 
-Each of these valuation frameworks has its own set of assumptions and limitations, and it is important to use the appropriate framework for the specific situation. It is also important to remember that valuations are not an exact science and are subject to a lot of uncertainty and judgment.
 
+## Valuation approaches for startups
 
-## Valuation frameworks for startups
+Startup valuation is the process of estimating the current or potential value of a startup. This process provides a basis for investment decision making, such as how much equity to give up in exchange for funding.
 
-Startup valuation is the process of estimating the current or potential value of a startup. This process is important for entrepreneurs and investors as it provides a basis for decision making, such as how much equity to give up in exchange for funding, or how much to invest in a startup. There are different frameworks and methods for startup valuation, each with its own strengths and weaknesses. Here are some commonly used frameworks:
+Typical approaches:
 
-* Market approach: This approach looks at the market value of similar startups or companies. It relies on comparable sales, industry benchmarks, and other market data to estimate the value of the startup. This approach is often used for startups that have already generated revenue, but it can be difficult to find truly comparable companies.
+* Market approach: Look at the market value of similar startups or companies. Rely on comparable sales, industry benchmarks, and other market data to estimate the value of the startup. This approach is often used for startups that have already generated revenue, but it can be difficult to find truly comparable companies.
 
-* Income approach: This approach looks at the startup's expected future earnings and cash flow. It can be based on a discounted cash flow (DCF) analysis or a capitalization of earnings model. DCF involves estimating the expected cash flows of the startup and discounting them to their present value, while the capitalization of earnings model involves dividing the expected earnings by the capitalization rate. The income approach is often considered the most reliable method of startup valuation, but it can be difficult to estimate future earnings accurately.
+* Income approach: Look at the startup's future earnings and cash flow. Use discounted cash flow (DCF) analysis, which involves estimating the expected cash flows of the startup and discounting them to their present value. Use a capitalization of earnings model, which involves dividing the expected earnings by the capitalization rate. The income approach is often considered the most-reliable method of startup valuation, but it can be difficult to estimate future earnings accurately.
 
-* Scorecard method: This approach is a hybrid of the market and income approaches. It involves looking at various factors such as the startup's stage of development, market size, competition, and team experience, and assigning a score to each factor. These scores are then used to estimate the startup's overall value. The scorecard method is often used for early-stage startups that don't have a lot of revenue or market data.
+* Scorecard method: This approach is a hybrid of the market and income approaches. It looks at factors such as the startup's stage of development, market size, competition, and team experience, then assigns a score to each factor. The scores are used to estimate the startup's overall value. The scorecard method is often used for early-stage startups that don't have a lot of revenue or market data.
 
-* Berkus method: This approach was developed by angel investor Dave Berkus and involves assigning a value to the startup based on five factors: soundness of the idea, quality of the management team, size of the market, level of competition, and stage of development. Each factor is assigned a dollar value, and the sum of these values is used to estimate the startup's overall value. The Berkus method is often used for early-stage startups that don't have a lot of revenue or market data.
+* Berkus method: This approach is by angel investor Dave Berkus. Evaluate the startup based on five factors: soundness of the idea, quality of the management team, size of the market, level of competition, and stage of development. Assign each factor a dollar value. The sum of the values is the startup's value. The Berkus method is often used for early-stage startups that don't have a lot of revenue or market data.
 
 
 ## Pre-money valuation and post-money valuation
@@ -6156,13 +6127,11 @@ In addition to traditional venture capital investments, Andreessen Horowitz has 
 
 ## Antler
 
-Antler (<https://antler.co>) is a startup generator and early-stage venture capital firm that operates globally. It was founded in 2017 by Magnus Grimeland and a team of experienced entrepreneurs and investors. Antler focuses on identifying, supporting, and investing in aspiring entrepreneurs and startups, providing them with the necessary resources, mentorship, and capital to turn their ideas into successful businesses.
+Antler (<https://antler.co>) is a startup generator and early-stage venture capital firm. It operates globally. It was founded in 2017 by Magnus Grimeland and a team of experienced entrepreneurs and investors.
 
-Startup Generator Model: Antler follows a unique startup generator model, which sets it apart from traditional venture capital firms. Instead of solely investing in existing startups, Antler takes a proactive approach to build startups from scratch. It identifies talented individuals with diverse backgrounds and skill sets, including domain expertise, technical capabilities, and entrepreneurial drive. Antler then selects these individuals and forms them into teams, with the aim of co-founding and launching new startups.
+Startup Generator Model: Antler follows a unique startup generator model, which sets it apart from traditional venture capital firms. Instead of solely investing in existing startups, Antler takes a proactive approach to build startups from scratch. It identifies talented individuals with diverse backgrounds and skill sets, including domain expertise, technical capabilities, and entrepreneurial drive. Antler selects these individuals and forms them into teams, with the aim of co-founding and launching new startups.
 
 Program and Support: Antler runs a comprehensive program to support its entrepreneurs throughout the startup journey. The program typically lasts for several months and provides a combination of guidance, resources, and access to a network of mentors, experts, and investors. Antler offers a range of support, including co-founding, idea validation, mentorship, investment and funding, and networking and community.
-
-Global Presence: Antler has a global presence, and operates in various cities around the world, such as London, New York, Stockholm, Sydney, Singapore, and Nairobi. This global reach allows Antler to tap into diverse talent pools, markets, and ecosystems, creating a dynamic and connected network of entrepreneurs and investors.
 
 Investment Philosophy: As a venture capital firm, Antler aims to identify and invest in high-potential startups. It seeks to support entrepreneurs who are building innovative and scalable businesses with the potential to create a significant impact. Antler typically invests at the pre-seed or seed stage, providing startups with the initial capital needed to develop their products, validate their market, and reach key milestones.
 
@@ -6173,15 +6142,15 @@ Bethnal Green Ventures (BGV) (<https://www.bethnalgreenventures.com/>) is an ear
 
 Investment Focus: BGV invests in startups that address societal and environmental challenges using technology-driven solutions. The fund has a broad impact focus, encompassing areas such as health, education, climate change, sustainability, civic engagement, and social justice.
 
-Accelerator Program: BGV runs an intensive three-month accelerator program that provides selected startups with funding, mentorship, and support. The program includes a combination of workshops, mentoring sessions, and networking opportunities designed to help startups refine their business models, develop their products, and prepare for growth and investment.
+Accelerator Program: BGV runs an intensive three-month accelerator program that provides selected startups with funding, mentorship, workshops, networking opportunities, and support.
 
-Investment and Support: Upon acceptance into the accelerator program, BGV provides startups with an initial investment, typically in the form of seed funding. The funding helps cover the startups' early-stage costs, including product development, market validation, and team building.
+Investment and Support: Upon acceptance into the accelerator program, BGV provides startups with an initial investment, to cover the startups' early-stage costs, including product development, market validation, and team building.
 
-Impact Investing: Startups in the BGV portfolio are encouraged to track and assess the social and environmental impact of their products or services. BGV supports startups in integrating impact measurement frameworks into their operations, enabling them to understand and communicate their impact to stakeholders.
+Impact Investing: Startups in the BGV portfolio are encouraged to track and assess the social and environmental impact of their products or services. BGV supports startups in integrating impact measurement frameworks into their operations.
 
-Portfolio and Alumni:  Some examples of BGV's portfolio companies include Open Bionics (a company creating affordable and customizable bionic limbs), GoodGym (a community fitness platform that combines exercise with social impact), and Open Utility (a peer-to-peer energy marketplace). BGV's alumni network comprises a community of impact-driven entrepreneurs who continue to receive support and connections beyond the initial accelerator program.
+Portfolio and Alumni: Open Bionics (a company creating affordable and customizable bionic limbs), GoodGym (a community fitness platform that combines exercise with social impact), and Open Utility (a peer-to-peer energy marketplace). 
 
-Partnerships and Collaboration: BGV collaborates with a wide range of organizations, including corporates, foundations, government entities, and academic institutions. BGV also works closely with investors interested in impact-driven ventures, connecting them with startups in its portfolio and facilitating potential investment opportunities.
+Partnerships and Collaboration: BGV collaborates with a wide range of organizations, including corporations, foundations, government entities, and academic institutions. BGV also works closely with investors interested in impact-driven ventures.
 
 
 ## Greylock Partners
@@ -6252,23 +6221,23 @@ One of the unique aspects of Y Combinator is its focus on the startup community 
 
 ## Intellectual property (IP)
 
-Intellectual property (IP) refers to creations of the human mind that are protected by law. These creations can include inventions, artistic works, symbols, designs, and images. The purpose of IP laws is to encourage innovation and creativity by granting exclusive rights to the creators of these works, allowing them to control the use and distribution of their creations, and to profit from them.
+Intellectual property (IP) refers to creations of the human mind that are protected by law. These creations can include inventions, artistic works, symbols, designs, and images. The purpose of IP laws is to encourage innovation and creativity by granting exclusive rights to the creators of these works, allowing them to control them and profit from them.
 
 There are several types of intellectual property, including:
 
 * Patents: These are exclusive rights granted to inventors for a limited period of time (usually 20 years) in exchange for disclosing the details of their invention. Patents prevent others from making, using, or selling the invention without their permission.
 
-* Trademarks: These are symbols, designs, or words that are used to identify and distinguish a company's products or services from those of its competitors. Trademarks prevent others from using similar symbols, designs, or words that could be confused with the original trademark.
+* Trademarks: These are symbols, designs, or words that are used to identify and distinguish a company's products or services from competitors. Trademarks prevent others from using similar symbols, designs, or words that could be confused with the original.
 
 * Copyrights: These are exclusive rights granted to authors and creators of original works (such as books, music, and artwork). Copyrights prevent others from copying, distributing, or performing their works without permission.
 
-* Trade secrets: These are confidential information that give a business a competitive advantage, such as customer lists, manufacturing processes, and formulas. Trade secret protection prevents others from using or disclosing this information without permission.
+* Trade secrets: These are confidential information that give competitive advantage, such as customer lists, manufacturing processes, and formulas. Trade secret protection prevents others from using or disclosing this information without permission.
 
 * Industrial design rights: These protect the appearance of industrial products, such as the shape and design of a car or a smartphone.
 
 IP protects innovations and creative works from being copied or stolen by competitors. This helps ensure that companies can profit from their investments in research and development, and can also encourage further innovation and creativity.
 
-However, protecting IP can be complex and expensive, and there are often disputes over who has the rights to certain creations. It is important for businesses to work with legal experts to ensure IP is properly protected, and is not infringing on the rights of others.
+However, protecting IP can be complex and expensive, and there are often disputes. Businesses should work with legal experts to ensure IP is properly managed.
 
 
 ## Patent
@@ -6343,16 +6312,13 @@ Industrial design rights play an important role in protecting the visual and aes
 
 ## Company legal entities
 
-When starting a business, one of the most important decisions you need to make is choosing the type of legal entity that your business will take. The three most common types of legal entities for businesses in the United States are C-Corporations, Limited Liability Companies (LLCs), and partnerships.
+When starting a company, you can choose its type of legal entity. The three most common types in the United States are C-Corporations, Limited Liability Companies (LLCs), and partnerships.
 
-* C-Corporation: A C-Corporation is a legal entity that is separate from its owners, or shareholders. This means that the corporation can own assets, enter into contracts, and conduct business in its own name. C-Corporations are taxed as separate entities, which means that they pay corporate income tax on their profits. Shareholders of a C-Corporation are also taxed on any dividends they receive. One of the benefits of a C-Corporation is that it offers limited liability protection to its shareholders. This means that the shareholders are not personally liable for the debts and obligations of the corporation. Additionally, C-Corporations can issue stock, which can be a useful tool for raising capital.
+* C-Corporation: This entity is separate from its owners, or shareholders. The corporation can own assets, enter into contracts, and conduct business in its own name. C-Corporations are taxed as separate entities; this means they pay corporate income tax on their profits. Shareholders are taxed on any dividends they receive. One of the benefits of a C-Corporation is that it offers limited liability protection to its shareholders; this means they are not personally liable for the debts and obligations of the corporation. C-Corporations can issue stock, which is useful for raising capital.
 
-* Limited Liability Company (LLC): An LLC is a legal entity that combines the liability protection of a corporation with the tax benefits of a partnership. Like a C-Corporation, an LLC is separate from its owners, but the LLC itself is not taxed. Instead, the profits and losses of the LLC are passed through to the owners and are taxed on their personal tax returns. LLCs offer limited liability protection to their owners, which means that they are not personally responsible for the debts and obligations of the business. Additionally, LLCs are relatively easy to form and maintain, and they offer flexibility in terms of ownership and management structure.
+* Limited Liability Company (LLC): This entity combines the liability protection of a corporation with the tax benefits of a partnership. Like a C-Corporation, an LLC is separate from its owners, but the LLC itself is not taxed. Instead, the profits and losses of the LLC are passed through to the owners and are taxed on their personal tax returns. LLCs offer limited liability protection to their owners; this means they are not personally responsible for the debts and obligations of the business. LLCs are relatively easy to form and maintain, and they offer flexibility in terms of ownership and management structure.
 
-* Partnership: A partnership is a legal entity that is formed when two or more people agree to carry on a business together. Partnerships can be either general partnerships or limited partnerships. In a general partnership, all partners are jointly and severally liable for the debts and obligations of the business. In a limited partnership, there are both general partners (who have unlimited liability) and limited partners (who have limited liability). Partnerships are not taxed as separate entities. Instead, the profits and losses of the partnership are passed through to the partners and are taxed on their personal tax returns. Like LLCs, partnerships are relatively easy to form and maintain, and they offer flexibility in terms of ownership and management structure.
-
-<!-- TODO: add more -->
-
+* Partnership: This entity is formed when two or more people agree to carry on a business together. Partnerships can be either general partnerships or limited partnerships. In a general partnership, all partners are jointly and severally liable for the debts and obligations of the business. In a limited partnership, there are both general partners (who have unlimited liability) and limited partners (who have limited liability). Partnerships are not taxed as separate entities; instead, the profits and losses of the partnership are passed through to the partners and are taxed on their personal tax returns. Like LLCs, partnerships are relatively easy to form and maintain, and they offer flexibility in terms of ownership and management structure.
 
 
 ## Sole proprietorship
@@ -6371,39 +6337,36 @@ In terms of taxes, the profits and losses of the business are reported on the ow
 
 ## Partnership company 
 
-A partnership company is a type of business structure in which two or more individuals come together to own and operate a business. In a partnership, each partner contributes capital, skills, or labor to the business and shares in the profits and losses of the company.
+A partnership company is a business structure in which two or more individuals come together to own and operate a business. Each partner contributes capital, skills, or labor, and shares the profits and losses. A partnership company is a pass-through entity, which means that the profits and losses of the business are reported on the partners' personal tax returns.
 
-There are several types of partnership structures, including general partnerships, limited partnerships, and limited liability partnerships. In a general partnership, all partners share equal responsibility for the management and operation of the business, as well as equal liability for any debts or legal issues the business may incur.
+There are several types:
 
-In a limited partnership, there are two types of partners: general partners and limited partners. General partners have the same responsibilities and liabilities as in a general partnership, while limited partners contribute capital to the business but have limited liability for the debts and legal issues of the company.
+* General partnership: All partners share equal responsibility for the management and operation of the business, as well as equal liability for any debts or legal issues the business may incur.
 
-In a limited liability partnership (LLP), all partners have limited liability for the debts and legal issues of the company. LLPs are often used by professionals such as lawyers, accountants, and architects.
+* Limited partnership: There are two types of partners: general partners and limited partners. General partners have the same responsibilities and liabilities as in a general partnership. Limited partners contribute capital to the business but have limited liability for the debts and legal issues of the company.
 
-One advantage of a partnership company is that it allows partners to share the workload and responsibilities of running the business. Partners can pool their resources and expertise to achieve greater success than they could on their own.
+* Limited liability partnership (LLP): All partners have limited liability for the debts and legal issues of the company. LLPs are often used by professionals such as lawyers, accountants, and architects.
 
-Another advantage is that a partnership is relatively easy and inexpensive to set up. There are no legal requirements or formalities that must be met, although it is advisable to have a partnership agreement in place to clarify the roles, responsibilities, and rights of each partner.
+A partnership is relatively easy and inexpensive to set up. There are no legal requirements or formalities that must be met, although it is advisable to have a partnership agreement in place to clarify the roles, responsibilities, and rights of each partner.
 
-However, there are also some disadvantages to a partnership company. One of the main disadvantages is that partners may disagree on the direction of the business or have different ideas about how to run the company, which can lead to conflicts.
+However, there are also some disadvantages to a partnership company. One of the main disadvantages is that partners may disagree on the direction of the business or have different ideas about how to run the company, which can lead to conflicts. Additionally, partners are personally liable for the debts and legal issues of the company, which means that their personal assets may be at risk in case of lawsuits or bankruptcy.
 
-Additionally, partners are personally liable for the debts and legal issues of the company, which means that their personal assets may be at risk in case of lawsuits or bankruptcy.
 
-In terms of taxes, a partnership company is a pass-through entity, which means that the profits and losses of the business are reported on the partners' personal tax returns. Each partner is responsible for paying taxes on their share of the profits from the business.
-
-Overall, a partnership company is a popular choice for small businesses and professional services firms. It allows partners to share the workload and resources of the business while sharing in the profits and losses. However, it is important to carefully consider the risks and advantages before choosing this type of structure for your business.
 
 ## Limited Liability Company (LLC)
 
-A Limited Liability Company (LLC) is a type of business entity that is designed to provide limited liability protection to its owners, while also offering the benefits of a partnership or sole proprietorship. In an LLC, the owners are known as "members" and they have limited liability protection, which means that their personal assets are not at risk in case the company is sued or incurs debts.
+A Limited Liability Company (LLC) is a type of business entity that is designed to provide limited liability protection to its owners, while also offering the benefits of a partnership or sole proprietorship. 
 
 Limited liability protection is a key feature of LLCs. It means that if the company faces legal issues, such as lawsuits or bankruptcy, the personal assets of the members, such as their homes or cars, are not at risk. Only the assets of the LLC itself are at risk. This is different from sole proprietorships and partnerships, where the personal assets of the owners are at risk in case of legal issues.
 
-An LLC also provides a flexible management structure. Members can choose to manage the LLC themselves, or they can appoint a manager to run the company on their behalf. This allows the members to focus on their own areas of expertise, while still having control over the company's operations.
+An LLC provides a flexible management structure. Members can choose to manage the LLC themselves, or they can appoint a manager to run the company on their behalf. This allows the members to focus on their own areas of expertise, while still having control over the company's operations.
 
-Another advantage of LLCs is that they offer pass-through taxation. This means that the profits and losses of the LLC are passed through to the members, who report them on their individual tax returns. The LLC itself does not pay federal income taxes, but it may be required to pay state taxes.
+LLCs offers pass-through taxation. This means that the profits and losses of the LLC are passed through to the members, who report them on their individual tax returns. The LLC itself does not pay federal income taxes, but it may be required to pay state taxes.
 
 Setting up an LLC is relatively easy and inexpensive compared to other business structures, such as corporations. To form an LLC, the members must file articles of organization with the state and pay the required fees. They must also draft an operating agreement, which outlines the rules and procedures for managing the LLC.
 
-An LLC is a popular choice for small businesses and entrepreneurs because it provides the benefits of limited liability protection, flexible management, and pass-through taxation. However, it's important to consult with a qualified attorney or accountant to determine if an LLC is the best option for your specific business needs and circumstances.
+An LLC is a popular choice for small businesses and entrepreneurs because it provides the benefits of limited liability protection, flexible management, and pass-through taxation. However, it's important to consult with a qualified attorney or accountant to determine if an LLC is best for your specific circumstances.
+
 
 ## C-Corporation
 
@@ -6419,19 +6382,20 @@ Overall, C-Corps are a popular choice for businesses that anticipate significant
 
 ## S-Corporation
 
-An S-Corporation (S-Corp) is a type of business structure that combines the benefits of a corporation with the pass-through taxation of a partnership or sole proprietorship. S-Corps are so called because they are designated as such by the IRS under Subchapter S of the Internal Revenue Code.
+An S-Corporation (S-Corp) is a type of business structure that combines the benefits of a corporation with the pass-through taxation of a partnership or sole proprietorship. S-Corps are named for the United States Internal Revenue Code (IRC) Subchapter S.
 
 One of the main advantages of an S-Corp is that it provides limited liability protection to its owners, similar to a traditional corporation. This means that the personal assets of the owners are generally protected from the liabilities and debts of the business.
 
-Another advantage of an S-Corp is that it allows the company's income and losses to be passed through to the shareholders, who report these amounts on their individual tax returns. This means that the company is not taxed on its profits at the corporate level, avoiding the double taxation that can occur with a traditional corporation. Instead, the shareholders pay taxes on their share of the company's profits.
+Another advantage of an S-Corp is that it allows the company's income and losses to be passed through to the shareholders, who report these amounts on their individual tax returns. This means that the company is not taxed on its profits at the corporate level. This avoids the double taxation that can occur with a traditional corporation.
 
 To qualify as an S-Corp, a business must meet certain eligibility requirements, including having no more than 100 shareholders and only one class of stock. Additionally, all shareholders must be individuals or certain types of trusts or estates, and they must be U.S. citizens or residents.
 
-One disadvantage of an S-Corp is that it requires more formalities and paperwork than some other business structures, such as a sole proprietorship or partnership. S-Corps must file annual tax returns with the IRS, hold regular meetings of shareholders and directors, and maintain records of these meetings and other corporate activities.
+One disadvantage of an S-Corp is that it requires more formalities and paperwork than some other business structures, such as a sole proprietorship or partnership. S-Corps must file annual tax returns with the IRS, hold regular meetings of shareholders and directors, and maintain records of these meetings and other corporate activities. 
 
 Another disadvantage is that S-Corps are subject to some restrictions on ownership and transfer of shares, which can make it more difficult to raise capital or sell the business.
 
-Overall, an S-Corporation can be a good choice for small businesses that want the limited liability protection of a corporation but prefer the pass-through taxation of a partnership or sole proprietorship. However, it is important to carefully consider the eligibility requirements, formalities, and other factors before choosing this type of business structure.
+Overall, an S-Corporation can be a good choice for small businesses that want the limited liability protection of a corporation but prefer the pass-through taxation of a partnership or sole proprietorship. However, it is important to carefully consider the formalities before choosing this type of business structure.
+
 
 ## B-Corporation
 
@@ -6450,43 +6414,40 @@ B-Corps are also required to meet high standards of transparency and accountabil
 
 A joint venture agreement (JVA) is a legal agreement between two or more parties who agree to work together on a specific business project or activity. It is a way for companies to pool their resources and expertise to achieve a common goal.
 
-Joint venture agreements can take many forms, depending on the needs and objectives of the parties involved. They can be formal or informal, written or oral, and can be for a specific period of time or ongoing.
-
 The agreement typically includes provisions that:
 
-    Define the purpose of the joint venture: This outlines the reason for the parties to come together and establish the joint venture.
+* Define the purpose of the joint venture: This outlines the reason for the parties to come together and establish the joint venture.
 
-    Specify the parties involved: This includes the parties who are forming the joint venture, their roles and responsibilities, and their contributions to the joint venture.
+* Specify the parties involved: This includes the parties who are forming the joint venture, their roles and responsibilities, and their contributions to the joint venture.
 
-    Establish the financial arrangements: This outlines how the profits and losses will be shared between the parties.
+* Establish the financial arrangements: This outlines how the profits and losses will be shared between the parties.
 
-    Define the management and control: This outlines how the joint venture will be managed and controlled, including the decision-making process and the roles and responsibilities of each party.
+* Define the management and control: This outlines how the joint venture will be managed and controlled, including the decision-making process and the roles and responsibilities of each party.
 
-    Specify the term of the agreement: This outlines how long the joint venture will be in effect.
+* Specify the term of the agreement: This outlines how long the joint venture will be in effect.
 
-    Establish the consequences of termination: This outlines what will happen if the joint venture is terminated early, including any damages or penalties that may be imposed.
+* Establish the consequences of termination: This outlines what will happen if the joint venture is terminated early, including any damages or penalties that may be imposed.
 
 Joint venture agreements are commonly used in international business transactions, where companies from different countries may partner to expand into new markets. They can also be used in domestic settings, such as when two companies in the same industry join forces to develop a new product or service.
 
+
 ## Legal agreements
 
-Legal agreements are legally-binding documents that establish rights and obligations between two or more parties. 
+Legal agreements are legally-binding documents that establish rights and obligations between two or more parties. Good legal agreements provide a clear understanding of the rights and obligations of each party involved in a transaction, as well as a legal framework for resolving disputes and enforcing the terms of the agreement. 
 
-Good legal agreements provide a clear understanding of the rights and obligations of each party involved in a transaction, as well as a legal framework for resolving disputes and enforcing the terms of the agreement. 
+Typical types:
 
-Here are some common types of legal agreements:
+* Contracts: These establish the terms and conditions of a business transaction. They can cover a wide range of topics, from the sale of goods or services to employment agreements. A contract typically includes several key elements, such as the parties involved, the scope of the agreement, the terms and conditions, and the consequences of breach.
 
-* Contracts: Contracts are legally binding agreements that establish the terms and conditions of a business transaction. They can cover a wide range of topics, from the sale of goods or services to employment agreements. A contract typically includes several key elements, such as the parties involved, the scope of the agreement, the terms and conditions, and the consequences of breach.
+* Non-disclosure agreements (NDAs): These prohibit one party from disclosing confidential information to others. They are often used in business settings to protect trade secrets, customer lists, or other sensitive information. NDAs typically include provisions related to the types of information that are considered confidential, the duration of the agreement, and the consequences of breach.
 
-* Non-disclosure agreements (NDAs): NDAs are legal agreements that prohibit one party from disclosing confidential information to others. They are often used in business settings to protect trade secrets, customer lists, or other sensitive information. NDAs typically include provisions related to the types of information that are considered confidential, the duration of the agreement, and the consequences of breach.
+* Partnership agreements: These establish the terms and conditions of a partnership between two or more parties. They typically cover issues such as the distribution of profits and losses, the management of the partnership, and the rights and obligations of each partner.
 
-* Partnership agreements: Partnership agreements are legal agreements that establish the terms and conditions of a partnership between two or more parties. They typically cover issues such as the distribution of profits and losses, the management of the partnership, and the rights and obligations of each partner.
+* Operating agreements: These establish rules and procedures for running a company. They typically cover issues such as the management structure of the company, the distribution of profits and losses, and the rights and obligations of the members.
 
-* Operating agreements: Operating agreements are legal documents that establish the rules and procedures for running a company. They typically cover issues such as the management structure of the company, the distribution of profits and losses, and the rights and obligations of the members.
+* Lease agreements: These establish the terms and conditions of a lease between a landlord and a tenant. They typically cover issues such as the duration of the lease, the rent amount, the security deposit, and the rules and regulations of the property.
 
-* Lease agreements: Lease agreements are legal documents that establish the terms and conditions of a lease between a landlord and a tenant. They typically cover issues such as the duration of the lease, the rent amount, the security deposit, and the rules and regulations of the property.
-
-It is important to consult with an attorney when drafting or negotiating a legal agreement to ensure that all necessary terms and conditions are included and that the agreement is enforceable under the law.
+It is important to consult with an attorney when drafting or negotiating a legal agreement to ensure that all necessary terms and conditions are included, and that the agreement is enforceable under the law.
 
 
 ## Employee agreement
@@ -6533,9 +6494,9 @@ The key components of a service agreement include:
 
 ## Consulting agreement
 
-A consulting agreement is a legal contract between a consultant or consulting firm and a client. The agreement outlines the terms and conditions of the consulting engagement.
+A consulting agreement is a legal contract between a consultant,or consulting firm, and a client. They are typically used when a client requires specialized expertise or assistance in a particular area, but does not want to hire a full-time employee. Consulting agreements are widely used for management consulting, legal consulting, financial consulting, and IT consulting.
 
-The key components of a consulting agreement typically include:
+Typical components:
 
 * Scope: Describe the specific services that the consultant will provide to the client, including the deliverables and timelines.
 
@@ -6553,8 +6514,6 @@ The key components of a consulting agreement typically include:
 
 Some other important provisions that may be included in a consulting agreement include liability, insurance, indemnification, and non-compete clauses.
 
-Consulting agreements are used in a wide range of industries and fields, including management consulting, legal consulting, financial consulting, and IT consulting. They are typically used when a client requires specialized expertise or assistance in a particular area, but does not want to hire a full-time employee.
-
 
 ## Subcontracting agreement
 
@@ -6569,18 +6528,15 @@ Subcontracting agreements are important because they help to define the relation
 
 ## Framework agreement
 
-A framework agreement, also known as a master agreement, is a type of contract that establishes the terms and conditions for future transactions between two or more parties. It is a pre-negotiated agreement that sets out the general terms and conditions that will govern a series of transactions or relationships between the parties.
+A framework agreement, also known as a master agreement, is a type of contract that sets general terms and conditions that will govern a series of future transactions or relationships between parties.
 
-A framework agreement is commonly used in business transactions where there is an ongoing need for goods or services. It allows the parties to agree on the key terms and conditions that will govern their relationship over an extended period of time, rather than negotiating each individual transaction separately.
-
-The framework agreement typically includes provisions for pricing, delivery, quality standards, warranties, and other terms and conditions that will apply to all transactions conducted under the agreement. It may also include provisions for dispute resolution and termination of the agreement.
+A framework agreement is commonly used in business transactions where there is an ongoing need for goods or services. A framework agreement typically includes provisions for pricing, delivery, quality standards, warranties, conflict resolutions, termination expectations, and other terms and conditions that will apply to all transactions conducted under the agreement. It may also include provisions for dispute resolution and termination of the agreement.
 
 One of the key benefits of a framework agreement is that it can help to streamline the transaction process by reducing the time and effort required to negotiate each individual transaction. This can be particularly useful in situations where there is a high volume of transactions or where the transactions are complex and require significant negotiation.
 
 Another benefit of a framework agreement is that it can provide greater certainty and predictability for both parties. By establishing the general terms and conditions upfront, the parties can avoid misunderstandings and disagreements that may arise later in the relationship.
 
-A framework agreement can be an effective way for parties to establish a long-term relationship and streamline their transactions, while also providing greater certainty and predictability for both parties. However, it is important for parties to carefully negotiate and draft the agreement to ensure that it reflects their intentions and accurately captures the key terms and conditions of their relationship.
-
+A framework agreement can be an effective way for parties to establish a long-term relationship and streamline transactions, while also providing greater certainty and predictability for both parties. However, it is important for parties to carefully negotiate and draft the agreement to ensure that it aligns with their intentions.
 
 
 ## Confidentiality agreement
@@ -6660,17 +6616,15 @@ To be enforceable, non-solicitation agreements must be specific and reasonable. 
 
 ## Work-for-hire agreement
 
-A work-for-hire agreement is a type of legal contract that outlines the terms of a creative work or project that is commissioned by one party to be completed by another party, typically a freelancer or independent contractor. The agreement specifies that the work produced is owned by the hiring party, rather than the individual or company who created it.
+A work-for-hire agreement is a type of legal contract that outlines the terms of a creative work or project that is commissioned by one party to be completed by another party, typically a freelancer or independent contractor. The agreement specifies that the work produced is owned by the hiring party, rather than the individual or company who created it. The agreement is often used when a company needs a specific project completed, such as a software development project, a marketing campaign, or a graphic design project.
 
-The purpose is to ensure that the hiring party has full control over the resulting work, including ownership of any intellectual property rights, such as copyrights, patents, or trademarks. It is often used when a company needs a specific project completed, such as a software development project, a marketing campaign, or a graphic design project.
-
-Key elements of a work-for-hire agreement include:
+Typical aspects:
 
 * Identification of the parties involved: the names, contact information, and any other relevant details.
 
 * Scope of work: the specific work or project that the contractor is being hired to complete, including any specifications or requirements.
 
-* Compensation: the payment terms for the project, including the amount of compensation, payment schedule, and any other details related to payment.
+* Compensation: the payment terms for the project, including the amount of compensation, payment schedule, and other details.
 
 * Ownership of intellectual property: who will own the rights to the work produced, including any copyrights, patents, or trademarks.
 
@@ -6710,31 +6664,23 @@ Arbitration agreements are commonly used in commercial contracts and employment 
 
 A letter of intent (LOI), also known as a memorandum of understanding (MOU), is a document that outlines the preliminary understanding between two parties about a potential transaction or agreement.
 
-The LOI typically includes the following information:
+Typical aspects:
 
-* Parties involved: The names and contact information of the parties who are entering into the agreement.
+* Parties involved: The names and contact information of who's involved.
 
 * Description of the transaction: The nature of the transaction, including the product or service being provided, and the terms and conditions of the agreement.
 
 * Timelines: The timeline for completing the transaction or agreement, including the start and end date.
 
-* Financial terms: The proposed payment terms and any other financial arrangements, including the amount and timing of payments.
+* Financial terms: The proposed payment terms and any other financial arrangements, including the amount and timing.
 
-* Confidentiality: A statement about the confidentiality of the information shared in the LOI, including any proprietary information.
+* Confidentiality: A statement about the confidentiality of the information shared, including any proprietary information.
 
-* Governing law: The state or jurisdiction that will govern the agreement.
+* Governing law: The state or jurisdiction that governs the LOI.
 
 A letter of intent is typically non-binding, meaning that it does not create a legally enforceable agreement. It can be useful for negotiating a binding agreement in the future, and can serve as a sign of good faith and commitment between parties.
 
-The LOI is often used in a variety of situations, such as:
-
-* Mergers and acquisitions: the LOI describes terms of the transaction, including the purchase price, payment terms, and sale conditions.
-
-* Real estate transactions: the LOI describes terms of a real estate purchase, including the purchase price, closing date, and any contingencies.
-
-* Partnerships: the LOI describes a partnership between two businesses, including the scope of the partnership and each party's responsibilities.
-
-* Employment agreements: the LOI describes an employment agreement, including the salary, benefits, and job responsibilities.
+The LOI is often used in a variety of situations, such as mergers and acquisitions, real estate transactions, business partnerships, and employment agreements.
 
 
 ## Power Of Attorney (POA)
@@ -6752,7 +6698,7 @@ It is important to note that granting someone a POA can have significant legal a
 
 ## Technology transfer agreements
 
-Technology transfer agreements are legal contracts between a technology owner, such as a university or research institution, and a recipient who wants to acquire the rights to use or commercialize the technology. The agreement outlines the terms and conditions under which the technology owner will transfer ownership or license the use of their technology to the recipient. These agreements are typically used when a technology owner has developed a new invention or intellectual property that they want to commercialize, but lack the resources or expertise to do so.
+Technology transfer agreements are legal contracts between a technology owner, such as a university or research institution, and a recipient who wants to acquire the rights to use or commercialize the technology. The agreement outlines the terms and conditions under which the technology owner will transfer ownership or license the use of their technology to the recipient. These agreements are typically used when a technology owner has developed a new invention or intellectual property that they want to commercialize.
 
 There are several types of technology transfer agreements, including licensing agreements, joint development agreements, and assignment agreements.
 
@@ -6768,7 +6714,7 @@ Some common provisions include:
 
 * Dispute resolution. Specify how disputes between the parties will be resolved, such as through arbitration or mediation.
 
-Technology transfer agreements can be complex and require the involvement of legal and technical experts to ensure that the terms are fair and reasonable for all parties involved. The goal of these agreements is to facilitate the transfer of technology from the technology owner to the recipient, while protecting the interests of both parties and promoting innovation and economic growth.
+Technology transfer agreements can be complex and require the involvement of legal and technical experts to ensure that the terms are fair and reasonable for all parties involved.
 
 
 ## Licensing agreement (LA)
@@ -6838,30 +6784,28 @@ A Facility Use/Service Agreement (FUSA) is a legal agreement between a facility 
 
 A FUSA typically covers the following aspects:
 
-* Scope of Services. Specify the nature and extent of the services to be provided by the service provider or the use of the facility by the customer. Be clear, precise, and comprehensive, with details on the frequency, duration, and quality of the services.
+* Scope. Specify the nature and extent of the services to be provided by the service provider or the use of the facility by the customer. Be clear, precise, and comprehensive, with details on the frequency, duration, and quality.
 
-* Fees and Payment: Specify the fees that the customer must pay for using the facility or receiving the services. The fees could be one-time, periodic, or variable based on usage or duration. The payment terms and conditions, including due dates, methods of payment, and penalties for late payments, are also specified in the agreement.
+* Compensation. Specify fees and payments for use. The fees could be one-time, periodic, or variable based on usage or duration. Specify payment terms and conditions, methods, due dates, and late penalties.
 
 * Duration and Termination: Specify the start and end dates of the FUSA and the conditions for terminating the agreement by either party. The reasons for termination, notice periods, and the consequences of termination are also mentioned.
 
-* Obligations and Responsibilities: Specify the obligations and responsibilities of both parties, including the service provider's duties to maintain the facility or provide the services and the customer's duties to comply with the rules and regulations, use the facility responsibly, and pay the fees on time.
+* Responsibilities: Specify the obligations of parties, including the provider's duties to maintain the facility or provide the services, and the customer's duties to comply with rules and regulations to use the facility responsibly.
 
-* Liability and Insurance: Specify the liability of each party for any damages, losses, or injuries arising from the use of the facility or provision of services. The need for insurance coverage, the type of insurance, and the amount of coverage required are also mentioned.
+* Liability: Specify actions for any damages, losses, or injuries arising from the use of the facility or provision of services. Include needs for insurance, the type of insurance, and the amount of coverage.
 
-* Confidentiality and Intellectual Property: This section specifies the confidentiality and intellectual property rights of both parties, including the non-disclosure of sensitive information, the protection of trade secrets and proprietary information, and the ownership of any intellectual property created during the term of the FUSA.
+* Confidentiality and Intellectual Property: Specify rights of both parties for non-disclosure of sensitive information, protection of proprietary information, and ownership of any intellectual property created during FUSA.
 
-* Dispute Resolution: The FUSA outlines the methods for resolving any disputes that may arise between the parties, such as mediation or arbitration, and the jurisdiction and venue for any legal proceedings.
-
-A Facility Use/Service Agreement protects the interests of both parties and helps to establish a clear understanding of the terms and conditions of the facility use or service provision.
+* Dispute Resolution: Specify methods for resolving any disputes between the parties, such as mediation or arbitration, and the jurisdiction and venue for any legal proceedings.
 
 
 ## Material Transfer Agreement (MTA)
 
 A Material Transfer Agreement (MTA) is a legal contract that governs the transfer of tangible research materials between two organizations, such as academic or research institutions, government agencies, or commercial companies. 
 
-MTAs are used when a researcher or organization wants to obtain materials from another organization for research purposes, but the provider wishes to retain ownership and control over the materials. The MTA helps to ensure that the provider's intellectual property rights are protected, while also allowing the recipient to use the materials for their research.
+MTAs are used when a researcher or organization wants to obtain materials from another organization for research purposes, but the provider wishes to retain ownership and control over the materials. 
 
-Typically, an MTA will include provisions relating to:
+Typical provisions:
 
 * Ownership and intellectual property: The MTA will specify who owns the materials being transferred, and who owns any intellectual property rights associated with the materials.
 
@@ -6889,28 +6833,28 @@ The TAA is an important tool for U.S. companies seeking to enter into business r
 
 ## Technology Transfer Office (TTO)
 
-A Technology Transfer Office (TTO) is a department within a university, government agency, or research institute that is responsible for managing the intellectual property (IP) resulting from research and development (R&D) activities. The TTO is tasked with identifying, protecting, and commercializing inventions made by faculty, staff, and students, and facilitating their transfer to the private sector for further development and commercialization.
+A Technology Transfer Office (TTO) is a department within a university, government agency, or research institute that is responsible for managing the intellectual property (IP) resulting from research and development (R&D) activities. The TTO's primary goal is to ensure that the discoveries and inventions arising from the research activities of the institution are used for the benefit of society. 
 
-The TTO's primary goal is to ensure that the discoveries and inventions arising from the research activities of the institution are used for the benefit of society. TTOs are typically involved in a range of activities, including:
+TTOs are typically involved in:
 
-* Patenting: The TTO is responsible for identifying patentable inventions and filing patent applications to protect them. This involves working with inventors to determine the scope of the invention, drafting patent applications, and managing the patent prosecution process.
+* Patenting: Identify patentable inventions and filing patent applications to protect them. This involves working with inventors to determine the scope of the invention, drafting patent applications, and managing the patent prosecution process.
 
-* Licensing: Once a patent has been granted, the TTO is responsible for licensing the technology to industry partners who can further develop and commercialize it. This involves negotiating licensing agreements, setting licensing terms, and monitoring compliance with licensing agreements.
+* Licensing: License the technology to industry partners who can further develop and commercialize it. This involves negotiating licensing agreements, setting licensing terms, and monitoring compliance with licensing agreements.
 
-* Start-up creation: In some cases, the TTO may work with inventors to form start-up companies to commercialize their inventions. This involves providing support and advice on business development, funding, and intellectual property management.
+* Startups: Work with inventors to form start-up companies to commercialize their inventions. This involves providing support and advice on business development, funding, and intellectual property management.
 
-* Marketing and promotion: The TTO is responsible for promoting the institution's technologies to potential industry partners, investors, and other stakeholders. This involves developing marketing materials, attending trade shows and conferences, and building relationships with industry partners.
+* Marketing: Promote the institution's technologies to potential industry partners, investors, and other stakeholders. 
 
-* Education and outreach: The TTO may also provide education and training to researchers on intellectual property management, entrepreneurship, and technology transfer.
+* Outreach: Provide education and training to researchers on intellectual property management, entrepreneurship, and technology transfer.
 
 
 ## Fixed-price contract
 
 A fixed-price contract is a type of contract in which a buyer agrees to pay a seller a predetermined price for a specific product or service. The price remains fixed, regardless of any changes in the seller's costs, profits, or other factors that may affect the seller's expenses.
 
-In a fixed-price contract, the seller bears the risk of any cost increases or overruns, as they have committed to delivering the product or service at a fixed price. This type of contract is often used in projects with well-defined requirements and scope, where the buyer can accurately estimate the costs and the seller can provide a competitive price for the work.
+This is for projects with well-defined requirements and scope, where the buyer can accurately estimate the costs and the seller can provide a competitive price for the work. The seller bears the risk of any cost increases or overruns.
 
-There are several types of fixed-price contracts:
+There are several types:
 
 * Firm Fixed-Price (FFP) Contract: In this type of contract, the seller agrees to deliver the product or service at a fixed price, regardless of the actual costs incurred. The seller assumes all the risks associated with the project, including cost overruns, delays, and other unforeseen events.
 
@@ -6925,17 +6869,17 @@ For buyers, fixed-price contracts provide cost certainty, which helps them budge
 
 A cost-plus contract is a type of contract in which the buyer agrees to reimburse the seller for all the costs incurred in the production or provision of a product or service, plus a predetermined profit margin. This type of contract is used when the actual costs of the project cannot be accurately estimated in advance, or when the buyer wants to retain some control over the project.
 
-There are two main types of cost-plus contracts:
+There are two main types:
 
-* Cost-plus-fixed-fee (CPFF) Contract: In this type of contract, the seller is reimbursed for all the costs incurred, plus a fixed fee that is negotiated in advance. The fee is usually a percentage of the total costs and represents the seller's profit.
+* Cost-plus-fixed-fee (CPFF) Contract: This means the seller is reimbursed for all the costs incurred, plus a fixed fee that is negotiated in advance. The fee is usually a percentage of the total costs and represents the seller's profit.
 
-* Cost-plus-incentive-fee (CPIF) Contract: This type of contract includes a fee that is based on the seller's performance, in addition to the cost reimbursement and fixed fee. The incentive fee is paid if the seller meets certain performance targets, such as completing the project on time, within budget, or meeting quality standards.
+* Cost-plus-incentive-fee (CPIF) Contract: This means there is a fee that is based on the seller's performance, in addition to the cost reimbursement and fixed fee. The incentive fee is paid if the seller achieves agreed-upon metrics.
 
 For buyers, cost-plus contracts offer greater flexibility and control over the project, as they can monitor the costs and progress of the project and make adjustments as needed. Additionally, cost-plus contracts can be beneficial when the project is complex or when the actual costs of the project are difficult to estimate.
 
 For sellers, cost-plus contracts provide a predictable revenue stream and a guaranteed profit margin. Additionally, cost-plus contracts reduce the risk of underestimating the costs of the project, which can result in reduced profits or even losses.
 
-However, cost-plus contracts also present some risks for both parties. For buyers, there is the risk of the seller inflating the costs of the project, as they are reimbursed for all the costs incurred. Additionally, the lack of a fixed price can make budgeting and financial management more difficult for the buyer. For sellers, there is the risk of incurring higher-than-expected costs, which can result in reduced profits or losses if the profit margin is not sufficient.
+However, cost-plus contracts also present risks. For buyers, the lack of a fixed price can make budgeting and financial management more difficult for the buyer. For sellers, there is the risk of incurring higher-than-expected costs, which can result in reduced profits or losses if the profit margin is not sufficient.
 
 
 ## Time and Materials (T&M) contract
@@ -7304,21 +7248,22 @@ The Latin America (LATAM) region encompasses the countries and territories in Ce
 
 Key Features of the LATAM Business Region:
 
-* Economic Diversity: The LATAM region comprises countries with varying levels of economic development. Some countries, such as Brazil and Mexico, have larger economies with diversified industries, while others have smaller economies and rely heavily on specific sectors like agriculture, mining, or tourism. 
+* Economic Diversity: Some countries, such as Brazil and Mexico, have larger economies with diversified industries, while others have smaller economies and rely heavily on specific sectors like agriculture, mining, or tourism. 
 
-* Natural Resources: Many Latin American countries are rich in natural resources, including oil, gas, minerals, and agricultural products. The exploitation and export of these resources play a significant role in the economies of several countries. 
+* Natural Resources: Many Latin American countries are rich in natural resources, including oil, gas, minerals, and agricultural products. The exploitation and export of these resources play a significant role in economies.
 
-* Trade Agreements: Latin American countries have established numerous trade agreements and regional economic blocs to promote trade and cooperation. For example, the Mercosur (Southern Common Market) and the Pacific Alliance are important regional integration initiatives that foster trade and investment among member countries. 
+* Trade Agreements: Countries have established numerous trade agreements and regional economic blocs to promote trade and cooperation. For example, the Mercosur (Southern Common Market) and the Pacific Alliance are important initiatives.
 
-* Emerging Markets: Several Latin American economies are classified as emerging markets, and often offer attractive prospects for businesses seeking to expand or invest in the region. However, factors such as currency volatility, regulatory challenges, and varying business climates should be considered.
+* Emerging Markets: Several economies are classified as emerging markets, and offer attractive prospects for businesses. However, factors such as currency volatility, regulatory challenges, and varying business climates must be considered.
 
 * Cultural Diversity: Understanding local cultures is essential for successful business operations in the region, as it influences consumer behavior, business practices, and communication styles.
 
-* Language: Spanish and Portuguese are the primary languages spoken in most Latin American countries, with Spanish being the dominant language in the region. However, other languages such as English, French, and indigenous languages are also spoken in specific countries.
+* Language: Spanish is the dominant language. Portuguese, English, French, and indigenous languages are also spoken in specific countries.
 
-* Growing Middle Class: Many Latin American countries have experienced a significant expansion of the middle class in recent years, leading to increased consumer purchasing power and changing consumption patterns. This presents opportunities for retail, entertainment, and financial services.
+* Growing Middle Class: Many countries have experienced a significant expansion of the middle class in recent years, leading to increased consumer purchasing power, including for retail, entertainment, and financial services.
 
 * Infrastructure Challenges: While some Latin American countries have developed robust infrastructure, others face challenges in areas such as transportation, logistics, and telecommunications.
+
 
 ## Oceania region
 
@@ -7344,69 +7289,65 @@ Visa sponsorship can be a complicated and time-consuming process, and employers 
 
 ## US H-1B visa
 
-The United States H-1B visa is a non-immigrant visa category that allows U.S. employers to temporarily employ foreign workers in specialty occupations. The visa program was created to address the shortage of skilled workers in certain fields and facilitate the hiring of foreign talent to contribute to the U.S. economy. Here is a more detailed explanation of the H-1B visa program:
+The United States H-1B visa is a non-immigrant visa category that allows U.S. employers to temporarily employ foreign workers in specialty occupations. The visa program was created to address the shortage of skilled workers in certain fields and facilitate the hiring of foreign talent to contribute to the U.S. economy.
 
-* Eligibility and Specialty Occupations: The H-1B visa is available to individuals who have a job offer from a U.S. employer in a specialty occupation. A specialty occupation is defined as a position that requires theoretical and practical application of highly specialized knowledge, usually requiring at least a bachelor's degree or its equivalent. The job must be in fields such as science, technology, engineering, mathematics (STEM), finance, healthcare, IT, or other specialized fields.
+* Eligibility and Specialty Occupations: The H-1B visa is available to individuals who have a job offer from a U.S. employer in a specialty occupation, such as in science, technology, engineering, mathematics (STEM), finance, healthcare, or IT.
 
-* Employer Sponsorship: One of the key requirements of the H-1B visa is that the foreign worker must have an employer sponsor in the United States. The employer must submit a petition on behalf of the worker to the U.S. Citizenship and Immigration Services (USCIS). The employer must demonstrate the need for the foreign worker's specialized skills and comply with various labor conditions, including paying the prevailing wage for the occupation.
+* Employer Sponsorship: The employer must submit a petition on behalf of the worker to the U.S. Citizenship and Immigration Services (USCIS). If the petition is approved, the worker can apply for visa at a U.S. consulate or embassy abroad.
 
-* Visa Cap and Lottery System: The H-1B visa program has an annual cap on the number of visas available, which is set by the U.S. Congress. Currently, the regular cap is set at 65,000 visas per fiscal year, with an additional 20,000 visas available for individuals who have obtained a master's degree or higher from a U.S. academic institution. Due to the high demand for H-1B visas, a lottery system is used when the number of applications exceeds the available cap.
+* Visa Cap and Lottery System: The H-1B visa program has an annual cap on the number of visas available, which is set by the U.S. Congress. Due to high demand, a lottery system is used.
 
-* Application Process: To apply for an H-1B visa, the employer must file a Form I-129 petition with the USCIS. The petition includes various documents, such as the Labor Condition Application (LCA) certified by the U.S. Department of Labor, supporting evidence of the specialty occupation, the employer's financial information, and the beneficiary's qualifications. If the petition is approved, the worker can then apply for the H-1B visa at a U.S. consulate or embassy abroad.
+* Duration of Stay: The initial period of stay on an H-1B visa is up to three years, and it can typically be extended for a maximum total period of six years. 
 
-* Duration of Stay: The initial period of stay on an H-1B visa is up to three years, and it can be extended for a maximum total period of six years. In some cases, H-1B holders may be eligible for extensions beyond the six-year limit if they have an approved employment-based immigrant petition (such as a green card application) but are subject to visa availability limitations.
+* Dependents: H-1B visa holders can bring their spouses and unmarried children under the age of 21 to the U.S. as dependents. 
 
-* Dependents: H-1B visa holders can bring their spouses and unmarried children under the age of 21 to the U.S. as dependents. Dependents are issued H-4 visas, which allow them to accompany the H-1B worker and may also be eligible for employment authorization under certain circumstances.
+* Dual Intent: One notable feature of the H-1B visa is the concept of "dual intent." Unlike some other non-immigrant visas, H-1B visa holders are allowed to have the intention to immigrate permanently to the United States.
 
-* Dual Intent: One notable feature of the H-1B visa is the concept of "dual intent." Unlike some other non-immigrant visas, H-1B visa holders are allowed to have the intention to immigrate permanently to the United States while maintaining temporary H-1B status. This means that H-1B workers can pursue lawful permanent residency (green card) without jeopardizing their non-immigrant status.
+* Portability: H-1B visa holders have a degree of flexibility in changing employers. If they have an approved H-1B petition with one employer and receive a job offer from another employer, the new employer can file for a transfer.
 
-* Portability: H-1B visa holders have a degree of flexibility in changing employers while in the United States. If they have an approved H-1B petition with one employer and receive a job offer from another employer, they can begin working for the new employer once the new employer files.
 
 
 ## UK Global Talent Visa
 
-The United Kingdom Global Talent Visa is a category of visa designed to attract highly skilled individuals from around the world to contribute to the UK's innovation and research sectors. It is part of the UK's points-based immigration system and is aimed at individuals who demonstrate exceptional talent or promise in specific fields. 
+The United Kingdom Global Talent Visa is a category of visa designed to attract highly skilled individuals from around the world to contribute to the UK's innovation and research sectors.
 
 Details:
 
-* Eligibility Criteria: To be eligible for the UK Global Talent Visa, applicants must be internationally recognized as leaders or potential leaders in one of the following fields: a. Science, engineering, humanities, medicine, digital technology, or arts and culture (including film and television); b. Academic research in any field; c. An emerging field or technology with significant potential for economic growth.
+* Eligibility Criteria: Applicants must be internationally recognized as leaders or potential leaders in: a. Science, engineering, humanities, medicine, digital technology, or arts and culture; b. Academic research in any field; c. An emerging field or technology with significant potential for economic growth.
 
-* Endorsement Requirement: Applicants for the Global Talent Visa must first obtain an endorsement from a designated endorsing body recognized by the UK government. Each field has its own endorsing body, such as UK Research and Innovation (UKRI) for science and research or Tech Nation for digital technology. The endorsing bodies assess applicants based on their achievements, impact, and potential to contribute to the UK in their respective fields.
+* Endorsement Requirement: Applicants for the Global Talent Visa must first obtain an endorsement from a designated endorsing body recognized by the UK government. 
 
-* Application Process: Once an applicant receives an endorsement, they can apply for the Global Talent Visa. The application includes providing personal and professional information, evidence of accomplishments, a personal statement, and endorsement details. Applicants also need to demonstrate their knowledge of the English language.
+* Application Process: The application includes providing personal and professional information, evidence of accomplishments, a personal statement, and endorsement details.
 
-* Immigration Rules: The Global Talent Visa has some unique immigration rules that set it apart from other visa categories. Notably, there is no requirement for a job offer or sponsorship from a UK employer. Successful applicants have the freedom to work in any sector and change employers without requiring further authorization.
+* Immigration Rules: Notably, there is no requirement for a job offer or sponsorship from a UK employer. Successful applicants have the freedom to work in any sector and change employers without requiring further authorization.
 
-* Points-Based System: The Global Talent Visa operates on a points-based system. Applicants must meet the mandatory criteria and accumulate sufficient points to be eligible. Points are awarded for endorsement from a recognized body, meeting the criteria for the relevant field, and demonstrating a proven track record of achievement, innovation, and impact.
+* Points-Based System: The visa operates on a points-based system. Points are awarded for endorsement from a recognized body, based on criteria for the relevant field, and track record of achievement, innovation, and impact.
 
-* Global Talent Visa Endorsement Route: In addition to the main Global Talent Visa category, there is a separate endorsement route for individuals who have received prestigious awards or recognition in their fields. This route allows applicants to bypass the usual endorsement process and proceed directly to the visa application.
+* Global Talent Visa Endorsement Route: In addition to the main Global Talent Visa category, there is a separate endorsement route for individuals who have received prestigious awards or recognition in their fields.
 
-* Validity and Indefinite Leave to Remain (ILR): The initial Global Talent Visa is granted for a period of up to five years. After residing in the UK for either three or five years (depending on the specific route), visa holders can apply for Indefinite Leave to Remain (ILR), also known as permanent residency. ILR allows individuals to live and work in the UK without any time restrictions.
+* Validity and Indefinite Leave to Remain (ILR): The Visa is granted for a period of up to five years. During that time, visa holders can apply for Indefinite Leave to Remain (ILR), also known as permanent residency.
 
 * Dependent Family Members: Global Talent Visa holders can bring their dependents, including spouses, civil partners, and children under 18, to the UK. Dependents have the right to work or study in the UK without restrictions.
-
-* Accelerated Settlement: Exceptionally talented individuals who have received a Global Talent Visa can benefit from accelerated settlement. If they meet specific criteria, they can apply for ILR after only three years instead of the usual five, providing an expedited path to permanent residency.
 
 
 ## EU Blue Card 
 
-The European Union Blue Card is a residence and work permit that allows highly skilled non-European Union citizens to live and work in participating EU member states. It is designed to attract and retain highly qualified professionals from around the world, contributing to the economic growth and competitiveness of the European Union. Here is an in-depth explanation of the EU Blue Card:
+The European Union Blue Card is a residence and work permit that allows highly skilled non-European Union citizens to live and work in participating EU member states. It is designed to attract and retain highly qualified professionals from around the world, contributing to the economic growth and competitiveness of the European Union. 
 
-* Eligibility Criteria: To be eligible for the EU Blue Card, applicants must meet certain criteria, which typically include: a. Holding a valid job offer or employment contract from a company or organization in an EU member state; b. Possessing a higher education degree or equivalent qualifications; c. Meeting minimum salary requirements, which vary depending on the country and profession.
+* Eligibility Criteria: Applicants must meet certain criteria, which typically include: a. Holding a valid job offer or employment contract from a company or organization in an EU member state; b. Possessing a higher education degree or equivalent qualifications; c. Meeting minimum salary requirements, which vary depending on the country and profession.
 
-* Participating EU Member States: The EU Blue Card is valid in participating EU member states, which currently include Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.
+* Application Process: Applicants must apply for the EU Blue Card in the country where they intend to work, and submit various documents, such as an employment contract, proof of qualifications, and proof of health insurance.
 
-* Application Process: Applicants must apply for the EU Blue Card in the country where they intend to work. The application process involves submitting various documents, such as a valid employment contract, proof of qualifications, proof of health insurance, and evidence of meeting the minimum salary requirements. The specific requirements and procedures may vary slightly among participating member states.
-
-* Duration and Renewal: The EU Blue Card is initially issued for a period of one to four years, depending on the country. After holding the Blue Card for a certain duration (usually two years), individuals may have the opportunity to apply for long-term residence permits or permanent residency in the country where they reside.
+* Duration and Renewal: The EU Blue Card is initially issued for a period of one to four years, depending on the country. During that time, individuals may have the opportunity to apply for long-term residence.
 
 * Benefits and Rights: The EU Blue Card provides several benefits and rights to the cardholder, which may include: a. Right to live and work in the EU member state that issued the Blue Card; b. Possibility to bring family members (spouse and minor children) to the EU and provide them with residence permits; c. Access to social security benefits, healthcare, and education services; d. Freedom of movement within the participating EU member states after residing in the issuing country for a certain period; e. Certain rights related to employment, such as equal treatment, working conditions, and professional mobility.
 
-* Job Mobility: One significant advantage of the EU Blue Card is the ability to change jobs within the participating EU member states. After holding the Blue Card for 18 months, cardholders may be allowed to move to another EU member state for employment purposes, provided they meet the requirements and inform the relevant authorities.
+* Job Mobility: A significant advantage of the EU Blue Card is the ability to change jobs within the participating EU member states, within restrictions.
 
-* Dependent Family Members: EU Blue Card holders can bring their dependent family members, including spouses and minor children, to reside with them in the EU member state. Family members are typically granted residence permits and may have access to various rights and benefits.
+* Dependent Family Members: EU Blue Card holders can bring their dependent family members, including spouses and minor children, to reside with them in the EU member state. 
 
-* Recognition of Qualifications: EU member states generally recognize higher education degrees and professional qualifications obtained in other EU member states. However, recognition procedures may vary among countries. It is important for Blue Card holders to check the specific requirements for recognizing their qualifications in the country where they intend to work.
+* Recognition of Qualifications: EU member states generally recognize higher education degrees and professional qualifications obtained in other EU member states.
+
 
 
 ## Enterprise companies
@@ -7425,48 +7366,52 @@ Enterprise companies typically have dedicated departments and specialized teams 
 
 ## Enterprise sales cycles
 
-Enterprise sales cycles refer to the process and timeline involved in selling products or services to large organizations, often referred to as enterprise customers. These customers typically have complex buying processes, multiple stakeholders, and longer decision-making cycles compared to smaller businesses or individuals. Enterprise sales cycles are characterized by their strategic nature, extensive research, relationship-building, and the need to navigate various stages before closing a deal. Let's delve into the various stages and key aspects of an enterprise sales cycle:
+Enterprise sales cycles refer to the process and timeline involved in selling products or services to large organizations, often referred to as enterprise customers. These customers typically have complex buying processes, multiple stakeholders, and longer decision-making cycles compared to smaller businesses or individuals. Enterprise sales cycles are characterized by their strategic nature, extensive research, relationship-building, and the need to navigate various stages before closing a deal. 
 
-* Prospecting and Lead Generation: The sales cycle begins with identifying potential customers who fit the ideal enterprise customer profile. This involves research, market analysis, and gathering leads through various channels such as trade shows, referrals, networking, online marketing, or targeted outreach. The goal is to create a list of qualified prospects to pursue.
+Key steps:
 
-* Initial Contact and Qualification: Once prospects are identified, the sales team establishes initial contact, often through cold calling, emails, or introductions. During this stage, they aim to gather relevant information about the prospect's needs, challenges, and decision-making processes. This helps qualify the leads based on their fit with the product or service offering and the likelihood of a successful sale.
+1. Prospecting: Identify potential customers, by using sales research and market analysis. Gathering leads through various channels such as referrals, networking, marketing, or outreach.
 
-* Needs Assessment and Solution Proposal: In this stage, the sales team engages in detailed conversations with the prospect to understand their specific pain points, requirements, and goals. They conduct in-depth needs assessments, often involving multiple stakeholders within the organization. Based on the gathered information, the sales team then creates a tailored solution proposal that addresses the prospect's unique challenges and aligns with their objectives.
+2. Qualification: Establish contact, often through cold calling, emails, or introductions. Gather relevant information about the prospect's needs, challenges, and decision processes. Qualify leads based on likelihood of a successful sale.
 
-* Product Demonstrations and Proof of Concept: To showcase the value of their solution, sales teams often conduct product demonstrations, either in person or remotely. This allows prospects to see how the product or service works and how it addresses their specific needs. In some cases, a proof of concept or pilot project may be initiated to test the solution in a limited capacity within the prospect's organization. This helps build confidence and validates the solution's effectiveness.
+3. Solutioning: Conduct in-depth needs assessments with stakeholders. Then create a tailored solution proposal that addresses the prospect's unique challenges and aligns with their objectives.
 
-* Stakeholder Alignment and Negotiation: Enterprise sales cycles involve navigating complex decision-making processes with multiple stakeholders. Sales teams need to identify key decision-makers, influencers, and gatekeepers within the prospect's organization. They work towards gaining consensus and aligning various stakeholders around the proposed solution. Negotiation and addressing concerns regarding pricing, contract terms, implementation, or customization requirements also occur in this stage.
+4. Demonstration: Show how the product or service works and how it addresses the prospect's specific needs. In some cases, a proof of concept or pilot project may be initiated within the prospect's organization, to validate solution effectiveness.
 
-* Procurement and Legal Processes: Once the prospect is convinced and a mutual agreement is reached, the sales process moves into procurement and legal phases. This involves working with the prospect's procurement team to finalize the contract, negotiate terms, and ensure compliance with any legal or regulatory requirements. Contract reviews, approvals, and sometimes involvement from legal departments may be necessary to move forward.
+5. Negotiation: Gain consensus and align stakeholders around the proposed solution. Solve concerns regarding pricing, contract terms, implementation, or customization requirements.
 
-* Implementation and Onboarding: After the contract is signed, the focus shifts to implementing the solution within the customer's organization. This phase involves coordination between the sales team, customer success or implementation teams, and the customer's internal stakeholders. Planning, customization, integration, training, and deployment activities are undertaken to ensure a smooth transition and successful adoption of the solution.
+6. Procurement: Working with the prospect's procurement team to finalize the contract, negotiate terms, and ensure compliance with any legal or regulatory requirements.
 
-* Relationship Building and Account Management: Enterprise sales cycles go beyond closing a deal; they emphasize building long-term relationships with customers. Account managers and customer success teams play a crucial role in ensuring customer satisfaction, addressing post-implementation challenges, and providing ongoing support. Regular check-ins, account reviews, and upselling or cross-selling opportunities are pursued to maximize the value delivered to the customer.
+* Implementation: Implement the solution within the customer's organization. Coordinate the sales success team and the customer's internal stakeholders. Ensure successful adoption of the solution.
 
-* Expansion and Renewal: Enterprise sales cycles involve the potential for account expansion and renewal of contracts. As the customer's needs evolve or expand, sales teams identify opportunities to upsell or cross-sell additional products or services. They actively engage with customers to understand their changing requirements and propose relevant solutions.
+* Management: Emphasize building long-term relationships with customers, such as with account managers to ensure customer satisfaction, address post-implementation challenges, and provide ongoing support. 
+
+* Expansion: Continue engaging with customers to understand their changing requirements and propose relevant solutions, such as cross-sells and upsells.
 
 
 ## Enterprise account management
 
-Enterprise account management, also known as key account management or strategic account management, is a comprehensive approach to managing and nurturing relationships with key customers or accounts within an organization. It involves a deep understanding of the customer's business, goals, challenges, and aligning the organization's resources to deliver value, foster loyalty, and drive long-term growth. Let's explore the key aspects and strategies involved in enterprise account management:
+Enterprise account management, also known as key account management or strategic account management, is a comprehensive approach to managing and nurturing relationships with key customers or accounts within an organization. It involves a deep understanding of the customer's business, goals, challenges, and aligning the organization's resources to deliver value, foster loyalty, and drive long-term growth. 
 
-* Identifying Key Accounts: * The first step in enterprise account management is identifying the key accounts within an organization's customer base. These accounts are typically the largest, most strategic, or high-potential customers who have a significant impact on the organization's revenue and growth. The selection process may involve criteria such as revenue contribution, industry influence, market potential, or long-term partnership opportunities.
+Key aspects:
 
-* Building Relationships and Trust: Enterprise account management places a strong emphasis on building and nurturing relationships with key stakeholders within the customer's organization. This involves establishing trust, credibility, and a deep understanding of their business objectives, challenges, and market dynamics. Regular communication, face-to-face meetings, networking events, and social engagements are used to foster strong connections and develop a partnership approach.
+1. Identify Accounts. These accounts are typically the largest, most strategic, or high-potential customers. Selection may involve criteria such as revenue contribution, industry influence, market potential, or long-term partnership opportunities.
 
-* Strategic Account Planning: Strategic account planning is a critical component of enterprise account management. It involves developing a comprehensive plan for each key account, outlining the objectives, strategies, and action steps to maximize the account's potential. The plan takes into account the customer's goals, market trends, competitive landscape, and the organization's capabilities. It serves as a roadmap to guide the account management team in delivering value and driving growth.
+2. Build Relationships: Establishing trust, credibility, and a deep understanding of the customer's business objectives, challenges, and market dynamics. Foster strong connections and develop a trusted partnership approach.
 
-* Needs Analysis and Customized Solutions: Enterprise account managers conduct thorough needs analyses to understand the unique requirements and pain points of key accounts. By collaborating closely with the customer, they identify opportunities to tailor products, services, or solutions to address their specific challenges. This customization ensures that the organization's offerings align with the account's strategic objectives, leading to higher customer satisfaction and loyalty.
+3. Strategic Planning: Develop a comprehensive plan for each account, with objectives and actions to maximize success. Take into account the customer's goals, market trends, competitive landscape, and the organization's capabilities.
 
-* Cross-Functional Collaboration: Successful enterprise account management requires collaboration across various internal departments, such as sales, marketing, product development, customer support, and operations. Cross-functional teams work together to leverage the organization's expertise, resources, and capabilities to meet the specific needs of key accounts. This collaborative approach ensures a unified and consistent customer experience across different touchpoints.
+4. Customize Solutions: Conduct needs analyses to understand an account's unique requirements, pain points, and opportunities to tailor products, services, and solutions.
 
-* Value Delivery and Performance Measurement: Enterprise account managers focus on delivering measurable value to key accounts. They work closely with customers to define key performance indicators (KPIs) and success metrics. Regular reviews and evaluations are conducted to assess the organization's performance, identify areas for improvement, and demonstrate the impact of the partnership. This data-driven approach helps strengthen the account's trust and confidence in the organization.
+5. Collaborate: Work with internal departments, such as sales, marketing, product development, customer support, and operations. Leverage the organization's expertise, resources, and capabilities to meet the specific needs of key accounts. 
 
-* Anticipating and Managing Risks: Enterprise account managers proactively identify and address potential risks or challenges that may impact the relationship with key accounts. They stay informed about industry trends, market changes, and competitor activities to anticipate any potential threats or disruptions. By developing risk mitigation strategies and contingency plans, they ensure the continuity and resilience of the account partnership.
+6. Deliver Vaule: Define success metrics to assess the organization's performance, identify opportunities for improvement, and show impact. Data-driven approaches strengthen the account's trust and confidence in the organization.
 
-* Renewals, Upselling, and Cross-Selling: Enterprise account management extends beyond initial sales transactions. Account managers focus on maximizing customer lifetime value by identifying opportunities for contract renewals, upselling additional products or services, and cross-selling complementary offerings. By consistently demonstrating the value delivered and offering tailored solutions, they drive revenue growth while maintaining customer satisfaction.
+7. Managing Risk: Identify and mitigate any risks, challenges, or threats with accounts. Ensure the continuity and resilience of the account partnership.
 
-* Continuous Improvement and Account Growth: Enterprise account management is an ongoing process of continuous improvement. Account managers regularly seek feedback from key accounts, evaluate their own performance, and identify areas for enhancement. They proactively identify opportunities for account growth, such as expansion into new business units or geographical regions, and collaborate with internal teams to capitalize on these opportunities.
+8. Manage Renewals: Maximize customer lifetime value by identifying opportunities for contract renewals, upselling, and cross-selling. Consistently demonstrate the value delivered.
+
+9. Account Growth: Proactively identify opportunities for account growth, such as expansion into new business units or geographical regions, and collaborate with internal teams to capitalize on these opportunities.
 
 
 ## Enterprise Portfolio Project Management (EPPM)
@@ -7652,9 +7597,9 @@ The Law of Demos is a reminder that technology demos are not a substitute for re
 
 The Law of Supply and Demand is an economic principle that explains how the price and quantity of goods and services in a market are determined. According to this principle, the price of a good or service is determined by the balance between its supply and demand in the market. When the demand for a good or service exceeds its supply, the price tends to rise, and when the supply exceeds the demand, the price tends to fall.
 
-* The Law of Supply: all other things being equal, the higher the price of a good or service, the greater the quantity that suppliers will produce and offer for sale. This is because as the price of a good or service increases, suppliers are more likely to allocate more resources to produce and sell it, which increases the quantity supplied. On the other hand, if the price of a good or service falls, suppliers may reduce the quantity they produce and offer for sale, as the profit margins may be lower.
+The Law of Supply: all other things being equal, the higher the price of a good or service, the greater the quantity that suppliers will produce and offer for sale. This is because as the price of a good or service increases, suppliers are more likely to allocate more resources to produce and sell it, which increases the quantity supplied. On the other hand, if the price of a good or service falls, suppliers may reduce the quantity they produce and offer for sale, as the profit margins may be lower.
 
-* The Law of Demand: all other things being equal, the lower the price of a good or service, the greater the quantity that buyers will demand. This is because as the price of a good or service falls, buyers are more likely to purchase more of it, as they can afford to buy more with their limited income. Conversely, if the price of a good or service rises, buyers may purchase less of it, as it becomes more expensive and their income becomes limited.
+The Law of Demand: all other things being equal, the lower the price of a good or service, the greater the quantity that buyers will demand. This is because as the price of a good or service falls, buyers are more likely to purchase more of it, as they can afford to buy more with their limited income. Conversely, if the price of a good or service rises, buyers may purchase less of it, as it becomes more expensive and their income becomes limited.
 
 The intersection of the supply and demand curves in a market determines the equilibrium price and quantity for a good or service. At this price, the quantity supplied equals the quantity demanded, which means that the market is in balance. Any changes in the supply or demand curves will cause the equilibrium price and quantity to shift, leading to changes in the market price and quantity of goods and services.
 
@@ -8014,23 +7959,23 @@ The tragedy of the commons can be mitigated through the establishment of ownersh
 
 Entrepreneur quotations aim to inspire and encourage business leaders, and their mindsets, qualities, and attitudes. 
 
-Here are a few themes and examples:
+Here are a few themes and examples…
 
-* Purpose: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do." - Steve Jobs, co-founder of Apple
+Purpose: "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do." - Steve Jobs, co-founder of Apple
 
-* Vision: "Chase the vision, not the money; the money will end up following you." - Tony Hsieh, co-founder of Zappos
+Vision: "Chase the vision, not the money; the money will end up following you." - Tony Hsieh, co-founder of Zappos
 
-* Launching: "If you're not embarrassed by the first version of your product, you've launched too late." - Reid Hoffman, co-founder of LinkedIn
+Launching: "If you're not embarrassed by the first version of your product, you've launched too late." - Reid Hoffman, co-founder of LinkedIn
 
-* Risk: "The biggest risk is not taking any risk... In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks." - Mark Zuckerberg, co-founder of Facebook
+Risk: "The biggest risk is not taking any risk... In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks." - Mark Zuckerberg, co-founder of Facebook
 
-* Failure: "Don't worry about failure; you only have to be right once." - Drew Houston, co-founder of Dropbox
+Failure: "Don't worry about failure; you only have to be right once." - Drew Houston, co-founder of Dropbox
 
-* Change: "Entrepreneurship is about creating change, not just companies." - Mark Cuban, co-founder of Broadcast.com
+Change: "Entrepreneurship is about creating change, not just companies." - Mark Cuban, co-founder of Broadcast.com
 
-* Value: "The value of an idea lies in the using of it." - Thomas Edison, co-founder of General Electric
+Value: "The value of an idea lies in the using of it." - Thomas Edison, co-founder of General Electric
 
-* Innovation: "The best way to predict the future is to create it." - Peter Drucker, management consultant
+Innovation: "The best way to predict the future is to create it." - Peter Drucker, management consultant
 
 
 ## A rising tide lifts all boats
