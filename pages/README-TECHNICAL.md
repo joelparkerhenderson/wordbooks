@@ -1,3 +1,16 @@
+## Experience
+
+* [User Experience (UX)](user-experience) + (user-experience-benefits)
+* [Customer Experience (CX)](customer-experience) + (customer-experience-benefits)
+* [Developer Experience (DX)](developer-experience) + (developer-experience-benefits)
+
+
+## UI/UX
+
+* [Diary study](diary-study)
+* [Empathy Map](empathy-map)
+* [Storyboard](storyboard)
+
 
 ## Markup/Modeling languages
 
@@ -109,7 +122,7 @@
 
 * [Blockchain](blockchain)
 * [Bitcoin](bitcoin)
-* [Etherium](etherium)
+* [Ethereum](ethereum)
 * [Smart contract](smart-contract)
 * [Proof-of-work (PoW)](proof-of-work)
 * [Proof-of-stake (PoS)](proof-of-stake)

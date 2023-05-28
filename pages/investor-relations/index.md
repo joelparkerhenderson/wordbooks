@@ -1,6 +1,6 @@
 # Investor relations (IR)
 
-Investor relations (IR) refers to the strategic management of communication and relationships between a company and its investors, shareholders, financial analysts, and other stakeholders in the financial community. The primary objective of investor relations is to effectively convey the company's financial performance, business strategy, and future prospects to the investment community while maintaining transparency, building trust, and maximizing shareholder value. 
+Investor relations (IR) refers to the strategic management of communication and relationships between a company and its investors, shareholders, financial analysts, and other stakeholders in the financial community. The IR team conveys the company's financial performance, business strategy, and future prospects to the investment community while maintaining transparency, building trust, and maximizing shareholder value. 
 
 Key aspects…
 

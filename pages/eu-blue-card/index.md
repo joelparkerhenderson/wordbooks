@@ -8,11 +8,6 @@ The European Union Blue Card is a residence and work permit that allows highly s
 
 * Duration and Renewal: The EU Blue Card is initially issued for a period of one to four years, depending on the country. During that time, individuals may have the opportunity to apply for long-term residence.
 
-* Benefits and Rights: The EU Blue Card provides several benefits and rights to the cardholder, which may include: a. Right to live and work in the EU member state that issued the Blue Card; b. Possibility to bring family members (spouse and minor children) to the EU and provide them with residence permits; c. Access to social security benefits, healthcare, and education services; d. Freedom of movement within the participating EU member states after residing in the issuing country for a certain period; e. Certain rights related to employment, such as equal treatment, working conditions, and professional mobility.
+* Benefits and Rights: These may include: a. Right to live and work in the EU member state that issued the Blue Card; b. Possibility to bring family members; c. Access to social security benefits, healthcare, and education services; d. Some freedom of movement within participating EU member states; e. Rights related to employment, such as equal treatment, working conditions, and professional mobility.
 
 * Job Mobility: A significant advantage of the EU Blue Card is the ability to change jobs within the participating EU member states, within restrictions.
-
-* Dependent Family Members: EU Blue Card holders can bring their dependent family members, including spouses and minor children, to reside with them in the EU member state. 
-
-* Recognition of Qualifications: EU member states generally recognize higher education degrees and professional qualifications obtained in other EU member states.
-

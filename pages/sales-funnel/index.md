@@ -1,6 +1,6 @@
 # Sales funnel
 
-A sales funnel, also known as a purchase funnel, is a visual representation of the customer journey from the initial contact with a business or product to the final purchase. The goal is to guide potential customers to a sale.
+A sales funnel, also known as a purchase funnel, is a visual representation of the customer journey from the initial contact with a business or product to the final purchase. The purpose is to understand and optimize the customer journey
 
 The typical sales funnel consists of four stages:
 
@@ -12,4 +12,3 @@ The typical sales funnel consists of four stages:
 
 4. Action: Potential customers become paying customers. They may make a purchase, sign up for a subscription, or become a client. The goal of this stage is to make it as easy as possible for potential customers to complete the purchase process and to encourage them to become repeat customers.
 
-Not all potential customers will move through every stage of the sales funnel. Some may drop out early in the process, while others may take longer to make a decision. The sales funnel is a tool to help businesses understand and optimize the customer journey, but it should be used in conjunction with other marketing and sales strategies.

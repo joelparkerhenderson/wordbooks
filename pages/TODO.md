@@ -5,14 +5,12 @@ MNC: Multi-National Companies
 
 * Inbound Marketing
 * Outbound Marketing
-* 
+
 
   * [Work from home (WFH)](work-from-home)
   * [Work from anywhere (WFA)](work-from-anywhere)
 
 
-* Subject Matter Expert (SME)
-* 
 * Auditor
 
 sop: standard operating procedure
@@ -20,48 +18,13 @@ sop: standard operating procedure
   
 ## ??
 
-  * [Solopreneur](solopreneur)
-  * [Cottage business](cottage-business)
-  * [Lifestyle business](lifestyle-business)
-
-* 
-  * [Creative Enterprise Zone (CEZ)](creative-enterprise-zone)
-
-* [DMAIC methodology](dmaic-methodology)
-* [Plan-Do-Check-Act (PDCA)](plan-do-check-act)
-* [OODA loop](ooda-loop)
-* [OODA loop v DMAIC cycle v PDCA spiral](ooda-loop-v-dmaic-cycle-v-pdca-spiral)
-* [Kaizen](kaizen)
-* [Agile chartering](agile-chartering)
-* [Decision record](decision-record)
-* [Six Sigma methodology](six-sigma-methodology)
-* [Economic moat](economic-moat)
-* [Economies of scale](economies-of-scale)
-* [Winner-take-all](winner-take-all)
-* [Sales funnel](sales-funnel)
-* [Vendor lock-in](vendor-lock-in)
-* [Aggregation theory](aggregation-theory)
-* [Commoditization of trust](commoditization-of-trust)
-
-
-government relations
-public relations
-investor relations
-developer relations
 
 
 Ready to categorize:
-  * [Business Model Canvas (BMC)](business-model-canvas)
-  * [Go-to-market strategy](go-to-market-strategy)
-  * [Strategy map](strategy-map)
-  * [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
-
-  * [Investment Readiness Level (IRL)](investment-readiness-level)
-  * [EBFAS organizational climate](ebfas-organizational-climate)
 
   * [Earned income](earned-income)
 
-
+* [Getting Things Done (GTD)](getting-things-done)
 * [Value-based funding model](value-based-funding-model)
 * [Supply chain management (SCM)](supply-chain-management)
 * [Business intelligence (BI)](business-intelligence)
@@ -195,7 +158,6 @@ Bare:
 
 * [anti-patterns](anti-patterns)
 * [queueing-theory](queueing-theory)
-
 * [conversion-rate-optimization](conversion-rate-optimization)
 * [decision-record](decision-record)
 * [dilution](dilution)

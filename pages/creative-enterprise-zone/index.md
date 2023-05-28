@@ -6,16 +6,14 @@ Purpose: stimulate economic development, innovation, and collaboration within th
 
 Focus: nurture the creative industries, which include sectors such as visual arts, design, digital media, film and television production, architecture, music, performing arts, fashion, crafts, and more. 
 
-Infrastructure: purpose-built workspaces, studios, galleries, performance venues, fabrication labs, co-working spaces, and incubators.
+Infrastructure: workspaces, studios, galleries, performance venues, fabrication labs, co-working spaces, and incubators.
 
-Collaboration: Organize networking events, workshops, seminars, and conferences to facilitate knowledge sharing, idea exchange, and collaboration opportunities. 
+Engagement: Host community events, workshops, festivals, conferences, and exhibitions, to help idea exchange, and to showcase the work of local artists and creative organizations. 
 
-Development: Provide access to mentors, business advisors, and industry experts who can provide guidance on topics such as business planning, marketing, funding, intellectual property, and legal issues. 
-
-Engagement: Host community events, festivals, and exhibitions to showcase the work of local artists and creative organizations. 
+Development: Provide access to mentors, advisors, and experts who can provide guidance on topics such as business planning, marketing, funding, intellectual property, and legal issues. 
 
 Urban Regeneration: Attract creative businesses, which in turn create employment opportunities, drive economic growth, and contribute to the local economy through increased cultural tourism, job creation, and increased property values.
 
-Collaboration with Local Government: Successful CEZs involve collaboration and partnership between local government, community organizations, creative industry associations, educational institutions, and other stakeholders. Local government bodies often provide support and funding for the establishment and maintenance of CEZs. Collaboration ensures that the initiatives align with local development strategies, zoning regulations, and community needs.
+Collaboration: Partner with local government, community organizations, creative industry associations, educational institutions, and other stakeholders.
 
 Metrics: Assess economic indicators such as job creation, business growth, and investment attraction. Additionally, they measure cultural impact by evaluating the number of cultural events, audience engagement, and community participation. 

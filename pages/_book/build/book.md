@@ -109,6 +109,32 @@ The judging criteria for a pitch competition can vary, but often includes factor
 Many pitch competitions offer prizes or funding to the winners, which can range from small amounts of cash to significant investments from venture capital firms or angel investors. In addition to funding, winning a pitch competition can also provide valuable exposure and networking opportunities for startups, which can help them to gain traction and grow their business.
 
 
+## Business Model Canvas 
+
+The Business Model Canvas (BMC) is a visual tool that helps entrepreneurs and businesses to describe, design, and analyze their business model. 
+
+The BMC hels entrepreneurs identify the most important components of their business model and how they are interrelated. This guides decisions about resources, offerings, customers, and growth. The BMC is also useful for analyzing competitors' business models, to identify areas where a business can differentiate. The BMC has nine components.
+
+1. Customer Segments: To whom is the business aiming to sell?
+
+2. Value Proposition: How does the business help customer needs and wants via products or services?
+
+3. Channels: What ways does a business reach customers and deliver its value proposition?
+
+4. Customer Relationships: How does a business relate to it customers, such as via personal assistance, self-service, or automated services?
+
+5. Revenue Streams: What ways does business generate revenue, such as through product sales, subscription fees, or advertising?
+
+6. Key Resources: What assets, people, and other resources are required?
+
+7. Key Activities: What activities are required to operate the business?
+
+8. Key Partnerships: What relationships with other businesses or organizations help the business?
+
+9. Cost Structure: What costs and fees are associated with operating the business?
+
+
+
 ## Business plan
 
 A business plan is a written document that describes in detail the goals, strategies, and tactics that a company will undertake to achieve its objectives. A good business plan provides a clear roadmap for the company, aligns employees, helps secure funding, and communicates the company's vision and values to stakeholders.
@@ -418,91 +444,258 @@ Some key benefits of the MLnP approach include:
 * Increased product adoption: By providing users with a clear learning path, MLnP can help to overcome the initial learning curve, leading to increased adoption and usage.
 
 
-## Time-to-market (TTM)
+## Investment Readiness Level (IRL)
 
-Time-to-market (TTM) is the amount of time it takes for a company to bring a new product or service to market, from the initial idea or concept to the launch of the product or service. 
+Investment Readiness Level (IRL) is a tool used in the startup and venture capital community to evaluate the maturity of a startup's business plan and the potential of its technology or product. 
 
-TTM can be influenced by a variety of factors, including the complexity of the product or service, the regulatory environment, supply chain constraints, manufacturing and production processes, the speed and effectiveness of the development and testing process, and the company's commitment to continuous learning and improvement.
+IRL is a scale ranging from 1 to 9, where 1 represents the very early stage of the startup, and 9 indicates a successful, revenue-generating business that has achieved its full potential.
 
-Shortening TTM is a key goal for many businesses, as it can provide a competitive advantage in the marketplace. By getting products or services to market more quickly, companies can respond more effectively to changes in customer demand, stay ahead of competitors, and capture market share before others do.
+The following is a brief description of each IRL level:
 
-To improve TTM, companies may adopt a range of strategies, such as:
+1. Basic research: At this stage, the startup is in the very early phase of ideation and conceptualization. It is conducting basic research to determine the feasibility of its product or technology.
 
-* Lean development processes, such as agile or DevOps, can help companies streamline the development and testing process, reducing the time it takes to bring products to market.
+2. Idea validation: The startup has validated its idea and has started to develop a business plan.
 
-* Rapid prototyping can help companies quickly develop and test new product concepts, allowing them to refine designs and features before investing in full-scale production.
+3. Technology demonstration: The startup has developed a prototype or proof of concept and has demonstrated the technical feasibility of its product.
 
-* Supply chain optimization can help companies reduce lead times for raw materials and components, improving manufacturing and production efficiency.
+4. Product development: The startup is actively developing its product and is refining its business plan.
 
-* Outsourcing certain aspects of the development process, such as design or testing, can help companies speed up product development and reduce costs.
+5. Commercialization: The startup has a fully developed product and is focused on bringing it to market.
 
-* Regulatory compliance preparation can help companies avoid delays in getting products to market and reduce the risk of legal or financial penalties.
+6. Market validation: The startup has successfully launched its product in the market and is testing its viability.
 
+7. Revenue generation: The startup is generating revenue from its product and is scaling its operations.
 
-## First-mover advantage
+8. Scaling: The startup has achieved product-market fit and is scaling its operations to meet demand.
 
-First-mover advantage is a concept in business strategy that refers to the competitive advantage a company gains by being the first to enter a market or introduce a new product or service. In general, the first mover has the opportunity to establish brand recognition, build customer loyalty, and capture a significant share of the market before competitors can catch up.
-
-One of the key advantages of being a first mover is the ability to set the standards for the market. By introducing a new product or service, the first mover can shape customer expectations and create a brand that is associated with innovation and leadership. This can lead to a higher level of customer loyalty, as customers may be more likely to remain loyal to a brand that they perceive as being at the forefront of the market.
-
-Another advantage of being a first mover is that it allows a company to establish relationships with suppliers and distributors before competitors can. This can help to secure better pricing and terms for the company, as well as ensure a more reliable supply chain. Additionally, by having established relationships with key suppliers and distributors, the first mover can make it more difficult for competitors to enter the market, as they may face greater barriers to entry.
-
-However, being a first mover also comes with risks. One of the key risks is that the market may not be ready for the product or service being offered, and the company may face significant obstacles in trying to establish a customer base. Additionally, being a first mover often requires significant investment in research and development, marketing, and distribution, which can be a significant financial burden.
-
-Furthermore, once a first mover has established itself in a market, it may face challenges from competitors who are able to learn from the first mover's mistakes and improve upon their products or services. These competitors may be able to enter the market with lower costs, better products, or more effective marketing strategies, and may be able to capture market share from the first mover.
+9. Expansion: The startup has achieved significant success and is expanding into new markets or developing new products.
 
 
-## “Crossing the Chasm” by Geoffrey Moore
+## Startup entrances
 
-"Crossing the Chasm" is a book written by Geoffrey Moore. Moore argues that there is a significant gap, or "chasm", between early adopters of a technology product and the majority of consumers who are more conservative in their purchasing decisions. This chasm represents a major obstacle for technology companies, as it can be difficult to convince mainstream consumers to adopt new technologies. 
+Startup entrances refer to the various ways entrepreneurs and early-stage companies enter the startup ecosystem.
 
-Moore identifies five main customer segments:
+Startup entrances can benefit from…
 
-1. Innovators: These are the earliest adopters of new technology products, who are willing to take risks and try new things.
+Incubators: These are programs that support early stage startups. They can provide workspace, mentorship, networking opportunities, and access to resources such as legal, accounting, and marketing support. Incubators typically accept startups at ideation, and help them refine their business models, validate their ideas, and prepare for market entry.
 
-2. Early Adopters: These customers are also willing to take risks, but they are more pragmatic and focused on finding practical solutions to problems.
+Accelerators: These are programs that speed up startup growth. They typically offer a structured curriculum, mentorship, funding, and access to a network of investors, industry experts, and potential customers. Accelerators focus on rapidly scaling startups and helping them achieve milestones within a defined timeframe, often 3-6 months.
 
-3. Early Majority: This is the largest customer segment, and they are more cautious than early adopters. They want to see evidence that a technology product is reliable and delivers real value before adopting it.
+Skunkworks: These are in-house, highly autonomous, and often secretive innovation teams within a larger organization. Skunkworks teams explore disruptive ideas and work on projects independent of the organization's regular processes and bureaucracy. This fosters innovation and encourages entrepreneurial thinking.
 
-4. Late Majority: This segment is even more conservative than the early majority, and they are often skeptical of new technologies.
+Spinoffs and spinouts: These refer to the creation of a new independent company from within an existing organization. A spinoff is when a parent company deliberately separates a division, project, unit, or the like. A spinout is when parent company employees choose to leave to start their own company. The new company has its own management, capital, and strategy.
 
-5. Laggards: These are the last customers to adopt new technologies, often only doing so when it becomes necessary.
-
-Moore argues that technology companies should focus their marketing efforts on the early adopter segment, using case studies and other evidence to demonstrate the value and reliability of their products. Once they have established a strong customer base among early adopters, they can use this momentum to cross the chasm and appeal to the early majority.
+Technology Tranfers: These involve the creation of a new company based on intellectual property (IP) developed within a research institution, then licensed externally. Technology Tranfers typically occur when an innovation has commercial potential, and the best way is via a new startup using the IP and the researchers' expertise.
 
 
-## Early adopters
+## Incubator
 
-Early adopters are a group of consumers who are among the first to purchase and use a new product or technology. They are typically characterized by their willingness to take risks and try new things, often before a product has been widely adopted by the general public.
+An incubator is an organization that supports the development and growth of startups and early-stage companies by providing resources, mentorship, and networking opportunities. The goal of an incubator is to help startups become self-sufficient and successful by providing a supportive environment and resources that would otherwise be difficult or impossible to obtain.
 
-Early adopters play an important role in the adoption curve of a new product or technology. They are the first to experience the benefits of the new product, and their feedback can be instrumental in shaping the product's future development. They also help to create buzz and excitement around the product, which can help to drive further adoption by later adopters.
+Incubators are typically run by private companies, government agencies, or universities, and they offer a range of services to their clients, including office space, access to funding, legal and accounting services, marketing and branding assistance, and mentorship from experienced entrepreneurs and industry experts.
 
-Early adopters are often considered to be opinion leaders and influencers within their social circles. They are often sought after by marketers and companies who are looking to promote their products, as they can help to create a "halo effect" around the product and influence others to try it.
+Incubators often have a competitive application process, and once accepted, the startup will typically be given office space, access to resources, and a period of time to develop their product or service. During this time, incubators may offer workshops, networking events, and access to industry experts to help the startup refine their product or service and build their network.
 
-One key characteristic of early adopters is their ability to understand and appreciate the value of new technologies and innovations. They are often more tech-savvy than the average consumer, and are willing to invest time and money into learning about new products and figuring out how to use them effectively.
-
-Early adopters are also typically more forgiving of the bugs and glitches that can accompany new products or technologies, as they understand that these issues are a normal part of the development process. They are often willing to provide feedback to developers and help to improve the product over time.
-
-Overall, early adopters are an important part of the product adoption process, and can help to drive the success of new products and technologies. By understanding their needs and motivations, companies can better target this important group of consumers and build products that meet their needs and exceed their expectations.
+Incubators are often confused with accelerators, but there are some key differences between the two. While incubators focus on providing resources and support to help startups develop and grow, accelerators focus on accelerating the growth of startups by providing a short-term, intensive program of mentorship and resources. Accelerators often provide funding in exchange for equity, while incubators typically do not take equity in the startups they support.
 
 
-## Early evangelists
+## Accelerator
 
-Early evangelists are customers or users who are not only enthusiastic about a product or service but are also willing to promote it to others. They are typically among the first to adopt a new product, and they play a crucial role in helping to establish the product in the market. 
+An accelerator is a program designed to help early-stage startups rapidly grow their businesses and achieve success. Typically, an accelerator provides a cohort of selected startups with access to funding, mentorship, education, networking opportunities, and other resources over a fixed period of time, usually three to six months.
 
-Early evangelists can be thought of as "superfans" who are passionate about a particular product and who are willing to spread the word to others.
+The goal of an accelerator is to help startups develop their products, validate their business models, build their teams, and acquire customers as quickly and efficiently as possible. Accelerators often provide seed funding to the startups in their cohorts in exchange for equity, as well as access to their networks of investors and other key players in the startup ecosystem.
 
-In the context of startups, early evangelists are particularly important because they can help to generate buzz and excitement around a new product or service. They are often willing to provide feedback on the product, which can be valuable for the startup in refining and improving the product over time. 
+Accelerators differ from incubators in that they are typically more structured, intensive, and time-limited programs. Incubators, on the other hand, are more long-term and flexible, providing startups with office space, infrastructure, and support services over an extended period of time, without the intensive training and mentoring that accelerators offer.
 
-Early evangelists can also be important for startups because they can help to validate the product and demonstrate to other potential customers that the product has value.
+Accelerators have become increasingly popular in recent years, particularly in the technology sector, as a way to help startups get off the ground and gain traction quickly. Many of the most successful startups in recent years, including Airbnb, Dropbox, and Stripe, have gone through accelerator programs to help them achieve their early growth and success.
 
-There are several ways that startups can identify and engage with early evangelists:
 
-* Identify users or customers who are particularly engaged with the product, and reach out to them to encourage them to become advocates for the product. 
+## Skunkworks
 
-* Create communities around the product, where users and customers can connect with each other and share their experiences with the product. 
+Skunkworks is a term used to describe a group within an organization that is given a high degree of autonomy and resources to work on a specific project, often with the aim of developing breakthrough technology or solving complex problems.
 
-* Offer incentives or rewards to early evangelists to encourage them to promote the product to others.
+Skunkworks projects are typically undertaken by small, highly skilled teams who are given a great deal of freedom to explore new ideas and approaches. This can involve working outside the normal organizational structure and processes, which can sometimes lead to conflict with other departments or stakeholders.
+
+The benefits of a skunkworks approach include faster development times, increased creativity and innovation, and a greater sense of ownership and engagement among team members. Skunkworks teams are often highly motivated and passionate about their work, and may be willing to take risks and experiment with new approaches that might not be feasible within a more structured environment.
+
+However, skunkworks projects can also be risky and expensive, and there is always the possibility of failure. In addition, they can sometimes be seen as operating outside of the normal chain of command, which can create tensions within an organization.
+
+Despite these challenges, many organizations continue to use skunkworks as a way to drive innovation and tackle complex problems. In recent years, the term has also been used more broadly to describe any group or project that operates outside of traditional structures or processes, including in fields like technology, art, and education.
+
+
+## Spinoff 
+
+A spinoff (a.k.a. corporate spinoff) is a type of corporate restructuring in which a parent company creates a new, independent company by selling or distributing some of its assets or operations.
+
+Spinoffs are typically undertaken to help unlock the value of a company's assets or operations, which may not be fully appreciated or recognized by investors when they are part of a larger entity. By creating a separate company, the parent company can focus on its core business, while the spinoff company can pursue its own strategic objectives and allocate resources in a way that is best suited to its unique needs.
+
+Spinoffs can take many different forms. In some cases, a parent company may sell a subsidiary to a third-party buyer, either in whole or in part. In other cases, the parent company may distribute shares in the spinoff company to its existing shareholders. In still other cases, the spinoff company may be created as a joint venture between the parent company and a third-party partner.
+
+Spinoffs can offer a number of potential benefits to both the parent company and the spinoff company. For the parent company, a spinoff can help improve its overall financial performance by allowing it to focus on its core business and reduce its exposure to non-core or underperforming assets. It can also help unlock value for shareholders by allowing them to realize the full value of the company's assets or operations.
+
+For the spinoff company, a spinoff can offer a number of advantages as well. By operating as an independent company, the spinoff can pursue its own strategic objectives and allocate resources in a way that is best suited to its unique needs. It can also potentially benefit from a more focused and streamlined organizational structure, which can help drive innovation, growth, and profitability. Finally, as a standalone entity, the spinoff may be able to access capital more easily, which can be particularly important for early-stage or high-growth companies.
+
+
+## Spinout
+
+A spinout (a.k.a. employee spinout) refers to a new independent company that is created when a group of company employees decide to take a particular technology or product and develop it into a new company.
+
+When employees decide to form a spinout, they often do so because they believe that they can develop the technology or product more effectively as a standalone company. This can be due to a variety of reasons, such as a desire for greater control over the direction of the product or technology, a belief that the technology has greater potential than is currently being realized, or a desire to pursue the technology in a different market.
+
+To create a spinout, the employees will typically need to secure funding to start the new company. This can come from a variety of sources, such as venture capital firms, angel investors, or strategic partners. Once funding is secured, the new company is formed and begins operations as an independent entity.
+
+If the original company is supportive, then it may invest in the spinout. This can provide the original company and the spinout with mutual benefits, such as access to each other's customers, resources, and technologies.
+
+If the original company is hostile, then it may attempt to compete, retaliate, or litigate for violations of non-compete, non-solicitation, and non-disclosure agreements.
+
+
+## Technology transfer 
+
+Technology transfer for startups refers to the process of transferring technology, knowledge, or intellectual property from research institutions, universities, or established companies to startup ventures for commercialization.
+
+Technology transfer can originate from various sources, including research institutions, universities, laboratories, and established companies. Transfer can happen through partnerships, collaborations, or the spinoff of specific business units.
+
+Licensing agreements play a central role in technology transfer. These agreements outline the terms and conditions under which the startup can use the intellectual property. Licensing agreements may include provisions related to royalties, exclusivity, territorial restrictions, sublicensing, and the duration of the license.
+
+Collaborative partnerships can provide startups with access to research facilities, equipment, technical expertise, and mentorship. At the same time, the originator benefits from the agility and entrepreneurial spirit of the startup.
+
+Commercialization begins when the startup assumes the responsibility for refining, validating, and scaling the technology for commercial applications. This involves market analysis, customer discovery, and product development.
+
+Funding and support can come from various sources, including venture capital firms, angel investors, government grants, or industry-specific funding programs. Additionally, startups may receive mentorship, or work with the established company's preferred incubator or accelerator.
+
+
+## Startup step-ups
+
+A startup step-up is when a small business is operating at a steady level, then initiates a step up to become a startup.
+
+Some examples…
+
+A solopreneur is an entrepreneur who starts and operates a business on their own. They handle all aspects of the business themselves, from planning and decision-making to execution and implementation. Solopreneurs typically offer specialized skills or services, such as freelance writing, graphic design, coaching, or consulting. Solopreneurship offers individuals the flexibility and independence to pursue their passions, control their work-life balance, and directly reap the rewards of their efforts. A solopreneur can step up to become a startup, such as via service automation.
+
+A cottage business refers to a small-scale, home-based business that typically involves traditional crafts, handmade products, or localized services. These businesses often operate within the owner's residence and rely on local or niche markets for customers. Cottage businesses are known for their personalized and unique offerings, such as artisanal goods, homemade food products, or specialized services like tutoring or pet grooming. A cottage business can step up to become a startup, such as via mass production and mass marketing.
+
+A lifestyle business is a business that has the primary goal of enhancing the owner's preferred way of life, rather than maximizing profits or growth. Examples of lifestyle businesses include boutique hotels, organic farms, travel blogs, or fitness studios. These businesses may deliberately avoid rapid expansion or external investments to maintain the desired lifestyle and minimize stress. A lifestyle business can step up to become a startup if the owner sells to a startup entreprenuer.
+
+
+## Solopreneur
+
+A solopreneur is an entrepreneur who starts and operates a business venture on their own. The term "solopreneur" is derived from the words "solo" and "entrepreneur." A solopreneur takes on all of the responsibilities of starting and running a business, from developing a business plan to handling finances and marketing.
+
+Solopreneurs can be found in a variety of industries, including consulting, coaching, creative services, and e-commerce. They typically work from home or a small office and may use freelancers or contractors to assist with certain tasks as their business grows.
+
+One of the key advantages of being a solopreneur is the freedom to create and run a business according to your own values and priorities. Solopreneurs have complete control over their business and can make decisions quickly without the need for approval from partners or investors.
+
+However, there are also challenges associated with being a solopreneur. For example, they may face a higher risk of burnout due to the need to handle all aspects of the business. They may also face difficulties in scaling their business, as they may not have the resources or expertise to expand.
+
+## Cottage business
+
+A cottage business is a small-scale, home-based business that typically involves the production or sale of handmade goods, artisanal products, or specialized services. The term "cottage" refers to the idea that these businesses are often operated out of a small, domestic workspace, such as a home office or garage.
+
+Cottage businesses have a long history and have been a traditional way for individuals and families to supplement their income and generate a livelihood. In many cases, cottage businesses are started by individuals who have a particular skill or talent, such as sewing, crafting, or baking, and want to turn that skill into a business.
+
+Some examples of cottage businesses include handmade crafts (such as jewelry or textiles), artisanal food (such as baked goods or specialty sauces), local personal services (such as pet grooming or school tutoring), home-based care (such as daycare or childcare), or e-commerce businesses (such as e-retail or e-auctions).
+
+Cottage businesses can have several advantages over traditional brick-and-mortar businesses. For example, they often have lower overhead costs because they don't require a separate storefront or commercial space. They can also be started on a small scale, allowing individuals to test the viability of their business idea without committing a significant amount of capital.
+
+However, cottage businesses also face challenges. For example, they may be limited in terms of capacity, as they often rely on the individual owner or a small team to produce goods or provide services. They may face challenges in marketing and distribution, due to limited money for advertising and promotion.
+
+Despite these challenges, cottage businesses remain a popular and viable option for individuals looking to start their own business. With the rise of e-commerce, cottage businesses can now reach a wider audience, and sell on a global scale.
+
+
+## Lifestyle business 
+
+A lifestyle business is a type of small business that is built around the lifestyle and interests of the owner. Unlike traditional businesses that are primarily focused on maximizing profits and growth, lifestyle businesses are designed to provide a comfortable and enjoyable way of life for the owner.
+
+Lifestyle businesses can take many different forms, but they all share a few key characteristics. Typically, they are small in scale and require minimal investment and overhead costs. They may be based on a hobby or passion of the owner, such as cooking, travel, or fitness, or they may be focused on providing a particular service to a specific niche market.
+
+One of the key benefits of a lifestyle business is that it allows the owner to have more control over their schedule and work-life balance. Because the business is built around the owner's interests and lifestyle, they can often set their own hours and work from home or from anywhere in the world.
+
+However, lifestyle businesses also have some potential downsides. They may not generate significant profits or growth, which can limit the potential for expansion or future investment. Additionally, because they are often based on the owner's personal interests or skills, they may be difficult to sell or transfer to another owner.
+
+Some common examples of lifestyle businesses include coaching (such as fitness training or business advising), content creation (such as e-marketing or blogging), food/beverage businesses (such as a catering service or food truck), travel businesses (such as a tour guide or travel agency), and handmade artisanal goods (such as jewelry or crafts).
+
+
+## Startup exits
+
+Startup exits refer to the strategies and processes through which startup founders and investors realize a return on their investment by exiting or selling their ownership stakes in a startup company. 
+
+Typical exits include…
+
+Initial Public Offering (IPO): An IPO occurs when a startup offers its shares to the public for the first time on a stock exchange. The IPO's rigorous regulatory process enables the company to raise substantial capital for growth and expansion.
+
+Acquisition/Acquihire/Merger: A larger company can purchas a startup, to gain access to its talent, customers, or intellectual property. This can provide a significant financial return, and enable the startup team to continue working.
+
+Strategic Partnership/Joint Venture: Startups may opt for strategic partnerships or joint ventures with established companies. This allows both parties to collaborate, share resources, and leverage each other's strengths. 
+
+Secondary Market Sales: Early-stage investors or employees can sell their ownership stakes in the startup to other investors. This can happen through private sales or specialized platforms designed for secondary market transactions.
+
+Management Buyout: The existing management team of a startup may choose to buy out the ownership stakes of early investors. This occurs when founders or key executives have the resources and desire to take full control of the company.
+
+Liquidation/Wind-Down: If a startup is unable to succeed, a decision may be made to wind down the business, liquidate its assets, pay off creditors, and distribute remaining funds to investors.
+
+
+## Initial Public Offering (IPO)
+
+An initial public offering (IPO) is a process by which a private company goes public and offers its shares for sale to the public on a stock exchange for the first time. An IPO allows a company to raise capital by selling a portion of its ownership to public investors.
+
+The IPO process involves several steps. First, the company hires an investment bank or group of banks to underwrite the offering. The underwriters help the company determine the appropriate price for the shares and sell them to institutional and retail investors. The underwriters also help the company with the necessary regulatory filings, including a prospectus that provides detailed information about the company's financial and business operations.
+
+Once the regulatory filings have been completed, the company sets a date for the IPO and begins marketing the shares to potential investors. On the day of the IPO, the company issues shares of stock and begins trading on a stock exchange, such as the New York Stock Exchange (NYSE) or NASDAQ.
+
+The success of an IPO depends on a variety of factors, including the strength of the company's financials and market demand for its shares. A successful IPO can provide a significant source of capital for a company, which can be used to fund growth initiatives, pay off debt, or reward early investors and employees. However, there are also risks involved with an IPO, such as market volatility and the potential for investor lawsuits if the company's performance falls short of expectations.
+
+## Mergers and Acquisitions (M&A)
+
+Mergers and Acquisitions (M&A) refer to the consolidation of companies through various financial transactions, such as mergers, acquisitions, consolidations, tender offers, and purchases of assets or stocks. These transactions are generally done to achieve strategic objectives such as entering new markets, acquiring technology, expanding product lines, or increasing market share.
+
+A merger refers to the combination of two or more companies into a single entity, while an acquisition involves one company purchasing another company. In a consolidation, two or more companies merge to form a new entity. A tender offer is a public offer by a company to buy shares of another company from its shareholders at a premium price. A purchase of assets or stocks involves one company buying some or all of the assets or stocks of another company.
+
+M&A transactions can be friendly or hostile. In a friendly transaction, the companies involved negotiate the terms of the transaction and work towards a mutually beneficial outcome. In a hostile transaction, the acquiring company makes a bid to purchase the target company without the support of the target's management.
+
+M&A transactions are complex and involve various legal, financial, and regulatory considerations. They require careful planning, due diligence, and negotiations to ensure a successful outcome. M&A transactions can also have significant impacts on employees, customers, and shareholders, and therefore, it is important to manage these stakeholders carefully throughout the process.
+
+## Special Purpose Acquisition Company (SPAC)
+
+A Special Purpose Acquisition Company (SPAC) is a publicly traded company that raises capital with the purpose of acquiring an existing private company. SPACs are also known as blank-check companies because they don't have any operations or assets when they are created, but rather are created specifically to raise funds through an initial public offering (IPO) to acquire another company. Once a SPAC raises capital, it must acquire a company within a specified period of time, usually two years. If the SPAC fails to make an acquisition, the capital is returned to investors.
+
+The SPAC process begins with the formation of a shell company by a team of sponsors, who are often experienced investors or industry executives. They may raise funds from institutional investors, high-net-worth individuals, and other investors who are interested in investing in the SPAC. The funds raised are placed in a trust account until the SPAC identifies a target acquisition.
+
+Once the SPAC identifies a target company, it negotiates a merger or acquisition agreement with the target company. The SPAC then asks its investors to vote on the acquisition. If the investors approve the acquisition, the SPAC completes the merger or acquisition, and the target company becomes a publicly traded company. The original sponsors of the SPAC are usually compensated with a percentage of the target company's equity.
+
+SPACs have become increasingly popular in recent years as an alternative to traditional IPOs. SPACs offer several advantages over traditional IPOs, including a shorter time frame for going public, a simplified regulatory process, and greater certainty of capital. However, SPACs also have some drawbacks, including a lack of transparency, a potential conflict of interest between the SPAC sponsors and investors, and the possibility of overpaying for the target company.
+
+
+## Acquihire
+
+Acquihire, a portmanteau of "acquisition" and "hire," is a business strategy in which a company acquires another company primarily for the talent and expertise of its employees, rather than for its products or services. In an acquihire, the acquiring company typically offers employment contracts to the employees of the acquired company, often with the goal of filling specific positions or building out a particular team within the acquiring company.
+
+Acquihires are most common in the technology industry, where companies often compete for highly skilled and specialized talent. Acquiring a company can be an effective way for a larger company to quickly gain access to a pool of talented employees who have specific skills and experience that are difficult to find elsewhere.
+
+One of the key benefits of an acquihire is that it can help a company to quickly scale up its talent pool without having to go through the lengthy and costly process of recruiting and hiring new employees. Additionally, the employees acquired through an acquihire may already have experience working together as a team, which can help to speed up the integration process and reduce the risk of cultural clashes or other conflicts.
+
+However, acquihires can also be risky for the acquiring company, as it can be difficult to accurately assess the value of the employees being acquired and to ensure that they will be a good fit for the company's culture and goals. Additionally, the acquisition of a company for its talent can be seen as a negative signal to investors and other stakeholders, as it may suggest that the acquiring company is struggling to attract and retain talent on its own.
+
+## Unicorn
+
+In the world of startups, a "unicorn" is a term used to describe a privately held startup company that has reached a valuation of $1 billion or more. The term was coined by venture capitalist Aileen Lee in a 2013 TechCrunch article, where she noted that such companies were extremely rare, like mythical unicorns.
+
+Unicorns are often companies that have experienced rapid growth and have disrupted traditional industries with innovative products or services. Some famous examples of unicorns include Uber, Airbnb, SpaceX, and WeWork.
+
+To achieve unicorn status, startups typically need to raise significant amounts of capital from venture capitalists and other investors. This funding is often used to scale the company's operations, develop new products, and expand into new markets.
+
+While the term unicorn is often associated with success, it also comes with significant pressure to continue growing and maintaining high valuations. Some critics argue that unicorn companies are overvalued and that the hype surrounding them can lead to unsustainable growth strategies and eventual failures.
+
+Nonetheless, the term unicorn has become a symbol of the potential for startups to achieve massive success and change entire industries in the process.
+
+
+## Zombie
+
+A zombie is a company or project that continues to operate without growing, thriving, or dying, often because it is unable to secure funding or generate sufficient revenue to sustain its operations. The term "zombie" refers to the fact that the company is neither alive nor dead but is instead in a state of limbo.
+
+Zombie companies often characterized by a lack of innovation and growth, as they are focused on simply maintaining their current operations rather than expanding into new markets or developing new products. This can result in a stagnation of the company's financial position, making it difficult to attract new investment or generate revenue from new customers.
+
+While zombie companies or zombie projects may be able to continue operating for an extended period of time, they are typically not sustainable in the long run. Without growth or innovation, the company or project may eventually become irrelevant and fade away, or it may be forced to shut down due to financial pressures. Therefore, it is important for company teams and project teams to constantly evaluate their growth potential and take steps to address any issues that may be hindering their growth.
+
 
 
 ## How to find startup help
@@ -1348,6 +1541,93 @@ The process generally involves the following steps:
 Typical applications of predictive analytics include customer segmentation for marketing, logistics optimization for manufacturing, fraud detection for finance, and disease diagnosis for medicine.
 
 
+## Time-to-market (TTM)
+
+Time-to-market (TTM) is the amount of time it takes for a company to bring a new product or service to market, from the initial idea or concept to the launch of the product or service. 
+
+TTM can be influenced by a variety of factors, including the complexity of the product or service, the regulatory environment, supply chain constraints, manufacturing and production processes, the speed and effectiveness of the development and testing process, and the company's commitment to continuous learning and improvement.
+
+Shortening TTM is a key goal for many businesses, as it can provide a competitive advantage in the marketplace. By getting products or services to market more quickly, companies can respond more effectively to changes in customer demand, stay ahead of competitors, and capture market share before others do.
+
+To improve TTM, companies may adopt a range of strategies, such as:
+
+* Lean development processes, such as agile or DevOps, can help companies streamline the development and testing process, reducing the time it takes to bring products to market.
+
+* Rapid prototyping can help companies quickly develop and test new product concepts, allowing them to refine designs and features before investing in full-scale production.
+
+* Supply chain optimization can help companies reduce lead times for raw materials and components, improving manufacturing and production efficiency.
+
+* Outsourcing certain aspects of the development process, such as design or testing, can help companies speed up product development and reduce costs.
+
+* Regulatory compliance preparation can help companies avoid delays in getting products to market and reduce the risk of legal or financial penalties.
+
+
+## First-mover advantage
+
+First-mover advantage is a concept in business strategy that refers to the competitive advantage a company gains by being the first to enter a market or introduce a new product or service. In general, the first mover has the opportunity to establish brand recognition, build customer loyalty, and capture a significant share of the market before competitors can catch up.
+
+One of the key advantages of being a first mover is the ability to set the standards for the market. By introducing a new product or service, the first mover can shape customer expectations and create a brand that is associated with innovation and leadership. This can lead to a higher level of customer loyalty, as customers may be more likely to remain loyal to a brand that they perceive as being at the forefront of the market.
+
+Another advantage of being a first mover is that it allows a company to establish relationships with suppliers and distributors before competitors can. This can help to secure better pricing and terms for the company, as well as ensure a more reliable supply chain. Additionally, by having established relationships with key suppliers and distributors, the first mover can make it more difficult for competitors to enter the market, as they may face greater barriers to entry.
+
+However, being a first mover also comes with risks. One of the key risks is that the market may not be ready for the product or service being offered, and the company may face significant obstacles in trying to establish a customer base. Additionally, being a first mover often requires significant investment in research and development, marketing, and distribution, which can be a significant financial burden.
+
+Furthermore, once a first mover has established itself in a market, it may face challenges from competitors who are able to learn from the first mover's mistakes and improve upon their products or services. These competitors may be able to enter the market with lower costs, better products, or more effective marketing strategies, and may be able to capture market share from the first mover.
+
+
+## “Crossing the Chasm” by Geoffrey Moore
+
+"Crossing the Chasm" is a book written by Geoffrey Moore. Moore argues that there is a significant gap, or "chasm", between early adopters of a technology product and the majority of consumers who are more conservative in their purchasing decisions. This chasm represents a major obstacle for technology companies, as it can be difficult to convince mainstream consumers to adopt new technologies. 
+
+Moore identifies five main customer segments:
+
+1. Innovators: These are the earliest adopters of new technology products, who are willing to take risks and try new things.
+
+2. Early Adopters: These customers are also willing to take risks, but they are more pragmatic and focused on finding practical solutions to problems.
+
+3. Early Majority: This is the largest customer segment, and they are more cautious than early adopters. They want to see evidence that a technology product is reliable and delivers real value before adopting it.
+
+4. Late Majority: This segment is even more conservative than the early majority, and they are often skeptical of new technologies.
+
+5. Laggards: These are the last customers to adopt new technologies, often only doing so when it becomes necessary.
+
+Moore argues that technology companies should focus their marketing efforts on the early adopter segment, using case studies and other evidence to demonstrate the value and reliability of their products. Once they have established a strong customer base among early adopters, they can use this momentum to cross the chasm and appeal to the early majority.
+
+
+## Early adopters
+
+Early adopters are a group of consumers who are among the first to purchase and use a new product or technology. They are typically characterized by their willingness to take risks and try new things, often before a product has been widely adopted by the general public.
+
+Early adopters play an important role in the adoption curve of a new product or technology. They are the first to experience the benefits of the new product, and their feedback can be instrumental in shaping the product's future development. They also help to create buzz and excitement around the product, which can help to drive further adoption by later adopters.
+
+Early adopters are often considered to be opinion leaders and influencers within their social circles. They are often sought after by marketers and companies who are looking to promote their products, as they can help to create a "halo effect" around the product and influence others to try it.
+
+One key characteristic of early adopters is their ability to understand and appreciate the value of new technologies and innovations. They are often more tech-savvy than the average consumer, and are willing to invest time and money into learning about new products and figuring out how to use them effectively.
+
+Early adopters are also typically more forgiving of the bugs and glitches that can accompany new products or technologies, as they understand that these issues are a normal part of the development process. They are often willing to provide feedback to developers and help to improve the product over time.
+
+Overall, early adopters are an important part of the product adoption process, and can help to drive the success of new products and technologies. By understanding their needs and motivations, companies can better target this important group of consumers and build products that meet their needs and exceed their expectations.
+
+
+## Early evangelists
+
+Early evangelists are customers or users who are not only enthusiastic about a product or service but are also willing to promote it to others. They are typically among the first to adopt a new product, and they play a crucial role in helping to establish the product in the market. 
+
+Early evangelists can be thought of as "superfans" who are passionate about a particular product and who are willing to spread the word to others.
+
+In the context of startups, early evangelists are particularly important because they can help to generate buzz and excitement around a new product or service. They are often willing to provide feedback on the product, which can be valuable for the startup in refining and improving the product over time. 
+
+Early evangelists can also be important for startups because they can help to validate the product and demonstrate to other potential customers that the product has value.
+
+There are several ways that startups can identify and engage with early evangelists:
+
+* Identify users or customers who are particularly engaged with the product, and reach out to them to encourage them to become advocates for the product. 
+
+* Create communities around the product, where users and customers can connect with each other and share their experiences with the product. 
+
+* Offer incentives or rewards to early evangelists to encourage them to promote the product to others.
+
+
 ## Company leadership roles
 
 There are several company leadership roles that play a critical role in the success of an organization. Here are some of the most common leadership roles and their responsibilities:
@@ -1891,6 +2171,55 @@ Key functions typically include:
 
 * Collaboration: Collaborate with other departments within the company, such as marketing and sales, to ensure that the product meets customer needs and is successfully launched in the market.
 
+## Investor relations (IR)
+
+Investor relations (IR) refers to the strategic management of communication and relationships between a company and its investors, shareholders, financial analysts, and other stakeholders in the financial community. The IR team conveys the company's financial performance, business strategy, and future prospects to the investment community while maintaining transparency, building trust, and maximizing shareholder value. 
+
+Key aspects…
+
+Financial Reporting: Work closely with accounting teams to prepare financial statements and regulatory filings. Provide information on the company's financial health, performance, and operating results.
+
+Relationship Management: Nurture relationships with investors, shareholders, and financial analysts to understand their perspectives, address concerns, and provide updates. Lead investor get-togethers and one-on-ones to foster interaction.
+
+Shareholder Services: Act as a central point of contact for shareholders, providing information on stock ownership, dividends, stock splits, stock transfers, proxy voting, shareholder meetings, and other corporate actions.
+
+Business Intelligence: Monitor investor advice, analyst reports, competitor activities, and market trendsAnalyze and interpret results to identify opportunities for improvement. 
+
+Corporate Governance: Collaborate with legal teams and compliance teams to ensure adherence to regulatory requirements, including securities laws, disclosure obligations, and corporate governance best practices.
+
+## Government Relations
+
+Government Relations, also known as Government Affairs or Public Affairs, refers to a company function that manages the relationship between the company and various government entities. The GR team engages with government officials, policymakers, and regulatory bodies to influence public policy, advocate for the company's interests, and ensure a favorable regulatory environment.
+
+Key aspects…
+
+Policy Analysis:Track proposed laws, regulations, and policies, that could impact the company's operations, industry, or market. Analyze the potential impact of these policies to provide strategic guidance to stakeholders.
+
+Advocacy: Advocate for policy positions that align with the organization's goals, with government officials, lawmakers, and regulatory agencies. This may include providing expert testimony, political lobbying, and industry associations.
+
+Relationships: Establish trust and credibility with government officials, policymakers, and relevant stakeholders, to enable effective communication, collaboration, and information exchange.
+
+Compliance: Ensure the company complies with relevant laws, regulations, and policies. Facilitate communication between the company and regulatory authorities. Assess risks and mitigate them.
+
+Political Engagement: Manage the company's political engagement activities, including donations, campaigns, and initiatives. This may involve political action committees (PACs), or specific bills, or specific candidates.
+
+Reputation Management: Work closely with the company's public relations team on policy matters. Help manage the company's public image, respond to media inquiries, and address public concerns related to government interactions.
+
+
+## Developer Relations
+
+Developer Relations (DR), also known as Developer Advocacy or Developer Evangelism, is a strategic function within a company that focuses on nurturing relationships with software developers, technical communities, and the broader ecosystem. The DR team fosters engagement, trust, and collaboration between the company and developers by providing support, resources, and advocacy. 
+
+Key aspects…
+
+Engagement: Engage with developers, technology influencers, industry experts, and thought leaders, through channels such as developer events, online communities, social media, and developer meetups. Participate in technical discussions, answer questions, and provide guidance to developers working with the company's technologies.
+
+Education: Provide technical education to developers, to help them overcome challenges, troubleshoot issues, and make the most of the company's products or services. Create documentation, tutorials, samples, podcasts, webinars, presentations, etc., to facilitate developers' understanding and adoption of the company's technologies.
+
+Advocacy: Champion developers' needs within the company for developer-friendly policies and practices. Gather feedback to understand developer needs and pain points, and use this to help shape the company's product roadmap, prioritize feature development, and improve developer experience.
+
+Outreach: Collaborate with external developer communities, open-source projects, and industry influencers to expand the reach and impact of the company's developer initiatives, and the success of the company's products and services.
+
 ## Account Executive (AE)
 
 An Account Executive (AE) is a company role typically found in sales and business development departments. The primary responsibility is drive growth by developing client relationships.
@@ -1948,23 +2277,6 @@ Key responsibilties include:
 * Competitive Analysis: Conduct competitive analysis, including technical research, then leverage this knowledge to position the company's products or services against competitors.
 
 
-## Customer Service Representative (CSR)
-
-A Customer Service Representative (CSR) is a company role that involves interacting with customers to address inquiries, provide assistance, and ensure a positive customer experience. CSRs serve as the primary point of contact for customer support.
-
-Key reponsibilities:
-
-* Support: Help customers by addressing their inquiries, concerns, and issues. Listen to customers, empathize with their concerns, and work towards solutions. Provide information, troubleshoot problems, and escalate complex issues.
-
-* Customer Relationship Management: Build positive relationships with customers. Create a friendly and personalized experience showing genuine interest in their needs, and proactively engaging in follow-up communication.
-
-* Order Processing: Help customers place orders, track shipments, and manage their accounts. Ensure accurate and timely order processing. Verify customer account details as needed. Process returns, refunds, or exchanges.
-
-* Knowledge Base: Document customer inquiries, issues, and resolutions, to create a resource for both customers and team members. Improve processes by identifying areas for enhancement and providing feedback on customer pain points.
-
-* Conflict Resolution: Handle customer complaints, conflicts, or dissatisfaction, with the aim of achieving resolution and customer retention. Work to restore customer confidence, satisfaction, and loyalty.
-
-
 ## Product Manager (PM)
 
 A Product Manager (PM) is a company role responsible for the strategy, development, and management of a product or a product line throughout its lifecycle. PMs work with cross-functional teams, including engineering, design, marketing, and sales, to ensure the successful delivery of a product that provides customer value and aligns with company goals. 
@@ -1988,15 +2300,11 @@ A Project Manager (PM) is company role responsible for overseeing a project with
 
 Key responsbilities can include:
 
-* Project Planning: Initiate projects by defining objectives, scope, outputs, and outcomes. Work with stakeholders to create a project plan with tasks, risks, timelines, and dependencies. 
+* Project Planning: Initiate projects by defining objectives, scope, schedule, budget, outputs, and outcomes. Work with stakeholders to create a project plan with tasks, risks, timelines, and dependencies. 
 
-* Team Leadership: Facilitate collaboration, assign the team roles and goals, promote team culture, motivate team members, and manage conflicts.
+* Team Leadership: Facilitate teamwork, assign roles and goals, promote team culture, motivate members, and manage conflicts.
 
-* Scope Management: Ensure the scope stays aligned with objectives. Manage any change impact on resources, timelines, and deliverables. Negotiate trade-offs with stakeholders.
-
-* Schedule Management: Develop project schedules and track progress. Monitor activities and delays, and take corrective actions to keep on track.
-
-* Budget Management: Develop project budgets, estimate costs, and track expenditures. Manage project finances and optimize resource utilization.
+* Scope/Schedule/Budget Management: Ensure these stay aligned with objectives and resource utilization. Manage any changes. Take corrective actions as needed. Negotiate trade-offs with stakeholders.
 
 * Risk Management: Identify potential risks that could affect the project and stakeholders. Conduct risk assessments, create contingencies, and establish mitigations.
 
@@ -2005,6 +2313,38 @@ Key responsbilities can include:
 * Stakeholder Management: Serve as the point of contact for project communication. Engage stakeholders throughout the project. Address any issues promptly.
 
 * Project Completion: Ensure deliverables are completed and accepted. Conduct project evaluations and retrospectives, then document lessons learned.
+
+
+## Customer Service Representative (CSR)
+
+A Customer Service Representative (CSR) is a company role that involves interacting with customers to address inquiries, provide assistance, and ensure a positive customer experience. CSRs serve as the primary point of contact for customer support.
+
+Key reponsibilities:
+
+* Support: Help customers by addressing their inquiries, concerns, and issues. Listen to customers, empathize with their concerns, and work towards solutions. Provide information, troubleshoot problems, and escalate complex issues.
+
+* Customer Relationship Management: Build positive relationships with customers. Create a friendly and personalized experience showing genuine interest in their needs, and proactively engaging in follow-up communication.
+
+* Order Processing: Help customers place orders, track shipments, and manage their accounts. Ensure accurate and timely order processing. Verify customer account details as needed. Process returns, refunds, or exchanges.
+
+* Knowledge Base: Document customer inquiries, issues, and resolutions, to create a resource for both customers and team members. Improve processes by identifying areas for enhancement and providing feedback on customer pain points.
+
+* Conflict Resolution: Handle customer complaints, conflicts, or dissatisfaction, with the aim of achieving resolution and customer retention. Work to restore customer confidence, satisfaction, and loyalty.
+
+
+## Subject Matter Expert (SME)
+
+A Subject Matter Expert (SME) refers to an individual who possesses specialized knowledge, expertise, and experience in a specific subject area or field. SMEs provide subject-specific insights, guidance, and support. Their expertise is typically acquired through years of education, or work in a specific industry, or conducting research.
+
+Key aspects…
+
+Expertise and Knowledge: Advise colleagues and stakeholders by sharing subject knowledge and expertise. Clarify complex concepts, explain industry practices, shape priorities, and accelerate decision-making related to the subject area.
+
+Knowldege Transfer: Design and deliver training programs, instructional resources, technical documentation, subject presentations, or research articles, to transfer knowledge and skills to colleagues, employees, or clients.
+
+Collaboration Guidance: Serve as advisor with cross-functional teams, project managers, and stakeholders to provide subject-specific insights and support, such as for product development, process optimization, and business objectives.
+
+Continuous Learning: Engage in continuous learning and stay up-to-date with advancements, industry trends, new research findings, emerging technologies, and changes in regulations or best practices.
 
 
 ## Technology sectors 
@@ -2512,6 +2852,47 @@ Hockey-stick growth is often associated with startups and emerging companies, as
 However, achieving hockey-stick growth is not easy and requires a combination of factors, including a solid business model, a product or service that solves a real problem, a clear value proposition, effective marketing and sales strategies, and a team capable of executing on the company's vision. Companies that fail to achieve hockey-stick growth may experience stagnation or decline, which can result in a loss of market share and competitiveness.
 
 
+## Sales funnel
+
+A sales funnel, also known as a purchase funnel, is a visual representation of the customer journey from the initial contact with a business or product to the final purchase. The purpose is to understand and optimize the customer journey
+
+The typical sales funnel consists of four stages:
+
+1. Awareness: Potential customers become aware of your product or service. This may happen through advertising, social media, or other marketing channels. The goal of this stage is to capture the attention of potential customers and encourage them to learn more about your product or service.
+
+2. Interest: Potential customers begin to show interest in your product or service. They may visit your website, read blog posts, or engage with your social media accounts. The goal of this stage is to provide valuable information to potential customers and encourage them to engage further with your business.
+
+3. Decision: Potential customers begin to consider making a purchase. They may request a quote, sign up for a free trial, or contact your sales team for more information. The goal of this stage is to provide potential customers with the information they need to make a decision and to address any concerns or objections they may have.
+
+4. Action: Potential customers become paying customers. They may make a purchase, sign up for a subscription, or become a client. The goal of this stage is to make it as easy as possible for potential customers to complete the purchase process and to encourage them to become repeat customers.
+
+
+
+## Winner take all
+
+The term "winner-take-all" refers to a situation in which one player or company in a market captures a significant majority of the market share, while smaller players are left with little or no market share. This phenomenon can occur in a variety of industries, including technology, finance, and entertainment.
+
+In a winner-take-all market, the dominant player is able to capture a disproportionate share of the profits and benefits associated with that market. This can be due to a variety of factors, including network effects, economies of scale, and brand recognition.
+
+Network effects occur when a product or service becomes more valuable to users as more people use it. For example, a social media platform like Facebook becomes more valuable to users as more of their friends and family members join the platform. This creates a powerful incentive for users to stick with the dominant platform, even if competitors offer similar features or functionality.
+
+Economies of scale occur when a company is able to reduce its costs as it grows larger. For example, a company that produces electronic devices can negotiate better prices for components and manufacturing services as it grows larger, allowing it to reduce its costs and offer more competitive pricing to customers.
+
+Brand recognition is the extent to which consumers are familiar with and trust a particular brand. Dominant players in a market often have strong brand recognition, making it difficult for smaller players to gain a foothold in the market.
+
+Once a company has captured a significant share of a market, it can be difficult for competitors to gain traction. This is because the dominant player is able to use its resources to invest in research and development, marketing, and other activities that allow it to maintain its dominant position. Smaller players, on the other hand, may lack the resources to compete effectively.
+
+
+## Vendor lock-in
+
+Vendor lock-in refers to the situation in which a customer becomes dependent on a particular vendor's products or services and finds it difficult or costly to switch to another vendor. This typically occurs when a customer invests heavily in a particular vendor's products or services, and the cost of switching to a competitor is prohibitively high due to the effort, time, and resources required to make the transition.
+
+Vendor lock-in can occur in various contexts, such as enterprise software, cloud computing, telecommunications, and other technology-related areas. Vendors may use various tactics to lock customers in, such as proprietary file formats, specialized hardware, long-term contracts, and lack of interoperability with other vendors' products.
+
+Vendor lock-in can have a number of negative consequences for customers. For example, they may be forced to pay higher prices for products or services than they would if they had more choices, and they may be limited in terms of the features and functionality available to them. Additionally, vendor lock-in can make it more difficult for customers to innovate or stay competitive, as they may be constrained by the limitations of the vendor's products or services.
+
+To avoid vendor lock-in, customers may choose to adopt open standards and open source solutions that allow for greater flexibility and interoperability with other vendors' products. They may also negotiate contracts that allow for more flexibility and less long-term commitment to a particular vendor. In general, it is important for customers to carefully consider the potential risks of vendor lock-in when selecting vendors and products.
+
 ## Pricing models
 
 Pricing models refer to the various strategies and approaches that businesses use to determine the prices of their products or services. Pricing is a critical aspect of business strategy, as it directly affects marketability, revenue, and profitability. Here are some common pricing models used by businesses:
@@ -2699,23 +3080,21 @@ Overall, P2P networks have had a significant impact on the development of decent
 
 Marketing is a comprehensive business function that involves understanding customer needs and wants, creating and delivering value, and building strong customer relationships. It aims to promote products, services, or brands to a target audience, and ultimate drive customer acquisition, retention, and satisfaction.
 
-Key areas:
+Key areas…
 
-Market Research: Gather and analyze data about customers, competitors, and the overall market. Identify customer needs, market trends, and opportunities. Use customer demographics, behaviors, and preferences to inform marketing strategy.
+Marketing Strategy: Set objectives, identify target segments, create positioning, and determine the marketing mix using the 4 Ps: product, price, place, promotion. Use market research on customers, competitors, demographics, and the ecosystem.
 
-Marketing Strategy: Develop strategy to reach the target market and achieving business goals. Set objectives, identify target segments, creating positioning, and determine the marketing mix (the 4 Ps: product, price, place, promotion). 
+Product Development: Collaborate with product teams to identify gaps, plan features, and set pricing. Monitor product performance and customer feedback.
 
-Product Development and Management: Collaborate with product teams to align with customer preferences. Identify product gaps, define product features, and determine pricing strategies. Monitor product performance and customer feedback.
+Channel Management: Manage distribution channels to reach target markets. Channels can include direct sales, retail stores, e-commerce platforms, distribution partners, and others.
 
-Channel Management: Manage the best distribution channels to reach the target markets efficiently. Distribution channels can include direct sales, retail stores, e-commerce platforms, distribution partners, and others.
+Promotion: Generate interest among customers, such as via advertising, public relations, sales promotions, direct marketing, and digital marketing. 
 
-Promotion: Create awareness, generate interest, and persuade customers. Develop promotional campaigns using a mix of communication tools, such as advertising, public relations, sales promotions, direct marketing, and digital marketing. 
+Branding: Build and manage brand identity and personality. Create brand strategies for the brand's values, assets, and positioning.
 
-Branding: Build and manage brand identity and positioning to differentiate products or services in the marketplace. Create brand strategies that define the brand's values, personality, assets, and positioning relative to competitors. 
+Customer Relationship: Nurture customers throughout the customer journey. Use tactics such as customer loyalty programs, personalized marketing, and customer feedback systems.
 
-Customer Relationship: Nurture customer relationships throughout the customer journey. Employ strategies such as customer loyalty programs, personalized marketing communications, and customer feedback systems.
-
-Marketing Analytics: Analyze campaign results, customer behavior, market trends, and ROI to optimize marketing strategies and allocate resources effectively. Provide insights into customer preferences, campaign success, and areas for improvement.
+Analytics: Analyze campaign results, customer behavior, market trends, and ROI to optimize marketing strategies. 
 
 
 ## Marketing channels
@@ -3131,6 +3510,53 @@ Examples of BHAGs include:
 
 Setting a BHAG can be a powerful tool for companies of all sizes, as it provides a clear and inspiring vision for the future and helps to align the efforts of all stakeholders towards a common purpose. However, it is important to set a BHAG that is realistic and achievable, while still being challenging and inspiring. A BHAG that is too unrealistic or unattainable can actually be demotivating and may undermine the company's overall performance.
 
+## Futurespective
+
+A futurespective is a group activity that focuses on exploring and envisioning possible futures for a team, organization, or project. It is a forward-thinking approach that helps to identify potential opportunities and challenges, as well as to prepare for possible changes and disruptions.
+
+The main goal of a futurespective is to imagine a range of possible future scenarios, and to use these scenarios to inform current decision-making and planning. By exploring different possible futures, teams can better understand the potential consequences of their actions and make more informed choices.
+
+Futurespectives typically involve a group of people, such as a team or department, and are often facilitated by a trained facilitator or coach. During the activity, participants are asked to imagine different scenarios, such as best-case and worst-case outcomes, and to think about the factors that could lead to these outcomes.
+
+Participants are encouraged to think creatively and to challenge assumptions about the future. They may use tools such as brainstorming, scenario planning, and SWOT analysis to generate ideas and explore different possibilities.
+
+Futurespectives can be especially useful for teams that are working on projects with a high degree of uncertainty, such as new product development or strategic planning. By exploring different possible futures, teams can better anticipate and prepare for potential challenges, as well as identify new opportunities for growth and innovation.
+
+
+## Oblique Strategies
+
+Oblique Strategies is a set of cards created by musician and producer Brian Eno and artist Peter Schmidt in the 1970s to help stimulate creative thinking and problem-solving. The cards contain aphorisms, instructions, and prompts designed to encourage lateral thinking and break free from conventional ways of approaching a problem.
+
+Here are some key aspects of Oblique Strategies:
+
+* Purpose: The purpose of Oblique Strategies is to help individuals or groups break out of their creative ruts and explore new possibilities. The cards are designed to stimulate creative thinking and encourage people to approach problems and challenges from different angles.
+
+* Format: Oblique Strategies consists of a deck of cards, each of which contains a different phrase or instruction. The phrases are intentionally ambiguous and open to interpretation, encouraging users to apply them in a variety of ways.
+
+* Examples: Some examples of the phrases on the cards include "Use an old idea," "Emphasize the flaws," "Do nothing for as long as possible," and "What would your closest friend do?" These prompts are intended to break up habitual patterns of thinking and encourage users to explore new ideas and approaches.
+
+* Application: Oblique Strategies can be used in a variety of creative contexts, such as music composition, art, writing, and design. The cards can be drawn randomly or selected deliberately, and users can apply them individually or as a group.
+
+* Impact: Oblique Strategies has been credited with inspiring a number of creative breakthroughs in various fields. The cards have been used by musicians such as David Bowie, Coldplay, and Radiohead, as well as artists and designers in a range of disciplines.
+
+
+## Strategic Balanced Scorecard (SBS)
+
+The Strategic Balanced Scorecard (SBS) is a management framework that helps organizations to measure and manage their performance across multiple perspectives. The scorecare provides a view of an organization across four perspectives:
+
+* Financial perspective: focus on financial outcomes such as revenue growth, profitability, and shareholder value. It includes metrics such as sales growth, return on investment (ROI), and cash flow.
+
+* Customer perspective: focus on satisfaction and loyalty. It includes metrics such as customer retention rates, customer satisfaction scores, and net promoter scores.
+
+* Internal business processes perspective: focus on the processes that drive business success. It includes metrics such as process cycle times, defect rates, and inventory turnover.
+
+* Learning and growth perspective: focus on the organization's ability to innovate and improve over time. It includes metrics such as employee satisfaction, employee turnover, and training and development programs.
+
+The scorecard helps align strategy, objectives, and metrics across these four perspectives. This helps align resources and initiatives with strategic priorities.
+
+In addition, the scorecard also helps organizations to communicate their strategy and objectives to investors, employees, and other stakeholders.
+
+
 ## Objectives and Key Results
 
 Objectives and Key Results (OKRs) is a goal-setting framework that helps organizations align goals with outcomes. 
@@ -3282,6 +3708,23 @@ The SPADE decision framework is a structured approach to decision-making that in
 The SPADE decision framework is a useful tool for complex decision-making because it provides a structured approach to the problem-solving process. It can be used in a variety of contexts, from personal decision-making to business strategy development. By following the steps of the SPADE framework, decision-makers can ensure that they have considered all the relevant factors before making a decision.
 
 
+## Intent plan
+
+An intent plan is a document that describes a person's or organization's intentions or goals for a particular project, task, or initiative. It is a roadmap that guides decision-making and helps align everyone involved.
+
+Here are some key aspects of intent plans:
+
+* Purpose: The purpose of an intent plan is to provide a clear and concise outline of the goals, objectives, and desired outcomes of a project or initiative. It helps to ensure that everyone involved in the project understands what is expected of them and what they are working towards.
+
+* Components: An intent plan typically includes several key components, including a description of the project, the objectives or goals, the expected outcomes, the timeline, the resources required, and the roles and responsibilities of team members.
+
+* Clarity: Clear communication is crucial when creating an intent plan. The objectives, goals, and expected outcomes should be specific and measurable, and the timeline should be realistic and achievable. This helps to ensure that everyone involved in the project understands what is expected of them and what they are working towards.
+
+* Flexibility: While an intent plan provides a roadmap for a project, it is important to recognize that things may change along the way. As such, an intent plan should be flexible enough to allow for adjustments as necessary. This helps to ensure that the project remains on track and that the desired outcomes are achieved.
+
+* Communication: Communication is key when it comes to an intent plan. It is important to regularly communicate progress and updates to team members and stakeholders. This helps to ensure that everyone involved in the project is informed and can make informed decisions.
+
+
 ## SMART criteria
 
 SMART criteria is a popular framework used for goal setting and project planning. It is an acronym that stands for Specific, Measurable, Achievable, Relevant, and Timely. The SMART criteria help to ensure that goals and objectives are well-defined and achievable.
@@ -3301,38 +3744,24 @@ The SMART criteria in more detail:
 Using SMART criteria helps ensure that your goals and objectives are well-defined, and helps enable clearer communication and collaboration among teammates.
 
 
-## Intent plan
+## Cynefin framework 
 
-An intent plan is a document that describes a person's or organization's intentions or goals for a particular project, task, or initiative. It is a roadmap that guides decision-making and helps align everyone involved.
+The Cynefin framework is a sense-making tool for organizational management and strategic planning. It helps leaders recognize the nature of the problems they are facing and choose approaches for addressing them. Cynefin encourages adaptive thinking, helps navigate complexity, and emphasizes the need to probe, sense, and respond.
 
-Here are some key aspects of intent plans:
+The term "Cynefin" is pronounced kuh-NEV-inn, from the Welsh language. It means "habitat" or "place of belonging".
 
-* Purpose: The purpose of an intent plan is to provide a clear and concise outline of the goals, objectives, and desired outcomes of a project or initiative. It helps to ensure that everyone involved in the project understands what is expected of them and what they are working towards.
+The Cynefin framework categorizes situations into five domains:
 
-* Components: An intent plan typically includes several key components, including a description of the project, the objectives or goals, the expected outcomes, the timeline, the resources required, and the roles and responsibilities of team members.
+1. Simple Domain: Cause-and-effect relationships are clear and predictable. Solutions and best practices can be easily identified and applied. This domain is for known knowns.
 
-* Clarity: Clear communication is crucial when creating an intent plan. The objectives, goals, and expected outcomes should be specific and measurable, and the timeline should be realistic and achievable. This helps to ensure that everyone involved in the project understands what is expected of them and what they are working towards.
+2. Complicated Domain: Problems are not immediately obvious but can be solved through analysis, research, expertise, and specialized knowledge. Multiple approaches and solutions may exist. This domain is for known unknowns.
 
-* Flexibility: While an intent plan provides a roadmap for a project, it is important to recognize that things may change along the way. As such, an intent plan should be flexible enough to allow for adjustments as necessary. This helps to ensure that the project remains on track and that the desired outcomes are achieved.
+3. Complex Domain: Cause-and-effect relationships are not easily discernible. They are characterized by uncertainty and unpredictability. Multiple factors interact and influence outcomes. Experimentation, adaptive approaches, and sense-making are necessary. This domain is for unknown unknowns.
 
-* Communication: Communication is key when it comes to an intent plan. It is important to regularly communicate progress and updates to team members and stakeholders. This helps to ensure that everyone involved in the project is informed and can make informed decisions.
+4. Chaotic Domain: Cause-and-effect relationships are unclear, or missing, or volatile. Quick decision-making and quick action is necessary to establish order. This domain is for crises.
 
+5. Disorder Domain: This is a transitional state, where it is unclear which of the other domains is applicable or how to make sense of the situation. Further exploration is necessary to categorize the problem. This domain is for flux.
 
-## Oblique Strategies
-
-Oblique Strategies is a set of cards created by musician and producer Brian Eno and artist Peter Schmidt in the 1970s to help stimulate creative thinking and problem-solving. The cards contain aphorisms, instructions, and prompts designed to encourage lateral thinking and break free from conventional ways of approaching a problem.
-
-Here are some key aspects of Oblique Strategies:
-
-* Purpose: The purpose of Oblique Strategies is to help individuals or groups break out of their creative ruts and explore new possibilities. The cards are designed to stimulate creative thinking and encourage people to approach problems and challenges from different angles.
-
-* Format: Oblique Strategies consists of a deck of cards, each of which contains a different phrase or instruction. The phrases are intentionally ambiguous and open to interpretation, encouraging users to apply them in a variety of ways.
-
-* Examples: Some examples of the phrases on the cards include "Use an old idea," "Emphasize the flaws," "Do nothing for as long as possible," and "What would your closest friend do?" These prompts are intended to break up habitual patterns of thinking and encourage users to explore new ideas and approaches.
-
-* Application: Oblique Strategies can be used in a variety of creative contexts, such as music composition, art, writing, and design. The cards can be drawn randomly or selected deliberately, and users can apply them individually or as a group.
-
-* Impact: Oblique Strategies has been credited with inspiring a number of creative breakthroughs in various fields. The cards have been used by musicians such as David Bowie, Coldplay, and Radiohead, as well as artists and designers in a range of disciplines.
 
 
 ## Issue tracker 
@@ -3396,6 +3825,143 @@ There are different types of decision trees, including:
 * Decision trees with continuous variables: Used when the input data contains continuous variables, rather than discrete categories.
 
 One of the benefits of decision trees is that they are easy to interpret, even for people without a technical background. They can also be updated easily as new data becomes available, making them a flexible and useful tool for decision-making.
+
+## Decision record (DR)
+
+A decision record (DR) is a document that captures the decision-making process, the rationale behind the decision, and any associated actions or next steps. The purpose is to document and communicate decisions made within a team or organization.
+
+A good DR provides a clear record of the decision-making process, which can be used for future reference, accountability, and transparency. DRs are often used in project management, software development, and other collaborative environments where decisions are made by multiple people.
+
+A typical DR includes the following information: a title, a date, a context summary, a description of the decision in depth, a list of stakeholders, and advice for implmentors. DR templates can help with creating this information. DRs can use various formats, such as documents, spreadsheets, and online tools. 
+
+DRs are important to share with stakeholders to ensure eveyone is aware of the decision and any of its implications.
+
+Some benefits of using decision records include:
+
+* Transparency: Decision records provide transparency into the decision-making process, helping to build trust and accountability within a team or organization.
+
+* Documentation: Decision records provide a clear and concise record of the decision, which can be used for future reference and as a historical record.
+
+* Clarity: Decision records help to ensure that everyone involved in the decision-making process has a clear understanding of the decision, its rationale, and its implications.
+
+* Consistency: Decision records help to ensure that similar decisions are made consistently over time, using the same criteria and decision-making process.
+
+
+## Six Sigma methodology
+
+Six Sigma is a business management methodology that seeks to improve the quality of processes and reduce defects or errors. It was first introduced by Motorola in the 1980s and later popularized by companies like General Electric. The central idea of Six Sigma is to identify and remove the causes of defects and minimize variability in business processes. It relies on statistical analysis and measurement to identify sources of variation and eliminate them systematically.
+
+The Six Sigma approach is based on a set of principles and practices that guide the implementation of the methodology. The five core principles of Six Sigma are:
+
+1. Customer Focus: The customer's needs and requirements should be the driving force behind all process improvements.
+
+2. Data and Fact-Driven Approach: Decisions should be based on objective data and facts, rather than opinions or assumptions.
+
+3. Process Focus: All processes should be viewed as a series of interconnected steps that contribute to the final product or service.
+
+4. Continuous Improvement: The pursuit of perfection is ongoing and should be a continuous process of improvement.
+
+5. Empowering Employees: Employees should be empowered to make decisions and take actions that improve the quality of the process and the final product or service.
+
+To achieve the goals of Six Sigma, the methodology follows a structured approach known as DMAIC, which stands for Define, Measure, Analyze, Improve, and Control. This approach is used to identify, measure, and eliminate the causes of defects in a process, as well as ensure that improvements are sustained over time.
+
+## DMAIC methodology
+
+DMAIC is a problem-solving methodology used in the Six Sigma approach to continuous improvement. The acronym stands for Define, Measure, Analyze, Improve, and Control. Each step of the process is designed to achieve a higher level of quality and efficiency.
+
+1. Define: In this stage, the problem to be solved is clearly defined, and the goals for the project are established. A team is assembled to lead the effort, and a project charter is created to outline the scope of the project, objectives, timelines, and resources required.
+
+2. Measure: Once the problem is clearly defined, the next step is to measure the current process and gather data on the problem. The team determines what to measure and collects data from various sources, including process maps, customer feedback, and statistical process control charts.
+
+3. Analyze: In this stage, the team analyzes the data collected to identify the root cause of the problem. This step involves a detailed analysis of the data collected in the previous stage to determine the cause of the problem.
+
+4. Improve: The fourth stage of DMAIC involves using the data collected to improve the process. The team develops and implements a plan to address the root cause of the problem. This step involves brainstorming ideas for process improvement and evaluating the potential solutions to select the best option.
+
+5. Control: The final stage of DMAIC is to ensure that the improvements made in the previous stage are sustainable. This step involves developing a plan to monitor the process and measure performance to ensure that the changes made are successful.
+
+
+## Plan-Do-Check-Act (PDCA)
+
+Plan-Do-Check-Act (PDCA) is a four-step management method used to continuously improve processes and products. It is also known as the Deming cycle, after the quality management guru W. Edwards Deming. The PDCA cycle is widely used in many industries, including manufacturing, healthcare, and education.
+
+The four steps of the PDCA cycle are as follows:
+
+* Plan: Define the problem, set goals, and develop a plan for achieving those goals. You might gather data, analyze the current process, and identify areas for improvement. The plan should be specific, measurable, achievable, relevant, and timely (SMART).
+
+* Do: Implement the plan. This might involve training staff, purchasing new equipment, or redesigning a process. You should document the changes you make and collect data to track progress.
+
+* Check: Evaluate the results of the plan. This might involve analyzing data, reviewing feedback from customers or staff, or conducting audits. You should compare the results to the goals you set in the planning stage.
+
+* Act: You take action based on the results of the check stage. This might involve standardizing the process, making further improvements, or starting the cycle again with a new problem. The goal is to continuously improve the process and product.
+
+The PDCA cycle is iterative, meaning that you can repeat the cycle as many times as needed to achieve the desired results. Each cycle should build on the previous one, with the goal of continuously improving the process and product.
+
+The benefits of using the PDCA cycle include improved quality by continuous improvements, increased efficiency by  eliminating waste, and better communication by involving stakeholders.
+
+
+## OODA loop
+
+The OODA (observe, orient, decide, act) loop is a concept developed by military strategist John Boyd that has been widely adopted in business, sports, and other fields. The OODA loop is a model for decision-making and action that emphasizes the importance of speed, flexibility, and agility in responding to changing circumstances.
+
+The four steps of the OODA loop are:
+
+1. Observe: Collect information about the current situation through all available means, including feedback, data, and personal experience.
+
+2. Orient: Analyze and interpret the information collected in the observation phase to gain a better understanding of the situation and identify relevant patterns and trends.
+
+3. Decide: Based on the analysis and understanding of the situation, make a decision on the most appropriate course of action.
+
+4. Act: Implement the chosen course of action and evaluate its effectiveness.
+
+The OODA loop is a continuous process, as the results of one action will lead to new observations and the cycle begins again. The goal is to move through the loop faster than the competition in order to gain an advantage and stay ahead.
+
+In business, the OODA loop can be used to make decisions and take action quickly and effectively in response to changing market conditions, new technologies, or other disruptive forces. By constantly observing and analyzing the situation, businesses can stay ahead of the competition and adapt to new challenges. The OODA loop is also useful in crisis situations, where quick decisions and actions can be critical to the success or survival of a business.
+
+
+## OODA loop v DMAIC cycle v PDCA spiral
+
+The OODA loop of military strategy, the DMAIC cycle of project management, and the PDCA spiral of iterative planning are all comparable.
+
+* OODA: Observe, Orient, Decide, Act: a framework for how to direct one's energies to defeat an adversary. The OODA loop is a core tool used for U.S. military planning. OODA can also be useful for business strategy planing.
+
+* DMAIC: Define, Measure, Analyze, Improve, Control: a data-driven improvement cycle for optimizing and stabilizing business processes and designs. The DMAIC improvement cycle is the core tool used to drive Six Sigma projects.
+
+* PDCA: Plan, Do, Check, Act: a data-driven improvement cycle for iterating towards an improved system, implemented in spirals of increasing knowledge of the system that converge on the ultimate goal, each cycle closer than the previous.
+
+Tasks and comparisons:
+
+|                             | OODA    | DMAIC   | PDCA   |
+|-----------------------------|---------|---------|--------|
+| Identify the problem:       |Observe  | Define  | Plan   |
+| Measure the problem:        |Observe  | Measure | Plan   |
+| Analyze the problem:        |Orient   | Analyze | Plan   |
+| Create action plans:        |Decide   | Improve | Plan   |
+| Execute action plans:       |Act      | Improve | Do     |
+| Verify the results:         |Observe  | Control | Check  |
+| Measure the results:        |Observe  | Control | Check  |
+| Analyze the results:        |Orient   | Control | Check  |
+| Create improvement plans:   |Decide   | Control | Act    |
+| Execute improvement plans:  |Act      | Control | Act    |
+
+
+## Kaizen 
+
+Kaizen is a Japanese term that means "continuous improvement." It is a philosophy and methodology that emphasizes a systematic, incremental approach to improving processes and products in a way that involves all employees of an organization, from top management to frontline workers.
+
+Kaizen is based on the principle of "Plan-Do-Check-Act" (PDCA), which is a cyclical process of continuous improvement. This process involves four key steps:
+
+* Plan: Identify opportunities for improvement and develop a plan for making changes.
+
+* Do: Implement the plan and make the changes.
+
+* Check: Measure the results of the changes to determine their effectiveness.
+
+* Act: If the changes were effective, standardize them and continue to use them. If they were not effective, identify the reasons and make further improvements.
+
+Kaizen involves all employees of an organization, from top management to frontline workers, and emphasizes the importance of teamwork, communication, and collaboration. It is not a top-down approach, but rather a collaborative process that involves all levels of the organization in identifying areas for improvement and implementing changes.
+
+Kaizen can be applied to any process or product, from manufacturing to service industries, and can be used to improve efficiency, quality, safety, and customer satisfaction. It can also lead to cost savings, increased employee engagement and motivation, and a culture of continuous improvement within the organization.
+
 
 ## Change management
 
@@ -3505,6 +4071,128 @@ The process is repeated until the team reaches consensus on the estimate for the
 Planning poker helps the team to avoid anchoring bias and groupthink, and encourages open communication and collaboration among team members. It also enables the team to identify potential risks, dependencies, and technical challenges associated with a user story or feature, which can inform the prioritization of the product backlog.
 
 
+## Creative Enterprise Zone (CEZ)
+
+A Creative Enterprise Zone (CEZ) is a designated area or district that aims to support and foster the growth of the creative industries and creative economy within a specific geographic location. It is a strategic initiative that brings together creative businesses, artists, cultural organizations, and other stakeholders to create a vibrant and collaborative ecosystem. 
+
+Purpose: stimulate economic development, innovation, and collaboration within the creative industries.
+
+Focus: nurture the creative industries, which include sectors such as visual arts, design, digital media, film and television production, architecture, music, performing arts, fashion, crafts, and more. 
+
+Infrastructure: workspaces, studios, galleries, performance venues, fabrication labs, co-working spaces, and incubators.
+
+Engagement: Host community events, workshops, festivals, conferences, and exhibitions, to help idea exchange, and to showcase the work of local artists and creative organizations. 
+
+Development: Provide access to mentors, advisors, and experts who can provide guidance on topics such as business planning, marketing, funding, intellectual property, and legal issues. 
+
+Urban Regeneration: Attract creative businesses, which in turn create employment opportunities, drive economic growth, and contribute to the local economy through increased cultural tourism, job creation, and increased property values.
+
+Collaboration: Partner with local government, community organizations, creative industry associations, educational institutions, and other stakeholders.
+
+Metrics: Assess economic indicators such as job creation, business growth, and investment attraction. Additionally, they measure cultural impact by evaluating the number of cultural events, audience engagement, and community participation. 
+
+
+## Economic moat
+
+An economic moat describes a company's competitive advantage over its competitors. The term "moat" comes from a moat surrounding a castle to keep out intruders. An economic moat protects a company's market share, profitability, and growth prospects from external threats.
+
+There are a variety of economic moats:
+
+* Brand Moat. Companies with strong brands can charge premium prices, and customers are often willing to pay more because they perceive the brand as being superior.
+
+* Network Moat. Companies with large strong networks have advantages. For example, social media companies can create a network moat because their value increases as more people join the platform.
+
+* Cost Moat. Companies can have a significant cost advantage over competitors. For example, due to economies of scale, proprietary technology, efficiency capabilties, or a unique business model.
+
+* Switching Moat. A switching moat is when customers can't, or won't, switch from one company's product or service to another. This could be because of contractual relationships, or data ownership, or because of customer loyalty.
+
+* Regulatory Moat. This is when a company has a competitive advantage due to regulations. This could be because of the company has licenses or permits that are difficult for competitors to obtain, or because the company has expertise in navigating complex regulatory environments.
+
+Companies with strong economic moats are often able to generate above-average returns on capital and sustain their competitive advantage over the long term. As a result, investors often look for companies with strong economic moats as they are viewed as less risky investments with higher potential for long-term growth.
+
+
+## Economies of scale
+
+Economies of scale refer to the advantages or cost reductions a company experiences as it increases the scale or volume of its production. In other words, as a company grows and produces more units, it becomes more efficient in its operations and can lower the per-unit cost of production.
+
+There are several reasons why economies of scale occur. First, as the company produces more units, it can spread its fixed costs, such as rent, equipment, and management salaries, over a larger number of units, resulting in a lower cost per unit. Second, larger companies can often negotiate better prices for raw materials and supplies due to their increased purchasing power. Third, as production volume increases, companies can invest in more advanced and efficient production methods and technologies, further lowering the cost per unit.
+
+Economies of scale can provide a significant competitive advantage for companies that can achieve them. By lowering their cost per unit, they can offer lower prices to customers while still maintaining a healthy profit margin. Additionally, they can use their lower costs to reinvest in the business, expand their product offerings, or enter new markets.
+
+However, it is important to note that there is a limit to the extent to which a company can benefit from economies of scale. At some point, the cost reductions begin to diminish, and the company may experience diseconomies of scale, such as increased bureaucracy or a decrease in the quality of its products or services. Therefore, companies must carefully manage their growth and continuously evaluate their operations to ensure that they are maximizing the benefits of economies of scale while avoiding the pitfalls of excess size and complexity.
+
+
+## Aggregation theory
+
+Aggregation theory is a concept in business that describes how value is created in the digital economy through the aggregation and distribution of data. The theory was introduced by Ben Thompson in his book "Stratechery" and has become increasingly popular in the tech industry.
+
+At its core, aggregation theory states that the most successful companies in the digital economy are those that are able to aggregate the demand of consumers or suppliers, and then leverage that aggregation to create a marketplace where transactions can take place. In other words, companies that are able to bring together large numbers of consumers or suppliers in a single platform are able to extract value from that platform by facilitating transactions.
+
+One example of aggregation theory in action is the ride-sharing company Uber. By aggregating the demand for ride-sharing services and providing a platform for drivers and passengers to connect, Uber has been able to create a highly profitable business model that has disrupted the traditional taxi industry.
+
+Another example is the e-commerce giant Amazon. By aggregating millions of buyers and sellers on its platform, Amazon has been able to create a massive marketplace that generates billions of dollars in revenue every year.
+
+According to aggregation theory, the key to success in the digital economy is to focus on building platforms that are able to aggregate demand or supply, rather than focusing solely on creating products or services. By doing so, companies can create powerful network effects that make it difficult for competitors to enter the market.
+
+## Commoditization of trust 
+
+Commoditization of trust refers to the process where trust becomes a commodity in a market, and it can be bought, sold, and traded like any other product or service. This concept is often associated with the rise of digital platforms and the sharing economy, which have disrupted traditional industries and enabled new forms of peer-to-peer interactions.
+
+In the past, trust was largely built through personal relationships and reputation, and it was difficult to transfer or replicate. However, with the rise of online platforms, trust has become more standardized and quantifiable, as users are able to rate and review each other based on their experiences.
+
+For example, in the sharing economy, platforms such as Airbnb and Uber have created a system where users can rate and review their hosts or drivers, which helps build trust and ensures a certain level of quality. These platforms have essentially commoditized trust, as users are able to rely on the ratings and reviews of others rather than building trust through personal relationships.
+
+The commoditization of trust has also enabled new business models, such as online marketplaces and crowdsourcing platforms, where strangers can transact with each other with a certain level of trust. However, there are also concerns about the impact of commoditized trust on privacy and security, as well as the potential for manipulation and fraud.
+
+## Go-to-market strategy
+
+A go-to-market strategy (GTM strategy) is a comprehensive plan that outlines how a business will bring a new product or service to market and achieve commercial success. It defines the target market, customer segments, marketing channels, pricing, sales and distribution strategy, and competitive positioning.
+
+The GTM strategy is an essential part of the product launch process and is often developed in parallel with product development. It aims to create a roadmap that helps the company achieve its business goals, including revenue growth, customer acquisition, and market share.
+
+To develop a GTM strategy, a company must first identify its target market, which includes the customer segments it wants to target and the key attributes of those segments. It should conduct market research to determine the size of the market, the competition, and the potential demand for the product or service.
+
+Once the target market is identified, the company must determine the best way to reach those customers. This may include a combination of marketing channels, such as advertising, social media, search engine optimization, and events. The company must also determine the optimal pricing strategy to maximize revenue and profitability.
+
+The sales and distribution strategy is another critical component of the GTM strategy. This involves determining the most effective sales channels, such as direct sales, partnerships, or e-commerce, and creating a plan for how the product or service will be delivered to customers.
+
+Finally, the competitive positioning strategy outlines how the company will differentiate itself from its competitors and create a unique value proposition. This may include highlighting the product or service's unique features, benefits, or pricing.
+
+
+
+## Strategy map
+
+A strategy map is a visual representation of a company's strategy and objectives. It is designed to help organizations define and communicate their strategic goals, align their resources, and monitor their progress towards achieving those goals.
+
+At its core, a strategy map is a tool for communicating how an organization's strategic objectives relate to each other and to the organization's overall mission and vision. It typically consists of a hierarchical structure, with the organization's mission and vision at the top, followed by strategic themes or objectives that support the mission and vision. These objectives are broken down further into more specific goals or initiatives, which are then linked to specific performance measures or key performance indicators (KPIs).
+
+The purpose of a strategy map is to help organizations:
+
+* Communicate their strategy: A strategy map provides a clear and concise way to communicate an organization's strategic goals and how they relate to each other. By presenting this information in a visually appealing and easy-to-understand format, a strategy map can help ensure that everyone in the organization understands and is aligned with the overall strategy.
+
+* Align resources: A strategy map can help organizations ensure that their resources, including people, processes, and technology, are aligned with their strategic objectives. By linking specific initiatives and KPIs to each objective, organizations can prioritize their resources and ensure that they are focused on the most important strategic goals.
+
+* Monitor progress: A strategy map can help organizations track their progress towards achieving their strategic objectives. By monitoring specific KPIs and measuring progress against predefined targets, organizations can identify areas where they are succeeding and areas where they need to improve.
+
+
+## EBFAS Organizational Climate
+
+"EBFAS" is a German abbreviation of six elements of organizational climate: Einheit (oneness), Behendigkeit (agility), Fingerspitzengefühl (fingertip feeling), Auftragstaktik (task tactic), Schwerpunkt (main point).
+
+Military strategist John Boyd developed EBFAS as guidance for how an organization can improve its internal climate, or culture, or ways of working. Boyd's purpose with EBFAS is to enable organization members to operate inside opponent’s OODA loops.
+
+* Einheit (oneness): Means unity, or unit. This is a shared outlook possessed by a group of leaders, and represents a unifying theme that can be used to simultaneously encourage subordinate initiative yet realize superior intent.
+
+* Behendigkeit (agility). Means nimbleness, quickness, swiftness. This is the ability to break out of longstanding patterns, even if they have been successful.
+
+* Fingerspitzengefühl (fingertip feeling). Means intuitive flair or instinct. It describes a great situational awareness, and the ability to respond appropriately and tactfully, such as a superior ability to respond to an escalated situation.
+
+* Auftragstaktik (task tactic). This is a form of military tactics where the emphasis is on the outcome of a mission rather than the specific means of achieving it. 
+  
+* Schwerpunkt (main point). Means the center of gravity, focus of main effort, focus and direction. This is a heuristic to make decisions from tactics to strategy about priority. Everyone from leaders to supports should know the schwerpunkt i.e. know what is most important and why.
+  
+
+
 ## Project management 
 
 Project management is the process of planning, organizing, and executing a project in order to achieve specific results within a specified timeframe, budget, and scope. It involves coordinating and managing the resources, tasks, and people involved in a project, as well as controlling progress to ensure successful completion.
@@ -3562,6 +4250,25 @@ The term "liftoff" is meant to convey the idea that the project is just getting 
 * Establish project governance: The team needs to establish the processes and procedures that will be used to manage the project, including roles and responsibilities, decision-making processes, and communication protocols.
 
 The liftoff process is typically facilitated by a project manager, who guides the team through activities and ensures that everyone is aligned and engaged. The liftoff process helps to ensure that the project is set up for success from the start.
+
+
+## Agile chartering
+
+Agile chartering is a technique used in agile project management to set the direction and goals of a project. It involves bringing together a diverse group of stakeholders to collaboratively define the vision, goals, and objectives of the project. The goal is all stakeholders are aligned and working toward a shared vision.
+
+The process of agile chartering typically involves several steps:
+
+* Assemble a diverse group of stakeholders: This can include team members, customers, end-users, business owners, and other key stakeholders.
+
+* Define the project vision, which includes the key problem the project is addressing, the key approach to solving the problem, and the desired outcome.
+
+* Set project goals and objectives that will help achieve the project vision. These goals should be specific, measurable, achievable, relevant, and time-bound.
+
+* Identify risks and assumptions that could impact the project's success. These risks and assumptions are then evaluated and addressed as part of the project planning process.
+
+* Create a working agreement that outlines the rules, norms, and values that will govern the project. This agreement helps to ensure that all stakeholders are aligned and working together toward a shared goal.
+
+Agile chartering is typically done at the beginning of a project, but it can also be done at any point during the project lifecycle to help re-align the team and stakeholders. The process is highly collaborative and helps to ensure that all stakeholders have a voice in the project and are working together toward a shared goal. By establishing clear goals and objectives and creating a shared working agreement, agile chartering helps to create a framework for success and enables the team to work more effectively together.
 
 
 ## Project charter
@@ -4318,23 +5025,19 @@ Org charts can be created using a variety of software tools, such as Microsoft P
 
 ## Chain of command 
 
-A chain of command is a hierarchical structure that outlines the reporting relationships, responsibilities, and authority within an organization. It establishes clear lines of communication and decision-making.
+A chain of command is an organization's hierarchicy of authority, communication, and accountability. It establishes clear lines of communication for decision-making, and helps an organization function effectively.
 
 Key components:
 
 * Hierarchy: The chain of command establishes a clear hierarchy, outlining who reports to whom within an organization. Each employee knows who their supervisor is and who they should go to if they need to escalate an issue.
 
-* Authority: Each level of management in the chain of command has a specific level of authority. This authority allows them to make decisions and issue orders that are binding on those who report to them.
+* Authority: Each level of management in the chain of command has a specific level of authority. This allows them to make decisions and issue orders that are binding on subordinates.
 
-* Communication: The chain of command establishes clear lines of communication within an organization. Employees know who to report to and who they can communicate with to receive information and guidance.
+* Communication: The chain of command establishes clear lines of communication within an organization. Employees know to whom they report and with whom they can communicate to receive information and guidance.
 
-* Accountability: The chain of command establishes accountability within an organization. Each employee is responsible for their own tasks and duties, and supervisors and managers are responsible for subordinates.
+* Accountability: The chain of command establishes each employee as responsible for their own tasks and duties, and supervisors as responsible for subordinates.
 
-The chain of command is important in ensuring that an organization functions efficiently and effectively. It helps to minimize confusion, streamline decision-making, and ensure that everyone is working together towards common goals. 
-
-However, it is important to note that a rigid chain of command can also create problems. It can stifle creativity and innovation, and prevent employees from taking initiative and making decisions. 
-
-Therefore, organizations must strike a balance between having a clear chain of command and allowing for flexibility and autonomy within the organization.
+A chain of command helps to minimize confusion, streamline decision-making, and ensure that everyone works together towards shared goals. However, it is important to note that a rigid chain of command can also create problems. It can stifle creativity and innovation, and prevent employees from taking initiative and making decisions. Therefore, organizations must strike a balance between having a clear chain of command and allowing for flexibility and autonomy within the organization.
 
 
 ## Stakeholders 
@@ -4429,17 +5132,17 @@ Here are some key aspects of icebreaker questions:
 
 ## Forming, Storming, Norming, Performing (FSNP)
 
-Forming, Storming, Norming, Performing (FSNP) is a model that describes the stages of group development. It is a widely used model in the field of organizational psychology to understand how teams evolve and develop over time.
+Forming, Storming, Norming, Performing (FSNP) is a model that describes the stages of group development. It is widely used in organizational psychology to understand how teams evolve.
 
 The four stages of group development:
 
 1. Forming: Group members get to know each other, establish the purpose and goals of the group, and determine the task at hand. At this stage, there is usually a sense of excitement and anticipation, as well as anxiety and uncertainty about the group's future.
 
-2. Storming: Group members begin to voice their opinions and ideas, which can often lead to conflicts and disagreements. Group members may challenge the leader, question the group's goals, and compete for power and influence. The storming stage is often marked by tension and frustration, but it is also an essential part of the group's development process.
+2. Storming: Group members begin to voice their opinions and ideas. This can lead to conflicts. Group members may challenge the leader, question goals, and compete for power. This stage is often marked by tension and frustration, but it is an essential step in the development process.
 
-3. Norming: Group members begin to develop a sense of cohesion and teamwork. Group members start to appreciate each other's strengths and weaknesses, develop norms and rules for interaction, and establish a sense of group identity. At this stage, the group is beginning to work effectively towards its goals.
+3. Norming: Group members begin to develop a sense of cohesion and teamwork. They start to appreciate each other's strengths and weaknesses. They develop rules for interaction. They establish a sense of group identity. At this stage, the group is beginning to work effectively.
 
-4. Performing: The group is fully functional, and members work together effectively to achieve the group's goals. The group has established a clear identity and norms, and there is a high level of trust, cooperation, and communication among members. The group focuses on achieving objectives and delivering results.
+4. Performing: The group is fully functional. The group has established a clear identity and norms, and there is a high level of trust, cooperation, and communication among members. The group focuses on achieving objectives and delivering results.
 
 The FSNP model is widely used, but it is not always linear: groups can go back and forth between stages, skip stages, or remain in a stage for an extended period. Additionally, different groups may experience each stage differently based on their goals, members, and context.
 
@@ -4549,6 +5252,17 @@ Other potential benefits of nearshoring include lower transportation costs and r
 However, there are challenges associated with nearshoring. Labor costs in nearby countries may not be as low as in more distant locations, which can limit cost savings. Additionally, there may be less availability of specialized skills or expertise in certain industries, which can make it more difficult to find suitable outsourcing partners.
 
 
+## Coworking 
+
+Coworking provides shared office workspace for individuals or groups from different companies or industries. It is a flexible and affordable alternative to traditional office spaces that can be beneficial to startups and small businesses.
+
+One of the main benefits of coworking is the opportunity to network and collaborate with other professionals. Coworking spaces are often filled with individuals from diverse backgrounds and industries, which can lead to new business partnerships, idea sharing, and knowledge exchange. This can be particularly valuable for startups, as they can gain access to expertise and resources they may not have otherwise.
+
+Coworking spaces typically offer a variety of amenities and resources such as desks, chairs, Wi-Fi, conference rooms, printers, and kitchen facilities. Additionally, they may provide access to networking events, educational workshops, mentorship programs, and other resources that can help businesses grow and thrive.
+
+Coworking spaces can be found in urban areas and range from small shared offices to large multi-story buildings. They offer flexible rental agreements, allowing businesses to rent space on a monthly or even hourly basis. This can be especially helpful for startups and entrepreneurs who are unsure about their long-term needs.
+
+
 ## Ways of working
 
 "Ways of working" refer to the approach or methodology that a business adopts to achieve its goals and objectives. It is a set of principles, practices, and behaviors that guide the work of the organization. Ways of working can vary depending on the industry, company size, culture, and other factors, but generally aim to create a structured and efficient approach to achieving business outcomes.
@@ -4594,19 +5308,6 @@ FOCUS guidance is analytical:
 * Understand: Evaluate data for potential contribution to proving or disproving hypotheses. Ask "so what?"
 
 * Synthesize: Turn data into a compelling story. Here is where the well-known "pyramid principle" related to organizing a written report or slide deck comes into play.
-
-
-## Futurespective
-
-A futurespective is a group activity that focuses on exploring and envisioning possible futures for a team, organization, or project. It is a forward-thinking approach that helps to identify potential opportunities and challenges, as well as to prepare for possible changes and disruptions.
-
-The main goal of a futurespective is to imagine a range of possible future scenarios, and to use these scenarios to inform current decision-making and planning. By exploring different possible futures, teams can better understand the potential consequences of their actions and make more informed choices.
-
-Futurespectives typically involve a group of people, such as a team or department, and are often facilitated by a trained facilitator or coach. During the activity, participants are asked to imagine different scenarios, such as best-case and worst-case outcomes, and to think about the factors that could lead to these outcomes.
-
-Participants are encouraged to think creatively and to challenge assumptions about the future. They may use tools such as brainstorming, scenario planning, and SWOT analysis to generate ideas and explore different possibilities.
-
-Futurespectives can be especially useful for teams that are working on projects with a high degree of uncertainty, such as new product development or strategic planning. By exploring different possible futures, teams can better anticipate and prepare for potential challenges, as well as identify new opportunities for growth and innovation.
 
 
 ## Blameless retrospective
@@ -4761,7 +5462,7 @@ Once the root cause of the problem has been identified, the team can then develo
 
 ## Root cause analysis (RCA)
 
-Root cause analysis (RCA) is a problem-solving technique used to identify the underlying causes of an event, rather than just treating symptoms. RCA is a methodical approach to identify the origin of a problem and solve it, in order to prevent similar problems from happening in the future. RCA is widely used in engineering, manufacturing, healthcare, software development, and business management.
+Root cause analysis (RCA) is a problem-solving technique used to identify the underlying causes of an event, rather than just treating symptoms. RCA aims to prevent similar problems from happening in the future. RCA is widely used in engineering, manufacturing, healthcare, software development, and business management.
 
 Steps:
 
@@ -5065,25 +5766,19 @@ Statistical analysis techniques refer to a variety of methods used to analyze an
 
 Some statistical analysis techniques:
 
-Descriptive Statistics: Summarize the main characteristics of a data set. They include measures such as mean, median, mode, range, standard deviation, and variance. Descriptive statistics provide a basic understanding of the data, such as its central tendency, dispersion, and distribution.
+Descriptive Statistics: Summarize the main characteristics of a data set. Examples: mean, variance, standard deviation.
 
-Inferential Statistics: Make generalizations about a larger population based on a sample of data. These techniques use probability theory to estimate population parameters, conduct hypothesis tests, and make predictions. Examples include confidence intervals, t-tests, ANOVA (analysis of variance), regression analysis, and chi-square tests.
+Inferential Statistics: Generalize a larger population based on a sample of data. Examples: confidence intervals, t-tests, analysis of variance, regression analysis, and chi-square tests.
 
-Hypothesis Testing: Test the validity of a claim or hypothesis about a population based on sample data. It involves formulating a null hypothesis and an alternative hypothesis, collecting data, performing statistical tests, and drawing conclusions. Common hypothesis tests include t-tests, chi-square tests, and ANOVA.
+Regression Analysis: Examine the relationship between a dependent variable and one or more independent variables. Examples: linear regression, multiple regression, logistic regression, and polynomial regression.
 
-Regression Analysis: Examine the relationship between a dependent variable and one or more independent variables. It is used to determine how changes in the independent variables impact the dependent variable. Regression analysis helps identify patterns, predict outcomes, and understand the strength and direction of relationships. Linear regression, multiple regression, logistic regression, and polynomial regression are examples of regression techniques.
+Time Series Analysis: Study patterns, trends, and seasonality in data. Examples: moving averages, exponential smoothing, ARIMA (autoregressive integrated moving average) models, and trend analysis.
 
-Time Series Analysis: Study patterns, trends, and seasonality in the data to make predictions and identify underlying patterns. Time series techniques include moving averages, exponential smoothing, ARIMA (autoregressive integrated moving average) models, and trend analysis.
+Factor Analysis: Identify underlying factors or latent variables that explain the correlations among observed variables.
 
-Factor Analysis: Identify underlying factors or latent variables that explain the correlations among observed variables. It helps uncover the underlying structure or dimensions in the data. Factor analysis is commonly used in fields such as psychology, marketing, and social sciences to reduce data complexity and gain insights into underlying constructs.
+Cluster Analysis: Identify groups or clusters within a data set based on similarities or dissimilarities among observations. Exaamples: k-means clustering, hierarchical clustering, and DBSCAN (Density-Based Spatial Clustering of Applications with Noise).
 
-Cluster Analysis: Identify groups or clusters within a data set based on similarities or dissimilarities among observations. It helps in data exploration, segmentation, and pattern recognition. Different clustering algorithms, such as k-means clustering, hierarchical clustering, and DBSCAN (Density-Based Spatial Clustering of Applications with Noise), are employed depending on the data and the goals of the analysis.
-
-ANOVA (Analysis of Variance): Compare the means of two or more groups to determine if there are significant differences between them. It helps assess the impact of categorical variables on a continuous outcome. 
-
-Statistical Modeling: Developing mathematical models that represent relationships between variables in the data. This includes linear regression, logistic regression, time series models, survival analysis, and more.
-
-Data Mining: Discover patterns, relationships, and insights in large and complex data sets. These techniques are used to build predictive models, classify data, cluster observations, and extract knowledge from data. Examples include decision trees, random forests, support vector machines, and neural networks.
+Data Mining: Discover patterns, relationships, and insights in large and complex data sets. Example: decision trees, random forests, support vector machines, and neural networks.
 
 
 ## Generally Accepted Accounting Principles (GAAP)
@@ -5157,6 +5852,22 @@ Equity represents the residual interest in the assets of a company after deducti
 
 The balance sheet provides a summary of a company's financial health and can be used to evaluate its liquidity, solvency, and ability to generate cash flow. For example, a company with a large amount of current assets relative to its current liabilities may be considered financially stable and capable of paying its short-term obligations. However, if a company has a high level of debt relative to its equity, it may be considered less financially stable and have a higher risk of defaulting on its debts.
 
+
+## Financial ratios
+
+Financial ratios are quantitative measurements used to evaluate and analyze the financial performance, position, and efficiency of a company. These metrics provide insights into various aspects of a company's financial health and help stakeholders make informed decisions. 
+
+Liquidity ratios assess a company's ability to meet its short-term obligations and measure its liquidity or cash flow position. Common liquidity ratios include the current ratio and quick ratio a.k.a. acid-test ratio.
+
+Solvency ratios evaluate a company's long-term financial stability and its ability to meet long-term obligations. These ratios are of interest to lenders and investors and include debt-to-equity ratio and interest coverage ratio.
+
+Profitabiliy ratios assess a company's ability to generate profits from its operations and provide insights into its overall financial performance. Key profitability ratios include gross profit margin and net profit margin.
+
+Efficiency ratios evaluate how effectively a company utilizes its assets and resources to generate revenue and profits. They measure operational efficiency and include inventory turnover ratio and accounts receivable turnover Ratio
+
+Return ratios assess returns on investment made by shareholders or investors. These ratios include Return on Investment (ROI), Return on Assets (ROA), and Return on Equity (ROE).
+
+Market value ratios assess the market perception and valuation of a company's stock. These ratios are relevant to investors and include the price-to-earnings ratio and dividend yield ratio.
 
 ## Internal Rate of Return (IRR)
 
@@ -5305,9 +6016,9 @@ Inventory turnover can vary significantly across different industries, depending
 
 ## Carrying costs
 
-Carrying costs, also known as holding costs, are the expenses that a company incurs to hold and maintain its inventory over a period of time. These costs can include expenses such as storage, insurance, maintenance, taxes, and the opportunity cost of tying up capital in inventory.
+Carrying costs, also known as holding costs, are the expenses that a company incurs to hold and maintain its inventory over a period of time. Carrying costs can be a significant expense for businesses, particularly those with large or slow-moving inventory.
 
-The main components of carrying costs are:
+Example costs:
 
 * Storage costs: e.g. renting or owning a warehouse or storage space to hold inventory.
 
@@ -5318,8 +6029,6 @@ The main components of carrying costs are:
 * Taxes: e.g. cost of property taxes and other taxes related to holding inventory.
 
 * Opportunity cost: e.g. tying up capital in inventory that could have been invested in other areas, such as research and development, marketing, or expansion.
-
-Carrying costs can be a significant expense for businesses, particularly those with large or slow-moving inventory.
 
 To reduce carrying costs, businesses can take a number of steps, such as:
 
@@ -5527,142 +6236,6 @@ Typical areas:
 * Commercial Due Diligence: Review the target company's market and industry dynamics, including competition, customer demand, and trends. The objective is to assess the target company's market position and potential growth opportunities.
 
 Due diligence may also involve interviews with key stakeholders, site visits, and other investigative activities. The findings of the due diligence process are typically summarized in a report that provides the interested party with an overview of the target company's strengths, weaknesses, opportunities, and threats (SWOT).
-
-
-
-## Incubator
-
-An incubator is an organization that supports the development and growth of startups and early-stage companies by providing resources, mentorship, and networking opportunities. The goal of an incubator is to help startups become self-sufficient and successful by providing a supportive environment and resources that would otherwise be difficult or impossible to obtain.
-
-Incubators are typically run by private companies, government agencies, or universities, and they offer a range of services to their clients, including office space, access to funding, legal and accounting services, marketing and branding assistance, and mentorship from experienced entrepreneurs and industry experts.
-
-Incubators often have a competitive application process, and once accepted, the startup will typically be given office space, access to resources, and a period of time to develop their product or service. During this time, incubators may offer workshops, networking events, and access to industry experts to help the startup refine their product or service and build their network.
-
-Incubators are often confused with accelerators, but there are some key differences between the two. While incubators focus on providing resources and support to help startups develop and grow, accelerators focus on accelerating the growth of startups by providing a short-term, intensive program of mentorship and resources. Accelerators often provide funding in exchange for equity, while incubators typically do not take equity in the startups they support.
-
-
-## Accelerator
-
-An accelerator is a program designed to help early-stage startups rapidly grow their businesses and achieve success. Typically, an accelerator provides a cohort of selected startups with access to funding, mentorship, education, networking opportunities, and other resources over a fixed period of time, usually three to six months.
-
-The goal of an accelerator is to help startups develop their products, validate their business models, build their teams, and acquire customers as quickly and efficiently as possible. Accelerators often provide seed funding to the startups in their cohorts in exchange for equity, as well as access to their networks of investors and other key players in the startup ecosystem.
-
-Accelerators differ from incubators in that they are typically more structured, intensive, and time-limited programs. Incubators, on the other hand, are more long-term and flexible, providing startups with office space, infrastructure, and support services over an extended period of time, without the intensive training and mentoring that accelerators offer.
-
-Accelerators have become increasingly popular in recent years, particularly in the technology sector, as a way to help startups get off the ground and gain traction quickly. Many of the most successful startups in recent years, including Airbnb, Dropbox, and Stripe, have gone through accelerator programs to help them achieve their early growth and success.
-
-
-## Coworking 
-
-Coworking provides shared office workspace for individuals or groups from different companies or industries. It is a flexible and affordable alternative to traditional office spaces that can be beneficial to startups and small businesses.
-
-One of the main benefits of coworking is the opportunity to network and collaborate with other professionals. Coworking spaces are often filled with individuals from diverse backgrounds and industries, which can lead to new business partnerships, idea sharing, and knowledge exchange. This can be particularly valuable for startups, as they can gain access to expertise and resources they may not have otherwise.
-
-Coworking spaces typically offer a variety of amenities and resources such as desks, chairs, Wi-Fi, conference rooms, printers, and kitchen facilities. Additionally, they may provide access to networking events, educational workshops, mentorship programs, and other resources that can help businesses grow and thrive.
-
-Coworking spaces can be found in urban areas and range from small shared offices to large multi-story buildings. They offer flexible rental agreements, allowing businesses to rent space on a monthly or even hourly basis. This can be especially helpful for startups and entrepreneurs who are unsure about their long-term needs.
-
-
-## Skunkworks
-
-Skunkworks is a term used to describe a group within an organization that is given a high degree of autonomy and resources to work on a specific project, often with the aim of developing breakthrough technology or solving complex problems.
-
-Skunkworks projects are typically undertaken by small, highly skilled teams who are given a great deal of freedom to explore new ideas and approaches. This can involve working outside the normal organizational structure and processes, which can sometimes lead to conflict with other departments or stakeholders.
-
-The benefits of a skunkworks approach include faster development times, increased creativity and innovation, and a greater sense of ownership and engagement among team members. Skunkworks teams are often highly motivated and passionate about their work, and may be willing to take risks and experiment with new approaches that might not be feasible within a more structured environment.
-
-However, skunkworks projects can also be risky and expensive, and there is always the possibility of failure. In addition, they can sometimes be seen as operating outside of the normal chain of command, which can create tensions within an organization.
-
-Despite these challenges, many organizations continue to use skunkworks as a way to drive innovation and tackle complex problems. In recent years, the term has also been used more broadly to describe any group or project that operates outside of traditional structures or processes, including in fields like technology, art, and education.
-
-
-## Spinoff 
-
-A spinoff (a.k.a. corporate spinoff) is a type of corporate restructuring in which a parent company creates a new, independent company by selling or distributing some of its assets or operations.
-
-Spinoffs are typically undertaken to help unlock the value of a company's assets or operations, which may not be fully appreciated or recognized by investors when they are part of a larger entity. By creating a separate company, the parent company can focus on its core business, while the spinoff company can pursue its own strategic objectives and allocate resources in a way that is best suited to its unique needs.
-
-Spinoffs can take many different forms. In some cases, a parent company may sell a subsidiary to a third-party buyer, either in whole or in part. In other cases, the parent company may distribute shares in the spinoff company to its existing shareholders. In still other cases, the spinoff company may be created as a joint venture between the parent company and a third-party partner.
-
-Spinoffs can offer a number of potential benefits to both the parent company and the spinoff company. For the parent company, a spinoff can help improve its overall financial performance by allowing it to focus on its core business and reduce its exposure to non-core or underperforming assets. It can also help unlock value for shareholders by allowing them to realize the full value of the company's assets or operations.
-
-For the spinoff company, a spinoff can offer a number of advantages as well. By operating as an independent company, the spinoff can pursue its own strategic objectives and allocate resources in a way that is best suited to its unique needs. It can also potentially benefit from a more focused and streamlined organizational structure, which can help drive innovation, growth, and profitability. Finally, as a standalone entity, the spinoff may be able to access capital more easily, which can be particularly important for early-stage or high-growth companies.
-
-
-## Spinout
-
-A spinout (a.k.a. employee spinout) refers to a new independent company that is created when a group of company employees decide to take a particular technology or product and develop it into a new company.
-
-When employees decide to form a spinout, they often do so because they believe that they can develop the technology or product more effectively as a standalone company. This can be due to a variety of reasons, such as a desire for greater control over the direction of the product or technology, a belief that the technology has greater potential than is currently being realized, or a desire to pursue the technology in a different market.
-
-To create a spinout, the employees will typically need to secure funding to start the new company. This can come from a variety of sources, such as venture capital firms, angel investors, or strategic partners. Once funding is secured, the new company is formed and begins operations as an independent entity.
-
-If the original company is supportive, then it may invest in the spinout. This can provide the original company and the spinout with mutual benefits, such as access to each other's customers, resources, and technologies.
-
-If the original company is hostile, then it may attempt to compete, retaliate, or litigate for violations of non-compete, non-solicitation, and non-disclosure agreements.
-
-
-## Initial Public Offering (IPO)
-
-An initial public offering (IPO) is a process by which a private company goes public and offers its shares for sale to the public on a stock exchange for the first time. An IPO allows a company to raise capital by selling a portion of its ownership to public investors.
-
-The IPO process involves several steps. First, the company hires an investment bank or group of banks to underwrite the offering. The underwriters help the company determine the appropriate price for the shares and sell them to institutional and retail investors. The underwriters also help the company with the necessary regulatory filings, including a prospectus that provides detailed information about the company's financial and business operations.
-
-Once the regulatory filings have been completed, the company sets a date for the IPO and begins marketing the shares to potential investors. On the day of the IPO, the company issues shares of stock and begins trading on a stock exchange, such as the New York Stock Exchange (NYSE) or NASDAQ.
-
-The success of an IPO depends on a variety of factors, including the strength of the company's financials and market demand for its shares. A successful IPO can provide a significant source of capital for a company, which can be used to fund growth initiatives, pay off debt, or reward early investors and employees. However, there are also risks involved with an IPO, such as market volatility and the potential for investor lawsuits if the company's performance falls short of expectations.
-
-## Mergers and Acquisitions (M&A)
-
-Mergers and Acquisitions (M&A) refer to the consolidation of companies through various financial transactions, such as mergers, acquisitions, consolidations, tender offers, and purchases of assets or stocks. These transactions are generally done to achieve strategic objectives such as entering new markets, acquiring technology, expanding product lines, or increasing market share.
-
-A merger refers to the combination of two or more companies into a single entity, while an acquisition involves one company purchasing another company. In a consolidation, two or more companies merge to form a new entity. A tender offer is a public offer by a company to buy shares of another company from its shareholders at a premium price. A purchase of assets or stocks involves one company buying some or all of the assets or stocks of another company.
-
-M&A transactions can be friendly or hostile. In a friendly transaction, the companies involved negotiate the terms of the transaction and work towards a mutually beneficial outcome. In a hostile transaction, the acquiring company makes a bid to purchase the target company without the support of the target's management.
-
-M&A transactions are complex and involve various legal, financial, and regulatory considerations. They require careful planning, due diligence, and negotiations to ensure a successful outcome. M&A transactions can also have significant impacts on employees, customers, and shareholders, and therefore, it is important to manage these stakeholders carefully throughout the process.
-
-## Special Purpose Acquisition Company (SPAC)
-
-A Special Purpose Acquisition Company (SPAC) is a publicly traded company that raises capital with the purpose of acquiring an existing private company. SPACs are also known as blank-check companies because they don't have any operations or assets when they are created, but rather are created specifically to raise funds through an initial public offering (IPO) to acquire another company. Once a SPAC raises capital, it must acquire a company within a specified period of time, usually two years. If the SPAC fails to make an acquisition, the capital is returned to investors.
-
-The SPAC process begins with the formation of a shell company by a team of sponsors, who are often experienced investors or industry executives. They may raise funds from institutional investors, high-net-worth individuals, and other investors who are interested in investing in the SPAC. The funds raised are placed in a trust account until the SPAC identifies a target acquisition.
-
-Once the SPAC identifies a target company, it negotiates a merger or acquisition agreement with the target company. The SPAC then asks its investors to vote on the acquisition. If the investors approve the acquisition, the SPAC completes the merger or acquisition, and the target company becomes a publicly traded company. The original sponsors of the SPAC are usually compensated with a percentage of the target company's equity.
-
-SPACs have become increasingly popular in recent years as an alternative to traditional IPOs. SPACs offer several advantages over traditional IPOs, including a shorter time frame for going public, a simplified regulatory process, and greater certainty of capital. However, SPACs also have some drawbacks, including a lack of transparency, a potential conflict of interest between the SPAC sponsors and investors, and the possibility of overpaying for the target company.
-
-
-## Acquihire
-
-Acquihire, a portmanteau of "acquisition" and "hire," is a business strategy in which a company acquires another company primarily for the talent and expertise of its employees, rather than for its products or services. In an acquihire, the acquiring company typically offers employment contracts to the employees of the acquired company, often with the goal of filling specific positions or building out a particular team within the acquiring company.
-
-Acquihires are most common in the technology industry, where companies often compete for highly skilled and specialized talent. Acquiring a company can be an effective way for a larger company to quickly gain access to a pool of talented employees who have specific skills and experience that are difficult to find elsewhere.
-
-One of the key benefits of an acquihire is that it can help a company to quickly scale up its talent pool without having to go through the lengthy and costly process of recruiting and hiring new employees. Additionally, the employees acquired through an acquihire may already have experience working together as a team, which can help to speed up the integration process and reduce the risk of cultural clashes or other conflicts.
-
-However, acquihires can also be risky for the acquiring company, as it can be difficult to accurately assess the value of the employees being acquired and to ensure that they will be a good fit for the company's culture and goals. Additionally, the acquisition of a company for its talent can be seen as a negative signal to investors and other stakeholders, as it may suggest that the acquiring company is struggling to attract and retain talent on its own.
-
-## Unicorn
-
-In the world of startups, a "unicorn" is a term used to describe a privately held startup company that has reached a valuation of $1 billion or more. The term was coined by venture capitalist Aileen Lee in a 2013 TechCrunch article, where she noted that such companies were extremely rare, like mythical unicorns.
-
-Unicorns are often companies that have experienced rapid growth and have disrupted traditional industries with innovative products or services. Some famous examples of unicorns include Uber, Airbnb, SpaceX, and WeWork.
-
-To achieve unicorn status, startups typically need to raise significant amounts of capital from venture capitalists and other investors. This funding is often used to scale the company's operations, develop new products, and expand into new markets.
-
-While the term unicorn is often associated with success, it also comes with significant pressure to continue growing and maintaining high valuations. Some critics argue that unicorn companies are overvalued and that the hype surrounding them can lead to unsustainable growth strategies and eventual failures.
-
-Nonetheless, the term unicorn has become a symbol of the potential for startups to achieve massive success and change entire industries in the process.
-
-
-## Zombie
-
-A zombie is a company or project that continues to operate without growing, thriving, or dying, often because it is unable to secure funding or generate sufficient revenue to sustain its operations. The term "zombie" refers to the fact that the company is neither alive nor dead but is instead in a state of limbo.
-
-Zombie companies often characterized by a lack of innovation and growth, as they are focused on simply maintaining their current operations rather than expanding into new markets or developing new products. This can result in a stagnation of the company's financial position, making it difficult to attract new investment or generate revenue from new customers.
-
-While zombie companies or zombie projects may be able to continue operating for an extended period of time, they are typically not sustainable in the long run. Without growth or innovation, the company or project may eventually become irrelevant and fade away, or it may be forced to shut down due to financial pressures. Therefore, it is important for company teams and project teams to constantly evaluate their growth potential and take steps to address any issues that may be hindering their growth.
 
 
 
@@ -6138,7 +6711,7 @@ Investment Philosophy: As a venture capital firm, Antler aims to identify and in
 
 ## Bethnal Green Ventures (BGV)
 
-Bethnal Green Ventures (BGV) (<https://www.bethnalgreenventures.com/>) is an early-stage venture capital fund and accelerator based in the United Kingdom. Founded in 2012, BGV focuses on supporting startups that aim to create positive social and environmental impact through technology and innovation. It provides funding, mentorship, and a structured program to help startups develop their ideas, scale their businesses, and make a meaningful difference in society.
+Bethnal Green Ventures (BGV) (<https://www.bethnalgreenventures.com/>) is an early-stage venture capital fund and accelerator based in the United Kingdom. Founded in 2012, BGV focuses on supporting startups that aim to create positive social and environmental impact. It provides funding, mentorship, and a structured program to help startups develop their ideas and make meaningful improvements in society.
 
 Investment Focus: BGV invests in startups that address societal and environmental challenges using technology-driven solutions. The fund has a broad impact focus, encompassing areas such as health, education, climate change, sustainability, civic engagement, and social justice.
 
@@ -6225,19 +6798,17 @@ Intellectual property (IP) refers to creations of the human mind that are protec
 
 There are several types of intellectual property, including:
 
-* Patents: These are exclusive rights granted to inventors for a limited period of time (usually 20 years) in exchange for disclosing the details of their invention. Patents prevent others from making, using, or selling the invention without their permission.
+* Patents: These are exclusive rights granted to inventors for a limited time, usually 20 years, in exchange for disclosing their their invention. Patents prevent other people from making, using, or selling the invention without permission.
 
-* Trademarks: These are symbols, designs, or words that are used to identify and distinguish a company's products or services from competitors. Trademarks prevent others from using similar symbols, designs, or words that could be confused with the original.
+* Trademarks: These are symbols, designs, or words that are used to identify and distinguish a company's products or services from competitors. Trademarks prevent other people from creating marks that cause confusion.
 
-* Copyrights: These are exclusive rights granted to authors and creators of original works (such as books, music, and artwork). Copyrights prevent others from copying, distributing, or performing their works without permission.
+* Copyrights: These are exclusive rights granted to authors and creators of original works, such as books, music, and artwork. Copyrights prevent others from copying, distributing, or performing the works without permission.
 
-* Trade secrets: These are confidential information that give competitive advantage, such as customer lists, manufacturing processes, and formulas. Trade secret protection prevents others from using or disclosing this information without permission.
+* Trade secrets: These are confidential data that give competitive advantage, such as customer lists, manufacturing processes, and formulas. Trade secret protection prevents others from using this information without permission.
 
 * Industrial design rights: These protect the appearance of industrial products, such as the shape and design of a car or a smartphone.
 
-IP protects innovations and creative works from being copied or stolen by competitors. This helps ensure that companies can profit from their investments in research and development, and can also encourage further innovation and creativity.
-
-However, protecting IP can be complex and expensive, and there are often disputes. Businesses should work with legal experts to ensure IP is properly managed.
+IP helps ensure that companies can profit from their investments in research and development, and can also encourage further innovation and creativity. However, protecting IP can be complex and expensive, and there are often disputes. Businesses should work with legal experts to ensure IP is properly managed.
 
 
 ## Patent
@@ -6314,11 +6885,11 @@ Industrial design rights play an important role in protecting the visual and aes
 
 When starting a company, you can choose its type of legal entity. The three most common types in the United States are C-Corporations, Limited Liability Companies (LLCs), and partnerships.
 
-* C-Corporation: This entity is separate from its owners, or shareholders. The corporation can own assets, enter into contracts, and conduct business in its own name. C-Corporations are taxed as separate entities; this means they pay corporate income tax on their profits. Shareholders are taxed on any dividends they receive. One of the benefits of a C-Corporation is that it offers limited liability protection to its shareholders; this means they are not personally liable for the debts and obligations of the corporation. C-Corporations can issue stock, which is useful for raising capital.
+C-Corporation: This entity is separate from its owners, or shareholders. The corporation can own assets, enter into contracts, and conduct business in its own name. C-Corporations are taxed as separate entities; this means they pay corporate income tax on their profits. Shareholders are taxed on dividends they receive. A benefit of a C-Corporation is that it offers limited liability protection to its shareholders; this means they are not personally liable for the debts and obligations of the corporation. C-Corporations can issue stock for raising capital.
 
-* Limited Liability Company (LLC): This entity combines the liability protection of a corporation with the tax benefits of a partnership. Like a C-Corporation, an LLC is separate from its owners, but the LLC itself is not taxed. Instead, the profits and losses of the LLC are passed through to the owners and are taxed on their personal tax returns. LLCs offer limited liability protection to their owners; this means they are not personally responsible for the debts and obligations of the business. LLCs are relatively easy to form and maintain, and they offer flexibility in terms of ownership and management structure.
+Limited Liability Company (LLC): This entity combines the liability protection of a corporation with the tax benefits of a partnership. Like a C-Corporation, an LLC is separate from its owners, but the LLC itself is not taxed. Instead, the profits and losses of the LLC are passed through to the owners and are taxed on their personal tax returns. LLCs offer limited liability protection to their owners; this means they are not personally responsible for the debts and obligations of the business. LLCs are relatively easy to form and maintain, and they offer flexibility in terms of ownership and management structure.
 
-* Partnership: This entity is formed when two or more people agree to carry on a business together. Partnerships can be either general partnerships or limited partnerships. In a general partnership, all partners are jointly and severally liable for the debts and obligations of the business. In a limited partnership, there are both general partners (who have unlimited liability) and limited partners (who have limited liability). Partnerships are not taxed as separate entities; instead, the profits and losses of the partnership are passed through to the partners and are taxed on their personal tax returns. Like LLCs, partnerships are relatively easy to form and maintain, and they offer flexibility in terms of ownership and management structure.
+Partnership: This entity is formed when two or more people agree to carry on a business together. Partnerships can be either general partnerships or limited partnerships. In a general partnership, all partners are jointly and severally liable for the debts and obligations of the business. In a limited partnership, there are both general partners (who have unlimited liability) and limited partners (who have limited liability). Partnerships are not taxed as separate entities; instead, the profits and losses of the partnership are passed through to the partners and are taxed on their personal tax returns. Like LLCs, partnerships are relatively easy to form and maintain, and they offer flexibility in terms of ownership and management structure.
 
 
 ## Sole proprietorship
@@ -6388,13 +6959,13 @@ One of the main advantages of an S-Corp is that it provides limited liability pr
 
 Another advantage of an S-Corp is that it allows the company's income and losses to be passed through to the shareholders, who report these amounts on their individual tax returns. This means that the company is not taxed on its profits at the corporate level. This avoids the double taxation that can occur with a traditional corporation.
 
-To qualify as an S-Corp, a business must meet certain eligibility requirements, including having no more than 100 shareholders and only one class of stock. Additionally, all shareholders must be individuals or certain types of trusts or estates, and they must be U.S. citizens or residents.
+To qualify as an S-Corp, a business must meet certain eligibility requirements, including having no more than 100 shareholders and only one class of stock. Additionally, all shareholders must be be U.S. citizens or residents, or certain types of trusts or estates.
 
 One disadvantage of an S-Corp is that it requires more formalities and paperwork than some other business structures, such as a sole proprietorship or partnership. S-Corps must file annual tax returns with the IRS, hold regular meetings of shareholders and directors, and maintain records of these meetings and other corporate activities. 
 
 Another disadvantage is that S-Corps are subject to some restrictions on ownership and transfer of shares, which can make it more difficult to raise capital or sell the business.
 
-Overall, an S-Corporation can be a good choice for small businesses that want the limited liability protection of a corporation but prefer the pass-through taxation of a partnership or sole proprietorship. However, it is important to carefully consider the formalities before choosing this type of business structure.
+An S-Corporation can be a good choice for small businesses that want the limited liability protection of a corporation but prefer the pass-through taxation of a partnership or sole proprietorship. However, it is important to carefully consider before choosing this type of business structure.
 
 
 ## B-Corporation
@@ -6433,19 +7004,17 @@ Joint venture agreements are commonly used in international business transaction
 
 ## Legal agreements
 
-Legal agreements are legally-binding documents that establish rights and obligations between two or more parties. Good legal agreements provide a clear understanding of the rights and obligations of each party involved in a transaction, as well as a legal framework for resolving disputes and enforcing the terms of the agreement. 
+Legal agreements are legally-binding documents that establish rights and obligations between two or more parties. Good legal agreements provide clear documentation of the rights and responsibilities of the parties, the scope and duration of the agreement, how to resolve conflicts, how to enforce the agreement, and the consequences of breach.
 
 Typical types:
 
-* Contracts: These establish the terms and conditions of a business transaction. They can cover a wide range of topics, from the sale of goods or services to employment agreements. A contract typically includes several key elements, such as the parties involved, the scope of the agreement, the terms and conditions, and the consequences of breach.
+* Contracts: These establish the terms and conditions of a business transaction. They can cover a wide range of topics, from the sale of goods or services to employment agreements. 
 
-* Non-disclosure agreements (NDAs): These prohibit one party from disclosing confidential information to others. They are often used in business settings to protect trade secrets, customer lists, or other sensitive information. NDAs typically include provisions related to the types of information that are considered confidential, the duration of the agreement, and the consequences of breach.
+* Non-disclosure agreements (NDAs): These prohibit parties from disclosing confidential information to others. NDAs are useful to protect trade secrets. 
 
-* Partnership agreements: These establish the terms and conditions of a partnership between two or more parties. They typically cover issues such as the distribution of profits and losses, the management of the partnership, and the rights and obligations of each partner.
+* Operating agreements: These establish the terms and conditions of collaboration, such as the rules and procedures for running a company, the management structure, the distribution of profits and losses, and the rights and obligations of the members.
 
-* Operating agreements: These establish rules and procedures for running a company. They typically cover issues such as the management structure of the company, the distribution of profits and losses, and the rights and obligations of the members.
-
-* Lease agreements: These establish the terms and conditions of a lease between a landlord and a tenant. They typically cover issues such as the duration of the lease, the rent amount, the security deposit, and the rules and regulations of the property.
+* Lease agreements: These establish the terms and conditions of a lease between a landlord and a tenant. Typical areas are the duration of the lease, the rent amount, the security deposit, and the rules and regulations of the property.
 
 It is important to consult with an attorney when drafting or negotiating a legal agreement to ensure that all necessary terms and conditions are included, and that the agreement is enforceable under the law.
 
@@ -6616,19 +7185,19 @@ To be enforceable, non-solicitation agreements must be specific and reasonable. 
 
 ## Work-for-hire agreement
 
-A work-for-hire agreement is a type of legal contract that outlines the terms of a creative work or project that is commissioned by one party to be completed by another party, typically a freelancer or independent contractor. The agreement specifies that the work produced is owned by the hiring party, rather than the individual or company who created it. The agreement is often used when a company needs a specific project completed, such as a software development project, a marketing campaign, or a graphic design project.
+A work-for-hire agreement is a type of legal contract that outlines the terms of a creative work or project that is commissioned by one party to be completed by another party, typically a freelancer or independent contractor. The agreement specifies that the work produced is owned by the hiring party, rather than the individual or company who created it. The agreement is often used when a company needs a specific project completed.
 
 Typical aspects:
 
-* Identification of the parties involved: the names, contact information, and any other relevant details.
+* Identification: Provide the parties' names, contact information, and any other relevant details.
 
-* Scope of work: the specific work or project that the contractor is being hired to complete, including any specifications or requirements.
+* Scope: Explain what the worker is being hired to complete, including any specifications or requirements.
 
-* Compensation: the payment terms for the project, including the amount of compensation, payment schedule, and other details.
+* Compensation: Describe the payment terms, including the amount, schedule, and other details.
 
-* Ownership of intellectual property: who will own the rights to the work produced, including any copyrights, patents, or trademarks.
+* Ownership of intellectual property: who will own the rights to the work produced, including any patents, copyrights, trademarks, and the like.
 
-* Confidentiality: such as non-disclosure agreements that must be signed by the contractor, to protect any proprietary information that may be shared during the course of the project.
+* Confidentiality: Protect any proprietary information that may be shared during the course of the project.
 
 * Termination: the circumstances under which the agreement may be terminated by either party, and any other relevant details related to termination.
 
@@ -6788,15 +7357,15 @@ A FUSA typically covers the following aspects:
 
 * Compensation. Specify fees and payments for use. The fees could be one-time, periodic, or variable based on usage or duration. Specify payment terms and conditions, methods, due dates, and late penalties.
 
-* Duration and Termination: Specify the start and end dates of the FUSA and the conditions for terminating the agreement by either party. The reasons for termination, notice periods, and the consequences of termination are also mentioned.
+* Duration: Specify the dates of the FUSA and the conditions for terminating the agreement by either party. Describe any  notice periods, and the consequences of termination.
 
-* Responsibilities: Specify the obligations of parties, including the provider's duties to maintain the facility or provide the services, and the customer's duties to comply with rules and regulations to use the facility responsibly.
+* Responsibilities: Specify the obligations of parties, such as the provider's duties to maintain the facility, and the customer's duties to use the facility responsibly.
 
-* Liability: Specify actions for any damages, losses, or injuries arising from the use of the facility or provision of services. Include needs for insurance, the type of insurance, and the amount of coverage.
+* Liability: Specify actions for any damages, losses, or injuries arising from the use. Include needs for insurance, the type of insurance, and the amount of coverage.
 
-* Confidentiality and Intellectual Property: Specify rights of both parties for non-disclosure of sensitive information, protection of proprietary information, and ownership of any intellectual property created during FUSA.
+* Intellectual Property: Specify any non-disclosure of sensitive information, protection of proprietary information, and ownership of any intellectual property created.
 
-* Dispute Resolution: Specify methods for resolving any disputes between the parties, such as mediation or arbitration, and the jurisdiction and venue for any legal proceedings.
+* Dispute Resolution: Specify methods for resolving any disputes between the parties, such as mediation or arbitration, and jurisdiction and venue.
 
 
 ## Material Transfer Agreement (MTA)
@@ -6888,15 +7457,15 @@ A Time and Materials (T&M) contract is a type of contract used in situations whe
 
 There are two main types of T&M contracts:
 
-* Time and Materials with Not-to-Exceed (T&M NTE) Contract: In this type of contract, the buyer and seller agree to a maximum amount that the seller can charge for the work performed. The seller is reimbursed for all the time spent and materials used, but the total cost cannot exceed the maximum agreed-upon amount.
+* Time and Materials with Not-to-Exceed (T&M NTE) Contract: The buyer and seller agree to a maximum amount that the seller can charge for the work performed. The seller is reimbursed for all the time spent and materials used, but the total cost cannot exceed the maximum agreed-upon amount.
 
-* Time and Materials with Guaranteed Maximum Price (T&M GMP) Contract: In this type of contract, the seller agrees to a fixed maximum price for the work performed. The seller is reimbursed for all the time spent and materials used, but the total cost cannot exceed the maximum agreed-upon price.
+* Time and Materials with Guaranteed Maximum Price (T&M GMP) Contract: The seller agrees to a fixed maximum price for the work performed. The seller is reimbursed for all the time spent and materials used, but the total cost cannot exceed the maximum agreed-upon price.
 
-For buyers, T&M contracts offer greater flexibility and control over the project, as they can make changes to the scope of work as the project progresses. Additionally, T&M contracts can be beneficial when the project is complex or when the actual costs of the project are difficult to estimate.
+For buyers, T&M contracts offer flexibility and control. Buyers can make changes to the scope of work as the project progresses. T&M contracts can be beneficial when the project is complex or when the actual costs of the project are difficult to estimate.
 
-For sellers, T&M contracts provide a predictable revenue stream and a guaranteed hourly rate for their employees. Additionally, T&M contracts reduce the risk of underestimating the costs of the project, which can result in reduced profits or even losses.
+For sellers, T&M contracts provide a predictable revenue stream and a guaranteed hourly rate for their employees. T&M contracts reduce the risk of underestimating the costs of the project, which can result in reduced profits or even losses.
 
-However, T&M contracts also present some risks for both parties. For buyers, there is the risk of the seller inflating the time spent working on the project, as they are reimbursed for all the time spent. Additionally, the lack of a fixed price can make budgeting and financial management more difficult for the buyer. For sellers, there is the risk of incurring higher-than-expected costs, which can result in reduced profits or losses if the hourly rate is not sufficient.
+However, T&M contracts also present some risks for both parties. For buyers, there is the risk of the seller inflating the time spent working on the project. Additionally, the lack of a fixed price can make budgeting and financial management more difficult for the buyer. For sellers, there is the risk of incurring higher-than-expected costs, which can result in reduced profits or even losses.
 
 
 ## Compliance
@@ -6948,18 +7517,18 @@ The SOC 2 framework is based on the Trust Services Criteria (TSC) developed by t
 
 * Privacy: Personal information is collected, used, retained, and disclosed in conformity with the commitments in the entity's privacy notice.
 
-To obtain a SOC 2 report, a service organization must engage an independent auditor to perform an examination of its controls over a period of time. The auditor provides an opinion on whether the controls are suitably designed and operating effectively to meet the TSC criteria. The resulting SOC 2 report provides stakeholders with assurance that the organization has implemented appropriate controls to protect sensitive information.
+SOC 2 reports can be of two types: Type I and Type II. A Type I report assesses the design of the controls at a point in time, while a Type II report assesses both the design and operating effectiveness of the controls over a period of time (usually 6-12 months).
 
-SOC 2 reports can be of two types - Type I and Type II. A Type I report assesses the design of the controls at a point in time, while a Type II report assesses both the design and operating effectiveness of the controls over a period of time (usually 6-12 months).
+To get a SOC 2 report, an organization engages an independent auditor to examine the controls. The auditor provides opinions on whether the controls are suitably designed and operating effectively to meet TSC criteria. The auditor's report provides assurances that the controls are appropriate.
 
 
 ## Sarbanes-Oxley Act (SOX)
 
-The Sarbanes-Oxley Act (SOX) is a United States (U.S.) federal law designed to increase corporate accountability and transparency, and to protect investors by improving the accuracy and reliability of corporate disclosures. SOX applies to all publicly traded companies in the U.S., as well as to foreign companies that are registered with the Securities and Exchange Commission (SEC) and have securities listed on U.S. exchanges.
+The Sarbanes-Oxley Act (SOX) is a United States (U.S.) federal law designed to increase corporate accountability and transparency, and to protect investors by improving the accuracy and reliability of corporate disclosures. SOX applies to all U.S. publicly traded companies, and to foreign companies that are registered with the Securities and Exchange Commission (SEC) and have securities listed on U.S. exchanges.
 
-The key provisions of include:
+Key provisions:
 
-* Corporate governance: SOX requires that public companies have an independent board of directors and establish audit committees composed of independent members. The CEO and CFO are also required to certify the accuracy of financial statements.
+* Corporate governance: SOX requires that public companies have an independent board of directors and establish audit committees composed of independent members. The CEO and CFO are required to certify the accuracy of financial statements.
 
 * Financial reporting: SOX requires that public companies disclose all material information in their financial reports, and that their financial statements are accurate and complete.
 
@@ -6969,7 +7538,7 @@ The key provisions of include:
 
 * Penalties: SOX imposes severe penalties on companies and executives who engage in financial fraud or other types of misconduct, including fines and imprisonment.
 
-SOX has had a significant impact on corporate governance in the U.S. SOX has led to increased transparency and accountability, and has helped to restore investor confidence in the integrity of financial markets. However, it has also been criticized for being overly burdensome and costly for companies, particularly smaller ones, and for creating a compliance-focused culture that may distract from other important business priorities.
+SOX has had a significant impact on corporate governance in the U.S. SOX led to increased transparency and accountability, and helped restore investor confidence. However, SOX has been criticized for being burdensome and costly for companies, particularly smaller ones, and for creating a compliance-focused culture that distracts from more-important priorities.
 
 
 ## General Data Protection Regulation (GDPR)
@@ -6982,7 +7551,7 @@ Key areas of the GDPR:
 
 * Obtaining consent: Organizations must obtain explicit and informed consent from individuals before collecting and processing their personal data.
 
-* Transparency: Organizations must provide individuals with clear and concise information about how their personal data is being processed.
+* Transparency: Organizations must provide individuals with clear concise information about how their data is being processed.
 
 * Data portability: Individuals have the right to receive a copy of their personal data and to transfer it to another organization.
 
@@ -6992,8 +7561,7 @@ Key areas of the GDPR:
 
 * Accountability: Organizations must be able to demonstrate compliance with the GDPR and implement appropriate technical and organizational measures to protect personal data.
 
-The GDPR also includes strict penalties for non-compliance, with fines of up to €20 million or 4% of a company's global annual revenue, whichever is greater.
-
+The GDPR also includes strict penalties for non-compliance, with fines of up to €20 million or 4% of a company's global annual revenue.
 
 ## Americans with Disabilities Act (ADA)
 
@@ -7035,7 +7603,7 @@ Family Educational Rights and Privacy Act (FERPA) is a United States federal law
 
 Under FERPA, educational institutions are required to:
 
-* Obtain written consent from students or their parents (if the students are under 18 years old) before disclosing any personally identifiable information from education records, with certain exceptions.
+* Obtain written consent from students or their parents before disclosing any personally identifiable information from education records, with certain exceptions.
 
 * Allow students or their parents to inspect and review their education records within 45 days of the request.
 
@@ -7043,9 +7611,9 @@ Under FERPA, educational institutions are required to:
 
 * Limit access to education records to only those who have a legitimate educational interest in them.
 
-FERPA defines education records as any records that are directly related to a student and maintained by an educational institution or its representatives. Examples of education records include grades, transcripts,  records, and financial information.
+FERPA defines education records as any records that are directly related to a student and maintained by an educational institution or its representatives. Examples: grades, transcripts, records, and financial information.
 
-FERPA provides exceptions to the consent requirement. For example, educational institutions may disclose education records without consent to other school officials with a legitimate educational interest, to education authorities for auditing or enforcing legal obligations, or in response to a court order or subpoena.
+FERPA provides exceptions to the consent requirement. For example, educational institutions may disclose education records without consent to some officials and authorities, if they have a legitimate interest.
 
 FERPA violations can result in the loss of federal funding for an educational institution, as well as reputational damage and legal liability.
 
@@ -7062,7 +7630,7 @@ The standard includes 12 requirements:
 
 * Protect stored cardholder data.
 
-* Encrypt transmission of cardholder data across open, public networks.
+* Encrypt transmission of cardholder data.
 
 * Use and regularly update anti-virus software.
 
@@ -7080,22 +7648,21 @@ The standard includes 12 requirements:
 
 * Maintain a policy that addresses information security.
 
-PCI DSS compliance can be achieved through self-assessment or by engaging with a qualified security assessor (QSA) to conduct a formal audit. Failure to comply can result in fines, increased transaction fees, and the loss of the ability to process credit card payments. Additionally, data breaches resulting from non-compliance can cause damage to the reputation of the affected organization and result in legal action by customers and regulatory authorities.
+PCI DSS compliance can be achieved through self-assessment or via a qualified security assessor (QSA) formal audit. Failure to comply can result in fines and bans. Additionally, data breaches resulting from non-compliance can cause damage to the reputation of the affected organization and result in legal action by customers and regulatory authorities.
 
 
 ## Globalization
 
-Globalization refers to the increasing interconnectedness and interdependence of countries and people across the globe. It is driven by advances in technology, communication, transportation, and the liberalization of trade and investment. Globalization has transformed the world into a more integrated and interconnected global community, influencing various aspects of society, including economics, politics, culture, and the environment.
-
+Globalization refers to the increasing interconnectedness and interdependence of countries and people across the globe. It is driven by advances in technology, communication, transportation, and the liberalization of trade and investment. 
 Economic globalization is characterized by the free flow of goods, services, capital, and labor across borders. This integration is facilitated by the removal of trade barriers, such as tariffs and quotas, and the establishment of international organizations, such as the World Trade Organization (WTO), which promotes and regulates global trade.
 
 Globalization has resulted in the expansion of multinational corporations (MNCs) and the establishment of global supply chains. MNCs operate in multiple countries, capitalizing on lower production costs, accessing new markets, and leveraging global resources. Global supply chains involve the sourcing of raw materials, production, and distribution of goods across different countries, creating a global network of economic interdependence.
 
-The impact of globalization also influences politics, as international cooperation addresses issues such as climate change, terrorism, and human rights. The formation of regional blocs, such as the European Union (EU) and the Association of Southeast Asian Nations (ASEAN), has led to promottion of economic and political integration among member countries.
+Politically there is international cooperation on issues such as climate change, terrorism, and human rights. The formation of regional blocs, such as the European Union (EU), has led to collaboration among member countries.
 
-Culturally, increased international travel, migration, and communication have led to the spread of cultural influences, including language, music, fashion, and cuisine. However, concerns have been raised about the potential homogenization or loss of cultural diversity in the face of globalization.
+Culturally there is increased international travel, migration, communication, and spreading cultural influences such as language, music, fashion, and cuisine. However, concerns have been raised about loss of cultural diversity.
 
-Environmental implications of globalization are significant as well. The increased movement of goods and people has led to a surge in energy consumption, pollution, and the depletion of natural resources. Climate change, deforestation, and biodiversity loss are global environmental challenges exacerbated by the processes associated with globalization.
+Environmentally there is increased movement of goods and people, leading to surges in energy use, pollution, and the depletion of resources. Climate change, deforestation, and biodiversity loss are challenges exacerbated by globalization.
 
 
 
@@ -7105,13 +7672,13 @@ Global business refers to the economic activities and operations conducted by co
 
 Key drivers include:
 
-* Technological Advancements: Advances in transportation, communication, and information technologies have greatly facilitated global business operations. Companies can now transport goods more efficiently, communicate instantaneously across borders, and access information on global markets and opportunities.
+* Technology: Advances in transportation, communication, and information technologies have greatly facilitated global business operations, including transportion, communication, and information access.
 
-* Market Liberalization: The reduction of trade barriers, the signing of free trade agreements, and the liberalization of markets have opened up opportunities for companies to expand their operations globally. This has led to increased trade flows and the globalization of supply chains.
+* Liberalization: The reduction of trade barriers, the signing of free trade agreements, and the liberalization of markets have opened opportunities for companies to expand. This has led to increased trade flows and global supply chains.
 
-* Access to Resources and Talent: Global business allows companies to access resources, such as raw materials, capital, and skilled labor, that may be scarce or more cost-effective in other countries. It enables businesses to tap into a diverse pool of talent, expertise, and innovation from around the world.
+* Access to Resources: Global business allows companies to access resources, such as raw materials, capital, and skilled labor, that may be scarce or more cost-effective in other countries. 
 
-* Economies of Scale and Scope: Operating globally often provides companies with economies of scale and scope. By accessing larger markets and spreading fixed costs over a wider customer base, businesses can achieve cost efficiencies and increased profitability.
+* Economies of Scale and Scope: Global business often provides companies with economies of scale and scope. By accessing larger markets, and spreading fixed costs over more customers, businesses can achieve cost efficiencies.
 
 Challenges and considerations include cultural differences, legal and regulatory compliance, currency and exchange rate risk, and logistics and supply chain management (SCM) both intra-country and inter-country.
 
@@ -7134,17 +7701,13 @@ Companies engage in global business through various modes, depending on their ob
 
 Cross-border controls are a set of policies, procedures, and measures put in place by governments and regulatory authorities to regulate the flow of goods, services, capital, and people across international borders. These controls are designed to promote national security, protect public health, and safeguard the economic interests of countries.
 
-The primary objective of cross-border controls is to maintain the sovereignty of a country by managing its borders effectively. Governments use a variety of tools to achieve this objective, such as immigration controls, customs and trade regulations, and financial controls.
-
 Immigration controls are put in place to manage the movement of people across borders. These controls can take the form of visa requirements, passport checks, and border security measures. The goal of immigration controls is to ensure that only individuals who meet the legal requirements to enter a country are allowed to do so.
 
 Customs and trade regulations are used to control the flow of goods across borders. These regulations include tariffs, quotas, and other trade barriers that are designed to protect domestic industries and prevent the import of illegal goods.
 
-Financial controls are put in place to manage the flow of capital across borders. These controls can include restrictions on foreign investment, currency exchange controls, and anti-money laundering measures. The goal of financial controls is to prevent capital flight, protect domestic industries, and prevent illegal activities such as money laundering and terrorist financing.
+Financial controls manage the flow of capital across borders. These controls can include restrictions on foreign investment, currency exchange controls, and anti-money laundering measures. The goals are to prevent capital flight, protect domestic industries, and prevent illegal activities.
 
-Cross-border controls are essential for maintaining the security and stability of a country. However, they can also create barriers to international trade and investment. Governments must strike a balance between protecting their national interests and promoting economic growth and international cooperation.
-
-To minimize the negative impact of cross-border controls on international trade and investment, governments often negotiate international trade agreements and investment treaties. These agreements typically include provisions that promote the free flow of goods, services, capital, and people across borders, while also protecting the interests of each country.
+Cross-border controls help maintain the security and stability of a country. However, they create barriers to international trade and investment. Governments must strike a balance between protecting national interests and promoting cooperation. Governments can negotiate international trade agreements and investment treaties, which help promote the flow of goods, services, capital, and people across borders, while also protecting national interests.
 
 
 ## Internationalization and localization
@@ -7170,23 +7733,23 @@ In short, internationalization is the process of making software ready for local
 
 Internationalization generally uses these steps:
 
-* Planning and Analysis: This involves defining the scope of the internationalization effort, identifying the target markets, and analyzing the cultural and linguistic requirements of those markets. It also involves assessing the existing software or product design for potential internationalization issues.
+1. Planning and Analysis: Define the scope of the internationalization effort, identify the target markets, and analyze the cultural and linguistic requirements of those markets. Assess the existing software or product design for potential internationalization issues.
 
-* Design and Development: The next step is to design and develop the product or software using best practices for internationalization. This includes ensuring that the product can handle various character sets, date and time formats, and other regional differences.
+2. Design and Development: Design and develop the product or software using best practices for internationalization. Ensuring that the product can handle various character sets, date and time formats, and other regional differences.
 
 Localization generally uses these steps:
 
-* Translation: The first and most important step in localization is translation. All text, audio, and video content must be translated into the language of the target market.
+1. Translate all text, audio, and video content must be translated into the language of the target market.
 
-* Cultural adaptation: Localization also involves adapting the content to the culture of the target market. This includes adapting images, symbols, colors, and other visual elements to be more appropriate for the target market.
+2. Adapt the content to the culture of the target market. This includes adapting images, symbols, colors, and other visual elements to be more appropriate for the target market.
 
-* Formatting: Text may need to be reformatted to accommodate different character sets or writing systems. Dates, times, and other information may also need to be presented in a different format.
+3. Format text to accommodate different character sets or writing systems. Dates, times, and other information may also need to be presented in a different format.
 
 Both use these steps:
 
-* Testing: After the software has been internationlized and localized, then it must be tested in each target culture.
+1. Test the software's internationalization and localization, in each target market.
 
-* Deployment and Maintenance: Ongoing maintenance and support are provided to ensure that the product continues to meet the needs of the target market.
+2. Provide ongoing maintenance and support, to ensure that the product continues to meet the needs of each target market.
 
 
 ## Global business regions
@@ -7250,13 +7813,11 @@ Key Features of the LATAM Business Region:
 
 * Economic Diversity: Some countries, such as Brazil and Mexico, have larger economies with diversified industries, while others have smaller economies and rely heavily on specific sectors like agriculture, mining, or tourism. 
 
-* Natural Resources: Many Latin American countries are rich in natural resources, including oil, gas, minerals, and agricultural products. The exploitation and export of these resources play a significant role in economies.
+* Natural Resources: Many countries are rich in natural resources, including oil, gas, minerals, and agricultural products. The exploitation of these resources play a significant role in economies.
 
-* Trade Agreements: Countries have established numerous trade agreements and regional economic blocs to promote trade and cooperation. For example, the Mercosur (Southern Common Market) and the Pacific Alliance are important initiatives.
+* Trade Agreements: Some countries have established trade agreements and regional economic blocs. For example, the Mercosur (Southern Common Market) and the Pacific Alliance are important initiatives.
 
 * Emerging Markets: Several economies are classified as emerging markets, and offer attractive prospects for businesses. However, factors such as currency volatility, regulatory challenges, and varying business climates must be considered.
-
-* Cultural Diversity: Understanding local cultures is essential for successful business operations in the region, as it influences consumer behavior, business practices, and communication styles.
 
 * Language: Spanish is the dominant language. Portuguese, English, French, and indigenous languages are also spoken in specific countries.
 
@@ -7315,15 +7876,11 @@ Details:
 
 * Eligibility Criteria: Applicants must be internationally recognized as leaders or potential leaders in: a. Science, engineering, humanities, medicine, digital technology, or arts and culture; b. Academic research in any field; c. An emerging field or technology with significant potential for economic growth.
 
-* Endorsement Requirement: Applicants for the Global Talent Visa must first obtain an endorsement from a designated endorsing body recognized by the UK government. 
-
-* Application Process: The application includes providing personal and professional information, evidence of accomplishments, a personal statement, and endorsement details.
+* Application Process: Applicants must obtain an endorsement from a designated endorsing body recognized by the UK government. The application includes personal and professional information, including evidence of accomplishments.
 
 * Immigration Rules: Notably, there is no requirement for a job offer or sponsorship from a UK employer. Successful applicants have the freedom to work in any sector and change employers without requiring further authorization.
 
 * Points-Based System: The visa operates on a points-based system. Points are awarded for endorsement from a recognized body, based on criteria for the relevant field, and track record of achievement, innovation, and impact.
-
-* Global Talent Visa Endorsement Route: In addition to the main Global Talent Visa category, there is a separate endorsement route for individuals who have received prestigious awards or recognition in their fields.
 
 * Validity and Indefinite Leave to Remain (ILR): The Visa is granted for a period of up to five years. During that time, visa holders can apply for Indefinite Leave to Remain (ILR), also known as permanent residency.
 
@@ -7340,14 +7897,9 @@ The European Union Blue Card is a residence and work permit that allows highly s
 
 * Duration and Renewal: The EU Blue Card is initially issued for a period of one to four years, depending on the country. During that time, individuals may have the opportunity to apply for long-term residence.
 
-* Benefits and Rights: The EU Blue Card provides several benefits and rights to the cardholder, which may include: a. Right to live and work in the EU member state that issued the Blue Card; b. Possibility to bring family members (spouse and minor children) to the EU and provide them with residence permits; c. Access to social security benefits, healthcare, and education services; d. Freedom of movement within the participating EU member states after residing in the issuing country for a certain period; e. Certain rights related to employment, such as equal treatment, working conditions, and professional mobility.
+* Benefits and Rights: These may include: a. Right to live and work in the EU member state that issued the Blue Card; b. Possibility to bring family members; c. Access to social security benefits, healthcare, and education services; d. Some freedom of movement within participating EU member states; e. Rights related to employment, such as equal treatment, working conditions, and professional mobility.
 
 * Job Mobility: A significant advantage of the EU Blue Card is the ability to change jobs within the participating EU member states, within restrictions.
-
-* Dependent Family Members: EU Blue Card holders can bring their dependent family members, including spouses and minor children, to reside with them in the EU member state. 
-
-* Recognition of Qualifications: EU member states generally recognize higher education degrees and professional qualifications obtained in other EU member states.
-
 
 
 ## Enterprise companies
@@ -7366,52 +7918,44 @@ Enterprise companies typically have dedicated departments and specialized teams 
 
 ## Enterprise sales cycles
 
-Enterprise sales cycles refer to the process and timeline involved in selling products or services to large organizations, often referred to as enterprise customers. These customers typically have complex buying processes, multiple stakeholders, and longer decision-making cycles compared to smaller businesses or individuals. Enterprise sales cycles are characterized by their strategic nature, extensive research, relationship-building, and the need to navigate various stages before closing a deal. 
+Enterprise sales cycles refer to the process and timeline involved in selling products or services to large organizations, with complex buying processes, many stakeholders, and long decision-making times. 
 
-Key steps:
+Key stages:
 
-1. Prospecting: Identify potential customers, by using sales research and market analysis. Gathering leads through various channels such as referrals, networking, marketing, or outreach.
+1. Prospecting: Identify potential customers via research, such as via referrals, networking, marketing, outreach, etc.
 
-2. Qualification: Establish contact, often through cold calling, emails, or introductions. Gather relevant information about the prospect's needs, challenges, and decision processes. Qualify leads based on likelihood of a successful sale.
+2. Qualification: Establish contact and gather relevant information about the prospect's needs, challenges, and decision processes. Qualify leads by probable value.
 
-3. Solutioning: Conduct in-depth needs assessments with stakeholders. Then create a tailored solution proposal that addresses the prospect's unique challenges and aligns with their objectives.
+3. Solutioning: Conduct in-depth needs assessments. Show how the product or service works and how it addresses the prospect's specific needs. Consider a proof of concept or pilot project, to validate solution effectiveness.
 
-4. Demonstration: Show how the product or service works and how it addresses the prospect's specific needs. In some cases, a proof of concept or pilot project may be initiated within the prospect's organization, to validate solution effectiveness.
+4. Negotiation: Gain consensus and align stakeholders around the proposed solution. Solve concerns regarding pricing, contract terms, implementation, or customization requirements.
 
-5. Negotiation: Gain consensus and align stakeholders around the proposed solution. Solve concerns regarding pricing, contract terms, implementation, or customization requirements.
+5. Procurement: Working with the prospect's procurement team to finalize the contract, negotiate terms, and ensure compliance with any legal or regulatory requirements.
 
-6. Procurement: Working with the prospect's procurement team to finalize the contract, negotiate terms, and ensure compliance with any legal or regulatory requirements.
+6. Implementation: Implement the solution within the customer's organization. Ensure successful adoption of the solution.
 
-* Implementation: Implement the solution within the customer's organization. Coordinate the sales success team and the customer's internal stakeholders. Ensure successful adoption of the solution.
+7. Management: Build long-term relationships with customers. Ensure customer satisfaction, address post-implementation challenges, and provide ongoing support. 
 
-* Management: Emphasize building long-term relationships with customers, such as with account managers to ensure customer satisfaction, address post-implementation challenges, and provide ongoing support. 
-
-* Expansion: Continue engaging with customers to understand their changing requirements and propose relevant solutions, such as cross-sells and upsells.
+8. Expansion: Continue engaging with customers to understand their changing requirements and propose relevant solutions, such as cross-sells and upsells.
 
 
 ## Enterprise account management
 
-Enterprise account management, also known as key account management or strategic account management, is a comprehensive approach to managing and nurturing relationships with key customers or accounts within an organization. It involves a deep understanding of the customer's business, goals, challenges, and aligning the organization's resources to deliver value, foster loyalty, and drive long-term growth. 
+Enterprise account management, also known as key account management or strategic account management, is a comprehensive approach to nurturing relationships with customers at large companies. It involves a deep understanding of the customer's business, and aligning resources to deliver value, foster loyalty, and drive long-term growth. 
 
 Key aspects:
 
-1. Identify Accounts. These accounts are typically the largest, most strategic, or high-potential customers. Selection may involve criteria such as revenue contribution, industry influence, market potential, or long-term partnership opportunities.
+1. Identify Accounts. These accounts are typically the largest, most strategic, or high-potential customers. Selection may use criteria such as revenue contribution, industry influence, market potential, or long-term partnership opportunities.
 
-2. Build Relationships: Establishing trust, credibility, and a deep understanding of the customer's business objectives, challenges, and market dynamics. Foster strong connections and develop a trusted partnership approach.
+2. Build Relationships: Establish trust and credibility, and knowledge of the customer's business. Develop a comprehensive tailored plan for the customer, based on the customer's goals, market trends, competitive landscape, and capabilities.
 
-3. Strategic Planning: Develop a comprehensive plan for each account, with objectives and actions to maximize success. Take into account the customer's goals, market trends, competitive landscape, and the organization's capabilities.
+3. Collaborate: Work with internal departments, such as sales, marketing, product development, customer support, and operations. Leverage the organization's expertise, resources, and capabilities to meet the specific needs of key accounts. 
 
-4. Customize Solutions: Conduct needs analyses to understand an account's unique requirements, pain points, and opportunities to tailor products, services, and solutions.
+4. Deliver Vaule: Define success metrics to assess the organization's performance, identify opportunities for improvement, and show impact. Data-driven approaches strengthen the account's trust and confidence in the organization.
 
-5. Collaborate: Work with internal departments, such as sales, marketing, product development, customer support, and operations. Leverage the organization's expertise, resources, and capabilities to meet the specific needs of key accounts. 
+5. Managing Risk: Identify and mitigate any risks, challenges, or threats with accounts. Ensure the continuity and resilience of the account partnership.
 
-6. Deliver Vaule: Define success metrics to assess the organization's performance, identify opportunities for improvement, and show impact. Data-driven approaches strengthen the account's trust and confidence in the organization.
-
-7. Managing Risk: Identify and mitigate any risks, challenges, or threats with accounts. Ensure the continuity and resilience of the account partnership.
-
-8. Manage Renewals: Maximize customer lifetime value by identifying opportunities for contract renewals, upselling, and cross-selling. Consistently demonstrate the value delivered.
-
-9. Account Growth: Proactively identify opportunities for account growth, such as expansion into new business units or geographical regions, and collaborate with internal teams to capitalize on these opportunities.
+6. Manage: Maximize customer lifetime value via contract renewals, upselling, and cross-selling. Consistently demonstrate value. Proactively identify opportunities for account growth, such as expansion into new business units or geographical regions. Collaborate to capitalize on these opportunities.
 
 
 ## Enterprise Portfolio Project Management (EPPM)
@@ -8155,9 +8699,11 @@ This ebook PDF is generated from the repository markdown files. The process uses
 The book build tools are in the repository, in the directory `book/build`. The tools select all the documentation links, merge all the markdown files, then process everything into a PDF file.
 
 
-### Book fonts
+### Fonts
 
-The book fonts are Source Serif Pro, Source Sans Pro, and Source Code Pro. The fonts are by Adobe and are free open source. 
+<https://github.com/sixarm/sixarm-fonts>
+
+The book fonts are Source Serif Pro, Source Sans Pro, and Source Code Pro. The fonts are by Adobe and free open source. THe book can also be built with Bitstream Vera fonts or Liberation fonts.
 
 
 ### markdown-text-to-link-urls
@@ -8171,7 +8717,7 @@ This is a command-line parsing tool that we maintain. The tool reads markdown te
 
 <https://github.com/sixarm/pandoc-from-markdown-to-pdf>
 
-This is a command-line pandoc tool that we maintain. The tool providers our preferred pandoc settings in order to convert from an input markdown text file to an output PDF file. The tool adds a table of contents, loads our preferred fonts, configures source code syntax highlighting, sets the page size and margins, and more.
+This is a command-line tool that uses our preferred pandoc settings to convert from an input markdown text file to an output PDF file. The tool adds a table of contents, fonts, highlighting, sizing, and more.
 
 
 ## About related projects
@@ -8185,13 +8731,10 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/coordinated-disclosure">Coordinated disclosure</a>
 * <a href="https://github.com/joelparkerhenderson/crucial-conversations">Crucial conversations</a>
 * <a href="https://github.com/joelparkerhenderson/decision-record">Decision Record (DR) template</a>
-* <a href="https://github.com/joelparkerhenderson/enterprise-architecture-assessment">Enterprise architecture assessment</a>
-* <a href="https://github.com/joelparkerhenderson/feedback-request-template">Feedback request template</a>
 * <a href="https://github.com/joelparkerhenderson/functional-specifications-template">Functional specifications template</a>
 * <a href="https://github.com/joelparkerhenderson/functional-specifications-tutorial">Functional specifications tutorial</a>
 * <a href="https://github.com/joelparkerhenderson/icebreaker-questions">Icebreaker questions</a>
 * <a href="https://github.com/joelparkerhenderson/intent-plan">Intent plan</a>
-* <a href="https://github.com/joelparkerhenderson/issues">Issues</a>
 * <a href="https://github.com/joelparkerhenderson/key-performance-indicator">Key Performance Indicator (KPI)</a>
 * <a href="https://github.com/joelparkerhenderson/key-risk-indicator">Key Risk Indicator (KRI)</a>
 * <a href="https://github.com/joelparkerhenderson/maturity-models">Maturity models (MMs)</a>
@@ -8214,8 +8757,6 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/strategic-balanced-scorecard">Strategic Balanced Scorecard (SBS)</a>
 * <a href="https://github.com/joelparkerhenderson/system-quality-attributes">System quality attributes (SQAs)</a>
 * <a href="https://github.com/joelparkerhenderson/team-focus">TEAM FOCUS teamwork framework</a>
-* <a href="https://github.com/joelparkerhenderson/thought-leadership-writing">Thought leadership writing</a>
 * <a href="https://github.com/joelparkerhenderson/value-stream-mapping">Value Stream Mapping (VSM)</a>
-* <a href="https://github.com/joelparkerhenderson/vision-statements">Vision statements &amp; mission statements</a>
 * <a href="https://github.com/joelparkerhenderson/ways-of-working">Ways of working for teams</a>
 

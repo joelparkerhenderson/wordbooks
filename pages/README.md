@@ -8,6 +8,7 @@
   * [Value proposition](value-proposition)
   * [Elevator pitch](elevator-pitch)
   * [Pitch deck](pitch-deck) + [competition](pitch-competition)
+  * [Business Model Canvas (BMC)](business-model-canvas)
   * [Business plan](business-plan) + [competition](business-plan-competition)
   * [Demo day](demo-day)
 
@@ -26,6 +27,7 @@
   * [Minimum viable product (MVP)](minimum-viable-product)
   * [Minimum lovable product (MLP)](minimum-lovable-product)
   * [Minimum learnable product (MLnP)](minimum-learnable-product)
+  * [Investment Readiness Level (IRL)](investment-readiness-level)
 
 * **[Startup entrances](startup-entrances)**
 
@@ -144,8 +146,12 @@
   * [Risk Management (RM) department](risk-management-department)
   * [General and Administrative (G&A) department](general-and-administrative-department)
   * [Research and Development (R&D) department](research-and-development-department)
+  * [Investor Relations (IR)](investor-relations)
+  * [Government Relations (GR)](government-relations)
+  * [Developer Relations (DR)](developer-relations)
 
-** **[Company roles and responsibilities](company-roles-and-responsibilities)**
+
+* **Company roles and responsibilities**
 
   * [Account Executive (AE)](account-executive)
   * [Account Manager (AM)](account-manager)
@@ -153,6 +159,7 @@
   * [Product Manager](product-manager)
   * [Project Manager (PM)](project-manager)
   * [Customer Service Representative (CSR)](customer-service-representative)
+  * [Subject Matter Expert (SME)](subject-matter-expert)
 
 * **[Technology sectors](technology-sectors)**
 
@@ -196,6 +203,12 @@
   * [Product-led growth (PLG)](product-led-growth)
   * [Growth hacking](growth-hacking)
   * [Hockey-stick growth](hockey-stick-growth)
+
+* **Tactics**
+  
+  * [Sales funnel](sales-funnel)
+  * [Winner-take-all](winner-take-all)
+  * [Vendor lock-in](vendor-lock-in)
 
 * **[Pricing models](pricing-models)**
 
@@ -259,6 +272,7 @@
   * [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
   * [Futurespective](futurespective)
   * [Oblique strategies](oblique-strategies)
+  * [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
 
 * **How will you proceed?**
 
@@ -272,9 +286,17 @@
   * [SPADE decision framework](spade-decision-framework)
   * [Intent plan](intent-plan)
   * [SMART criteria](smart-criteria)
+  * [Cynefin framework](cynefin-framework)
   * [Issue tracker](issue-tracker)
   * [Mind map](mind-map)
   * [Decision tree](decision-tree)
+  * [Decision record](decision-record)
+  * [Six Sigma methodology](six-sigma-methodology)
+  * [DMAIC methodology](dmaic-methodology)
+  * [Plan-Do-Check-Act (PDCA)](plan-do-check-act)
+  * [OODA loop](ooda-loop)
+  * [OODA loop v DMAIC cycle v PDCA spiral](ooda-loop-v-dmaic-cycle-v-pdca-spiral)
+  * [Kaizen](kaizen)
   * [Change management](change-management)
   * [ADKAR change management model](adkar-change-management-model)
   * [Business continuity](business-continuity)
@@ -282,10 +304,22 @@
   * [Crowdsourcing](crowdsourcing)
   * [Planning poker estimation](planning-poker-estimation)
 
+* **Miscellaneous**
+  
+  * [Creative Enterprise Zone (CEZ)](creative-enterprise-zone)
+  * [Economic moat](economic-moat)
+  * [Economies of scale](economies-of-scale)
+  * [Aggregation theory](aggregation-theory)
+  * [Commoditization of trust](commoditization-of-trust)
+  * [Go-to-market strategy](go-to-market-strategy)
+  * [Strategy map](strategy-map)
+  * [EBFAS organizational climate](ebfas-organizational-climate)
+
 * **[Project management](project-management)**
 
   * [Inception](inception)
   * [Liftoff](liftoff)
+  * [Agile chartering](agile-chartering)
   * [Project charter](project-charter)
   * [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
   * [Statement Of Work (SOW)](statement-of-work)
@@ -457,8 +491,7 @@
   * [Priced round](priced-round)
   * [Drag-along rights](drag-along-rights)
   * [Carried interest](carried-interest)
-  * [Due dilligence](due-dilligence)
-
+  * [Due diligence](due-dilligence)
 
 
 ## Fundraising areas

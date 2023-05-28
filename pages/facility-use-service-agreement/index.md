@@ -14,6 +14,6 @@ A FUSA typically covers the following aspects:
 
 * Liability: Specify actions for any damages, losses, or injuries arising from the use. Include needs for insurance, the type of insurance, and the amount of coverage.
 
-* Intellectual Property: Specify rights of both parties for non-disclosure of sensitive information, protection of proprietary information, and ownership of any intellectual property created during FUSA.
+* Intellectual Property: Specify any non-disclosure of sensitive information, protection of proprietary information, and ownership of any intellectual property created.
 
 * Dispute Resolution: Specify methods for resolving any disputes between the parties, such as mediation or arbitration, and jurisdiction and venue.

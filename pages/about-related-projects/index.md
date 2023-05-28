@@ -9,13 +9,10 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/coordinated-disclosure">Coordinated disclosure</a>
 * <a href="https://github.com/joelparkerhenderson/crucial-conversations">Crucial conversations</a>
 * <a href="https://github.com/joelparkerhenderson/decision-record">Decision Record (DR) template</a>
-* <a href="https://github.com/joelparkerhenderson/enterprise-architecture-assessment">Enterprise architecture assessment</a>
-* <a href="https://github.com/joelparkerhenderson/feedback-request-template">Feedback request template</a>
 * <a href="https://github.com/joelparkerhenderson/functional-specifications-template">Functional specifications template</a>
 * <a href="https://github.com/joelparkerhenderson/functional-specifications-tutorial">Functional specifications tutorial</a>
 * <a href="https://github.com/joelparkerhenderson/icebreaker-questions">Icebreaker questions</a>
 * <a href="https://github.com/joelparkerhenderson/intent-plan">Intent plan</a>
-* <a href="https://github.com/joelparkerhenderson/issues">Issues</a>
 * <a href="https://github.com/joelparkerhenderson/key-performance-indicator">Key Performance Indicator (KPI)</a>
 * <a href="https://github.com/joelparkerhenderson/key-risk-indicator">Key Risk Indicator (KRI)</a>
 * <a href="https://github.com/joelparkerhenderson/maturity-models">Maturity models (MMs)</a>
@@ -38,7 +35,5 @@ These projects by the author describe more about startup strategy, tactics, and 
 * <a href="https://github.com/joelparkerhenderson/strategic-balanced-scorecard">Strategic Balanced Scorecard (SBS)</a>
 * <a href="https://github.com/joelparkerhenderson/system-quality-attributes">System quality attributes (SQAs)</a>
 * <a href="https://github.com/joelparkerhenderson/team-focus">TEAM FOCUS teamwork framework</a>
-* <a href="https://github.com/joelparkerhenderson/thought-leadership-writing">Thought leadership writing</a>
 * <a href="https://github.com/joelparkerhenderson/value-stream-mapping">Value Stream Mapping (VSM)</a>
-* <a href="https://github.com/joelparkerhenderson/vision-statements">Vision statements &amp; mission statements</a>
 * <a href="https://github.com/joelparkerhenderson/ways-of-working">Ways of working for teams</a>
